@@ -29,6 +29,33 @@ This packet documents **supplemental essay / short-answer prompts** and **ED1 / 
 - **“NY state university”** = SUNY system — **campus not specified** (see placeholder)
 - **UC Berkeley** included via **UC Application** (not Common App)
 
+### Table of contents
+
+1. [Application plan snapshot](#1-application-plan-snapshot)
+2. [Common App personal statement](#2-common-app-personal-statement-all-common-app-schools)
+3. [School-by-school supplements & notes](#3-school-by-school-supplements--notes)
+   - [Boston University](#boston-university--ed1-target)
+   - [UMass Amherst](#umass-amherst--ea-target)
+   - [NYU](#new-york-university--rd)
+   - [Northeastern](#northeastern-university--rd)
+   - [Tufts](#tufts-university--rd)
+   - [Brandeis](#brandeis-university--rd)
+   - [Boston College](#boston-college--rd)
+   - [Penn State](#penn-state-university-park--rd)
+   - [University of Rochester](#university-of-rochester--rd-also-strong-ed2-option)
+   - [Syracuse](#syracuse-university--rd)
+   - [Rutgers–New Brunswick](#rutgers-universitynew-brunswick--rd)
+   - [URI](#university-of-rhode-island--rd)
+   - [Suffolk](#suffolk-university--rd)
+   - [UC Berkeley](#uc-berkeley--uc-application-appendix-not-common-app)
+   - [SUNY placeholder](#ny-state-university--suny--placeholder)
+4. [Essay workload quick map](#4-essay-workload-quick-map)
+5. [Suggested additional schools](#5-suggested-additional-schools-gpa-327-newton-north--ma-profile)
+6. [Common App confirm checklist](#6-student-checklist--confirm-in-common-app-15-minutes)
+7. [Open questions](#7-open-questions-for-a-sharper-list)
+
+Source audit trail: [`SOURCES.md`](SOURCES.md)
+
 ---
 
 ## 1. Application plan snapshot
@@ -50,6 +77,8 @@ This packet documents **supplemental essay / short-answer prompts** and **ED1 / 
 | Suffolk University | RD | EA + rolling/priority | **EA Nov 15**; priority fall **Feb 15** (then rolling) | Likely high chance | Common App / Suffolk App |
 | UC Berkeley | (listed RD) | **Single UC window** | Filing **Oct 1 – Nov 30, 2026** | **Not Common App** | UC Application |
 | SUNY (“NY state”) | RD | Varies by campus | TBD | **Name campus(es)** | Usually Common App |
+
+**Sources for this matrix:** each school section below cites the deadline page used; full URL audit is in [`SOURCES.md`](SOURCES.md) (verified 2026-08-19). Binding vs non-binding is noted in the Decision/notes column and school sections.
 
 **Empty ED2 slot — recommendation:** If BU ED1 is a soft deny/defer, strong ED2 options on this list that offer ED2 and fit the Northeast profile are **University of Rochester (Jan 5)** and **Boston College / Tufts / Northeastern / Syracuse / Brandeis** (dates above). Given GPA ~3.27, **Rochester ED2** or **Syracuse ED2** is typically more realistic than Tufts/BC ED2 — finalize after major/fit conversation.
 
@@ -453,27 +482,27 @@ These are **provisional** without major, test scores, or budget. Tiers assume a 
 
 ### Higher probability / foundation (add several)
 
-| School | Why | Early options | Common App? |
-|---|---|---|---|
-| UMass Lowell | Strong MA public; solid outcomes | EA typically | Yes |
-| UMass Boston | Accessible MA public; Boston location | Rolling/priority | Yes |
-| University of New Hampshire | Regional public; similar Northeast vibe | EA | Yes |
-| University of Vermont | Popular with MA students | EA | Yes |
-| Quinnipiac University | Higher admit rate; strong career focus | EA | Yes |
-| Merrimack / Endicott | MA privates; high chance | EA/rolling | Yes |
-| Temple University | Urban; broader admit range | EA | Yes |
-| Hofstra / Pace | NY metro alternatives to NYU | EA | Yes |
+| School | Why | Early options | Common App? | Supplement (typical) |
+|---|---|---|---|---|
+| UMass Lowell | Strong MA public; solid outcomes | EA typically | Yes | Short / light — confirm in portal |
+| UMass Boston | Accessible MA public; Boston location | Rolling/priority | Yes | Usually light — confirm |
+| University of New Hampshire | Regional public; similar Northeast vibe | EA | Yes | Often short answers — confirm |
+| University of Vermont | Popular with MA students | EA | Yes | Often short / why — confirm |
+| Quinnipiac University | Higher admit rate; strong career focus | EA | Yes | Usually modest — confirm |
+| Merrimack / Endicott | MA privates; high chance | EA/rolling | Yes | Often minimal — confirm |
+| Temple University | Urban; broader admit range | EA | Yes | Often optional/light — confirm |
+| Hofstra / Pace | NY metro alternatives to NYU | EA | Yes | Varies — confirm |
 
 ### Match / high-chance stretch (pick 3–5)
 
-| School | Why | Notes |
-|---|---|---|
-| University of Connecticut | Strong public; competitive but more realistic than BU/BC | EA |
-| University of Delaware | Popular mid-Atlantic | EA |
-| University of Pittsburgh | Urban research; ED/EA options | Check plan |
-| Indiana University Bloomington / Michigan State / Ohio State | Large publics; program-dependent | Often EA |
-| Drexel | Co-op like Northeastern; often more accessible | EA |
-| University at Albany / Buffalo (SUNY) | Clarifies “NY state” interest | Varies |
+| School | Why | Early options | Supplement (typical) |
+|---|---|---|---|
+| University of Connecticut | Strong public; more realistic than BU/BC | EA | Often short answers — confirm if major fits |
+| University of Delaware | Popular mid-Atlantic | EA | Often light — confirm |
+| University of Pittsburgh | Urban research | ED/EA options | Often short / why — confirm |
+| Indiana University Bloomington / Michigan State / Ohio State | Large publics; program-dependent | Often EA | Varies by campus — confirm if major fits |
+| Drexel | Co-op like Northeastern; often more accessible | EA | Often light — confirm if co-op/STEM fit |
+| University at Albany / Buffalo (SUNY) | Clarifies “NY state” interest | Varies | Usually light — confirm campus |
 
 ### Keep as selective reaches (already mostly listed)
 
