@@ -30,7 +30,7 @@ Confidence legend used in the master doc:
 | Penn State | Writing behavior on Common App | College Transitions 2026-27 PSU guide | 2026-08-19 | Cross-checked |
 | U. Rochester | Supplement 2026–27 | https://admissions.rochester.edu/apply/ | 2026-08-19 | Official |
 | U. Rochester | Deadlines | https://admissions.rochester.edu/applying/dates-and-deadlines/ | 2026-08-19 | Official |
-| Syracuse | Deadlines table | https://www.syracuse.edu/admissions/apply/deadlines/ (fetched page) | 2026-08-19 | Official |
+| Syracuse | Deadlines table (EA/EDI/EDII/RD) | https://www.syracuse.edu/admissions/undergraduate/apply/deadlines/ | 2026-08-19 | Official |
 | Syracuse | Supplement prompt | CollegeVine / GradGPT / CEA guides | 2026-08-19 | Cross-checked (**confirm in Common App**) |
 | Rutgers–NB | Deadlines | https://admissions.rutgers.edu/apply-rutgers | 2026-08-19 | Official |
 | URI | Deadlines + nursing/pharmacy/TD note | https://www.uri.edu/admission/first-year/ | 2026-08-19 | Official |
@@ -45,3 +45,15 @@ Confidence legend used in the master doc:
 - Penn State = **University Park** preference noted
 - “NY state university” = **SUNY campuses TBD** (placeholder only)
 - UC Berkeley kept as **UC Application** appendix
+
+---
+
+## Phase 5 QA checklist (completed 2026-08-19)
+
+- [x] Spot-check Official-tagged prompts/deadlines against live school pages (BC, Tufts, Rochester, UMass, BU deadlines, URI, UC PIQs, Rutgers, PSU, Suffolk, Syracuse table)
+- [x] Syracuse deadline columns corrected from official HTML table (EA / ED I / ED II / RD)
+- [x] Spell-check school names (no Berkley/Rotgers in deliverables; UC Berkeley labeled UC App only)
+- [x] UC Berkeley documented as **not** Common App
+- [x] ED1 BU and EA UMass Amherst correctly labeled in plan snapshot
+- [x] Docx regenerated from markdown after QA edits
+- [x] Link live-check: Official URLs returning 200 for core sources (NYU MEET / NEU / Brandeis returned 403 in this environment on recheck; prior successful fetches retained in source notes)

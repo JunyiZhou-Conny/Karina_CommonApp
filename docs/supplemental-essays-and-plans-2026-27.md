@@ -44,7 +44,7 @@ This packet documents **supplemental essay / short-answer prompts** and **ED1 / 
 | Boston College | RD | ED1, ED2, RD | ED1 Nov 1; **ED2/RD Jan 4** | Binding ED | Common App / QB |
 | Penn State (UP) | RD | EA + rolling-style review | **EA Nov 1** (decision by Dec 24); recommended all apps Dec 1 | Not a classic ED school | Common App / MyPennState |
 | University of Rochester | RD | ED1, ED2, RD | ED1 Nov 1; **ED2/RD Jan 5** | Strong **ED2 candidate** | Common App / Coalition |
-| Syracuse | RD | ED1, EA, ED2, RD | EDI/EA ~**Nov 1**; EDII/RD ~**Jan 5** | Confirm column labels in portal | Common App / Coalition |
+| Syracuse | RD | ED1, EA, ED2, RD | **EA/ED1 Nov 1**; **ED2/RD Jan 5** | EA non-binding; ED binding | Common App / Coalition |
 | Rutgers–New Brunswick | RD | EA, RD | **EA Nov 1**; **RD Dec 1** | EA non-binding | Common App |
 | University of Rhode Island | RD | ED, EA, RD | ED Nov 1; **EA Dec 1**; RD Feb 1 | EA + scholarship priority Dec 1 | Common App |
 | Suffolk University | RD | EA + rolling/priority | **EA Nov 15**; priority fall **Feb 15** (then rolling) | Likely high chance | Common App / Suffolk App |
@@ -313,13 +313,15 @@ Respond to **one** of prompts 1–4 (**400 word limit**).
 
 ### Syracuse University — RD
 
-**Plans:** ED1, Early Action (new for Fall 2027 cycle per Syracuse counselor communications), ED2, RD  
-**Deadlines (Official table on Syracuse deadlines page — confirm labels in portal):**
+**Plans:** Early Action (non-binding), Early Decision I (binding), Early Decision II (binding), Regular Decision  
+**Deadlines (Official — Syracuse undergraduate deadlines table):**
 
-| Likely plan | Application deadline |
-|---|---|
-| Early Decision I / Early Action | **November 1** |
-| Early Decision II / Regular Decision | **January 5** |
+| Plan | Application deadline | Notification begins | Reply date |
+|---|---|---|---|
+| Early Action | **November 1** | Early February | May 1 |
+| Early Decision I | **November 1** | Late December | Feb 15 (first-choice admit) |
+| Early Decision II | **January 5** | Mid-January | March 1 (first-choice admit) |
+| Regular Decision | **January 5** (first-year) | Mid-March | May 1 |
 
 **Supplemental essay — Cross-checked / Needs Login Confirmation** · **~250 words · required** in recent cycles:
 
@@ -436,7 +438,7 @@ Tell us which campuses to pull full prompts/deadlines for.
 | Brandeis | Usually none (US) |
 | Boston College | Yes — 1 of 4/5 prompts, 400w |
 | Penn State | Optional / none on Common App path |
-| URochester | Yes — 250w required |
+| University of Rochester | Yes — 250w required |
 | Syracuse | Yes — ~250w required |
 | Rutgers–NB | Portal questions (confirm) |
 | URI | Extra only for Nursing/Pharmacy/TD |
