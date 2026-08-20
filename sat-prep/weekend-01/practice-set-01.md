@@ -20,7 +20,7 @@ Answers: [`answer-key-01.md`](answer-key-01.md).
  A) \((5,5)\) B) \((4,6)\) C) \((6,4)\) D) \((3,7)\)
 
 5. **(B1, MC)** Which expression is equivalent to \(2x(x+4)-(x+4)\)?  
- A) \((x+4)(2x-1)\) B) \((x+4)(2x+1)\) C) \(2x^2+7x-4\) D) \(2x^2+8x-4\)
+ A) \((x+4)(2x-1)\) B) \((x+4)(2x+1)\) C) \(2x^2+7x-4\) D) Both A and C
 
 6. **(B2, MC)** Zeros of \(f(x)=2(x-3)(x+1)\) are  
  A) \(3\) and \(-1\) B) \(-3\) and \(1\) C) \(2\) and \(0\) D) \(6\) and \(-2\)

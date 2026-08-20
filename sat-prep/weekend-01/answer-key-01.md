@@ -149,7 +149,7 @@ Positive root: \(\dfrac{4+\sqrt{21}}{4}\) seconds.
 
 4. Add: \(3x=15\) → \(x=5\), \(y=5\). **A**.
 
-5. Factor \((x+4)\): \(2x(x+4)-1(x+4)=(x+4)(2x-1)\). **A**.
+5. Factor \((x+4)\): \(2x(x+4)-1(x+4)=(x+4)(2x-1)\). A and C are the same. **D**.
 
 6. Zeros \(x=3\), \(x=-1\). **A**.
 
