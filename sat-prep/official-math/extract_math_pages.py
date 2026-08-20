@@ -9,15 +9,18 @@ ROOT = Path(__file__).resolve().parents[2]
 OUT_DIR = Path(__file__).resolve().parent
 OUT_PDF = OUT_DIR / "SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf"
 
-SOURCES = [
-    (1, ROOT / "sat-practice-test-1-digital.pdf"),
-    (3, ROOT / "sat-practice-test-3-digital.pdf"),
-    (4, ROOT / "sat-practice-test-4-digital.pdf"),
-    (6, ROOT / "sat-practice-test-6-digital.pdf"),
-    (7, ROOT / "sat-practice-test-7-digital.pdf"),
-    (10, ROOT / "sat-practice-test-10-digital.pdf"),
-    (11, ROOT / "sat-practice-test-11-digital.pdf"),
-]
+SOURCE_NAME = re.compile(r"^sat-practice-test-(\d+)-digital\.pdf$")
+KNOWN_EXAMS = range(1, 12)
+
+
+def discover_sources() -> list[tuple[int, Path]]:
+    """Pick up every question booklet at the repo root, including newly added tests."""
+    found: list[tuple[int, Path]] = []
+    for path in ROOT.glob("sat-practice-test-*-digital.pdf"):
+        match = SOURCE_NAME.fullmatch(path.name)
+        if match:
+            found.append((int(match.group(1)), path))
+    return sorted(found, key=lambda item: item[0])
 
 
 def norm(text: str) -> str:
@@ -104,7 +107,9 @@ def main() -> None:
         "Included exams (question booklets only):",
     ]
     catalog = []
-    for exam, path in SOURCES:
+    sources = discover_sources()
+    present = {exam for exam, _path in sources}
+    for exam, path in sources:
         if not path.exists():
             lines.append(f"  Test {exam}: FILE MISSING")
             continue
@@ -120,10 +125,8 @@ def main() -> None:
         lines.append(f"  Test {exam}: " + "; ".join(parts))
         catalog.append((exam, path, doc, ranges))
 
-    missing = [n for n in range(1, 12) if n not in {e for e, *_ in catalog} and n not in {1, 3, 4, 6, 7, 10, 11}]
-    # tests not uploaded among 1–11
-    uploaded = {e for e, *_ in catalog}
-    not_uploaded = [n for n in range(1, 12) if n not in uploaded]
+    # tests not uploaded among the known Digital SAT series (files present, not just extracted)
+    not_uploaded = [n for n in KNOWN_EXAMS if n not in present]
     if not_uploaded:
         lines.append("")
         lines.append("Not in the repo yet: Tests " + ", ".join(str(n) for n in not_uploaded))
