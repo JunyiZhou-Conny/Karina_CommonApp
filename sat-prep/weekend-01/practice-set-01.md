@@ -1,10 +1,10 @@
-# Weekend 1 — Practice Set 01 (Mixed)
+# Weekend 1 — Practice Set 01 (All four domains)
 
-**Instructions:** 15 questions. Target time **22 minutes**. Calculator/Desmos allowed.  
-Items are **SAT-style originals** for skills from Weekend 1.  
+**Instructions:** 16 questions. Target time **24 minutes**. Calculator/Desmos allowed.  
+Items are **SAT-style originals** covering Algebra, Advanced Math, PSDA, and Geometry & Trig.  
 Answers: [`answer-key-01.md`](answer-key-01.md).
 
-**Skill tags:** A1–A5 Algebra · B1 Equivalent expressions · B2/B4 Quadratics & exponentials
+**Skill tags:** A Algebra · B Advanced Math · C PSDA · D Geometry & Trig
 
 ---
 
@@ -16,43 +16,48 @@ Answers: [`answer-key-01.md`](answer-key-01.md).
 3. **(A2, MC)** The line \(5x+2y=10\) has slope  
  A) \(-\tfrac52\) B) \(-\tfrac25\) C) \(\tfrac25\) D) \(\tfrac52\)
 
-4. **(A3, MC)** A subscription costs \$12 plus \$3 per movie rental. Which equation gives total cost \(C\) after \(n\) rentals?  
- A) \(C=12n+3\) B) \(C=3n+12\) C) \(C=3n-12\) D) \(C=12n-3\)
-
-5. **(A4, MC)** Solution to \(\begin{cases}x+y=10\\ 2x-y=5\end{cases}\) is  
+4. **(A4, MC)** Solution to \(\begin{cases}x+y=10\\ 2x-y=5\end{cases}\) is  
  A) \((5,5)\) B) \((4,6)\) C) \((6,4)\) D) \((3,7)\)
 
-6. **(A4, SPR)** Solve for \(x\): \(\begin{cases}3x+y=14\\ x-y=2\end{cases}\). Enter \(x\).
-
-7. **(A5, MC)** Solution set of \(-2x+5>13\) is  
- A) \(x>-4\) B) \(x<-4\) C) \(x>4\) D) \(x<4\)
-
-8. **(A5, MC)** Which point is in the solution region of \(y\le -x+2\) and \(y\ge 0\)?  
- A) \((3,0)\) B) \((0,3)\) C) \((1,0.5)\) D) \((-1,4)\)
-
-9. **(A3, SPR)** Water tank: \(W=120-4t\) liters after \(t\) minutes. After how many minutes is the tank empty?
-
-10. **(B1, MC)** Which expression is equivalent to \(2x(x+4)-(x+4)\)?  
+5. **(B1, MC)** Which expression is equivalent to \(2x(x+4)-(x+4)\)?  
  A) \((x+4)(2x-1)\) B) \((x+4)(2x+1)\) C) \(2x^2+7x-4\) D) \(2x^2+8x-4\)
 
-11. **(B1, SPR)** Factor \(x^2-5x-14\) as \((x+\underline{\quad})(x+\underline{\quad})\). Enter the **smaller** constant term (the more negative one).
-
-12. **(B2, MC)** Zeros of \(f(x)=2(x-3)(x+1)\) are  
+6. **(B2, MC)** Zeros of \(f(x)=2(x-3)(x+1)\) are  
  A) \(3\) and \(-1\) B) \(-3\) and \(1\) C) \(2\) and \(0\) D) \(6\) and \(-2\)
 
-13. **(B2, SPR)** For \(y=x^2-8x+10\), the \(x\)-coordinate of the vertex is?
+7. **(B2, SPR)** For \(y=x^2-8x+10\), the \(x\)-coordinate of the vertex is?
 
-14. **(B4, MC)** Which represents exponential growth?  
+8. **(B4, MC)** Which represents exponential growth?  
  A) \(y=9-0.2x\) B) \(y=9(0.8)^x\) C) \(y=9(1.2)^x\) D) \(y=\dfrac{9}{x}\)
 
-15. **(B4, SPR)** A population starts at 200 and grows by 50% each decade. Population after 2 decades?
+9. **(C1, SPR)** A recipe uses oil:vinegar \(=3:1\). If you use 2 cups of vinegar, how many cups of oil?
+
+10. **(C2, MC)** A price of \$80 increases 25%, then decreases 25%. Final price?  
+ A) \$80 B) \$75 C) \$85 D) \$70
+
+11. **(C3, MC)** Data: \(2,2,3,7,16\). The median is  
+ A) 2 B) 3 C) 6 D) 7
+
+12. **(C5, MC)** Using the club table (Juniors 12 Yes / 8 No; Seniors 18 Yes / 12 No), \(P(\text{Yes}\mid\text{Senior})\) is  
+ A) \(18/50\) B) \(18/30\) C) \(30/50\) D) \(18/20\)
+
+13. **(D1, SPR)** Volume of a cube with edge 3.
+
+14. **(D2, MC)** A triangle has angles \(40^\circ\) and \(65^\circ\). The third angle is  
+ A) \(65^\circ\) B) \(75^\circ\) C) \(85^\circ\) D) \(95^\circ\)
+
+15. **(D3, MC)** Isosceles right triangle with leg 5. Hypotenuse?  
+ A) 5 B) \(5\sqrt{2}\) C) \(5\sqrt{3}\) D) 10
+
+16. **(D4, SPR)** Circumference of a circle with diameter 10. Enter the number that multiplies \(\pi\) (so if the answer is \(10\pi\), enter 10).
 
 ---
 
 ### After scoring
 
-| Missed # | Skill ID | Mistake type (concept / setup / arithmetic / rushed) | Fix |
+| Missed # | Skill ID | Mistake type (concept / setup / arithmetic / rushed / wording) | Fix |
 |---|---|---|---|
+| | | | |
 | | | | |
 | | | | |
 | | | | |

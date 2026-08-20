@@ -1,18 +1,13 @@
-# Weekend 4 — Outline (Geometry & Trig + strategy)
+# Weekend 4 — Geometry & Trig + Module 1 strategy
 
-**Status:** Stub  
-**Skills:** D1–D4 + Module 1 pacing
+**Goal:** Close D1–D4 leaks, then run a Module 1-style mixed set and lock pacing rules.  
+**Time:** Saturday 4h + Sunday 4h
 
-## Suggested Saturday
-- Area & volume; scale factors
-- Angles, parallel lines, similar triangles
-- Pythagorean & special rights (30-60-90, 45-45-90)
+| Day | File | Focus |
+|---|---|---|
+| Saturday | [`saturday.md`](saturday.md) | Area/volume, similar triangles/angles, Pythagorean + special rights |
+| Sunday | [`sunday.md`](sunday.md) | Trig ratios, circles, 16-item Module 1 sim, adaptive clinic |
+| Practice | [`practice-set-04.md`](practice-set-04.md) | 16-item take-home, 24 min |
+| Answers | [`answer-key-04.md`](answer-key-04.md) | Worked solutions |
 
-## Suggested Sunday
-- Right-triangle trig (sin/cos/tan)
-- Circles (basic arc/sector/angle as tested)
-- Mixed Module 1 simulation (22 Q, 35 min) + review
-- Adaptive strategy clinic: when to Desmos vs hand algebra
-
-## Homework
-Full Bluebook practice Math section OR two timed modules; complete error log by skill ID.
+**After this weekend:** Official Bluebook Math module(s) + error log. No more new teaching packs unless a skill is still ⬜.

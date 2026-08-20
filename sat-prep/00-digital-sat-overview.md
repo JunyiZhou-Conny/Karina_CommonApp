@@ -66,6 +66,8 @@ About **30%** of Math questions are **in context** (science, social studies, or 
 | **Algebra** | ~35% | 13–15 | Linear equations, inequalities, systems, linear functions |
 | **Advanced Math** | ~35% | 13–15 | Nonlinear: quadratic, exponential, absolute value, polynomials, rationals, radicals |
 | **Problem-Solving & Data Analysis (PSDA)** | ~15% | 5–7 | Ratios, %, units, data displays, probability, statistical claims |
+
+**PSDA** is not a separate school subject. It is College Board’s label for the “story + table + percent + probability + what can you conclude” questions. Only 5–7 items, but they are easy points to drop on wording.
 | **Geometry & Trigonometry** | ~15% | 5–7 | Area/volume, angles/triangles, right-triangle trig, circles |
 
 Every module includes questions from **all four** domains.
@@ -104,4 +106,4 @@ Links: [`resources.md`](resources.md).
 | ~730 | Strong Algebra + improving Advanced Math |
 | **~780 (target)** | High accuracy on Algebra + Advanced Math; few PSDA/Geometry freebies left on table |
 
-Path in this folder: concept weekends → timed Bluebook Math modules → weak-skill cram.
+Path in this folder: Weekend 1 four-domain survey → Weekends 2–4 deep nitpick (B, then PSDA, then Geometry) → timed Bluebook Math modules → weak-skill cram.

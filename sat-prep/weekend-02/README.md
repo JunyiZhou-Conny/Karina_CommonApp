@@ -1,20 +1,13 @@
-# Weekend 2 — Outline (Advanced Math deep dive)
+# Weekend 2 — Advanced Math deep dive
 
-**Status:** Stub — full lesson pack TBD after Weekend 1 is taught.  
-**Time:** Sat 4h + Sun 4h  
-**Skills:** B1–B4
+**Goal:** Turn “I know quadratics/exponentials” into automatic B1–B4, including abs/rational/radical traps.  
+**Time:** Saturday 4h + Sunday 4h
 
-## Suggested Saturday
-- Polynomial operations & equivalent expressions (harder)
-- Absolute value equations/inequalities
-- Rational equations (extraneous roots)
-- Radical equations
+| Day | File | Focus |
+|---|---|---|
+| Saturday | [`saturday.md`](saturday.md) | Equivalent expressions, absolute value, rationals, radicals |
+| Sunday | [`sunday.md`](sunday.md) | Exponentials, nonlinear systems, function reading, timed B mix |
+| Practice | [`practice-set-02.md`](practice-set-02.md) | 16-item take-home, 24 min |
+| Answers | [`answer-key-02.md`](answer-key-02.md) | Worked solutions |
 
-## Suggested Sunday
-- Exponential equations (same base / logs light if needed)
-- Nonlinear systems (line + parabola) with Desmos
-- Function interpretation (parameters, transformations light)
-- Timed 22-question Advanced Math mix
-
-## Homework
-Question Bank: Advanced Math, medium/hard, 30 items + error log.
+**Homework:** Question Bank → Advanced Math, medium/hard, 15–20 items. Log B1–B4 on the skill map.

@@ -19,11 +19,12 @@ Primary deliverables:
 1. A short **Digital SAT structure primer** (what changed vs the old paper SAT).
 2. A complete **College Board Math content map** (4 domains → concrete skills).
 3. A **multi-weekend curriculum roadmap** aligned to your teaching model: *concepts first, then drill*.
-4. A **fully concrete Weekend 1 lesson plan** for **Saturday 4h + Sunday 4h**, with:
+4. **Fully concrete Weekend 1–4 lesson packs** for **Saturday 4h + Sunday 4h**, with:
    - minute-by-minute agenda
-   - concepts to teach
-   - worked examples
-   - practice sets in SAT style
+   - Q&A / nitpick mode (student already knows the basics)
+   - Weekend 1 = **all four domains** at high level
+   - Weekends 2–4 = deep dive on Advanced Math, PSDA, Geometry & Trig
+   - practice sets in SAT style + answer keys
    - Desmos / Bluebook tips
 5. Readable **Markdown** docs (optional PDF export). Not Jupyter notebooks.
 
@@ -39,7 +40,7 @@ Primary deliverables:
 | Total score | “1000 and 140” → likely **1140** (or 1040) | Confirm exact total + RW |
 | Target Math | ~780 (+100) | Confirm |
 | Cadence | Sat 4h + Sun 4h | Fixed |
-| Sequence | Concepts → then intensive practice | Fixed |
+| Sequence | High-level survey of all four → then intensive practice / nitpick | Fixed |
 | First focus | Math only (RW later) | Fixed unless you say otherwise |
 
 **Important score math check:** If Math is 680 and total is 1040, Reading & Writing would be ~360. If total is 1140, RW ≈ 460. Please confirm the score report so we don’t mis-prioritize later.
@@ -61,7 +62,7 @@ We will ground materials in **College Board Digital SAT Suite** specs (not 2016�
 |---|---|---|---|
 | Algebra | ~35% | 13–15 | Linear equations/inequalities, linear functions, systems |
 | Advanced Math | ~35% | 13–15 | Nonlinear: quadratic, exponential, absolute value, polynomials, rationals, radicals |
-| Problem-Solving & Data Analysis | ~15% | 5–7 | Ratios/%, units, 1- and 2-var data, probability, stats claims |
+| Problem-Solving & Data Analysis (**PSDA**) | ~15% | 5–7 | Ratios/%, units, 1- and 2-var data, probability, stats claims |
 | Geometry & Trigonometry | ~15% | 5–7 | Area/volume, angles/triangles, right-triangle trig, circles |
 
 Sources to cite in docs: College Board Math Overview, Digital SAT Specs Overview PDF, Official Bluebook practice, Student Question Bank.
@@ -96,7 +97,7 @@ sat-prep/
     sunday.md                        # 4-hour script + concepts + examples + set
     practice-set-01.md               # mixed practice for weekend 1
     answer-key-01.md                 # full worked solutions
-  weekend-02/ …                      # stubs or full packs in later phases
+  weekend-02/ … weekend-04/          # full Sat/Sun packs (not stubs)
   (optional later) pdf/              # exported PDFs if tooling available
 ```
 
@@ -110,48 +111,46 @@ Common App docs stay untouched under `docs/`.
 
 | Weekend | Theme | Goal |
 |---|---|---|
-| **1 (this plan’s deep build)** | Digital SAT Math orientation + **Algebra complete** + Advanced Math kickoff | Close linear fluency gaps; start nonlinear |
-| 2 | **Advanced Math** deep dive (quadratics, exponentials, equivalent expressions) | Accuracy on ~35% of test |
-| 3 | Advanced Math finish + **PSDA** (ratios, %, data, probability) | Kill careless data/ratio misses |
-| 4 | **Geometry & Trigonometry** + mixed adaptive strategy | Cover remaining ~15% + Module 1 pacing |
+| **1** | **All four domains** at high level (Q&A / nitpick) + mixed diagnostic | She already knows the basics; diagnose leaks |
+| 2 | **Advanced Math** deep dive (equivalent expressions, abs/rational/radical, exponentials, nonlinear systems) | Accuracy on ~35% of test |
+| 3 | **PSDA** (ratios, %, data, probability, margin of error, study claims) | Kill careless wording / table misses |
+| 4 | **Geometry & Trigonometry** + Module 1 mixed simulation | Cover remaining ~15% + pacing |
 | 5 | Full Bluebook Math section(s) + error log clinic | Convert concepts → score |
 | 6+ | Targeted weak-skill cram + timed modules | Push toward 780 |
 
-Your stated model fits: Weekends 1–4 = concept runs; 5+ = cramming/practice denser.
+**PSDA** = Problem-Solving and Data Analysis. Not a fifth subject — it is College Board’s name for the story / table / percent / probability slice.
 
-### Weekend 1 concrete agenda (what you asked for)
+Weekend 1 is a **tour of all four**. Weekends 2–4 go deep. 5+ = official timed practice.
 
-#### Saturday — 4 hours (Algebra foundation)
+### Weekend 1 concrete agenda (updated)
 
-| Block | Time | Content |
-|---|---|---|
-| 0 | 0:00–0:25 | Digital SAT Math orientation: adaptive modules, SPR grid, Desmos, pacing (~1.6 min/Q) |
-| 1 | 0:25–1:25 | Linear equations in 1 variable; “isolate / clear fractions / check” routine |
-| 2 | 1:25–2:15 | Linear equations in 2 variables; slope-intercept ↔ standard form; interpreting slope/intercept in context |
-| Break | 2:15–2:25 | |
-| 3 | 2:25–3:15 | Systems of two linear equations (substitution, elimination, graphing in Desmos) |
-| 4 | 3:15–3:55 | Linear inequalities (1- and 2-variable); “which values satisfy” / graph shading intuition |
-| 5 | 3:55–4:00 | Exit ticket: 3 mixed Algebra items + assign Question Bank filter homework |
+Student is familiar with A–D. Saturday is **not** an Algebra-only course.
 
-#### Sunday — 4 hours (Algebra polish + Advanced Math start)
+#### Saturday — 4 hours (all four domains)
 
 | Block | Time | Content |
 |---|---|---|
-| 0 | 0:00–0:20 | Saturday error review + “fast fail” checklist |
-| 1 | 0:20–1:10 | Linear functions word problems (science/social context; ~30% of Math is in-context) |
-| 2 | 1:10–2:00 | Equivalent expressions / factoring warm-up → bridge to Advanced Math |
+| 0 | 0:00–0:20 | Orientation + name the four domains + what **PSDA** means |
+| 1 | 0:20–1:10 | Algebra A1–A5 Q&A + rapid items |
+| 2 | 1:10–2:00 | Advanced Math B1–B4 Q&A + rapid items |
 | Break | 2:00–2:10 | |
-| 3 | 2:10–3:10 | Quadratics: forms, zeros, vertex, Desmos graph check |
-| 4 | 3:10–3:50 | Exponential growth/decay vs linear; interpreting parameters |
-| 5 | 3:50–4:00 | Weekend recap + Week 2 preview + 15-item mixed set take-home |
+| 3 | 2:10–3:00 | PSDA C1–C7 Q&A + rapid items |
+| 4 | 3:00–3:50 | Geometry & Trig D1–D4 Q&A + rapid items |
+| 5 | 3:50–4:00 | Exit ticket: one item per domain |
 
-Each concept block in the markdown will include:
+#### Sunday — 4 hours (mixed diagnostic + nitpick)
 
-- Learning objective
-- Mini-lesson notes (instructor talk track)
-- 1–2 fully worked examples
-- 4–8 practice items (original SAT-style + links to official samples where available)
-- Common traps for ~680 scorers aiming for 750–800
+| Block | Time | Content |
+|---|---|---|
+| 0 | 0:00–0:20 | Saturday miss review |
+| 1 | 0:20–0:45 | Timed 12-item mixed diagnostic (all four) |
+| 2 | 0:45–1:40 | Nitpick clinic on the diagnostic |
+| Break | 1:40–1:50 | |
+| 3 | 1:50–3:10 | Four-domain pressure stations (student talks setup first) |
+| 4 | 3:10–3:50 | SPR + Desmos + Module 1 habits |
+| 5 | 3:50–4:00 | 16-item all-domain take-home |
+
+Each content block is **Q&A first**, then items, then a 5-minute trap recap — not a from-scratch mini-lesson. Extra linear reps live in `weekend-01/optional-algebra-drill.md` if Algebra is actually sloppy.
 
 ---
 
@@ -176,17 +175,17 @@ Write:
 
 **Acceptance:** Accurate Digital SAT facts; domain table matches College Board; no paper-SAT leftovers (no separate no-calc section).
 
-### Phase 2 — Weekend 1 full teaching pack
+### Phase 2 — Weekend 1 full teaching pack (all four domains)
 
-Write saturday/sunday scripts, practice set, answer key with worked solutions and Desmos notes.
+Write saturday/sunday scripts, practice set, answer key. Saturday covers A+B+C+D at high level.
 
 **Acceptance:** Instructor can teach Weekend 1 from the markdown alone without inventing structure.
 
-### Phase 3 — Stretch (if time) / stubs
+### Phase 3 — Weekends 2–4 full packs
 
-Create `weekend-02/` … `weekend-04/` **outline stubs** (titles + skill lists) so the roadmap is tangible; full packs can follow after you approve Weekend 1 quality.
+Full Sat/Sun scripts + practice sets + answer keys for Advanced Math, PSDA, Geometry & Trig.
 
-**Acceptance:** Stubs exist with skills + suggested hour splits.
+**Acceptance:** Each weekend folder is teachable the same way as Weekend 1.
 
 ### Phase 4 — Optional PDF
 
@@ -221,7 +220,7 @@ Commit on current branch (or a new `cursor/sat-math-prep-…` branch if cleaner)
 
 1. Exact practice score report (Math / RW / total; Bluebook test # if any).
 2. Next real SAT date (or target month).
-3. Confirm Algebra-first Weekend 1 is OK (recommended) vs starting with her weakest domain from a question-level error log.
+3. After Weekend 1, which domain leaked most (use that to decide extra Question Bank filters).
 4. Preference: Markdown only, or Markdown + PDF.
 
 ---
@@ -232,9 +231,9 @@ Commit on current branch (or a new `cursor/sat-math-prep-…` branch if cleaner)
 |---|---|
 | 0 Assumptions in README | Done |
 | 1 Foundations docs | Done |
-| 2 Weekend 1 full pack | Done — see `weekend-01/` |
-| 3 Weekends 2–4 stubs | Done |
+| 2 Weekend 1 full pack (all four domains, Q&A) | Done — see `weekend-01/` |
+| 3 Weekends 2–4 **full packs** | Done — see `weekend-02/` … `weekend-04/` |
 | 4 Optional PDF | Skipped (Markdown is source of truth) |
-| 5 Commit + push | Done on `cursor/college-application-data-235e` |
+| 5 Commit + push | On `cursor/sat-weekend-packs-f685` |
 
-**Next (only if requested):** expand `weekend-02/` … `weekend-04/` from stubs into full Sat/Sun packs; optional PDF export.
+**Next (only if requested):** Weekend 5 Bluebook clinic notes; PDF export; plug in exact scores / test date.

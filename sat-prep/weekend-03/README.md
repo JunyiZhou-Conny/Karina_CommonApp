@@ -1,18 +1,16 @@
-# Weekend 3 — Outline (Advanced Math finish + PSDA)
+# Weekend 3 — PSDA (Problem-Solving and Data Analysis)
 
-**Status:** Stub  
-**Skills:** leftover B + C1–C7
+**PSDA** is College Board’s name for ratios, rates, percents, data displays, probability, and statistical claims. About **15%** of SAT Math (5–7 questions).
 
-## Suggested Saturday
-- Absolute value / rational leftovers
-- Ratios, rates, units, percentages
-- One-variable data (mean/median/range, distributions)
+**Goal:** Stop leaking “easy” wording points. Karina already knows the school-math; today is translation + tables + what you may conclude.
 
-## Suggested Sunday
-- Scatterplots / linear vs exponential models
-- Probability & two-way tables
-- Margin of error / study design (conceptual MC)
-- Timed PSDA set (12–15 items)
+**Time:** Saturday 4h + Sunday 4h
 
-## Homework
-Question Bank: PSDA all skills, 25 items.
+| Day | File | Focus |
+|---|---|---|
+| Saturday | [`saturday.md`](saturday.md) | C1 ratios/rates/units · C2 percents · C3 one-var data |
+| Sunday | [`sunday.md`](sunday.md) | C4 scatterplots · C5 probability · C6–C7 MOE / study design |
+| Practice | [`practice-set-03.md`](practice-set-03.md) | 16-item take-home, 24 min |
+| Answers | [`answer-key-03.md`](answer-key-03.md) | Worked solutions |
+
+**Homework:** Question Bank → PSDA, all skills, 20 items (include some C6/C7).

@@ -1,159 +1,236 @@
 # Weekend 1 — Saturday (4 hours)
 
-**Theme:** Digital SAT Math orientation + Algebra domain  
-**Skills:** Orientation habits + A1–A5  
-**Materials:** This doc, Desmos (desmos.com/calculator or Bluebook), scratch paper, timer  
+**Theme:** High-level Q&A survey of **all four** Digital SAT Math domains  
+**Skills:** A1–A5 · B1–B4 · C1–C7 · D1–D4 (overview, not deep teach)  
+**Mode:** Student talks first. Instructor nitpicks. Do **not** lecture from zero.  
+**Materials:** This doc, Desmos, scratch paper, timer, skill map [`../01-math-content-map.md`](../01-math-content-map.md)
 
 All practice items below are **instructor-created SAT-style** (not copied from Bluebook).
 
+Karina already has a basic handle on these topics. Saturday is a **tour + trap clinic**: what SAT actually asks, where ~680 scorers leak points, and which skills need Weekend 2–4 depth.
+
+If Algebra is sloppy and you want extra linear reps, use the optional bank: [`optional-algebra-drill.md`](optional-algebra-drill.md).
+
 ---
 
-## Block 0 — Orientation (0:00–0:25)
+## Block 0 — Orientation + the four domains (0:00–0:20)
 
-### Talk track (instructor)
+### Talk track (short)
 
 1. Math is **70 minutes, 2 modules × 35 minutes, 22 questions each**.
-2. **Calculator + Desmos** on every question — but algebra fluency still wins time.
-3. Module 1 accuracy routes Module 2 difficulty → do **not** gift easy misses.
+2. **Calculator + Desmos** on every question. Algebra fluency still wins time.
+3. Module 1 accuracy routes Module 2 difficulty — do **not** gift easy misses.
 4. ~25% are **SPR** (type the number). Blank = free miss.
-5. Pacing ≈ **1.6 min/Q**. If stuck >2.5 min, flag and move.
+5. Pacing ≈ **1.6 min/Q**. Stuck >2.5 min → flag and move.
+6. Every module mixes **all four** domains. That is why today covers all four.
 
-### Student do-now (5 min)
+### What the four domains are (say this out loud)
 
-Without calculator first, solve: \(3(x-2)=2x+5\). Then check with Desmos (graph \(y=3(x-2)\) and \(y=2x+5\); find intersection).
+| Tag | Name | Share | In one sentence |
+|---|---|---|---|
+| **A** | Algebra | ~35% | Lines, linear equations, systems, inequalities |
+| **B** | Advanced Math | ~35% | Nonlinear: quadratic, exponential, abs value, rational, radical |
+| **C** | **PSDA** | ~15% | **Problem-Solving and Data Analysis** — ratios, %, data, probability, stats claims |
+| **D** | Geometry & Trig | ~15% | Area/volume, triangles, right-triangle trig, circles |
 
-**Answer:** \(x=11\).
+**PSDA** is College Board’s name, not a new subject. It is the “story + table + percent + probability” slice. Only 5–7 questions, but they are easy points to drop if wording is sloppy.
 
----
+### Student do-now (3 min)
 
-## Block 1 — Linear equations in one variable (0:25–1:25) · Skill A1
+Name the four domains from memory. Then, without calculating yet, say **which domain** this is and **first move**:
 
-### Objective
-Solve any one-variable linear equation: distribute → combine → isolate → check.
+> A ball’s height is \(h(t)=-16t^2+32t+5\). When does it hit the ground?
 
-### Mini-lesson
-**Routine:** Expand → collect like terms → move variables left / constants right → divide → **substitute check**.
-
-Fractions: multiply through by LCD early.  
-Decimals: optionally multiply by 10/100 to clear.
-
-### Worked example 1
-\(\dfrac{2x-1}{3}=x-4\)
-
-Multiply by 3: \(2x-1=3x-12\)  
-\(-1+12=3x-2x\) → \(11=x\).  
-Check: \((22-1)/3=7\); \(11-4=7\). ✓
-
-### Worked example 2 (context)
-A gym charges \$40 signup plus \$25/month. After \(m\) months the total paid is \$165.  
-Equation: \(40+25m=165\) → \(25m=125\) → \(m=5\).
-
-### Practice (do in session)
-
-**S1.** \(5-2(3x+1)=x-17\)  
-**S2.** \(\dfrac{x}{4}+\dfrac{x}{6}=5\)  
-**S3.** (SPR) \(0.2(x+15)=0.5x-3\)  
-**S4.** A number decreased by 18 is four times the number. Find the number.  
-**S5.** \(\dfrac{3(2x-1)}{5}=x+1\)
-
-*(Answers in [`answer-key-01.md`](answer-key-01.md) § Saturday Block 1.)*
-
-### Common traps at ~680
-- Distributing the negative: \(-(2x-5)= -2x+5\)
-- Forgetting to multiply **every** term by the LCD
-- Solving correctly then picking the wrong multiple-choice because of a sign
+**Expected:** Domain B (quadratic). Set \(h=0\) and solve / Desmos root. Do **not** grind the formula in the do-now.
 
 ---
 
-## Block 2 — Linear equations / functions in two variables (1:25–2:15) · Skills A2–A3
+## How each content block runs (instructor rule)
 
-### Objective
-Move fluently among \(y=mx+b\), \(ax+by=c\), and “point + slope.” Interpret \(m\) and \(b\) in context.
+For Blocks 1–4, do **not** teach a full mini-lesson first.
 
-### Mini-lesson
-- Slope \(m=\dfrac{y_2-y_1}{x_2-x_1}\)
-- Parallel → same \(m\); perpendicular → negative reciprocal
-- In context: \(m\) = rate of change; \(b\) = starting value when \(x=0\) (if meaningful)
+1. **Oral Q&A (student answers first)** — 8–10 min  
+2. **Rapid written items** — student works; you only interrupt on a trap — ~30 min  
+3. **Nitpick recap** — 5 min: “what almost got you”
 
-### Worked example
-Line through \((2,5)\) and \((6,13)\).  
-\(m=\dfrac{13-5}{6-2}=2\).  
-\(y-5=2(x-2)\) → \(y=2x+1\).
-
-Desmos check: plot points; confirm line.
-
-### Practice
-
-**S6.** Write \(3x-2y=12\) in slope-intercept form; state slope and \(y\)-intercept.  
-**S7.** Line with slope \(-\tfrac{1}{2}\) through \((-4,7)\). Equation in point-slope then slope-intercept.  
-**S8.** Cost \(C=12n+45\) for \(n\) shirts. Interpret slope and intercept. What is \(C\) when \(n=8\)?  
-**S9.** Which line is perpendicular to \(y=3x-1\) and passes through \((0,4)\)?  
- A) \(y=3x+4\) B) \(y=-\tfrac13 x+4\) C) \(y=\tfrac13 x+4\) D) \(y=-3x+4\)
+If a block finishes early, add one harder oral: “What would SAT change to make this a hard item?”
 
 ---
 
-## Break (2:15–2:25)
+## Block 1 — Algebra survey (0:20–1:10) · A1–A5
+
+### Oral Q&A (student first)
+
+1. You see \(5-2(3x+1)=x-17\). What is the first trap, before any arithmetic?  
+2. When do two linear equations have **no** solution? When infinitely many?  
+3. When must you **flip** an inequality? Give an example.  
+4. In \(C=12n+45\), what do 12 and 45 *mean*? What question is SAT likely to ask besides “find \(C\)”?  
+5. System in context: adult \$12, child \$7, 15 tickets, \$145. What are the two equations?
+
+### Rapid items
+
+**S1.** (A1) \(5-2(3x+1)=x-17\)
+
+**S2.** (A1, SPR) \(\dfrac{x}{4}+\dfrac{x}{6}=5\)
+
+**S3.** (A4) How many solutions? \(\begin{cases}2x-4y=6\\ x-2y=5\end{cases}\)
+
+**S4.** (A5) Solution set of \(-2x+5>13\):  
+ A) \(x>-4\) B) \(x<-4\) C) \(x>4\) D) \(x<4\)
+
+**S5.** (A2–A3) Write \(3x-2y=12\) in slope-intercept form. State slope and \(y\)-intercept.
+
+**S6.** (A3, SPR) Gym: \$40 signup + \$25/month. Total paid \$165. How many months?
+
+### Nitpick recap
+- Distributing a leading minus  
+- LCD must hit **every** term  
+- Parallel lines vs same line  
+- Flip only when multiplying/dividing by a **negative**  
+- Re-read: did they want \(x\), \(y\), or a *count*?
+
+---
+
+## Block 2 — Advanced Math survey (1:10–2:00) · B1–B4
+
+### Oral Q&A (student first)
+
+1. SAT says “which expression is **equivalent**.” What is your fastest check besides expanding everything?  
+2. How do you find the vertex of \(y=ax^2+bx+c\) without completing the square?  
+3. Table: \(y\) goes 12, 18, 27, 40.5. Linear or exponential? How do you know in 15 seconds?  
+4. Why can a rational equation grow an **extraneous** root?  
+5. A line and a parabola: how many intersections are possible? How does Desmos settle it?
+
+### Rapid items
+
+**S7.** (B1) Which is equivalent to \(4x(x-3)-2(x-3)\)?  
+ A) \(2(x-3)(2x-1)\) B) \(2(x-3)(2x+1)\) C) \((x-3)(4x-2)\) D) Both A and C
+
+**S8.** (B4) Vertex of \(y=-2(x+1)^2+5\). Maximum or minimum?
+
+**S9.** (B4) Which models exponential **decay**?  
+ A) \(y=20-3x\) B) \(y=20(0.85)^x\) C) \(y=20(1.15)^x\) D) \(y=3x+20\)
+
+**S10.** (B2) Solve \(|2x-3|=7\).
+
+**S11.** (B3) How many solutions: \(y=x^2\) and \(y=x+2\)?
+
+**S12.** (B2, SPR) For \(y=x^2-4x-1\), the minimum value of \(y\) is?
+
+### Nitpick recap
+- Factor the common binomial before expanding  
+- Vertex form: \((h,k)\) is opposite the sign inside \((x-h)\)  
+- Decay = multiply by a factor **between 0 and 1**, not “minus a constant”  
+- Absolute value: two cases, then check  
+- Nonlinear systems: algebra *or* Desmos — both, if time
+
+---
+
+## Break (2:00–2:10)
 
 Stretch + water. No phones if possible.
 
 ---
 
-## Block 3 — Systems of two linear equations (2:25–3:15) · Skill A4
+## Block 3 — PSDA survey (2:10–3:00) · C1–C7
 
-### Objective
-Solve \(2\times2\) systems by substitution, elimination, and Desmos intersection. Recognize 0 / 1 / ∞ solutions.
+**Say the name:** Problem-Solving and Data Analysis. Not “statistics class.” SAT’s version is short and wording-heavy.
 
-### Mini-lesson
-- **Substitution:** best when a variable is already isolated.
-- **Elimination:** align coefficients; add/subtract.
-- **Desmos:** graph both; intersection \((x,y)\) is the solution.
-- Parallel distinct lines → no solution; same line → infinitely many.
+### Oral Q&A (student first)
 
-### Worked example
-\(\begin{cases}2x+y=11\\ x-y=1\end{cases}\)  
-Add: \(3x=12\) → \(x=4\); \(y=3\).
+1. “Increases by 20%” vs “increases by 20.” What’s the equation move?  
+2. A value goes **up 25% then down 25%**. Back to start? Why or why not?  
+3. When is **median** a better center than **mean**?  
+4. Two-way table: what’s the difference between \(P(\text{A})\) and \(P(\text{A}\mid\text{B})\)?  
+5. A poll is \(52\%\pm 4\%\). What *can* you conclude? What can you **not**?
 
-### Practice
+### Rapid items
 
-**S10.** \(\begin{cases}y=2x-3\\ 3x+2y=26\end{cases}\)  
-**S11.** \(\begin{cases}4x+3y=10\\ 2x-y=1\end{cases}\)  
-**S12.** How many solutions? \(\begin{cases}2x-4y=6\\ x-2y=5\end{cases}\)  
-**S13.** (SPR) Adult tickets \$12, child \$7. 15 tickets cost \$145. How many adult tickets?
+**S13.** (C1) A mix uses flour:sugar \(=2:5\). If you use 12 cups of flour, how many cups of sugar?
+
+**S14.** (C2) A price of \$80 increases 25%, then the new price decreases 25%. What is the final price?
+
+**S15.** (C3) Data: \(2,2,3,7,16\). Mean and median? Which is pulled by the outlier?
+
+**S16.** (C4) A scatterplot of study hours vs score is roughly linear and rising. The line of best fit is \(y=8x+42\). Interpret the slope. Predict the score at 6 hours.
+
+**S17.** (C5) Club members:
+
+|  | Yes | No | Total |
+|---|---|---|---|
+| Junior | 12 | 8 | 20 |
+| Senior | 18 | 12 | 30 |
+| Total | 30 | 20 | 50 |
+
+What is the probability a **randomly chosen senior** said Yes?
+
+**S18.** (C6–C7) A random sample of voters gives 52% support, margin of error 4%. Which conclusion is most appropriate?  
+ A) Exactly 52% of all voters support the candidate.  
+ B) The true support is likely between 48% and 56%.  
+ C) The candidate will win.  
+ D) The sample was biased because it is not 50–50.
+
+### Nitpick recap
+- Percent of **what** (original vs new)  
+- Successive percents do **not** cancel  
+- Mean follows extremes; median often doesn’t  
+- Conditional probability: restrict the row/column first  
+- Margin of error ≠ “the answer is exactly the sample percent”
 
 ---
 
-## Block 4 — Linear inequalities (3:15–3:55) · Skill A5
+## Block 4 — Geometry & Trig survey (3:00–3:50) · D1–D4
 
-### Objective
-Solve 1-variable inequalities; test points for 2-variable inequalities; flip inequality when multiplying/dividing by a negative.
+### Oral Q&A (student first)
 
-### Worked example
-\(-3x+7\ge 16\) → \(-3x\ge 9\) → **flip** → \(x\le -3\).
+1. If every length is scaled by 2, what happens to **area**? To **volume**?  
+2. Recite 45-45-90 and 30-60-90 side recipes.  
+3. \(\sin\theta=\) ? \(\cos\theta=\) ? \(\tan\theta=\) ?  
+4. Similar triangles: what stays the same, what scales?  
+5. Circle radius 6, central angle 60°. How do you get arc length without memorizing a random formula?
 
-### Practice
+### Rapid items
 
-**S14.** Solve and graph on a number line: \(2(x-4)<5x+1\).  
-**S15.** Which point satisfies \(y>2x-1\) and \(x+y\le 4\)?  
- A) \((0,5)\) B) \((1,2)\) C) \((3,0)\) D) \((2,3)\)  
-**S16.** For which \(k\) is \(x=2\) a solution of \(3x+k>10\)?
+**S19.** (D1) A cube has edge 3. Volume? If the edge is doubled, new volume?
+
+**S20.** (D2) Two similar triangles. A pair of corresponding sides is 6 and 8. A side of 9 on the smaller triangle corresponds to what on the larger?
+
+**S21.** (D3) Isosceles right triangle, leg 5. Hypotenuse?
+
+**S22.** (D3) Right triangle, opposite 3, hypotenuse 5. \(\sin\theta=\) ?
+
+**S23.** (D4) Circle radius 6. Arc measure 60°. Arc length?
+
+**S24.** (D1–D3, SPR) Rectangle 8 by 6. Length of a diagonal?
+
+### Nitpick recap
+- Linear scale \(k\) → area \(k^2\), volume \(k^3\)  
+- Similarity is a **ratio**, not “add 2 to each side”  
+- Special rights beat Pythagorean when you recognize them  
+- Trig is a **ratio** — cancel units, don’t invent extra lengths  
+- Arc length = fraction of circumference \((\theta/360)\cdot 2\pi r\)
 
 ---
 
-## Block 5 — Exit ticket + homework (3:55–4:00)
+## Block 5 — Exit ticket + homework (3:50–4:00)
 
-### Exit ticket (3 items, timed 4 minutes)
+### Exit ticket (4 items, one per domain, timed 5 minutes)
 
-**E1.** \(4(x-1)-x=2x+5\)  
-**E2.** System: \(\begin{cases}x+2y=9\\ 3x-y=4\end{cases}\)  
-**E3.** Inequality: \(-\tfrac12 x+3\le 7\)
+**E1.** (A) \(4(x-1)-x=2x+5\)  
+**E2.** (B) Zeros of \(f(x)=2(x-3)(x+1)\)  
+**E3.** (C) 40 is what percent of 160?  
+**E4.** (D) Area of a circle with radius 4 (in terms of \(\pi\))
 
 ### Assign
-Question Bank: **Algebra**, medium+hard, 15 items before Sunday.
+1. Mark [`../01-math-content-map.md`](../01-math-content-map.md): 🟨 if rusty, ✅ if automatic, ⬜ if a miss today.  
+2. Before Sunday: Official Question Bank, **5 items from each domain** (20 total), mixed difficulty.  
+3. Bring a list of “I hesitated” items — those are Sunday’s first 20 minutes.
 
 ---
 
 ## Instructor notes
 
-- If she finishes Block 1 early, add SPR speed reps (5 equations, answers only).
-- If systems are weak, spend extra Desmos time — visual confirmation builds confidence for Module 1.
-- Track every miss in an error log: skill ID + type (setup / algebra / arithmetic / rushed).
+- Today’s win is **coverage + diagnosis**, not mastery of any one skill.  
+- If Algebra is already automatic, spend leftover Block 1 minutes on S3-type “how many solutions” items — those are Module 1 gifts.  
+- If PSDA wording is the slow leak, do not “save it for Weekend 3.” Flag it, and Sunday will hit it again.  
+- Track every miss: skill ID + type (concept / setup / arithmetic / rushed / wording).

@@ -1,105 +1,141 @@
 # Weekend 1 — Answer Key 01
 
-Worked solutions for Saturday in-session items, Sunday in-session items, exit ticket, and Practice Set 01.  
+Worked solutions for Saturday survey items, Sunday diagnostic + stations, exit ticket, Practice Set 01, and the optional Algebra drill.  
 Verify SPRs by substitution.
 
 ---
 
-## Saturday — Block 1 (A1)
+## Saturday — Algebra (S1–S6)
 
 **S1.** \(5-2(3x+1)=x-17\)  
 \(5-6x-2=x-17\) → \(3-6x=x-17\) → \(3+17=7x\) → \(x=\dfrac{20}{7}\).
 
-**S2.** \(\dfrac{x}{4}+\dfrac{x}{6}=5\) · LCD 12: \(3x+2x=60\) → \(5x=60\) → \(x=12\).
+**S2.** LCD 12: \(3x+2x=60\) → \(x=12\).
 
-**S3.** \(0.2(x+15)=0.5x-3\) · Multiply by 10: \(2(x+15)=5x-30\) → \(2x+30=5x-30\) → \(60=3x\) → \(x=20\).
+**S3.** Second ×2: \(2x-4y=10\), first is \(2x-4y=6\) → parallel distinct → **0 solutions**.
 
-**S4.** Let \(n\) be the number. \(n-18=4n\) → \(-18=3n\) → \(n=-6\).
+**S4.** \(-2x>8\) → flip → \(x<-4\). **B**.
 
-**S5.** \(\dfrac{3(2x-1)}{5}=x+1\) → \(3(2x-1)=5x+5\) → \(6x-3=5x+5\) → \(x=8\).
+**S5.** \(3x-2y=12\) → \(y=\dfrac{3}{2}x-6\). Slope \(\tfrac{3}{2}\); \(y\)-intercept \(-6\).
 
----
-
-## Saturday — Block 2 (A2–A3)
-
-**S6.** \(3x-2y=12\) → \(-2y=-3x+12\) → \(y=\dfrac{3}{2}x-6\). Slope \(\tfrac{3}{2}\); \(y\)-intercept \(-6\).
-
-**S7.** \(y-7=-\tfrac12(x+4)\) → \(y=-\tfrac12 x-2+7\) → \(y=-\tfrac12 x+5\).
-
-**S8.** Slope 12 = dollars per shirt; intercept 45 = fixed fee. \(C=12(8)+45=141\).
-
-**S9.** Perpendicular to slope 3 → slope \(-\tfrac13\); through \((0,4)\) → **B** \(y=-\tfrac13 x+4\).
+**S6.** \(40+25m=165\) → \(m=5\).
 
 ---
 
-## Saturday — Block 3 (A4)
+## Saturday — Advanced Math (S7–S12)
 
-**S10.** \(y=2x-3\) into \(3x+2y=26\): \(3x+2(2x-3)=26\) → \(3x+4x-6=26\) → \(7x=32\) → \(x=\dfrac{32}{7}\), \(y=\dfrac{64}{7}-3=\dfrac{43}{7}\).
+**S7.** Factor \((x-3)\): \(4x(x-3)-2(x-3)=(x-3)(4x-2)=2(x-3)(2x-1)\). A and C are the same. **D**.
 
-**S11.** From \(2x-y=1\), \(y=2x-1\). Into \(4x+3y=10\): \(4x+3(2x-1)=10\) → \(4x+6x-3=10\) → \(10x=13\) → \(x=\dfrac{13}{10}\), \(y=\dfrac{13}{5}-1=\dfrac{8}{5}\).
+**S8.** Vertex \((-1,5)\); \(a=-2<0\) → **maximum**.
 
-**S12.** Second ×2: \(2x-4y=10\), but first is \(2x-4y=6\) → parallel distinct → **0 solutions**.
+**S9.** Factor between 0 and 1: **B** \(y=20(0.85)^x\).
 
-**S13.** \(a+c=15\), \(12a+7c=145\). Substitute \(c=15-a\): \(12a+7(15-a)=145\) → \(12a+105-7a=145\) → \(5a=40\) → \(a=8\).
+**S10.** \(2x-3=7\) → \(x=5\); \(2x-3=-7\) → \(x=-2\). Solutions: \(x=5\) or \(x=-2\).
+
+**S11.** \(x^2=x+2\) → \(x^2-x-2=0\) → \((x-2)(x+1)=0\) → **2 solutions**.
+
+**S12.** Axis \(x=2\); \(y=4-8-1=-5\). Minimum **−5**.
 
 ---
 
-## Saturday — Block 4 (A5)
+## Saturday — PSDA (S13–S18)
 
-**S14.** \(2x-8<5x+1\) → \(-8-1<5x-2x\) → \(-9<3x\) → \(x>-3\).
+**S13.** \(\dfrac{2}{5}=\dfrac{12}{s}\) → \(2s=60\) → \(s=30\) cups.
 
-**S15.** Test:  
-A \((0,5)\): \(5> -1\) ok, but \(0+5\le4\)? No.  
-B \((1,2)\): \(2>1\) ok; \(1+2\le4\) ok. **B**.  
-C \((3,0)\): \(0>5\)? No.  
-D \((2,3)\): \(3>3\)? No (needs >).
+**S14.** \(80\times 1.25=100\), then \(100\times 0.75=75\). Final **\$75**.
 
-**S16.** \(3(2)+k>10\) → \(6+k>10\) → \(k>4\).
+**S15.** Mean \(=(2+2+3+7+16)/5=6\). Median \(=3\). The **mean** is pulled up by 16.
+
+**S16.** Slope 8 = points per study hour. \(y=8(6)+42=90\).
+
+**S17.** Restrict to seniors: \(18/30=\dfrac{3}{5}=0.6\).
+
+**S18.** **B** — a margin of error of 4% around 52% means the true value is likely between 48% and 56%. A is over-precise; C is a prediction; D is not what MOE says.
+
+---
+
+## Saturday — Geometry (S19–S24)
+
+**S19.** \(3^3=27\). Doubled edge → scale \(k=2\) → volume \(\times 8\) → \(216\).
+
+**S20.** \(\dfrac{6}{8}=\dfrac{9}{x}\) → \(6x=72\) → \(x=12\).
+
+**S21.** 45-45-90: hypotenuse \(=5\sqrt{2}\).
+
+**S22.** \(\sin\theta=\dfrac{3}{5}\).
+
+**S23.** Circumference \(12\pi\); \(60/360=\dfrac{1}{6}\) → arc \(=2\pi\).
+
+**S24.** \(6^2+8^2=36+64=100\) → diagonal **10**.
 
 ---
 
 ## Saturday — Exit ticket
 
 **E1.** \(4x-4-x=2x+5\) → \(3x-4=2x+5\) → \(x=9\).  
-**E2.** From first \(x=9-2y\). Into \(3x-y=4\): \(27-6y-y=4\) → \(27-7y=4\) → \(y=\dfrac{23}{7}\), \(x=9-\dfrac{46}{7}=\dfrac{17}{7}\).  
-**E3.** \(-\tfrac12 x\le 4\) → multiply by \(-2\) (flip): \(x\ge -8\).
+**E2.** Zeros \(x=3\) and \(x=-1\).  
+**E3.** \(\dfrac{40}{160}=\dfrac{1}{4}=25\%\).  
+**E4.** \(\pi r^2=16\pi\).
 
 ---
 
-## Sunday — Block 1
+## Sunday — Diagnostic (D1–D12)
 
-**U1.** \(35+0.10t=47\) → \(0.10t=12\) → \(t=120\) texts.  
-**U2.** Combined \(40+55=95\) pages/min → \(600/95=\dfrac{120}{19}\) minutes ≈ 6.32 min.  
-**U3.** Slope 8 = points per study hour; \(y=8(6)+42=90\).  
-**U4.** \(180-45(2.5)=180-112.5=67.5\) miles.
+**D1.** \(7-6x+3=2x+8\) → \(10-6x=2x+8\) → \(2=8x\) → \(x=\dfrac14\).
+
+**D2.** Add: \(3x=15\) → \(x=5\), \(y=5\).
+
+**D3.** \(-\dfrac12 x\le 4\) → multiply by \(-2\) (flip): \(x\ge -8\).
+
+**D4.** \((x-7)(x+2)\). Smaller constant **−7**.
+
+**D5.** \(x=-\dfrac{b}{2a}=\dfrac{8}{2}=4\).
+
+**D6.** \(200\times(1.5)^2=450\).
+
+**D7.** Rate \(60\) mph → \(60\times 2.5=150\).
+
+**D8.** Sale \(60\times 0.85=51\); tax \(51\times 1.08=55.08\).
+
+**D9.** \(30/50=\dfrac{3}{5}=0.6\).
+
+**D10.** \(5^2+12^2=25+144=169=13^2\). Hypotenuse **13**.
+
+**D11.** \(180-40-65=75^\circ\).
+
+**D12.** Diameter 10 → \(C=10\pi\).
 
 ---
 
-## Sunday — Block 2
+## Sunday — Stations (U1–U12)
 
-**U5.** Factor \((x-3)\): \(4x(x-3)-2(x-3)=(x-3)(4x-2)=2(x-3)(2x-1)\). Also equals A and the expanded form of C is \((x-3)(4x-2)\) same as A. **D** (A and C equivalent).  
-**U6.** \(3(x^2-4x-12)=3(x-6)(x+2)\).  
-**U7.** \(x^2-8x+16\).  
-**U8.** \(\dfrac{3x(2x-3)}{3x}=2x-3\).
+**U1.** \(35+0.10t=47\) → \(t=120\) texts.  
+**U2.** Perpendicular to slope 3 → slope \(-\tfrac13\); through \((0,4)\) → **B**.  
+**U3.** \(a+c=15\), \(12a+7c=145\). \(c=15-a\): \(12a+7(15-a)=145\) → \(5a=40\) → \(a=8\).
+
+**U4.** \(x^2-8x+16\).  
+**U5.** \(-16t^2+32t+5=0\) → \(16t^2-32t-5=0\) →  
+\(t=\dfrac{32\pm\sqrt{1024+320}}{32}=\dfrac{32\pm\sqrt{1344}}{32}=\dfrac{32\pm 8\sqrt{21}}{32}=\dfrac{4\pm\sqrt{21}}{4}\).  
+Positive root: \(\dfrac{4+\sqrt{21}}{4}\) seconds.  
+**U6.** Ratios \(1.5,1.5,1.5\) → exponential \(y=12(1.5)^x\).
+
+**U7.** \(0.45x=18\) → \(x=40\).  
+**U8.** Mean \(=(70+74+74+76+92)/5=77.2\). Median \(=74\). Quote the **median**.  
+**U9.** Convenience / biased sample — honors hallway is not the whole school (C7).
+
+**U10.** Scale \(10/4=2.5\) → perimeter \(18\times 2.5=45\).  
+**U11.** Long leg \(6\sqrt{3}\); hypotenuse \(12\).  
+**U12.** \(\cos\theta=\dfrac{8}{10}=\dfrac{4}{5}\).
 
 ---
 
-## Sunday — Block 3
+## Sunday — SPR drill (P1–P5)
 
-**U9.** \((x+4)(x-3)=0\) → \(x=-4\) or \(x=3\).  
-**U10.** Vertex \((-1,5)\); \(a=-2<0\) → **maximum**.  
-**U11.** \(-16t^2+32t+5=0\) → \(16t^2-32t-5=0\) → \(t=\dfrac{32\pm\sqrt{1024+320}}{32}=\dfrac{32\pm\sqrt{1344}}{32}=\dfrac{32\pm\sqrt{64\cdot21}}{32}=\dfrac{32\pm8\sqrt{21}}{32}=\dfrac{4\pm\sqrt{21}}{4}\). Positive root: \(\dfrac{4+\sqrt{21}}{4}\) seconds.  
-**U12.** \((x+3)(x-5)=x^2-2x-15\).  
-**U13.** Axis \(x=2\); \(y=4-8-1=-5\). Minimum **−5**.
-
----
-
-## Sunday — Block 4
-
-**U14.** **B** \(y=20(0.85)^x\) (factor < 1).  
-**U15.** Ratios \(18/12=1.5\), \(27/18=1.5\), \(40.5/27=1.5\) → exponential \(y=12(1.5)^x\).  
-**U16.** 9 hours = 3 doublings → \(100\cdot 2^3=800\).  
-**U17.** \(y=5\cdot 2^4=5\cdot16=80\).
+**P1.** ×10: \(2(x+15)=5x-30\) → \(2x+30=5x-30\) → \(x=20\).  
+**P2.** \(120-4t=0\) → \(t=30\).  
+**P3.** 3 doublings → \(100\cdot 8=800\).  
+**P4.** \(5^2+12^2=169\) → **13**.  
+**P5.** \(0.20\times 45=9\).
 
 ---
 
@@ -107,31 +143,55 @@ D \((2,3)\): \(3>3\)? No (needs >).
 
 1. \(7-3(2x-1)=2x+8\) → \(7-6x+3=2x+8\) → \(10-6x=2x+8\) → \(2=8x\) → \(x=\dfrac14\). **A**.
 
-2. Cross-multiply: \(2(5x-2)=4(x+6)\) → \(10x-4=4x+24\) → \(6x=28\) → \(x=\dfrac{14}{3}\).
+2. \(2(5x-2)=4(x+6)\) → \(10x-4=4x+24\) → \(6x=28\) → \(x=\dfrac{14}{3}\).
 
 3. \(2y=-5x+10\) → \(y=-\tfrac52 x+5\). Slope **A** \(-\tfrac52\).
 
-4. **B** \(C=3n+12\).
+4. Add: \(3x=15\) → \(x=5\), \(y=5\). **A**.
 
-5. Add equations: \(3x=15\) → \(x=5\), \(y=5\). **A** \((5,5)\).
+5. Factor \((x+4)\): \(2x(x+4)-1(x+4)=(x+4)(2x-1)\). **A**.
 
-6. Add: \(4x=16\) → \(x=4\).
+6. Zeros \(x=3\), \(x=-1\). **A**.
 
-7. \(-2x>8\) → flip → \(x<-4\). **B**.
+7. \(x=-\dfrac{b}{2a}=4\).
 
-8. **C** \((1,0.5)\): \(0.5\le -1+2=1\) and \(0.5\ge0\).  
- A: \(0\le -3+2=-1\)? No. B: \(3\le 2\)? No. D: \(4\le 3\)? No.
+8. **C** \(y=9(1.2)^x\).
 
-9. \(120-4t=0\) → \(t=30\).
+9. \(3:1\) with 2 cups vinegar → **6** cups oil.
 
-10. Factor \((x+4)\): \(2x(x+4)-1(x+4)=(x+4)(2x-1)\). **A**.
+10. \(80\times 1.25=100\), \(100\times 0.75=75\). **B**.
 
-11. \((x-7)(x+2)\). Smaller constant term **−7**.
+11. Ordered already; middle value **3**. **B**. (Mean is 6; don’t confuse them.)
 
-12. Zeros when factors 0: \(x=3\), \(x=-1\). **A**.
+12. Seniors only: \(18/30\). **B**.
 
-13. \(x=-\dfrac{b}{2a}=\dfrac{8}{2}=4\).
+13. \(27\).
 
-14. **C** \(y=9(1.2)^x\).
+14. \(180-40-65=75\). **B**.
 
-15. \(200\times(1.5)^2=200\times2.25=450\).
+15. **B** \(5\sqrt{2}\).
+
+16. \(C=\pi d=10\pi\) → enter **10**.
+
+---
+
+## Optional Algebra drill
+
+Items 1–16 match the original Saturday Algebra set.
+
+1. \(x=\dfrac{20}{7}\)  
+2. \(x=12\)  
+3. \(x=20\)  
+4. \(n-18=4n\) → \(n=-6\)  
+5. \(x=8\)  
+6. \(y=\dfrac{3}{2}x-6\); slope \(\tfrac{3}{2}\); intercept \(-6\)  
+7. \(y-7=-\tfrac12(x+4)\) → \(y=-\tfrac12 x+5\)  
+8. Slope 12 = \$/shirt; intercept 45 = fixed fee; \(C=141\)  
+9. **B**  
+10. \(x=\dfrac{32}{7}\), \(y=\dfrac{43}{7}\)  
+11. \(x=\dfrac{13}{10}\), \(y=\dfrac{8}{5}\)  
+12. **0 solutions**  
+13. **8** adult tickets  
+14. \(x>-3\)  
+15. **B** \((1,2)\)  
+16. \(k>4\)

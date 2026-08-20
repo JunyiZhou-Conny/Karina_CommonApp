@@ -16,7 +16,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | A4 | Systems of two linear equations in two variables | ⬜ | Substitution, elimination, Desmos intersection |
 | A5 | Linear inequalities in one or two variables | ⬜ | Solution sets; which values satisfy |
 
-**Weekend 1 focus:** A1–A5.
+**Weekend 1:** high-level Q&A with the other three domains. **Keep warm** every weekend.
 
 ---
 
@@ -29,8 +29,8 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | B3 | Systems involving nonlinear equations | ⬜ | Line + parabola, etc. |
 | B4 | Nonlinear functions | ⬜ | Quadratic/exponential graphs & parameters |
 
-**Weekend 1 kickoff:** B1, B2 (quadratics), B4 (exponential).  
-**Weekend 2 deep dive:** full B.
+**Weekend 1:** survey (quadratics, exponentials, abs value, nonlinear systems).  
+**Weekend 2:** full B deep dive.
 
 ---
 
@@ -46,7 +46,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | C6 | Inference from sample statistics & margin of error | ⬜ | Conceptual |
 | C7 | Evaluating statistical claims (studies/experiments) | ⬜ | Bias, confounding (light) |
 
-**Weekend 3 focus.**
+**Weekend 1:** survey. **Weekend 3:** full PSDA deep dive.
 
 ---
 
@@ -59,7 +59,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | D3 | Right triangles and trigonometry | ⬜ | Pythagorean; sin/cos/tan; special rights |
 | D4 | Circles | ⬜ | Arc, sector, equation of circle (as tested) |
 
-**Weekend 4 focus.**
+**Weekend 1:** survey. **Weekend 4:** full Geometry & Trig + Module 1 mix.
 
 ---
 
