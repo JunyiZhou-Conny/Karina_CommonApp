@@ -38,4 +38,6 @@ Cycle: Common App **2026–27** (researched 2026-08-19).
 
 **Printable desk packet:** [`sat-prep/print/SAT-MATH-DESK-PACKET.pdf`](sat-prep/print/SAT-MATH-DESK-PACKET.pdf) (math notes + questions; answers at the back)
 
+**Official College Board math pages only:** [`sat-prep/official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](sat-prep/official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf) (Tests 1, 3, 4, 6, 7, 10, 11 — scoring PDFs skipped)
+
 Start at [`sat-prep/README.md`](sat-prep/README.md).

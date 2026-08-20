@@ -9,6 +9,8 @@
 
 **Print for the desk:** [`print/SAT-MATH-DESK-PACKET.pdf`](print/SAT-MATH-DESK-PACKET.pdf) — math notes and exam-style questions only (equations rendered). No lesson clock.
 
+**Official SAT Math pages (College Board PDFs):** [`official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)
+
 ## Start here
 
 | File | Description |
