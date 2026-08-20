@@ -36,4 +36,6 @@ Cycle: Common App **2026–27** (researched 2026-08-19).
 | `sat-prep/weekend-03/` | **Ready:** PSDA (Problem-Solving and Data Analysis) |
 | `sat-prep/weekend-04/` | **Ready:** Geometry & Trig + Module 1 strategy |
 
+**Printable desk packet:** [`sat-prep/print/SAT-MATH-DESK-PACKET.pdf`](sat-prep/print/SAT-MATH-DESK-PACKET.pdf)
+
 Start at [`sat-prep/README.md`](sat-prep/README.md).

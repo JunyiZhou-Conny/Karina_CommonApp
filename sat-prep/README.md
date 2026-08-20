@@ -7,6 +7,8 @@
 
 **PSDA** = **Problem-Solving and Data Analysis** — College Board’s name for ratios, percents, data, probability, and statistical claims (~15% of Math).
 
+**Print for the desk:** [`print/SAT-MATH-DESK-PACKET.pdf`](print/SAT-MATH-DESK-PACKET.pdf) — all SAT prep files in one packet.
+
 ## Start here
 
 | File | Description |
