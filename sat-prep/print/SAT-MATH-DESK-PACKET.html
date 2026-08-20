@@ -30,6 +30,10 @@
   }
   @page { size: letter; margin: 0.85in; }
 </style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body);"></script>
 </head>
 <body>
 <h1>SAT Math Desk Packet</h1>
@@ -1115,9 +1119,9 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 <h3>Student do-now (3 min)</h3>
 <p>Name the four domains from memory. Then, without calculating yet, say <strong>which domain</strong> this is and <strong>first move</strong>:</p>
 <blockquote>
-<p>A ball’s height is (h(t)=-16t^2+32t+5). When does it hit the ground?</p>
+<p>A ball’s height is \(h(t)=-16t^2+32t+5\). When does it hit the ground?</p>
 </blockquote>
-<p><strong>Expected:</strong> Domain B (quadratic). Set (h=0) and solve / Desmos root. Do <strong>not</strong> grind the formula in the do-now.</p>
+<p><strong>Expected:</strong> Domain B (quadratic). Set \(h=0\) and solve / Desmos root. Do <strong>not</strong> grind the formula in the do-now.</p>
 <hr />
 <h2>How each content block runs (instructor rule)</h2>
 <p>For Blocks 1–4, do <strong>not</strong> teach a full mini-lesson first.</p>
@@ -1131,19 +1135,19 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 <h2>Block 1 — Algebra survey (0:20–1:10) · A1–A5</h2>
 <h3>Oral Q&amp;A (student first)</h3>
 <ol>
-<li>You see (5-2(3x+1)=x-17). What is the first trap, before any arithmetic?  </li>
+<li>You see \(5-2(3x+1)=x-17\). What is the first trap, before any arithmetic?  </li>
 <li>When do two linear equations have <strong>no</strong> solution? When infinitely many?  </li>
 <li>When must you <strong>flip</strong> an inequality? Give an example.  </li>
-<li>In (C=12n+45), what do 12 and 45 <em>mean</em>? What question is SAT likely to ask besides “find (C)”?  </li>
+<li>In \(C=12n+45\), what do 12 and 45 <em>mean</em>? What question is SAT likely to ask besides “find \(C\)”?  </li>
 <li>System in context: adult \$12, child \$7, 15 tickets, \$145. What are the two equations?</li>
 </ol>
 <h3>Rapid items</h3>
-<p><strong>S1.</strong> (A1) (5-2(3x+1)=x-17)</p>
-<p><strong>S2.</strong> (A1, SPR) (\dfrac{x}{4}+\dfrac{x}{6}=5)</p>
-<p><strong>S3.</strong> (A4) How many solutions? (\begin{cases}2x-4y=6\ x-2y=5\end{cases})</p>
-<p><strong>S4.</strong> (A5) Solution set of (-2x+5&gt;13):<br />
- A) (x&gt;-4) B) (x&lt;-4) C) (x&gt;4) D) (x&lt;4)</p>
-<p><strong>S5.</strong> (A2–A3) Write (3x-2y=12) in slope-intercept form. State slope and (y)-intercept.</p>
+<p><strong>S1.</strong> (A1) \(5-2(3x+1)=x-17\)</p>
+<p><strong>S2.</strong> (A1, SPR) \(\dfrac{x}{4}+\dfrac{x}{6}=5\)</p>
+<p><strong>S3.</strong> (A4) How many solutions? \(\begin{cases}2x-4y=6\\ x-2y=5\end{cases}\)</p>
+<p><strong>S4.</strong> (A5) Solution set of \(-2x+5&gt;13\):<br />
+ A) \(x&gt;-4\) B) \(x&lt;-4\) C) \(x&gt;4\) D) \(x&lt;4\)</p>
+<p><strong>S5.</strong> (A2–A3) Write \(3x-2y=12\) in slope-intercept form. State slope and \(y\)-intercept.</p>
 <p><strong>S6.</strong> (A3, SPR) Gym: \$40 signup + \$25/month. Total paid \$165. How many months?</p>
 <h3>Nitpick recap</h3>
 <ul>
@@ -1151,31 +1155,31 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 <li>LCD must hit <strong>every</strong> term  </li>
 <li>Parallel lines vs same line  </li>
 <li>Flip only when multiplying/dividing by a <strong>negative</strong>  </li>
-<li>Re-read: did they want (x), (y), or a <em>count</em>?</li>
+<li>Re-read: did they want \(x\), \(y\), or a <em>count</em>?</li>
 </ul>
 <hr />
 <h2>Block 2 — Advanced Math survey (1:10–2:00) · B1–B4</h2>
 <h3>Oral Q&amp;A (student first)</h3>
 <ol>
 <li>SAT says “which expression is <strong>equivalent</strong>.” What is your fastest check besides expanding everything?  </li>
-<li>How do you find the vertex of (y=ax^2+bx+c) without completing the square?  </li>
-<li>Table: (y) goes 12, 18, 27, 40.5. Linear or exponential? How do you know in 15 seconds?  </li>
+<li>How do you find the vertex of \(y=ax^2+bx+c\) without completing the square?  </li>
+<li>Table: \(y\) goes 12, 18, 27, 40.5. Linear or exponential? How do you know in 15 seconds?  </li>
 <li>Why can a rational equation grow an <strong>extraneous</strong> root?  </li>
 <li>A line and a parabola: how many intersections are possible? How does Desmos settle it?</li>
 </ol>
 <h3>Rapid items</h3>
-<p><strong>S7.</strong> (B1) Which is equivalent to (4x(x-3)-2(x-3))?<br />
- A) (2(x-3)(2x-1)) B) (2(x-3)(2x+1)) C) ((x-3)(4x-2)) D) Both A and C</p>
-<p><strong>S8.</strong> (B4) Vertex of (y=-2(x+1)^2+5). Maximum or minimum?</p>
+<p><strong>S7.</strong> (B1) Which is equivalent to \(4x(x-3)-2(x-3)\)?<br />
+ A) \(2(x-3)(2x-1)\) B) \(2(x-3)(2x+1)\) C) \((x-3)(4x-2)\) D) Both A and C</p>
+<p><strong>S8.</strong> (B4) Vertex of \(y=-2(x+1)^2+5\). Maximum or minimum?</p>
 <p><strong>S9.</strong> (B4) Which models exponential <strong>decay</strong>?<br />
- A) (y=20-3x) B) (y=20(0.85)^x) C) (y=20(1.15)^x) D) (y=3x+20)</p>
-<p><strong>S10.</strong> (B2) Solve (|2x-3|=7).</p>
-<p><strong>S11.</strong> (B3) How many solutions: (y=x^2) and (y=x+2)?</p>
-<p><strong>S12.</strong> (B2, SPR) For (y=x^2-4x-1), the minimum value of (y) is?</p>
+ A) \(y=20-3x\) B) \(y=20(0.85)^x\) C) \(y=20(1.15)^x\) D) \(y=3x+20\)</p>
+<p><strong>S10.</strong> (B2) Solve \(|2x-3|=7\).</p>
+<p><strong>S11.</strong> (B3) How many solutions: \(y=x^2\) and \(y=x+2\)?</p>
+<p><strong>S12.</strong> (B2, SPR) For \(y=x^2-4x-1\), the minimum value of \(y\) is?</p>
 <h3>Nitpick recap</h3>
 <ul>
 <li>Factor the common binomial before expanding  </li>
-<li>Vertex form: ((h,k)) is opposite the sign inside ((x-h))  </li>
+<li>Vertex form: \((h,k)\) is opposite the sign inside \((x-h)\)  </li>
 <li>Decay = multiply by a factor <strong>between 0 and 1</strong>, not “minus a constant”  </li>
 <li>Absolute value: two cases, then check  </li>
 <li>Nonlinear systems: algebra <em>or</em> Desmos — both, if time</li>
@@ -1191,14 +1195,14 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 <li>“Increases by 20%” vs “increases by 20.” What’s the equation move?  </li>
 <li>A value goes <strong>up 25% then down 25%</strong>. Back to start? Why or why not?  </li>
 <li>When is <strong>median</strong> a better center than <strong>mean</strong>?  </li>
-<li>Two-way table: what’s the difference between (P(\text{A})) and (P(\text{A}\mid\text{B}))?  </li>
-<li>A poll is (52\%\pm 4\%). What <em>can</em> you conclude? What can you <strong>not</strong>?</li>
+<li>Two-way table: what’s the difference between \(P(\text{A})\) and \(P(\text{A}\mid\text{B})\)?  </li>
+<li>A poll is \(52\%\pm 4\%\). What <em>can</em> you conclude? What can you <strong>not</strong>?</li>
 </ol>
 <h3>Rapid items</h3>
-<p><strong>S13.</strong> (C1) A mix uses flour:sugar (=2:5). If you use 12 cups of flour, how many cups of sugar?</p>
+<p><strong>S13.</strong> (C1) A mix uses flour:sugar \(=2:5\). If you use 12 cups of flour, how many cups of sugar?</p>
 <p><strong>S14.</strong> (C2) A price of \$80 increases 25%, then the new price decreases 25%. What is the final price?</p>
-<p><strong>S15.</strong> (C3) Data: (2,2,3,7,16). Mean and median? Which is pulled by the outlier?</p>
-<p><strong>S16.</strong> (C4) A scatterplot of study hours vs score is roughly linear and rising. The line of best fit is (y=8x+42). Interpret the slope. Predict the score at 6 hours.</p>
+<p><strong>S15.</strong> (C3) Data: \(2,2,3,7,16\). Mean and median? Which is pulled by the outlier?</p>
+<p><strong>S16.</strong> (C4) A scatterplot of study hours vs score is roughly linear and rising. The line of best fit is \(y=8x+42\). Interpret the slope. Predict the score at 6 hours.</p>
 <p><strong>S17.</strong> (C5) Club members:</p>
 <table>
 <thead>
@@ -1250,7 +1254,7 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 <ol>
 <li>If every length is scaled by 2, what happens to <strong>area</strong>? To <strong>volume</strong>?  </li>
 <li>Recite 45-45-90 and 30-60-90 side recipes.  </li>
-<li>(\sin\theta=) ? (\cos\theta=) ? (\tan\theta=) ?  </li>
+<li>\(\sin\theta=\) ? \(\cos\theta=\) ? \(\tan\theta=\) ?  </li>
 <li>Similar triangles: what stays the same, what scales?  </li>
 <li>Circle radius 6, central angle 60°. How do you get arc length without memorizing a random formula?</li>
 </ol>
@@ -1258,24 +1262,24 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 <p><strong>S19.</strong> (D1) A cube has edge 3. Volume? If the edge is doubled, new volume?</p>
 <p><strong>S20.</strong> (D2) Two similar triangles. A pair of corresponding sides is 6 and 8. A side of 9 on the smaller triangle corresponds to what on the larger?</p>
 <p><strong>S21.</strong> (D3) Isosceles right triangle, leg 5. Hypotenuse?</p>
-<p><strong>S22.</strong> (D3) Right triangle, opposite 3, hypotenuse 5. (\sin\theta=) ?</p>
+<p><strong>S22.</strong> (D3) Right triangle, opposite 3, hypotenuse 5. \(\sin\theta=\) ?</p>
 <p><strong>S23.</strong> (D4) Circle radius 6. Arc measure 60°. Arc length?</p>
 <p><strong>S24.</strong> (D1–D3, SPR) Rectangle 8 by 6. Length of a diagonal?</p>
 <h3>Nitpick recap</h3>
 <ul>
-<li>Linear scale (k) → area (k^2), volume (k^3)  </li>
+<li>Linear scale \(k\) → area \(k^2\), volume \(k^3\)  </li>
 <li>Similarity is a <strong>ratio</strong>, not “add 2 to each side”  </li>
 <li>Special rights beat Pythagorean when you recognize them  </li>
 <li>Trig is a <strong>ratio</strong> — cancel units, don’t invent extra lengths  </li>
-<li>Arc length = fraction of circumference ((\theta/360)\cdot 2\pi r)</li>
+<li>Arc length = fraction of circumference \((\theta/360)\cdot 2\pi r\)</li>
 </ul>
 <hr />
 <h2>Block 5 — Exit ticket + homework (3:50–4:00)</h2>
 <h3>Exit ticket (4 items, one per domain, timed 5 minutes)</h3>
-<p><strong>E1.</strong> (A) (4(x-1)-x=2x+5)<br />
-<strong>E2.</strong> (B) Zeros of (f(x)=2(x-3)(x+1))<br />
+<p><strong>E1.</strong> (A) \(4(x-1)-x=2x+5\)<br />
+<strong>E2.</strong> (B) Zeros of \(f(x)=2(x-3)(x+1)\)<br />
 <strong>E3.</strong> (C) 40 is what percent of 160?<br />
-<strong>E4.</strong> (D) Area of a circle with radius 4 (in terms of (\pi))</p>
+<strong>E4.</strong> (D) Area of a circle with radius 4 (in terms of \(\pi\))</p>
 <h3>Assign</h3>
 <ol>
 <li>Mark <a href="../01-math-content-map.md"><code>../01-math-content-map.md</code></a>: 🟨 if rusty, ✅ if automatic, ⬜ if a miss today.  </li>
@@ -1310,18 +1314,18 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 <hr />
 <h2>Block 1 — Timed mixed diagnostic (0:20–0:45) · all four domains</h2>
 <p><strong>12 questions, 18 minutes.</strong> Calculator/Desmos allowed. Student works silently. You only watch pacing.</p>
-<p><strong>D1.</strong> (A1) (7-3(2x-1)=2x+8)</p>
-<p><strong>D2.</strong> (A4) Solution of (\begin{cases}x+y=10\ 2x-y=5\end{cases})</p>
-<p><strong>D3.</strong> (A5) (-\dfrac12 x+3\le 7). Solution set?</p>
-<p><strong>D4.</strong> (B1) Factor (x^2-5x-14). Enter the <strong>smaller</strong> constant term of the two binomials (SPR).</p>
-<p><strong>D5.</strong> (B2) (x)-coordinate of the vertex of (y=x^2-8x+10)</p>
+<p><strong>D1.</strong> (A1) \(7-3(2x-1)=2x+8\)</p>
+<p><strong>D2.</strong> (A4) Solution of \(\begin{cases}x+y=10\\ 2x-y=5\end{cases}\)</p>
+<p><strong>D3.</strong> (A5) \(-\dfrac12 x+3\le 7\). Solution set?</p>
+<p><strong>D4.</strong> (B1) Factor \(x^2-5x-14\). Enter the <strong>smaller</strong> constant term of the two binomials (SPR).</p>
+<p><strong>D5.</strong> (B2) \(x\)-coordinate of the vertex of \(y=x^2-8x+10\)</p>
 <p><strong>D6.</strong> (B4) Population starts at 200 and grows 50% each decade. Population after 2 decades? (SPR)</p>
 <p><strong>D7.</strong> (C1) A car goes 180 miles in 3 hours. At that rate, miles in 2.5 hours? (SPR)</p>
 <p><strong>D8.</strong> (C2) A \$60 jacket is discounted 15%, then tax of 8% is added to the sale price. Final price?</p>
-<p><strong>D9.</strong> (C5) From Saturday’s club table (20 juniors, 30 seniors; 30 Yes, 20 No). (P(\text{Yes})) for a random member?</p>
+<p><strong>D9.</strong> (C5) From Saturday’s club table (20 juniors, 30 seniors; 30 Yes, 20 No). \(P(\text{Yes})\) for a random member?</p>
 <p><strong>D10.</strong> (D3) Legs 5 and 12. Hypotenuse?</p>
-<p><strong>D11.</strong> (D2) A triangle has angles (40^\circ) and (65^\circ). Third angle?</p>
-<p><strong>D12.</strong> (D4) Circumference of a circle with diameter 10, in terms of (\pi).</p>
+<p><strong>D11.</strong> (D2) A triangle has angles \(40^\circ\) and \(65^\circ\). Third angle?</p>
+<p><strong>D12.</strong> (D4) Circumference of a circle with diameter 10, in terms of \(\pi\).</p>
 <hr />
 <h2>Block 2 — Nitpick clinic on the diagnostic (0:45–1:40)</h2>
 <p>Go item by item <strong>only where she missed or hesitated</strong>. Student explains first.</p>
@@ -1351,7 +1355,7 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 </tr>
 <tr>
 <td>D6</td>
-<td>Used (+50) instead of (\times 1.5)</td>
+<td>Used \(+50\) instead of \(\times 1.5\)</td>
 </tr>
 <tr>
 <td>D8</td>
@@ -1363,7 +1367,7 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 </tr>
 <tr>
 <td>D10</td>
-<td>(5+12=17) instead of Pythagorean</td>
+<td>\(5+12=17\) instead of Pythagorean</td>
 </tr>
 </tbody>
 </table>
@@ -1375,13 +1379,13 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 <p>Three items per domain. Student talks the setup <strong>before</strong> calculating. You nitpick the setup.</p>
 <h3>Station A — Algebra</h3>
 <p><strong>U1.</strong> Phone plan \$35/month + \$0.10 per text. Total \$47. How many texts?<br />
-<strong>U2.</strong> Which line is perpendicular to (y=3x-1) and passes through ((0,4))?<br />
- A) (y=3x+4) B) (y=-\tfrac13 x+4) C) (y=\tfrac13 x+4) D) (y=-3x+4)<br />
+<strong>U2.</strong> Which line is perpendicular to \(y=3x-1\) and passes through \((0,4)\)?<br />
+ A) \(y=3x+4\) B) \(y=-\tfrac13 x+4\) C) \(y=\tfrac13 x+4\) D) \(y=-3x+4\)<br />
 <strong>U3.</strong> Adult tickets \$12, child \$7. 15 tickets cost \$145. How many adult tickets? (SPR)</p>
 <h3>Station B — Advanced Math</h3>
-<p><strong>U4.</strong> Expand ((x-4)^2).<br />
-<strong>U5.</strong> A ball’s height (h(t)=-16t^2+32t+5) (feet, seconds). When does it hit the ground? (exact form OK)<br />
-<strong>U6.</strong> Table (x=0,1,2,3) and (y=12,18,27,40.5). Linear or exponential? Write a model.</p>
+<p><strong>U4.</strong> Expand \((x-4)^2\).<br />
+<strong>U5.</strong> A ball’s height \(h(t)=-16t^2+32t+5\) (feet, seconds). When does it hit the ground? (exact form OK)<br />
+<strong>U6.</strong> Table \(x=0,1,2,3\) and \(y=12,18,27,40.5\). Linear or exponential? Write a model.</p>
 <h3>Station C — PSDA</h3>
 <p><strong>U7.</strong> 18 is 45% of what number?<br />
 <strong>U8.</strong> Scores: 70, 74, 74, 76, 92. Mean vs median. Which should you quote if you want the “typical” score without the 92?<br />
@@ -1389,20 +1393,20 @@ Karina already knows the basics — Saturday is a tour + trap clinic, not a from
 <h3>Station D — Geometry &amp; Trig</h3>
 <p><strong>U10.</strong> Similar triangles. Corresponding sides 4 and 10. Smaller perimeter 18. Larger perimeter?<br />
 <strong>U11.</strong> 30-60-90 triangle, short leg 6. Long leg and hypotenuse?<br />
-<strong>U12.</strong> Right triangle, adjacent 8, hypotenuse 10. (\cos\theta=) ?</p>
+<strong>U12.</strong> Right triangle, adjacent 8, hypotenuse 10. \(\cos\theta=\) ?</p>
 <hr />
 <h2>Block 4 — SPR + Desmos + Module 1 habits (3:10–3:50)</h2>
 <h3>SPR drill (8 minutes, answers only)</h3>
-<p><strong>P1.</strong> (0.2(x+15)=0.5x-3)<br />
-<strong>P2.</strong> Water tank (W=120-4t). Minutes until empty?<br />
+<p><strong>P1.</strong> \(0.2(x+15)=0.5x-3\)<br />
+<strong>P2.</strong> Water tank \(W=120-4t\). Minutes until empty?<br />
 <strong>P3.</strong> Bacteria double every 3 hours from 100. How many after 9 hours?<br />
 <strong>P4.</strong> Rectangle 5 by 12. Diagonal?<br />
-<strong>P5.</strong> (20\%) of 45?</p>
+<strong>P5.</strong> \(20\%\) of 45?</p>
 <h3>Desmos drill (10 minutes)</h3>
 <ol>
-<li>Graph (y=3(x-2)) and (y=2x+5); read the intersection.  </li>
-<li>Graph (y=x^2) and (y=x+2); confirm Saturday S11.  </li>
-<li>Graph (y=|2x-3|) and (y=7); confirm S10.</li>
+<li>Graph \(y=3(x-2)\) and \(y=2x+5\); read the intersection.  </li>
+<li>Graph \(y=x^2\) and \(y=x+2\); confirm Saturday S11.  </li>
+<li>Graph \(y=|2x-3|\) and \(y=7\); confirm S10.</li>
 </ol>
 <h3>Module 1 talk (last 12 minutes) — oral only</h3>
 <ol>
@@ -1442,63 +1446,63 @@ Answers: <a href="answer-key-01.md"><code>answer-key-01.md</code></a>.</p>
 <hr />
 <ol>
 <li>
-<p><strong>(A1, MC)</strong> What is the solution of (7-3(2x-1)=2x+8)?<br />
- A) (x=\tfrac14) B) (x=0) C) (x=1) D) (x=2)</p>
+<p><strong>(A1, MC)</strong> What is the solution of \(7-3(2x-1)=2x+8\)?<br />
+ A) \(x=\tfrac14\) B) \(x=0\) C) \(x=1\) D) \(x=2\)</p>
 </li>
 <li>
-<p><strong>(A1, SPR)</strong> Solve (\dfrac{5x-2}{4}=\dfrac{x+6}{2}).</p>
+<p><strong>(A1, SPR)</strong> Solve \(\dfrac{5x-2}{4}=\dfrac{x+6}{2}\).</p>
 </li>
 <li>
-<p><strong>(A2, MC)</strong> The line (5x+2y=10) has slope<br />
- A) (-\tfrac52) B) (-\tfrac25) C) (\tfrac25) D) (\tfrac52)</p>
+<p><strong>(A2, MC)</strong> The line \(5x+2y=10\) has slope<br />
+ A) \(-\tfrac52\) B) \(-\tfrac25\) C) \(\tfrac25\) D) \(\tfrac52\)</p>
 </li>
 <li>
-<p><strong>(A4, MC)</strong> Solution to (\begin{cases}x+y=10\ 2x-y=5\end{cases}) is<br />
- A) ((5,5)) B) ((4,6)) C) ((6,4)) D) ((3,7))</p>
+<p><strong>(A4, MC)</strong> Solution to \(\begin{cases}x+y=10\\ 2x-y=5\end{cases}\) is<br />
+ A) \((5,5)\) B) \((4,6)\) C) \((6,4)\) D) \((3,7)\)</p>
 </li>
 <li>
-<p><strong>(B1, MC)</strong> Which expression is equivalent to (2x(x+4)-(x+4))?<br />
- A) ((x+4)(2x-1)) B) ((x+4)(2x+1)) C) (2x^2+7x-4) D) Both A and C</p>
+<p><strong>(B1, MC)</strong> Which expression is equivalent to \(2x(x+4)-(x+4)\)?<br />
+ A) \((x+4)(2x-1)\) B) \((x+4)(2x+1)\) C) \(2x^2+7x-4\) D) Both A and C</p>
 </li>
 <li>
-<p><strong>(B2, MC)</strong> Zeros of (f(x)=2(x-3)(x+1)) are<br />
- A) (3) and (-1) B) (-3) and (1) C) (2) and (0) D) (6) and (-2)</p>
+<p><strong>(B2, MC)</strong> Zeros of \(f(x)=2(x-3)(x+1)\) are<br />
+ A) \(3\) and \(-1\) B) \(-3\) and \(1\) C) \(2\) and \(0\) D) \(6\) and \(-2\)</p>
 </li>
 <li>
-<p><strong>(B2, SPR)</strong> For (y=x^2-8x+10), the (x)-coordinate of the vertex is?</p>
+<p><strong>(B2, SPR)</strong> For \(y=x^2-8x+10\), the \(x\)-coordinate of the vertex is?</p>
 </li>
 <li>
 <p><strong>(B4, MC)</strong> Which represents exponential growth?<br />
- A) (y=9-0.2x) B) (y=9(0.8)^x) C) (y=9(1.2)^x) D) (y=\dfrac{9}{x})</p>
+ A) \(y=9-0.2x\) B) \(y=9(0.8)^x\) C) \(y=9(1.2)^x\) D) \(y=\dfrac{9}{x}\)</p>
 </li>
 <li>
-<p><strong>(C1, SPR)</strong> A recipe uses oil:vinegar (=3:1). If you use 2 cups of vinegar, how many cups of oil?</p>
+<p><strong>(C1, SPR)</strong> A recipe uses oil:vinegar \(=3:1\). If you use 2 cups of vinegar, how many cups of oil?</p>
 </li>
 <li>
 <p><strong>(C2, MC)</strong> A price of \$80 increases 25%, then decreases 25%. Final price?<br />
  A) \$80 B) \$75 C) \$85 D) \$70</p>
 </li>
 <li>
-<p><strong>(C3, MC)</strong> Data: (2,2,3,7,16). The median is<br />
+<p><strong>(C3, MC)</strong> Data: \(2,2,3,7,16\). The median is<br />
  A) 2 B) 3 C) 6 D) 7</p>
 </li>
 <li>
-<p><strong>(C5, MC)</strong> Using the club table (Juniors 12 Yes / 8 No; Seniors 18 Yes / 12 No), (P(\text{Yes}\mid\text{Senior})) is<br />
- A) (18/50) B) (18/30) C) (30/50) D) (18/20)</p>
+<p><strong>(C5, MC)</strong> Using the club table (Juniors 12 Yes / 8 No; Seniors 18 Yes / 12 No), \(P(\text{Yes}\mid\text{Senior})\) is<br />
+ A) \(18/50\) B) \(18/30\) C) \(30/50\) D) \(18/20\)</p>
 </li>
 <li>
 <p><strong>(D1, SPR)</strong> Volume of a cube with edge 3.</p>
 </li>
 <li>
-<p><strong>(D2, MC)</strong> A triangle has angles (40^\circ) and (65^\circ). The third angle is<br />
- A) (65^\circ) B) (75^\circ) C) (85^\circ) D) (95^\circ)</p>
+<p><strong>(D2, MC)</strong> A triangle has angles \(40^\circ\) and \(65^\circ\). The third angle is<br />
+ A) \(65^\circ\) B) \(75^\circ\) C) \(85^\circ\) D) \(95^\circ\)</p>
 </li>
 <li>
 <p><strong>(D3, MC)</strong> Isosceles right triangle with leg 5. Hypotenuse?<br />
- A) 5 B) (5\sqrt{2}) C) (5\sqrt{3}) D) 10</p>
+ A) 5 B) \(5\sqrt{2}\) C) \(5\sqrt{3}\) D) 10</p>
 </li>
 <li>
-<p><strong>(D4, SPR)</strong> Circumference of a circle with diameter 10. Enter the number that multiplies (\pi) (so if the answer is (10\pi), enter 10).</p>
+<p><strong>(D4, SPR)</strong> Circumference of a circle with diameter 10. Enter the number that multiplies \(\pi\) (so if the answer is \(10\pi\), enter 10).</p>
 </li>
 </ol>
 <hr />
@@ -1544,33 +1548,33 @@ Answers: <a href="answer-key-01.md"><code>answer-key-01.md</code></a>.</p>
 These are the original Weekend 1 Algebra items (instructor-created). Answers are in <a href="answer-key-01.md"><code>answer-key-01.md</code></a> § Optional Algebra drill.</p>
 <p><strong>A1</strong></p>
 <ol>
-<li>(5-2(3x+1)=x-17)  </li>
-<li>(\dfrac{x}{4}+\dfrac{x}{6}=5)  </li>
-<li>(SPR) (0.2(x+15)=0.5x-3)  </li>
+<li>\(5-2(3x+1)=x-17\)  </li>
+<li>\(\dfrac{x}{4}+\dfrac{x}{6}=5\)  </li>
+<li>(SPR) \(0.2(x+15)=0.5x-3\)  </li>
 <li>A number decreased by 18 is four times the number. Find the number.  </li>
-<li>(\dfrac{3(2x-1)}{5}=x+1)</li>
+<li>\(\dfrac{3(2x-1)}{5}=x+1\)</li>
 </ol>
 <p><strong>A2–A3</strong></p>
 <ol start="6">
-<li>Write (3x-2y=12) in slope-intercept form; state slope and (y)-intercept.  </li>
-<li>Line with slope (-\tfrac{1}{2}) through ((-4,7)). Equation in point-slope then slope-intercept.  </li>
-<li>Cost (C=12n+45) for (n) shirts. Interpret slope and intercept. What is (C) when (n=8)?  </li>
-<li>Which line is perpendicular to (y=3x-1) and passes through ((0,4))?<br />
- A) (y=3x+4) B) (y=-\tfrac13 x+4) C) (y=\tfrac13 x+4) D) (y=-3x+4)</li>
+<li>Write \(3x-2y=12\) in slope-intercept form; state slope and \(y\)-intercept.  </li>
+<li>Line with slope \(-\tfrac{1}{2}\) through \((-4,7)\). Equation in point-slope then slope-intercept.  </li>
+<li>Cost \(C=12n+45\) for \(n\) shirts. Interpret slope and intercept. What is \(C\) when \(n=8\)?  </li>
+<li>Which line is perpendicular to \(y=3x-1\) and passes through \((0,4)\)?<br />
+ A) \(y=3x+4\) B) \(y=-\tfrac13 x+4\) C) \(y=\tfrac13 x+4\) D) \(y=-3x+4\)</li>
 </ol>
 <p><strong>A4</strong></p>
 <ol start="10">
-<li>(\begin{cases}y=2x-3\ 3x+2y=26\end{cases})  </li>
-<li>(\begin{cases}4x+3y=10\ 2x-y=1\end{cases})  </li>
-<li>How many solutions? (\begin{cases}2x-4y=6\ x-2y=5\end{cases})  </li>
+<li>\(\begin{cases}y=2x-3\\ 3x+2y=26\end{cases}\)  </li>
+<li>\(\begin{cases}4x+3y=10\\ 2x-y=1\end{cases}\)  </li>
+<li>How many solutions? \(\begin{cases}2x-4y=6\\ x-2y=5\end{cases}\)  </li>
 <li>(SPR) Adult tickets \$12, child \$7. 15 tickets cost \$145. How many adult tickets?</li>
 </ol>
 <p><strong>A5</strong></p>
 <ol start="14">
-<li>Solve: (2(x-4)&lt;5x+1).  </li>
-<li>Which point satisfies (y&gt;2x-1) and (x+y\le 4)?<br />
- A) ((0,5)) B) ((1,2)) C) ((3,0)) D) ((2,3))  </li>
-<li>For which (k) is (x=2) a solution of (3x+k&gt;10)?</li>
+<li>Solve: \(2(x-4)&lt;5x+1\).  </li>
+<li>Which point satisfies \(y&gt;2x-1\) and \(x+y\le 4\)?<br />
+ A) \((0,5)\) B) \((1,2)\) C) \((3,0)\) D) \((2,3)\)  </li>
+<li>For which \(k\) is \(x=2\) a solution of \(3x+k&gt;10\)?</li>
 </ol>
 <div class="section-break"></div>
 
@@ -1631,41 +1635,41 @@ These are the original Weekend 1 Algebra items (instructor-created). Answers are
 <h3>Oral (student first)</h3>
 <ol>
 <li>Fastest SAT check for “which is equivalent”: expand all, factor the stem, or Desmos overlay? When each?  </li>
-<li>Why must you state (x\neq 3) when canceling ((x-3))? Does SAT still call the simplified form equivalent?  </li>
-<li>Difference of cubes: (a^3-b^3=) ?</li>
+<li>Why must you state \(x\neq 3\) when canceling \((x-3)\)? Does SAT still call the simplified form equivalent?  </li>
+<li>Difference of cubes: \(a^3-b^3=\) ?</li>
 </ol>
 <h3>Reminder (2 min, then items)</h3>
 <p>Factor / expand / cancel common factors / exponent rules. Desmos: identical graphs ⇒ equivalent (watch domain holes).</p>
 <h3>Items</h3>
-<p><strong>S1.</strong> Which is equivalent to (\dfrac{x^2-9}{x-3}) for (x\neq 3)?<br />
- A) (x-3) B) (x+3) C) (x^2-3) D) (3-x)</p>
-<p><strong>S2.</strong> Simplify (\dfrac{2x^3-8x}{2x}) for (x\neq 0).</p>
-<p><strong>S3.</strong> Factor completely: (8x^3-27).</p>
-<p><strong>S4.</strong> Which is equivalent to (4x(x-3)-2(x-3))?<br />
- A) (2(x-3)(2x-1)) B) (2(x-3)(2x+1)) C) (4x^2-10x+6) D) (2(x-3)(2x-1)+1)</p>
-<p><strong>S5.</strong> (SPR) If ((3x^2 y)^2 = ax^b y^c) and (a,b,c&gt;0), what is (a+b+c)?</p>
-<p><strong>S6.</strong> Rewrite (\sqrt{18x^2}) as a simplified radical. Assume (x&gt;0).</p>
+<p><strong>S1.</strong> Which is equivalent to \(\dfrac{x^2-9}{x-3}\) for \(x\neq 3\)?<br />
+ A) \(x-3\) B) \(x+3\) C) \(x^2-3\) D) \(3-x\)</p>
+<p><strong>S2.</strong> Simplify \(\dfrac{2x^3-8x}{2x}\) for \(x\neq 0\).</p>
+<p><strong>S3.</strong> Factor completely: \(8x^3-27\).</p>
+<p><strong>S4.</strong> Which is equivalent to \(4x(x-3)-2(x-3)\)?<br />
+ A) \(2(x-3)(2x-1)\) B) \(2(x-3)(2x+1)\) C) \(4x^2-10x+6\) D) \(2(x-3)(2x-1)+1\)</p>
+<p><strong>S5.</strong> (SPR) If \((3x^2 y)^2 = ax^b y^c\) and \(a,b,c&gt;0\), what is \(a+b+c\)?</p>
+<p><strong>S6.</strong> Rewrite \(\sqrt{18x^2}\) as a simplified radical. Assume \(x&gt;0\).</p>
 <h3>Nitpick</h3>
 <ul>
-<li>Cancel <strong>factors</strong>, not terms ((x^2-9) is not (x^2) over 9)  </li>
-<li>Cubes: (8x^3-27=(2x-3)(4x^2+6x+9)) — the quadratic does <strong>not</strong> factor over the reals  </li>
-<li>((3x^2 y)^2=9x^4 y^2), not (3x^4 y^2)</li>
+<li>Cancel <strong>factors</strong>, not terms (\(x^2-9\) is not \(x^2\) over 9)  </li>
+<li>Cubes: \(8x^3-27=(2x-3)(4x^2+6x+9)\) — the quadratic does <strong>not</strong> factor over the reals  </li>
+<li>\((3x^2 y)^2=9x^4 y^2\), not \(3x^4 y^2\)</li>
 </ul>
 <hr />
 <h2>Block 2 — Absolute value (1:15–2:05) · B2</h2>
 <h3>Oral</h3>
 <ol>
-<li>(|A|=k) with (k&gt;0) means how many cases? If (k=0)? If (k&lt;0)?  </li>
-<li>(|A|&lt;3) as a compound inequality?  </li>
-<li>(|A|=|B|) — what’s the clean case split?</li>
+<li>\(|A|=k\) with \(k&gt;0\) means how many cases? If \(k=0\)? If \(k&lt;0\)?  </li>
+<li>\(|A|&lt;3\) as a compound inequality?  </li>
+<li>\(|A|=|B|\) — what’s the clean case split?</li>
 </ol>
 <h3>Items</h3>
-<p><strong>S7.</strong> Solve (|3x+1|=10).</p>
-<p><strong>S8.</strong> Solve (|x-4|&lt;3). Write as a compound inequality.</p>
-<p><strong>S9.</strong> Solve (|2x-5|=|x+1|).</p>
-<p><strong>S10.</strong> How many solutions: (|x-2|=-5)?<br />
+<p><strong>S7.</strong> Solve \(|3x+1|=10\).</p>
+<p><strong>S8.</strong> Solve \(|x-4|&lt;3\). Write as a compound inequality.</p>
+<p><strong>S9.</strong> Solve \(|2x-5|=|x+1|\).</p>
+<p><strong>S10.</strong> How many solutions: \(|x-2|=-5\)?<br />
  A) 0 B) 1 C) 2 D) infinitely many</p>
-<p><strong>S11.</strong> (SPR) The larger solution of (|2x-3|=7).</p>
+<p><strong>S11.</strong> (SPR) The larger solution of \(|2x-3|=7\).</p>
 <h3>Nitpick</h3>
 <ul>
 <li>Absolute value is never negative — S10 is a freebie if she remembers that  </li>
@@ -1684,15 +1688,15 @@ These are the original Weekend 1 Algebra items (instructor-created). Answers are
 <h3>Reminder</h3>
 <p>Multiply through by the LCD. Discard any solution that makes a denominator 0.</p>
 <h3>Items</h3>
-<p><strong>S12.</strong> Solve (\dfrac{x+3}{x-1}=2).</p>
-<p><strong>S13.</strong> Solve (\dfrac{1}{x-2}+3=\dfrac{5}{x-2}).</p>
-<p><strong>S14.</strong> Solve (\dfrac{x}{x-1}=\dfrac{2}{x-1}+1). How many solutions?</p>
-<p><strong>S15.</strong> For which (x) is (\dfrac{x^2-5x+6}{x-2}) undefined? What is the simplified expression for all other (x)?</p>
-<p><strong>S16.</strong> (SPR) Solution of (\dfrac{4}{x}+\dfrac{1}{2}=3). (Assume one real solution.)</p>
+<p><strong>S12.</strong> Solve \(\dfrac{x+3}{x-1}=2\).</p>
+<p><strong>S13.</strong> Solve \(\dfrac{1}{x-2}+3=\dfrac{5}{x-2}\).</p>
+<p><strong>S14.</strong> Solve \(\dfrac{x}{x-1}=\dfrac{2}{x-1}+1\). How many solutions?</p>
+<p><strong>S15.</strong> For which \(x\) is \(\dfrac{x^2-5x+6}{x-2}\) undefined? What is the simplified expression for all other \(x\)?</p>
+<p><strong>S16.</strong> (SPR) Solution of \(\dfrac{4}{x}+\dfrac{1}{2}=3\). (Assume one real solution.)</p>
 <h3>Nitpick</h3>
 <ul>
 <li>S14 is a <strong>no-solution</strong> trap: algebra can look like it “cancels” into a contradiction  </li>
-<li>Undefined at the hole vs removable discontinuity — SAT usually asks “undefined” or “equivalent for (x\neq)”</li>
+<li>Undefined at the hole vs removable discontinuity — SAT usually asks “undefined” or “equivalent for \(x\neq\)”</li>
 </ul>
 <hr />
 <h2>Block 4 — Radical equations (3:10–3:50) · B2</h2>
@@ -1700,13 +1704,13 @@ These are the original Weekend 1 Algebra items (instructor-created). Answers are
 <ol>
 <li>Why square both sides? What extra root can appear?  </li>
 <li>After solving, what <strong>must</strong> you do?  </li>
-<li>(\sqrt{\text{something}}) is never negative. How does that kill a candidate?</li>
+<li>\(\sqrt{\text{something}}\) is never negative. How does that kill a candidate?</li>
 </ol>
 <h3>Items</h3>
-<p><strong>S17.</strong> Solve (\sqrt{2x+3}=x). Check every candidate.</p>
-<p><strong>S18.</strong> Solve (\sqrt{x+12}=x).</p>
-<p><strong>S19.</strong> Solve (\sqrt{3x-2}=4).</p>
-<p><strong>S20.</strong> (SPR) The <strong>larger</strong> valid solution of (\sqrt{5x+1}=x+1). If none, enter 0.</p>
+<p><strong>S17.</strong> Solve \(\sqrt{2x+3}=x\). Check every candidate.</p>
+<p><strong>S18.</strong> Solve \(\sqrt{x+12}=x\).</p>
+<p><strong>S19.</strong> Solve \(\sqrt{3x-2}=4\).</p>
+<p><strong>S20.</strong> (SPR) The <strong>larger</strong> valid solution of \(\sqrt{5x+1}=x+1\). If none, enter 0.</p>
 <h3>Nitpick</h3>
 <ul>
 <li>Isolate the radical <strong>before</strong> squaring  </li>
@@ -1714,9 +1718,9 @@ These are the original Weekend 1 Algebra items (instructor-created). Answers are
 </ul>
 <hr />
 <h2>Block 5 — Exit + homework (3:50–4:00)</h2>
-<p><strong>E1.</strong> Equivalent to (\dfrac{x^2-16}{x-4}) for (x\neq 4)?<br />
-<strong>E2.</strong> Solve (|x+5|=9).<br />
-<strong>E3.</strong> Does (\sqrt{x}=x-2) have solution (x=1)? Yes or no — and why?</p>
+<p><strong>E1.</strong> Equivalent to \(\dfrac{x^2-16}{x-4}\) for \(x\neq 4\)?<br />
+<strong>E2.</strong> Solve \(|x+5|=9\).<br />
+<strong>E3.</strong> Does \(\sqrt{x}=x-2\) have solution \(x=1\)? Yes or no — and why?</p>
 <h3>Assign</h3>
 <p>Question Bank: Advanced Math, <strong>equivalent expressions + nonlinear equations</strong>, medium/hard, 20 items.<br />
 Bring Sunday: list of any rational/radical miss.</p>
@@ -1729,7 +1733,7 @@ Bring Sunday: list of any rational/radical miss.</p>
 <p>Whiteboard:</p>
 <ol>
 <li>Equivalent ≠ “looks similar after dropping a term.”  </li>
-<li>(|A|=k&lt;0) → no solution.  </li>
+<li>\(|A|=k&lt;0\) → no solution.  </li>
 <li>Forbidden denominator → discard.  </li>
 <li>Radical solutions must be checked.</li>
 </ol>
@@ -1738,20 +1742,20 @@ Bring Sunday: list of any rational/radical miss.</p>
 <h3>Oral</h3>
 <ol>
 <li>“Grows by 6% per year” → what multiplier?  </li>
-<li>Same-base move: (2^{x+1}=16) — rewrite 16 first.  </li>
+<li>Same-base move: \(2^{x+1}=16\) — rewrite 16 first.  </li>
 <li>Linear vs exponential from a table: differences vs ratios.</li>
 </ol>
 <h3>Items</h3>
-<p><strong>U1.</strong> Solve (2^{x+1}=16).</p>
-<p><strong>U2.</strong> Solve (5\cdot 3^x=45).</p>
-<p><strong>U3.</strong> (P=100\left(\dfrac12\right)^t). For which (t) is (P=25)?</p>
+<p><strong>U1.</strong> Solve \(2^{x+1}=16\).</p>
+<p><strong>U2.</strong> Solve \(5\cdot 3^x=45\).</p>
+<p><strong>U3.</strong> \(P=100\left(\dfrac12\right)^t\). For which \(t\) is \(P=25\)?</p>
 <p><strong>U4.</strong> Which models exponential growth?<br />
- A) (y=9-0.2x) B) (y=9(0.8)^x) C) (y=9(1.2)^x) D) (y=9/x)</p>
+ A) \(y=9-0.2x\) B) \(y=9(0.8)^x\) C) \(y=9(1.2)^x\) D) \(y=9/x\)</p>
 <p><strong>U5.</strong> (SPR) Bacteria start at 80 and triple every 4 hours. How many after 12 hours?</p>
-<p><strong>U6.</strong> A car worth \$20{,}000 depreciates 15% per year. Write a model (V(t)). Find (V(2)).</p>
+<p><strong>U6.</strong> A car worth \$20{,}000 depreciates 15% per year. Write a model \(V(t)\). Find \(V(2)\).</p>
 <h3>Nitpick</h3>
 <ul>
-<li>(+6\%) is (\times 1.06), not (+6)  </li>
+<li>\(+6\%\) is \(\times 1.06\), not \(+6\)  </li>
 <li>Half-life / doubling: count <strong>how many periods</strong>, not clock hours blindly</li>
 </ul>
 <hr />
@@ -1763,16 +1767,16 @@ Bring Sunday: list of any rational/radical miss.</p>
 <li>What does a repeated root mean geometrically?</li>
 </ol>
 <h3>Items</h3>
-<p><strong>U7.</strong> Solve (\begin{cases}y=x^2\ y=2x+3\end{cases})</p>
-<p><strong>U8.</strong> How many solutions: (\begin{cases}y=x^2+1\ y=x\end{cases})?<br />
+<p><strong>U7.</strong> Solve \(\begin{cases}y=x^2\\ y=2x+3\end{cases}\)</p>
+<p><strong>U8.</strong> How many solutions: \(\begin{cases}y=x^2+1\\ y=x\end{cases}\)?<br />
  A) 0 B) 1 C) 2 D) 3</p>
-<p><strong>U9.</strong> Solve (\begin{cases}x+y=5\ y=x^2-1\end{cases})</p>
-<p><strong>U10.</strong> (SPR) The <strong>larger</strong> (x)-value in the intersection of (y=x^2-4) and (y=x).</p>
-<p><strong>U11.</strong> A circle (x^2+y^2=25) and line (y=3). How many intersection points? Find them.</p>
+<p><strong>U9.</strong> Solve \(\begin{cases}x+y=5\\ y=x^2-1\end{cases}\)</p>
+<p><strong>U10.</strong> (SPR) The <strong>larger</strong> \(x\)-value in the intersection of \(y=x^2-4\) and \(y=x\).</p>
+<p><strong>U11.</strong> A circle \(x^2+y^2=25\) and line \(y=3\). How many intersection points? Find them.</p>
 <h3>Nitpick</h3>
 <ul>
-<li>After substituting, you still have to <strong>pair</strong> (y) with each (x)  </li>
-<li>U8: (x^2-x+1=0) discriminant (1-4&lt;0) → none — a graph would show the line missing the parabola</li>
+<li>After substituting, you still have to <strong>pair</strong> \(y\) with each \(x\)  </li>
+<li>U8: \(x^2-x+1=0\) discriminant \(1-4&lt;0\) → none — a graph would show the line missing the parabola</li>
 </ul>
 <hr />
 <h2>Break (2:05–2:15)</h2>
@@ -1780,32 +1784,32 @@ Bring Sunday: list of any rational/radical miss.</p>
 <h2>Block 3 — Reading nonlinear functions (2:15–3:05) · B4</h2>
 <h3>Oral</h3>
 <ol>
-<li>(f(x)=a(x-h)^2+k): what do (a,h,k) do?  </li>
-<li>(g(x)=A\cdot r^x): what is (g(0))? What is (r)?  </li>
+<li>\(f(x)=a(x-h)^2+k\): what do \(a,h,k\) do?  </li>
+<li>\(g(x)=A\cdot r^x\): what is \(g(0)\)? What is \(r\)?  </li>
 <li>SAT asks “which statement is true about the function” — they want a <strong>parameter meaning</strong>, not a new calculation.</li>
 </ol>
 <h3>Items</h3>
-<p><strong>U12.</strong> (f(x)=2(x-1)^2+5). Vertex? Min or max? (f(3))?</p>
-<p><strong>U13.</strong> (g(x)=3\cdot 2^x). Find (g(0)) and (g(4)). Interpret 3 and 2.</p>
-<p><strong>U14.</strong> A ball (h(t)=-16t^2+48t+4). What is the <strong>maximum</strong> height? (Desmos or vertex.)</p>
-<p><strong>U15.</strong> Which function has a (y)-intercept of 7 and decreases by a constant factor?<br />
- A) (y=7-2x) B) (y=7(0.6)^x) C) (y=7+0.6x) D) (y=0.6x+7)</p>
-<p><strong>U16.</strong> (SPR) For (y=-(x+2)^2+9), the maximum value of (y).</p>
+<p><strong>U12.</strong> \(f(x)=2(x-1)^2+5\). Vertex? Min or max? \(f(3)\)?</p>
+<p><strong>U13.</strong> \(g(x)=3\cdot 2^x\). Find \(g(0)\) and \(g(4)\). Interpret 3 and 2.</p>
+<p><strong>U14.</strong> A ball \(h(t)=-16t^2+48t+4\). What is the <strong>maximum</strong> height? (Desmos or vertex.)</p>
+<p><strong>U15.</strong> Which function has a \(y\)-intercept of 7 and decreases by a constant factor?<br />
+ A) \(y=7-2x\) B) \(y=7(0.6)^x\) C) \(y=7+0.6x\) D) \(y=0.6x+7\)</p>
+<p><strong>U16.</strong> (SPR) For \(y=-(x+2)^2+9\), the maximum value of \(y\).</p>
 <hr />
 <h2>Block 4 — Timed Advanced Math mix (3:05–3:50)</h2>
 <p><strong>12 questions, 18 minutes</strong> (half-module density, B-heavy). Then 10 minutes of miss review.</p>
-<p><strong>T1.</strong> Zeros of (x^2+x-12=0).<br />
-<strong>T2.</strong> Equivalent to ((x-4)^2)?<br />
-<strong>T3.</strong> (\dfrac{6x^2-9x}{3x}) for (x\neq 0).<br />
-<strong>T4.</strong> (|x+5|=9). Solutions.<br />
-<strong>T5.</strong> (\dfrac{x+3}{x-1}=2). Solution.<br />
-<strong>T6.</strong> (\sqrt{3x-2}=4). Solution.<br />
-<strong>T7.</strong> (3^{x}=81).<br />
-<strong>T8.</strong> Intersections of (y=x^2) and (y=2x+3): how many?<br />
-<strong>T9.</strong> Vertex of (y=-2(x+1)^2+5).<br />
-<strong>T10.</strong> (200(1.5)^2).<br />
-<strong>T11.</strong> (SPR) Minimum of (y=x^2-4x-1).<br />
-<strong>T12.</strong> Which is exponential decay: (y=20-3x) or (y=20(0.85)^x)?</p>
+<p><strong>T1.</strong> Zeros of \(x^2+x-12=0\).<br />
+<strong>T2.</strong> Equivalent to \((x-4)^2\)?<br />
+<strong>T3.</strong> \(\dfrac{6x^2-9x}{3x}\) for \(x\neq 0\).<br />
+<strong>T4.</strong> \(|x+5|=9\). Solutions.<br />
+<strong>T5.</strong> \(\dfrac{x+3}{x-1}=2\). Solution.<br />
+<strong>T6.</strong> \(\sqrt{3x-2}=4\). Solution.<br />
+<strong>T7.</strong> \(3^{x}=81\).<br />
+<strong>T8.</strong> Intersections of \(y=x^2\) and \(y=2x+3\): how many?<br />
+<strong>T9.</strong> Vertex of \(y=-2(x+1)^2+5\).<br />
+<strong>T10.</strong> \(200(1.5)^2\).<br />
+<strong>T11.</strong> (SPR) Minimum of \(y=x^2-4x-1\).<br />
+<strong>T12.</strong> Which is exponential decay: \(y=20-3x\) or \(y=20(0.85)^x\)?</p>
 <hr />
 <h2>Block 5 — Recap + take-home (3:50–4:00)</h2>
 <ol>
@@ -1823,62 +1827,62 @@ Bring Sunday: list of any rational/radical miss.</p>
 <p><strong>16 questions, 24 minutes.</strong> Desmos allowed. Answers: <a href="answer-key-02.md"><code>answer-key-02.md</code></a>.</p>
 <ol>
 <li>
-<p><strong>(B1, MC)</strong> (\dfrac{x^2-9}{x-3}) for (x\neq 3) is equivalent to<br />
- A) (x-3) B) (x+3) C) (x^2-3) D) (9-x)</p>
+<p><strong>(B1, MC)</strong> \(\dfrac{x^2-9}{x-3}\) for \(x\neq 3\) is equivalent to<br />
+ A) \(x-3\) B) \(x+3\) C) \(x^2-3\) D) \(9-x\)</p>
 </li>
 <li>
-<p><strong>(B1, SPR)</strong> If ((3x^2 y)^2=ax^b y^c) with (a,b,c&gt;0), enter (a+b+c).</p>
+<p><strong>(B1, SPR)</strong> If \((3x^2 y)^2=ax^b y^c\) with \(a,b,c&gt;0\), enter \(a+b+c\).</p>
 </li>
 <li>
-<p><strong>(B1, MC)</strong> (8x^3-27=)<br />
- A) ((2x-3)^3) B) ((2x-3)(4x^2+6x+9)) C) ((2x-3)(4x^2-6x+9)) D) ((8x-27)(x^2+1))</p>
+<p><strong>(B1, MC)</strong> \(8x^3-27=\)<br />
+ A) \((2x-3)^3\) B) \((2x-3)(4x^2+6x+9)\) C) \((2x-3)(4x^2-6x+9)\) D) \((8x-27)(x^2+1)\)</p>
 </li>
 <li>
-<p><strong>(B2, MC)</strong> Solutions of (|3x+1|=10)<br />
- A) (3,-3) B) (3,-\dfrac{11}{3}) C) (\dfrac{11}{3},-3) D) (3) only</p>
+<p><strong>(B2, MC)</strong> Solutions of \(|3x+1|=10\)<br />
+ A) \(3,-3\) B) \(3,-\dfrac{11}{3}\) C) \(\dfrac{11}{3},-3\) D) \(3\) only</p>
 </li>
 <li>
-<p><strong>(B2, MC)</strong> (|x-4|&lt;3) is<br />
- A) (x&lt;7) B) (1&lt;x&lt;7) C) (x&lt;1) or (x&gt;7) D) (x&gt;1)</p>
+<p><strong>(B2, MC)</strong> \(|x-4|&lt;3\) is<br />
+ A) \(x&lt;7\) B) \(1&lt;x&lt;7\) C) \(x&lt;1\) or \(x&gt;7\) D) \(x&gt;1\)</p>
 </li>
 <li>
-<p><strong>(B2, SPR)</strong> Larger solution of (|2x-5|=|x+1|).</p>
+<p><strong>(B2, SPR)</strong> Larger solution of \(|2x-5|=|x+1|\).</p>
 </li>
 <li>
-<p><strong>(B2, MC)</strong> (|x-2|=-5) has how many solutions?<br />
+<p><strong>(B2, MC)</strong> \(|x-2|=-5\) has how many solutions?<br />
  A) 0 B) 1 C) 2 D) infinitely many</p>
 </li>
 <li>
-<p><strong>(B2, SPR)</strong> Solve (\dfrac{x+3}{x-1}=2). Enter (x).</p>
+<p><strong>(B2, SPR)</strong> Solve \(\dfrac{x+3}{x-1}=2\). Enter \(x\).</p>
 </li>
 <li>
-<p><strong>(B2, MC)</strong> (\dfrac{x}{x-1}=\dfrac{2}{x-1}+1) has<br />
- A) (x=1) B) (x=2) C) no solution D) every (x\neq 1)</p>
+<p><strong>(B2, MC)</strong> \(\dfrac{x}{x-1}=\dfrac{2}{x-1}+1\) has<br />
+ A) \(x=1\) B) \(x=2\) C) no solution D) every \(x\neq 1\)</p>
 </li>
 <li>
-<p><strong>(B2, MC)</strong> Valid solution of (\sqrt{2x+3}=x)<br />
- A) (-1) only B) (3) only C) (-1) and (3) D) none</p>
+<p><strong>(B2, MC)</strong> Valid solution of \(\sqrt{2x+3}=x\)<br />
+ A) \(-1\) only B) \(3\) only C) \(-1\) and \(3\) D) none</p>
 </li>
 <li>
-<p><strong>(B2, SPR)</strong> Solve (\sqrt{3x-2}=4).</p>
+<p><strong>(B2, SPR)</strong> Solve \(\sqrt{3x-2}=4\).</p>
 </li>
 <li>
-<p><strong>(B4, MC)</strong> (2^{x+1}=16)<br />
- A) (x=2) B) (x=3) C) (x=4) D) (x=8)</p>
+<p><strong>(B4, MC)</strong> \(2^{x+1}=16\)<br />
+ A) \(x=2\) B) \(x=3\) C) \(x=4\) D) \(x=8\)</p>
 </li>
 <li>
 <p><strong>(B4, SPR)</strong> Bacteria start at 80 and triple every 4 hours. After 12 hours?</p>
 </li>
 <li>
-<p><strong>(B3, MC)</strong> (\begin{cases}y=x^2\ y=2x+3\end{cases}) has how many solutions?<br />
+<p><strong>(B3, MC)</strong> \(\begin{cases}y=x^2\\ y=2x+3\end{cases}\) has how many solutions?<br />
  A) 0 B) 1 C) 2 D) 3</p>
 </li>
 <li>
-<p><strong>(B4, MC)</strong> (f(x)=2(x-1)^2+5) has<br />
- A) max 5 at (x=1) B) min 5 at (x=1) C) min 5 at (x=-1) D) min 2 at (x=1)</p>
+<p><strong>(B4, MC)</strong> \(f(x)=2(x-1)^2+5\) has<br />
+ A) max 5 at \(x=1\) B) min 5 at \(x=1\) C) min 5 at \(x=-1\) D) min 2 at \(x=1\)</p>
 </li>
 <li>
-<p><strong>(B4, SPR)</strong> Maximum value of (y=-(x+2)^2+9).</p>
+<p><strong>(B4, SPR)</strong> Maximum value of \(y=-(x+2)^2+9\).</p>
 </li>
 </ol>
 <div class="section-break"></div>
@@ -1951,20 +1955,20 @@ Bring Sunday: list of any rational/radical miss.</p>
 <td>multiply</td>
 </tr>
 <tr>
-<td>increases by (p\%)</td>
-<td>(\times(1+p/100))</td>
+<td>increases by \(p\%\)</td>
+<td>\(\times(1+p/100)\)</td>
 </tr>
 <tr>
-<td>decreases by (p\%)</td>
-<td>(\times(1-p/100))</td>
+<td>decreases by \(p\%\)</td>
+<td>\(\times(1-p/100)\)</td>
 </tr>
 <tr>
 <td>what percent of</td>
-<td>part/whole (\times 100)</td>
+<td>part/whole \(\times 100\)</td>
 </tr>
 <tr>
-<td>given the mean of (n) values</td>
-<td>sum (= n\cdot\text{mean})</td>
+<td>given the mean of \(n\) values</td>
+<td>sum \(= n\cdot\text{mean}\)</td>
 </tr>
 </tbody>
 </table>
@@ -1972,17 +1976,17 @@ Bring Sunday: list of any rational/radical miss.</p>
 <h2>Block 1 — Ratios, rates, units (0:15–1:20) · C1</h2>
 <h3>Oral</h3>
 <ol>
-<li>(2:5) with 12 on the first part — how do you set the proportion?  </li>
+<li>\(2:5\) with 12 on the first part — how do you set the proportion?  </li>
 <li>45 miles in 3/4 hour — mph?  </li>
-<li>Two workers at different rates. Combined rate is <strong>sum</strong>, then time (=) work / combined.</li>
+<li>Two workers at different rates. Combined rate is <strong>sum</strong>, then time \(=\) work / combined.</li>
 </ol>
 <h3>Items</h3>
-<p><strong>S1.</strong> Mix is flour:sugar (=2:5). 12 cups flour. Cups of sugar?</p>
+<p><strong>S1.</strong> Mix is flour:sugar \(=2:5\). 12 cups flour. Cups of sugar?</p>
 <p><strong>S2.</strong> A car travels 180 miles in 3 hours. At that rate, miles in 2 hours 30 minutes? (SPR)</p>
 <p><strong>S3.</strong> Printer A: 40 pages/min. Printer B: 55 pages/min. Together, minutes to print 600 pages?</p>
 <p><strong>S4.</strong> A recipe for 8 servings uses 3 cups of broth. Cups of broth for 20 servings?</p>
 <p><strong>S5.</strong> Convert 90 minutes to hours, then find distance at 48 mph. (SPR, miles)</p>
-<p><strong>S6.</strong> Juice concentrate:water (=1:3). How many cups of concentrate in 16 cups of finished mix?</p>
+<p><strong>S6.</strong> Juice concentrate:water \(=1:3\). How many cups of concentrate in 16 cups of finished mix?</p>
 <p><strong>S7.</strong> (MC) Which rate is fastest?<br />
  A) 5 miles in 12 minutes B) 20 mph C) 8 miles in 20 minutes D) 0.4 miles/minute</p>
 <h3>Nitpick</h3>
@@ -2010,9 +2014,9 @@ Bring Sunday: list of any rational/radical miss.</p>
 <p><strong>S14.</strong> (SPR) What number, increased by 20%, becomes 72?</p>
 <h3>Nitpick</h3>
 <ul>
-<li>Percent change (=\dfrac{\text{new}-\text{old}}{\text{old}})  </li>
-<li>Successive 10% and 10% is (\times 1.1\times 1.1=1.21), not (+20\%)  </li>
-<li>“Increased by 20% becomes 72” → (1.2x=72), not (x+20=72)</li>
+<li>Percent change \(=\dfrac{\text{new}-\text{old}}{\text{old}}\)  </li>
+<li>Successive 10% and 10% is \(\times 1.1\times 1.1=1.21\), not \(+20\%\)  </li>
+<li>“Increased by 20% becomes 72” → \(1.2x=72\), not \(x+20=72\)</li>
 </ul>
 <hr />
 <h2>Break (2:15–2:25)</h2>
@@ -2025,36 +2029,36 @@ Bring Sunday: list of any rational/radical miss.</p>
 <li>Mean of 5 scores is 80. What’s the sum? Why does SAT love that?</li>
 </ol>
 <h3>Items</h3>
-<p><strong>S15.</strong> Data: (2,2,3,7,16). Mean, median, range?</p>
-<p><strong>S16.</strong> Scores: (70,74,74,76,92). Mean vs median. Which is the better “typical” if you want to ignore the 92?</p>
+<p><strong>S15.</strong> Data: \(2,2,3,7,16\). Mean, median, range?</p>
+<p><strong>S16.</strong> Scores: \(70,74,74,76,92\). Mean vs median. Which is the better “typical” if you want to ignore the 92?</p>
 <p><strong>S17.</strong> Five tests, mean 80. The first four scores are 72, 88, 90, 70. What is the fifth? (SPR)</p>
-<p><strong>S18.</strong> List A: (3,5,5,7,10). List B: (3,5,5,7,30). Which statement is true?<br />
+<p><strong>S18.</strong> List A: \(3,5,5,7,10\). List B: \(3,5,5,7,30\). Which statement is true?<br />
  A) Medians differ a lot B) Means differ a lot C) Ranges are equal D) Both means equal 6</p>
-<p><strong>S19.</strong> Adding 100 to the set (2,2,3,7,16) will<br />
+<p><strong>S19.</strong> Adding 100 to the set \(2,2,3,7,16\) will<br />
  A) raise the median more than the mean<br />
  B) raise the mean more than the median<br />
  C) leave both unchanged<br />
  D) lower the range</p>
 <p><strong>S20.</strong> A histogram is piled on the left with a long tail to the right (right-skewed). Typically:<br />
- A) mean (&lt;) median B) mean (&gt;) median C) mean (=) median always D) range is 0</p>
+ A) mean \(&lt;\) median B) mean \(&gt;\) median C) mean \(=\) median always D) range is 0</p>
 <h3>Nitpick</h3>
 <ul>
 <li>Odd count: median is the middle after <strong>sorting</strong>  </li>
-<li>Range (=) max − min, not “how many numbers”  </li>
+<li>Range \(=\) max − min, not “how many numbers”  </li>
 <li>Skew: tail pulls the <strong>mean</strong></li>
 </ul>
 <hr />
 <h2>Block 4 — Mixed C1–C3 sprint (3:35–3:55)</h2>
-<p><strong>M1.</strong> 3:4 = (x:20). (x=)?<br />
+<p><strong>M1.</strong> 3:4 = \(x:20\). \(x=\)?<br />
 <strong>M2.</strong> 12 is 15% of what?<br />
-<strong>M3.</strong> Mean of (4,6,10,x) is 8. (x=)?<br />
+<strong>M3.</strong> Mean of \(4,6,10,x\) is 8. \(x=\)?<br />
 <strong>M4.</strong> 30% off \$40, then extra \$5 coupon. Final?<br />
 <strong>M5.</strong> 2.4 hours at 55 mph. Distance?</p>
 <hr />
 <h2>Block 5 — Exit + homework (3:55–4:00)</h2>
 <p><strong>E1.</strong> Up 20% from 50, then down 20%. Result?<br />
 <strong>E2.</strong> Ratio 5:2, total 28. Larger part?<br />
-<strong>E3.</strong> Median of (9,3,3,11,7)?</p>
+<strong>E3.</strong> Median of \(9,3,3,11,7\)?</p>
 <h3>Assign</h3>
 <p>Question Bank: PSDA → ratios, percents, one-variable data, 15 items.<br />
 Sunday is tables, probability, and “what can you conclude.”</p>
@@ -2069,29 +2073,29 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <h3>Oral</h3>
 <ol>
 <li>Positive vs negative association.  </li>
-<li>Line of best fit (y=mx+b): meaning of (m) and (b) in context.  </li>
+<li>Line of best fit \(y=mx+b\): meaning of \(m\) and \(b\) in context.  </li>
 <li>Linear vs exponential: constant difference vs constant ratio.  </li>
 <li>A prediction <em>outside</em> the data range (extrapolation) — trust it?</li>
 </ol>
 <h3>Items</h3>
-<p><strong>U1.</strong> Best fit (y=8x+42) for study hours (x) and score (y). Interpret slope. Predict (x=6).</p>
-<p><strong>U2.</strong> Table: (x=0,1,2,3) and (y=12,18,27,40.5). Linear or exponential? Model?</p>
+<p><strong>U1.</strong> Best fit \(y=8x+42\) for study hours \(x\) and score \(y\). Interpret slope. Predict \(x=6\).</p>
+<p><strong>U2.</strong> Table: \(x=0,1,2,3\) and \(y=12,18,27,40.5\). Linear or exponential? Model?</p>
 <p><strong>U3.</strong> A scatterplot is tight around a rising line except one point far below. The line of best fit<br />
  A) is pulled a little toward that point B) ignores outliers always C) becomes vertical D) must pass through that point</p>
 <p><strong>U4.</strong> Which is a linear model for “starts at 80 L and drains 2.5 L/min”?<br />
- A) (V=80-2.5t) B) (V=80(0.025)^t) C) (V=2.5-80t) D) (V=80/2.5t)</p>
-<p><strong>U5.</strong> (SPR) Using (C=12n+45), cost of 8 shirts.</p>
+ A) \(V=80-2.5t\) B) \(V=80(0.025)^t\) C) \(V=2.5-80t\) D) \(V=80/2.5t\)</p>
+<p><strong>U5.</strong> (SPR) Using \(C=12n+45\), cost of 8 shirts.</p>
 <h3>Nitpick</h3>
 <ul>
-<li>Slope units: “(y)-units per (x)-unit”  </li>
+<li>Slope units: “\(y\)-units per \(x\)-unit”  </li>
 <li>Don’t call an exponential table linear because it “goes up”</li>
 </ul>
 <hr />
 <h2>Block 2 — Probability and two-way tables (1:10–2:10) · C5</h2>
 <h3>Oral</h3>
 <ol>
-<li>(P(A)=\dfrac{\text{count A}}{\text{total}})  </li>
-<li>(P(A\mid B)=) restrict to the <strong>B</strong> row/column first  </li>
+<li>\(P(A)=\dfrac{\text{count A}}{\text{total}}\)  </li>
+<li>\(P(A\mid B)=\) restrict to the <strong>B</strong> row/column first  </li>
 <li>“And” vs “or” (keep light: SAT mostly wants table reading)</li>
 </ol>
 <p>Club table (same as Weekend 1 — she should be faster):</p>
@@ -2126,14 +2130,14 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 </tbody>
 </table>
 <h3>Items</h3>
-<p><strong>U6.</strong> (P(\text{Yes})) for a random member?</p>
-<p><strong>U7.</strong> (P(\text{Yes}\mid\text{Senior}))?</p>
-<p><strong>U8.</strong> (P(\text{Junior}\mid\text{No}))?</p>
+<p><strong>U6.</strong> \(P(\text{Yes})\) for a random member?</p>
+<p><strong>U7.</strong> \(P(\text{Yes}\mid\text{Senior})\)?</p>
+<p><strong>U8.</strong> \(P(\text{Junior}\mid\text{No})\)?</p>
 <p><strong>U9.</strong> How many seniors said No?</p>
-<p><strong>U10.</strong> A spinner is fair with 5 equal sectors, two of them red. (P(\text{red}))? (SPR as a decimal or fraction)</p>
-<p><strong>U11.</strong> A bag: 4 red, 6 blue. One marble drawn. (P(\text{not red}))?</p>
-<p><strong>U12.</strong> (MC) From the club table, (P(\text{Senior and Yes})) is<br />
- A) (18/30) B) (18/50) C) (30/50) D) (18/20)</p>
+<p><strong>U10.</strong> A spinner is fair with 5 equal sectors, two of them red. \(P(\text{red})\)? (SPR as a decimal or fraction)</p>
+<p><strong>U11.</strong> A bag: 4 red, 6 blue. One marble drawn. \(P(\text{not red})\)?</p>
+<p><strong>U12.</strong> (MC) From the club table, \(P(\text{Senior and Yes})\) is<br />
+ A) \(18/30\) B) \(18/50\) C) \(30/50\) D) \(18/20\)</p>
 <h3>Nitpick</h3>
 <ul>
 <li>Conditional: new denominator  </li>
@@ -2157,7 +2161,7 @@ Sunday is tables, probability, and “what can you conclude.”</p>
  B) True support is likely between 48% and 56%<br />
  C) The candidate will win<br />
  D) The sample is biased because it isn’t 50–50</p>
-<p><strong>U14.</strong> Two random samples, same population. Sample A (n=100), Sample B (n=900). Which likely has the <strong>smaller</strong> margin of error?<br />
+<p><strong>U14.</strong> Two random samples, same population. Sample A \(n=100\), Sample B \(n=900\). Which likely has the <strong>smaller</strong> margin of error?<br />
  A) A B) B C) always equal D) cannot say without the percent</p>
 <p><strong>U15.</strong> A researcher asks only students in the honors hallway whether they like a new schedule, then claims the <strong>whole school</strong> supports it. The main problem is<br />
  A) the mean is undefined B) convenience / biased sample C) margin of error is 0 D) it is a well-designed experiment</p>
@@ -2184,11 +2188,11 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <p><strong>T1.</strong> Ratio 3:1 oil:vinegar, 2 cups vinegar. Cups of oil?<br />
 <strong>T2.</strong> 18 is 45% of what?<br />
 <strong>T3.</strong> \$80 up 25% then down 25%. Final?<br />
-<strong>T4.</strong> Data (2,2,3,7,16). Median?<br />
+<strong>T4.</strong> Data \(2,2,3,7,16\). Median?<br />
 <strong>T5.</strong> Five tests mean 80; four scores 72, 88, 90, 70. Fifth?<br />
-<strong>T6.</strong> (y=8x+42). Score at 6 hours?<br />
-<strong>T7.</strong> Club table: (P(\text{Yes}\mid\text{Senior}))?<br />
-<strong>T8.</strong> Club table: (P(\text{Senior and Yes}))?<br />
+<strong>T6.</strong> \(y=8x+42\). Score at 6 hours?<br />
+<strong>T7.</strong> Club table: \(P(\text{Yes}\mid\text{Senior})\)?<br />
+<strong>T8.</strong> Club table: \(P(\text{Senior and Yes})\)?<br />
 <strong>T9.</strong> 52% ± 4%. Lower end of the interval?<br />
 <strong>T10.</strong> Honors-hallway survey of “the school.” Bias? (yes/no + one word)<br />
 <strong>T11.</strong> Combined printers 40+55 pages/min, 600 pages. Time?<br />
@@ -2210,13 +2214,13 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <p><strong>16 questions, 24 minutes.</strong> Answers: <a href="answer-key-03.md"><code>answer-key-03.md</code></a>.</p>
 <ol>
 <li>
-<p><strong>(C1, SPR)</strong> Flour:sugar (=2:5). 12 cups flour. Cups of sugar?</p>
+<p><strong>(C1, SPR)</strong> Flour:sugar \(=2:5\). 12 cups flour. Cups of sugar?</p>
 </li>
 <li>
 <p><strong>(C1, SPR)</strong> 180 miles in 3 hours. Miles in 2.5 hours at the same rate?</p>
 </li>
 <li>
-<p><strong>(C1, MC)</strong> Concentrate:water (=1:3). Cups of concentrate in 16 cups of mix?<br />
+<p><strong>(C1, MC)</strong> Concentrate:water \(=1:3\). Cups of concentrate in 16 cups of mix?<br />
  A) 3 B) 4 C) 5 D) 12</p>
 </li>
 <li>
@@ -2238,29 +2242,29 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <p><strong>(C2, SPR)</strong> What number, increased by 20%, becomes 72?</p>
 </li>
 <li>
-<p><strong>(C3, MC)</strong> Data (2,2,3,7,16). Median?<br />
+<p><strong>(C3, MC)</strong> Data \(2,2,3,7,16\). Median?<br />
  A) 2 B) 3 C) 6 D) 7</p>
 </li>
 <li>
 <p><strong>(C3, SPR)</strong> Five tests, mean 80. Scores so far: 72, 88, 90, 70. Fifth score?</p>
 </li>
 <li>
-<p><strong>(C3, MC)</strong> Adding 100 to (2,2,3,7,16) will<br />
+<p><strong>(C3, MC)</strong> Adding 100 to \(2,2,3,7,16\) will<br />
  A) raise the median more than the mean<br />
  B) raise the mean more than the median<br />
  C) leave both unchanged<br />
  D) lower the range</p>
 </li>
 <li>
-<p><strong>(C4, SPR)</strong> (y=8x+42). Predicted score at 6 hours?</p>
+<p><strong>(C4, SPR)</strong> \(y=8x+42\). Predicted score at 6 hours?</p>
 </li>
 <li>
-<p><strong>(C5, MC)</strong> Club table (J 12Y/8N, S 18Y/12N). (P(\text{Yes}\mid\text{Senior}))<br />
- A) (18/50) B) (18/30) C) (30/50) D) (18/20)</p>
+<p><strong>(C5, MC)</strong> Club table (J 12Y/8N, S 18Y/12N). \(P(\text{Yes}\mid\text{Senior})\)<br />
+ A) \(18/50\) B) \(18/30\) C) \(30/50\) D) \(18/20\)</p>
 </li>
 <li>
-<p><strong>(C5, MC)</strong> Same table. (P(\text{Senior and Yes}))<br />
- A) (18/30) B) (18/50) C) (30/50) D) (18/20)</p>
+<p><strong>(C5, MC)</strong> Same table. \(P(\text{Senior and Yes})\)<br />
+ A) \(18/30\) B) \(18/50\) C) \(30/50\) D) \(18/20\)</p>
 </li>
 <li>
 <p><strong>(C6, MC)</strong> 52% ± 4%. Best conclusion?<br />
@@ -2336,9 +2340,9 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 </thead>
 <tbody>
 <tr>
-<td>(k)</td>
-<td>(k^2)</td>
-<td>(k^3)</td>
+<td>\(k\)</td>
+<td>\(k^2\)</td>
+<td>\(k^3\)</td>
 </tr>
 </tbody>
 </table>
@@ -2350,15 +2354,15 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <p><strong>S2.</strong> Rectangle 8 by 6. Area? Diagonal? (SPR for the diagonal)</p>
 <p><strong>S3.</strong> Triangle base 10, height 7. Area?</p>
 <p><strong>S4.</strong> A rectangular prism is 4 by 3 by 5. Volume? Surface area?</p>
-<p><strong>S5.</strong> Two similar paintings. Side lengths in ratio (2:3). If the smaller area is 20, the larger area is?<br />
+<p><strong>S5.</strong> Two similar paintings. Side lengths in ratio \(2:3\). If the smaller area is 20, the larger area is?<br />
  A) 30 B) 40 C) 45 D) 60</p>
-<p><strong>S6.</strong> A cylinder has radius 3 and height 4. Volume in terms of (\pi)? (SPR: enter the coefficient of (\pi))</p>
-<p><strong>S7.</strong> Every length of a sculpture is scaled by (\tfrac12). The new volume is what fraction of the original?<br />
- A) (\tfrac12) B) (\tfrac14) C) (\tfrac18) D) (\tfrac{1}{16})</p>
+<p><strong>S6.</strong> A cylinder has radius 3 and height 4. Volume in terms of \(\pi\)? (SPR: enter the coefficient of \(\pi\))</p>
+<p><strong>S7.</strong> Every length of a sculpture is scaled by \(\tfrac12\). The new volume is what fraction of the original?<br />
+ A) \(\tfrac12\) B) \(\tfrac14\) C) \(\tfrac18\) D) \(\tfrac{1}{16}\)</p>
 <h3>Nitpick</h3>
 <ul>
-<li>Area uses <strong>two</strong> dimensions ((k^2)), volume three ((k^3))  </li>
-<li>Cylinder: (V=\pi r^2 h), not (\pi r h)  </li>
+<li>Area uses <strong>two</strong> dimensions (\(k^2\)), volume three (\(k^3\))  </li>
+<li>Cylinder: \(V=\pi r^2 h\), not \(\pi r h\)  </li>
 <li>Surface area: 2 of each pair of faces</li>
 </ul>
 <hr />
@@ -2370,19 +2374,19 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <li>Corresponding sides sit across from corresponding angles.</li>
 </ol>
 <h3>Items</h3>
-<p><strong>S8.</strong> Triangle angles (40^\circ) and (65^\circ). Third angle?</p>
+<p><strong>S8.</strong> Triangle angles \(40^\circ\) and \(65^\circ\). Third angle?</p>
 <p><strong>S9.</strong> Two similar triangles. Corresponding sides 6 and 8. Side 9 on the smaller corresponds to what on the larger?</p>
 <p><strong>S10.</strong> Similar triangles, corresponding sides 4 and 10. Smaller perimeter 18. Larger perimeter?</p>
-<p><strong>S11.</strong> Parallel lines cut by a transversal. One interior angle is (110^\circ). The alternate interior angle is?<br />
- A) (70^\circ) B) (110^\circ) C) (20^\circ) D) (180^\circ)</p>
-<p><strong>S12.</strong> A triangle has angles (x), (2x), and (3x). Find (x). (SPR)</p>
-<p><strong>S13.</strong> An isosceles triangle has vertex angle (40^\circ). A base angle is?</p>
-<p><strong>S14.</strong> (MC) Similar figures, scale factor (3). A 5° angle on the small figure becomes<br />
- A) (15^\circ) B) (5^\circ) C) (45^\circ) D) (3^\circ)</p>
+<p><strong>S11.</strong> Parallel lines cut by a transversal. One interior angle is \(110^\circ\). The alternate interior angle is?<br />
+ A) \(70^\circ\) B) \(110^\circ\) C) \(20^\circ\) D) \(180^\circ\)</p>
+<p><strong>S12.</strong> A triangle has angles \(x\), \(2x\), and \(3x\). Find \(x\). (SPR)</p>
+<p><strong>S13.</strong> An isosceles triangle has vertex angle \(40^\circ\). A base angle is?</p>
+<p><strong>S14.</strong> (MC) Similar figures, scale factor \(3\). A 5° angle on the small figure becomes<br />
+ A) \(15^\circ\) B) \(5^\circ\) C) \(45^\circ\) D) \(3^\circ\)</p>
 <h3>Nitpick</h3>
 <ul>
 <li><strong>Angles do not scale.</strong> Similarity copies angles.  </li>
-<li>Perimeter scales by (k); area by (k^2).</li>
+<li>Perimeter scales by \(k\); area by \(k^2\).</li>
 </ul>
 <hr />
 <h2>Break (2:15–2:25)</h2>
@@ -2390,9 +2394,9 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <h2>Block 3 — Pythagorean and special rights (2:25–3:35) · D3</h2>
 <h3>Oral</h3>
 <ol>
-<li>When can you skip (a^2+b^2=c^2) and just use a pattern?  </li>
-<li>45-45-90: legs (s), hyp (s\sqrt{2}).  </li>
-<li>30-60-90: short (s), long (s\sqrt{3}), hyp (2s).  </li>
+<li>When can you skip \(a^2+b^2=c^2\) and just use a pattern?  </li>
+<li>45-45-90: legs \(s\), hyp \(s\sqrt{2}\).  </li>
+<li>30-60-90: short \(s\), long \(s\sqrt{3}\), hyp \(2s\).  </li>
 <li>Short leg is opposite 30°.</li>
 </ol>
 <h3>Items</h3>
@@ -2401,20 +2405,20 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <p><strong>S17.</strong> 30-60-90, short leg 6. Long leg and hypotenuse?</p>
 <p><strong>S18.</strong> Rectangle 5 by 12. Diagonal?</p>
 <p><strong>S19.</strong> A right triangle has hyp 10 and one leg 6. The other leg? (SPR)</p>
-<p><strong>S20.</strong> 45-45-90, hypotenuse (6\sqrt{2}). A leg is?<br />
- A) 6 B) 3 C) (6\sqrt{2}) D) 12</p>
+<p><strong>S20.</strong> 45-45-90, hypotenuse \(6\sqrt{2}\). A leg is?<br />
+ A) 6 B) 3 C) \(6\sqrt{2}\) D) 12</p>
 <p><strong>S21.</strong> 30-60-90, hypotenuse 14. Short leg?<br />
- A) 7 B) (7\sqrt{3}) C) 14 D) (14\sqrt{3})</p>
+ A) 7 B) \(7\sqrt{3}\) C) 14 D) \(14\sqrt{3}\)</p>
 <p><strong>S22.</strong> (SPR) Right triangle legs 9 and 12. Hypotenuse. (Recognize the 3-4-5 multiple.)</p>
 <h3>Nitpick</h3>
 <ul>
 <li>6-8-10 and 9-12-15 are 3-4-5  </li>
 <li>5-12-13 and 9-12-15 are different families — don’t mash them  </li>
-<li>Hypotenuse is <strong>longest</strong>; don’t put (2s) on a leg</li>
+<li>Hypotenuse is <strong>longest</strong>; don’t put \(2s\) on a leg</li>
 </ul>
 <hr />
 <h2>Block 4 — Mixed D1–D3 sprint (3:35–3:55)</h2>
-<p><strong>M1.</strong> Area of a circle radius 4, in terms of (\pi).<br />
+<p><strong>M1.</strong> Area of a circle radius 4, in terms of \(\pi\).<br />
 <strong>M2.</strong> Third angle if two angles are 90° and 35°.<br />
 <strong>M3.</strong> Cube edge 2 → volume?<br />
 <strong>M4.</strong> Scale lengths ×3 → area × ?<br />
@@ -2437,17 +2441,17 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <h3>Oral</h3>
 <ol>
 <li>SOH-CAH-TOA, out loud.  </li>
-<li>(\sin\theta=\cos(90^\circ-\theta)). Why does SAT like that?  </li>
-<li>You know (\sin\theta=3/5). A possible opposite and hypotenuse? Need the third side?</li>
+<li>\(\sin\theta=\cos(90^\circ-\theta)\). Why does SAT like that?  </li>
+<li>You know \(\sin\theta=3/5\). A possible opposite and hypotenuse? Need the third side?</li>
 </ol>
 <h3>Items</h3>
-<p><strong>U1.</strong> Opposite 3, hypotenuse 5. (\sin\theta=) ?</p>
-<p><strong>U2.</strong> Adjacent 8, hypotenuse 10. (\cos\theta=) ?</p>
-<p><strong>U3.</strong> Opposite 3, adjacent 4. (\tan\theta=) ? Hypotenuse?</p>
-<p><strong>U4.</strong> (\sin\theta=\dfrac{5}{13}). (\cos\theta=) ? (right triangle, acute (\theta))</p>
-<p><strong>U5.</strong> (SPR) In a right triangle, (\tan\theta=\dfrac{3}{4}). Enter (\sin\theta) as a decimal.</p>
-<p><strong>U6.</strong> Which is equal to (\cos 20^\circ)?<br />
- A) (\sin 20^\circ) B) (\sin 70^\circ) C) (\tan 20^\circ) D) (\cos 70^\circ)</p>
+<p><strong>U1.</strong> Opposite 3, hypotenuse 5. \(\sin\theta=\) ?</p>
+<p><strong>U2.</strong> Adjacent 8, hypotenuse 10. \(\cos\theta=\) ?</p>
+<p><strong>U3.</strong> Opposite 3, adjacent 4. \(\tan\theta=\) ? Hypotenuse?</p>
+<p><strong>U4.</strong> \(\sin\theta=\dfrac{5}{13}\). \(\cos\theta=\) ? (right triangle, acute \(\theta\))</p>
+<p><strong>U5.</strong> (SPR) In a right triangle, \(\tan\theta=\dfrac{3}{4}\). Enter \(\sin\theta\) as a decimal.</p>
+<p><strong>U6.</strong> Which is equal to \(\cos 20^\circ\)?<br />
+ A) \(\sin 20^\circ\) B) \(\sin 70^\circ\) C) \(\tan 20^\circ\) D) \(\cos 70^\circ\)</p>
 <h3>Nitpick</h3>
 <ul>
 <li>Label opposite/adjacent <strong>relative to the angle named</strong>  </li>
@@ -2457,44 +2461,44 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <h2>Block 2 — Circles (1:10–2:00) · D4</h2>
 <h3>Oral</h3>
 <ol>
-<li>(C=2\pi r=\pi d). (A=\pi r^2).  </li>
-<li>Arc length (=\dfrac{\theta}{360}\cdot 2\pi r).  </li>
-<li>Sector area (=\dfrac{\theta}{360}\cdot \pi r^2).  </li>
-<li>Circle equation ((x-h)^2+(y-k)^2=r^2). Center and radius?</li>
+<li>\(C=2\pi r=\pi d\). \(A=\pi r^2\).  </li>
+<li>Arc length \(=\dfrac{\theta}{360}\cdot 2\pi r\).  </li>
+<li>Sector area \(=\dfrac{\theta}{360}\cdot \pi r^2\).  </li>
+<li>Circle equation \((x-h)^2+(y-k)^2=r^2\). Center and radius?</li>
 </ol>
 <h3>Items</h3>
-<p><strong>U7.</strong> Diameter 10. Circumference in terms of (\pi)? (SPR: coefficient of (\pi))</p>
-<p><strong>U8.</strong> Radius 4. Area in terms of (\pi)?</p>
+<p><strong>U7.</strong> Diameter 10. Circumference in terms of \(\pi\)? (SPR: coefficient of \(\pi\))</p>
+<p><strong>U8.</strong> Radius 4. Area in terms of \(\pi\)?</p>
 <p><strong>U9.</strong> Radius 6, central angle 60°. Arc length?</p>
-<p><strong>U10.</strong> Same circle, 60° sector area in terms of (\pi)? (SPR: coefficient of (\pi))</p>
-<p><strong>U11.</strong> ((x-2)^2+(y+1)^2=16). Center and radius?</p>
-<p><strong>U12.</strong> A central angle of 90° on a circle of radius 8. Arc length in terms of (\pi)?</p>
+<p><strong>U10.</strong> Same circle, 60° sector area in terms of \(\pi\)? (SPR: coefficient of \(\pi\))</p>
+<p><strong>U11.</strong> \((x-2)^2+(y+1)^2=16\). Center and radius?</p>
+<p><strong>U12.</strong> A central angle of 90° on a circle of radius 8. Arc length in terms of \(\pi\)?</p>
 <h3>Nitpick</h3>
 <ul>
 <li>Diameter vs radius (U7 is the classic rush miss)  </li>
-<li>60° is (\tfrac16) of the circle, 90° is (\tfrac14)</li>
+<li>60° is \(\tfrac16\) of the circle, 90° is \(\tfrac14\)</li>
 </ul>
 <hr />
 <h2>Break (2:00–2:10)</h2>
 <hr />
 <h2>Block 3 — Module 1 simulation (2:10–3:00)</h2>
 <p><strong>16 questions, 25 minutes.</strong> Mixed domains, easier → medium (Module 1 feel). Silent. Flag at 2:30. Desmos allowed.</p>
-<p><strong>M1.</strong> (A) (5-2(3x+1)=x-17)<br />
-<strong>M2.</strong> (A) Slope of (5x+2y=10)<br />
-<strong>M3.</strong> (A) (\begin{cases}x+y=10\ 2x-y=5\end{cases}) — the (x)-value<br />
-<strong>M4.</strong> (B) Zeros of (2(x-3)(x+1))<br />
-<strong>M5.</strong> (B) Vertex (x)-coordinate of (y=x^2-8x+10)<br />
-<strong>M6.</strong> (B) (2^{x+1}=16)<br />
+<p><strong>M1.</strong> (A) \(5-2(3x+1)=x-17\)<br />
+<strong>M2.</strong> (A) Slope of \(5x+2y=10\)<br />
+<strong>M3.</strong> (A) \(\begin{cases}x+y=10\\ 2x-y=5\end{cases}\) — the \(x\)-value<br />
+<strong>M4.</strong> (B) Zeros of \(2(x-3)(x+1)\)<br />
+<strong>M5.</strong> (B) Vertex \(x\)-coordinate of \(y=x^2-8x+10\)<br />
+<strong>M6.</strong> (B) \(2^{x+1}=16\)<br />
 <strong>M7.</strong> (C) 18 is 45% of what?<br />
 <strong>M8.</strong> (C) \$80 up 25% then down 25%. Final?<br />
-<strong>M9.</strong> (C) Club table: (P(\text{Yes}\mid\text{Senior})) (Juniors 12Y/8N, Seniors 18Y/12N)<br />
+<strong>M9.</strong> (C) Club table: \(P(\text{Yes}\mid\text{Senior})\) (Juniors 12Y/8N, Seniors 18Y/12N)<br />
 <strong>M10.</strong> (C) 52% ± 4%. Lower end of the likely interval?<br />
 <strong>M11.</strong> (D) Third angle if 40° and 65°<br />
 <strong>M12.</strong> (D) Legs 5 and 12. Hypotenuse?<br />
 <strong>M13.</strong> (D) Cube edge 3. Volume?<br />
-<strong>M14.</strong> (D, SPR) Opposite 3, hypotenuse 5. Enter (\sin\theta) as a decimal.<br />
-<strong>M15.</strong> (B) (|x-2|=-5). Number of solutions?<br />
-<strong>M16.</strong> (A) (-2x+5&gt;13). Solution set in words or inequality.</p>
+<strong>M14.</strong> (D, SPR) Opposite 3, hypotenuse 5. Enter \(\sin\theta\) as a decimal.<br />
+<strong>M15.</strong> (B) \(|x-2|=-5\). Number of solutions?<br />
+<strong>M16.</strong> (A) \(-2x+5&gt;13\). Solution set in words or inequality.</p>
 <p>After the timer: 10 minutes — only review hesitations and misses. Student explains first.</p>
 <hr />
 <h2>Block 4 — Adaptive / pacing clinic (3:10–3:50)</h2>
@@ -2534,57 +2538,57 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 <p><strong>(D1, SPR)</strong> Volume of a cube with edge 3.</p>
 </li>
 <li>
-<p><strong>(D1, MC)</strong> Lengths scaled by (\tfrac12). New volume is what fraction of the original?<br />
- A) (\tfrac12) B) (\tfrac14) C) (\tfrac18) D) (\tfrac{1}{16})</p>
+<p><strong>(D1, MC)</strong> Lengths scaled by \(\tfrac12\). New volume is what fraction of the original?<br />
+ A) \(\tfrac12\) B) \(\tfrac14\) C) \(\tfrac18\) D) \(\tfrac{1}{16}\)</p>
 </li>
 <li>
-<p><strong>(D1, MC)</strong> Similar paintings, sides (2:3). Smaller area 20. Larger area?<br />
+<p><strong>(D1, MC)</strong> Similar paintings, sides \(2:3\). Smaller area 20. Larger area?<br />
  A) 30 B) 40 C) 45 D) 60</p>
 </li>
 <li>
-<p><strong>(D2, MC)</strong> Angles (40^\circ) and (65^\circ). Third angle?<br />
- A) (65^\circ) B) (75^\circ) C) (85^\circ) D) (95^\circ)</p>
+<p><strong>(D2, MC)</strong> Angles \(40^\circ\) and \(65^\circ\). Third angle?<br />
+ A) \(65^\circ\) B) \(75^\circ\) C) \(85^\circ\) D) \(95^\circ\)</p>
 </li>
 <li>
-<p><strong>(D2, SPR)</strong> Triangle angles (x), (2x), (3x). Enter (x).</p>
+<p><strong>(D2, SPR)</strong> Triangle angles \(x\), \(2x\), \(3x\). Enter \(x\).</p>
 </li>
 <li>
-<p><strong>(D2, MC)</strong> Similar figures, scale factor 3. A (5^\circ) angle becomes<br />
- A) (15^\circ) B) (5^\circ) C) (45^\circ) D) (3^\circ)</p>
+<p><strong>(D2, MC)</strong> Similar figures, scale factor 3. A \(5^\circ\) angle becomes<br />
+ A) \(15^\circ\) B) \(5^\circ\) C) \(45^\circ\) D) \(3^\circ\)</p>
 </li>
 <li>
 <p><strong>(D3, SPR)</strong> Legs 5 and 12. Hypotenuse?</p>
 </li>
 <li>
 <p><strong>(D3, MC)</strong> 45-45-90, leg 5. Hypotenuse?<br />
- A) 5 B) (5\sqrt{2}) C) (5\sqrt{3}) D) 10</p>
+ A) 5 B) \(5\sqrt{2}\) C) \(5\sqrt{3}\) D) 10</p>
 </li>
 <li>
 <p><strong>(D3, MC)</strong> 30-60-90, hypotenuse 14. Short leg?<br />
- A) 7 B) (7\sqrt{3}) C) 14 D) (14\sqrt{3})</p>
+ A) 7 B) \(7\sqrt{3}\) C) 14 D) \(14\sqrt{3}\)</p>
 </li>
 <li>
-<p><strong>(D3, MC)</strong> Opposite 3, hypotenuse 5. (\sin\theta=)<br />
- A) (3/4) B) (3/5) C) (4/5) D) (4/3)</p>
+<p><strong>(D3, MC)</strong> Opposite 3, hypotenuse 5. \(\sin\theta=\)<br />
+ A) \(3/4\) B) \(3/5\) C) \(4/5\) D) \(4/3\)</p>
 </li>
 <li>
-<p><strong>(D3, MC)</strong> (\cos 20^\circ=)<br />
- A) (\sin 20^\circ) B) (\sin 70^\circ) C) (\tan 20^\circ) D) (\cos 70^\circ)</p>
+<p><strong>(D3, MC)</strong> \(\cos 20^\circ=\)<br />
+ A) \(\sin 20^\circ\) B) \(\sin 70^\circ\) C) \(\tan 20^\circ\) D) \(\cos 70^\circ\)</p>
 </li>
 <li>
-<p><strong>(D4, SPR)</strong> Diameter 10. Enter the coefficient of (\pi) in the circumference.</p>
+<p><strong>(D4, SPR)</strong> Diameter 10. Enter the coefficient of \(\pi\) in the circumference.</p>
 </li>
 <li>
 <p><strong>(D4, MC)</strong> Radius 6, arc 60°. Arc length?<br />
- A) (\pi) B) (2\pi) C) (6\pi) D) (12\pi)</p>
+ A) \(\pi\) B) \(2\pi\) C) \(6\pi\) D) \(12\pi\)</p>
 </li>
 <li>
-<p><strong>(D4, MC)</strong> ((x-2)^2+(y+1)^2=16). Radius?<br />
+<p><strong>(D4, MC)</strong> \((x-2)^2+(y+1)^2=16\). Radius?<br />
  A) 2 B) 4 C) 8 D) 16</p>
 </li>
 <li>
-<p><strong>(A5, MC)</strong> (-2x+5&gt;13)<br />
- A) (x&gt;-4) B) (x&lt;-4) C) (x&gt;4) D) (x&lt;4)</p>
+<p><strong>(A5, MC)</strong> \(-2x+5&gt;13\)<br />
+ A) \(x&gt;-4\) B) \(x&lt;-4\) C) \(x&gt;4\) D) \(x&lt;4\)</p>
 </li>
 <li>
 <p><strong>(C2, MC)</strong> \$80 up 25% then down 25%. Final?<br />
@@ -2600,276 +2604,276 @@ Sunday is tables, probability, and “what can you conclude.”</p>
 Verify SPRs by substitution.</p>
 <hr />
 <h2>Saturday — Algebra (S1–S6)</h2>
-<p><strong>S1.</strong> (5-2(3x+1)=x-17)<br />
-(5-6x-2=x-17) → (3-6x=x-17) → (3+17=7x) → (x=\dfrac{20}{7}).</p>
-<p><strong>S2.</strong> LCD 12: (3x+2x=60) → (x=12).</p>
-<p><strong>S3.</strong> Second ×2: (2x-4y=10), first is (2x-4y=6) → parallel distinct → <strong>0 solutions</strong>.</p>
-<p><strong>S4.</strong> (-2x&gt;8) → flip → (x&lt;-4). <strong>B</strong>.</p>
-<p><strong>S5.</strong> (3x-2y=12) → (y=\dfrac{3}{2}x-6). Slope (\tfrac{3}{2}); (y)-intercept (-6).</p>
-<p><strong>S6.</strong> (40+25m=165) → (m=5).</p>
+<p><strong>S1.</strong> \(5-2(3x+1)=x-17\)<br />
+\(5-6x-2=x-17\) → \(3-6x=x-17\) → \(3+17=7x\) → \(x=\dfrac{20}{7}\).</p>
+<p><strong>S2.</strong> LCD 12: \(3x+2x=60\) → \(x=12\).</p>
+<p><strong>S3.</strong> Second ×2: \(2x-4y=10\), first is \(2x-4y=6\) → parallel distinct → <strong>0 solutions</strong>.</p>
+<p><strong>S4.</strong> \(-2x&gt;8\) → flip → \(x&lt;-4\). <strong>B</strong>.</p>
+<p><strong>S5.</strong> \(3x-2y=12\) → \(y=\dfrac{3}{2}x-6\). Slope \(\tfrac{3}{2}\); \(y\)-intercept \(-6\).</p>
+<p><strong>S6.</strong> \(40+25m=165\) → \(m=5\).</p>
 <hr />
 <h2>Saturday — Advanced Math (S7–S12)</h2>
-<p><strong>S7.</strong> Factor ((x-3)): (4x(x-3)-2(x-3)=(x-3)(4x-2)=2(x-3)(2x-1)). A and C are the same. <strong>D</strong>.</p>
-<p><strong>S8.</strong> Vertex ((-1,5)); (a=-2&lt;0) → <strong>maximum</strong>.</p>
-<p><strong>S9.</strong> Factor between 0 and 1: <strong>B</strong> (y=20(0.85)^x).</p>
-<p><strong>S10.</strong> (2x-3=7) → (x=5); (2x-3=-7) → (x=-2). Solutions: (x=5) or (x=-2).</p>
-<p><strong>S11.</strong> (x^2=x+2) → (x^2-x-2=0) → ((x-2)(x+1)=0) → <strong>2 solutions</strong>.</p>
-<p><strong>S12.</strong> Axis (x=2); (y=4-8-1=-5). Minimum <strong>−5</strong>.</p>
+<p><strong>S7.</strong> Factor \((x-3)\): \(4x(x-3)-2(x-3)=(x-3)(4x-2)=2(x-3)(2x-1)\). A and C are the same. <strong>D</strong>.</p>
+<p><strong>S8.</strong> Vertex \((-1,5)\); \(a=-2&lt;0\) → <strong>maximum</strong>.</p>
+<p><strong>S9.</strong> Factor between 0 and 1: <strong>B</strong> \(y=20(0.85)^x\).</p>
+<p><strong>S10.</strong> \(2x-3=7\) → \(x=5\); \(2x-3=-7\) → \(x=-2\). Solutions: \(x=5\) or \(x=-2\).</p>
+<p><strong>S11.</strong> \(x^2=x+2\) → \(x^2-x-2=0\) → \((x-2)(x+1)=0\) → <strong>2 solutions</strong>.</p>
+<p><strong>S12.</strong> Axis \(x=2\); \(y=4-8-1=-5\). Minimum <strong>−5</strong>.</p>
 <hr />
 <h2>Saturday — PSDA (S13–S18)</h2>
-<p><strong>S13.</strong> (\dfrac{2}{5}=\dfrac{12}{s}) → (2s=60) → (s=30) cups.</p>
-<p><strong>S14.</strong> (80\times 1.25=100), then (100\times 0.75=75). Final <strong>\$75</strong>.</p>
-<p><strong>S15.</strong> Mean (=(2+2+3+7+16)/5=6). Median (=3). The <strong>mean</strong> is pulled up by 16.</p>
-<p><strong>S16.</strong> Slope 8 = points per study hour. (y=8(6)+42=90).</p>
-<p><strong>S17.</strong> Restrict to seniors: (18/30=\dfrac{3}{5}=0.6).</p>
+<p><strong>S13.</strong> \(\dfrac{2}{5}=\dfrac{12}{s}\) → \(2s=60\) → \(s=30\) cups.</p>
+<p><strong>S14.</strong> \(80\times 1.25=100\), then \(100\times 0.75=75\). Final <strong>\$75</strong>.</p>
+<p><strong>S15.</strong> Mean \(=(2+2+3+7+16)/5=6\). Median \(=3\). The <strong>mean</strong> is pulled up by 16.</p>
+<p><strong>S16.</strong> Slope 8 = points per study hour. \(y=8(6)+42=90\).</p>
+<p><strong>S17.</strong> Restrict to seniors: \(18/30=\dfrac{3}{5}=0.6\).</p>
 <p><strong>S18.</strong> <strong>B</strong> — a margin of error of 4% around 52% means the true value is likely between 48% and 56%. A is over-precise; C is a prediction; D is not what MOE says.</p>
 <hr />
 <h2>Saturday — Geometry (S19–S24)</h2>
-<p><strong>S19.</strong> (3^3=27). Doubled edge → scale (k=2) → volume (\times 8) → (216).</p>
-<p><strong>S20.</strong> (\dfrac{6}{8}=\dfrac{9}{x}) → (6x=72) → (x=12).</p>
-<p><strong>S21.</strong> 45-45-90: hypotenuse (=5\sqrt{2}).</p>
-<p><strong>S22.</strong> (\sin\theta=\dfrac{3}{5}).</p>
-<p><strong>S23.</strong> Circumference (12\pi); (60/360=\dfrac{1}{6}) → arc (=2\pi).</p>
-<p><strong>S24.</strong> (6^2+8^2=36+64=100) → diagonal <strong>10</strong>.</p>
+<p><strong>S19.</strong> \(3^3=27\). Doubled edge → scale \(k=2\) → volume \(\times 8\) → \(216\).</p>
+<p><strong>S20.</strong> \(\dfrac{6}{8}=\dfrac{9}{x}\) → \(6x=72\) → \(x=12\).</p>
+<p><strong>S21.</strong> 45-45-90: hypotenuse \(=5\sqrt{2}\).</p>
+<p><strong>S22.</strong> \(\sin\theta=\dfrac{3}{5}\).</p>
+<p><strong>S23.</strong> Circumference \(12\pi\); \(60/360=\dfrac{1}{6}\) → arc \(=2\pi\).</p>
+<p><strong>S24.</strong> \(6^2+8^2=36+64=100\) → diagonal <strong>10</strong>.</p>
 <hr />
 <h2>Saturday — Exit ticket</h2>
-<p><strong>E1.</strong> (4x-4-x=2x+5) → (3x-4=2x+5) → (x=9).<br />
-<strong>E2.</strong> Zeros (x=3) and (x=-1).<br />
-<strong>E3.</strong> (\dfrac{40}{160}=\dfrac{1}{4}=25\%).<br />
-<strong>E4.</strong> (\pi r^2=16\pi).</p>
+<p><strong>E1.</strong> \(4x-4-x=2x+5\) → \(3x-4=2x+5\) → \(x=9\).<br />
+<strong>E2.</strong> Zeros \(x=3\) and \(x=-1\).<br />
+<strong>E3.</strong> \(\dfrac{40}{160}=\dfrac{1}{4}=25\%\).<br />
+<strong>E4.</strong> \(\pi r^2=16\pi\).</p>
 <hr />
 <h2>Sunday — Diagnostic (D1–D12)</h2>
-<p><strong>D1.</strong> (7-6x+3=2x+8) → (10-6x=2x+8) → (2=8x) → (x=\dfrac14).</p>
-<p><strong>D2.</strong> Add: (3x=15) → (x=5), (y=5).</p>
-<p><strong>D3.</strong> (-\dfrac12 x\le 4) → multiply by (-2) (flip): (x\ge -8).</p>
-<p><strong>D4.</strong> ((x-7)(x+2)). Smaller constant <strong>−7</strong>.</p>
-<p><strong>D5.</strong> (x=-\dfrac{b}{2a}=\dfrac{8}{2}=4).</p>
-<p><strong>D6.</strong> (200\times(1.5)^2=450).</p>
-<p><strong>D7.</strong> Rate (60) mph → (60\times 2.5=150).</p>
-<p><strong>D8.</strong> Sale (60\times 0.85=51); tax (51\times 1.08=55.08).</p>
-<p><strong>D9.</strong> (30/50=\dfrac{3}{5}=0.6).</p>
-<p><strong>D10.</strong> (5^2+12^2=25+144=169=13^2). Hypotenuse <strong>13</strong>.</p>
-<p><strong>D11.</strong> (180-40-65=75^\circ).</p>
-<p><strong>D12.</strong> Diameter 10 → (C=10\pi).</p>
+<p><strong>D1.</strong> \(7-6x+3=2x+8\) → \(10-6x=2x+8\) → \(2=8x\) → \(x=\dfrac14\).</p>
+<p><strong>D2.</strong> Add: \(3x=15\) → \(x=5\), \(y=5\).</p>
+<p><strong>D3.</strong> \(-\dfrac12 x\le 4\) → multiply by \(-2\) (flip): \(x\ge -8\).</p>
+<p><strong>D4.</strong> \((x-7)(x+2)\). Smaller constant <strong>−7</strong>.</p>
+<p><strong>D5.</strong> \(x=-\dfrac{b}{2a}=\dfrac{8}{2}=4\).</p>
+<p><strong>D6.</strong> \(200\times(1.5)^2=450\).</p>
+<p><strong>D7.</strong> Rate \(60\) mph → \(60\times 2.5=150\).</p>
+<p><strong>D8.</strong> Sale \(60\times 0.85=51\); tax \(51\times 1.08=55.08\).</p>
+<p><strong>D9.</strong> \(30/50=\dfrac{3}{5}=0.6\).</p>
+<p><strong>D10.</strong> \(5^2+12^2=25+144=169=13^2\). Hypotenuse <strong>13</strong>.</p>
+<p><strong>D11.</strong> \(180-40-65=75^\circ\).</p>
+<p><strong>D12.</strong> Diameter 10 → \(C=10\pi\).</p>
 <hr />
 <h2>Sunday — Stations (U1–U12)</h2>
-<p><strong>U1.</strong> (35+0.10t=47) → (t=120) texts.<br />
-<strong>U2.</strong> Perpendicular to slope 3 → slope (-\tfrac13); through ((0,4)) → <strong>B</strong>.<br />
-<strong>U3.</strong> (a+c=15), (12a+7c=145). (c=15-a): (12a+7(15-a)=145) → (5a=40) → (a=8).</p>
-<p><strong>U4.</strong> (x^2-8x+16).<br />
-<strong>U5.</strong> (-16t^2+32t+5=0) → (16t^2-32t-5=0) →<br />
-(t=\dfrac{32\pm\sqrt{1024+320}}{32}=\dfrac{32\pm\sqrt{1344}}{32}=\dfrac{32\pm 8\sqrt{21}}{32}=\dfrac{4\pm\sqrt{21}}{4}).<br />
-Positive root: (\dfrac{4+\sqrt{21}}{4}) seconds.<br />
-<strong>U6.</strong> Ratios (1.5,1.5,1.5) → exponential (y=12(1.5)^x).</p>
-<p><strong>U7.</strong> (0.45x=18) → (x=40).<br />
-<strong>U8.</strong> Mean (=(70+74+74+76+92)/5=77.2). Median (=74). Quote the <strong>median</strong>.<br />
+<p><strong>U1.</strong> \(35+0.10t=47\) → \(t=120\) texts.<br />
+<strong>U2.</strong> Perpendicular to slope 3 → slope \(-\tfrac13\); through \((0,4)\) → <strong>B</strong>.<br />
+<strong>U3.</strong> \(a+c=15\), \(12a+7c=145\). \(c=15-a\): \(12a+7(15-a)=145\) → \(5a=40\) → \(a=8\).</p>
+<p><strong>U4.</strong> \(x^2-8x+16\).<br />
+<strong>U5.</strong> \(-16t^2+32t+5=0\) → \(16t^2-32t-5=0\) →<br />
+\(t=\dfrac{32\pm\sqrt{1024+320}}{32}=\dfrac{32\pm\sqrt{1344}}{32}=\dfrac{32\pm 8\sqrt{21}}{32}=\dfrac{4\pm\sqrt{21}}{4}\).<br />
+Positive root: \(\dfrac{4+\sqrt{21}}{4}\) seconds.<br />
+<strong>U6.</strong> Ratios \(1.5,1.5,1.5\) → exponential \(y=12(1.5)^x\).</p>
+<p><strong>U7.</strong> \(0.45x=18\) → \(x=40\).<br />
+<strong>U8.</strong> Mean \(=(70+74+74+76+92)/5=77.2\). Median \(=74\). Quote the <strong>median</strong>.<br />
 <strong>U9.</strong> Convenience / biased sample — honors hallway is not the whole school (C7).</p>
-<p><strong>U10.</strong> Scale (10/4=2.5) → perimeter (18\times 2.5=45).<br />
-<strong>U11.</strong> Long leg (6\sqrt{3}); hypotenuse (12).<br />
-<strong>U12.</strong> (\cos\theta=\dfrac{8}{10}=\dfrac{4}{5}).</p>
+<p><strong>U10.</strong> Scale \(10/4=2.5\) → perimeter \(18\times 2.5=45\).<br />
+<strong>U11.</strong> Long leg \(6\sqrt{3}\); hypotenuse \(12\).<br />
+<strong>U12.</strong> \(\cos\theta=\dfrac{8}{10}=\dfrac{4}{5}\).</p>
 <hr />
 <h2>Sunday — SPR drill (P1–P5)</h2>
-<p><strong>P1.</strong> ×10: (2(x+15)=5x-30) → (2x+30=5x-30) → (x=20).<br />
-<strong>P2.</strong> (120-4t=0) → (t=30).<br />
-<strong>P3.</strong> 3 doublings → (100\cdot 8=800).<br />
-<strong>P4.</strong> (5^2+12^2=169) → <strong>13</strong>.<br />
-<strong>P5.</strong> (0.20\times 45=9).</p>
+<p><strong>P1.</strong> ×10: \(2(x+15)=5x-30\) → \(2x+30=5x-30\) → \(x=20\).<br />
+<strong>P2.</strong> \(120-4t=0\) → \(t=30\).<br />
+<strong>P3.</strong> 3 doublings → \(100\cdot 8=800\).<br />
+<strong>P4.</strong> \(5^2+12^2=169\) → <strong>13</strong>.<br />
+<strong>P5.</strong> \(0.20\times 45=9\).</p>
 <hr />
 <h2>Practice Set 01</h2>
 <ol>
 <li>
-<p>(7-3(2x-1)=2x+8) → (7-6x+3=2x+8) → (10-6x=2x+8) → (2=8x) → (x=\dfrac14). <strong>A</strong>.</p>
+<p>\(7-3(2x-1)=2x+8\) → \(7-6x+3=2x+8\) → \(10-6x=2x+8\) → \(2=8x\) → \(x=\dfrac14\). <strong>A</strong>.</p>
 </li>
 <li>
-<p>(2(5x-2)=4(x+6)) → (10x-4=4x+24) → (6x=28) → (x=\dfrac{14}{3}).</p>
+<p>\(2(5x-2)=4(x+6)\) → \(10x-4=4x+24\) → \(6x=28\) → \(x=\dfrac{14}{3}\).</p>
 </li>
 <li>
-<p>(2y=-5x+10) → (y=-\tfrac52 x+5). Slope <strong>A</strong> (-\tfrac52).</p>
+<p>\(2y=-5x+10\) → \(y=-\tfrac52 x+5\). Slope <strong>A</strong> \(-\tfrac52\).</p>
 </li>
 <li>
-<p>Add: (3x=15) → (x=5), (y=5). <strong>A</strong>.</p>
+<p>Add: \(3x=15\) → \(x=5\), \(y=5\). <strong>A</strong>.</p>
 </li>
 <li>
-<p>Factor ((x+4)): (2x(x+4)-1(x+4)=(x+4)(2x-1)). A and C are the same. <strong>D</strong>.</p>
+<p>Factor \((x+4)\): \(2x(x+4)-1(x+4)=(x+4)(2x-1)\). A and C are the same. <strong>D</strong>.</p>
 </li>
 <li>
-<p>Zeros (x=3), (x=-1). <strong>A</strong>.</p>
+<p>Zeros \(x=3\), \(x=-1\). <strong>A</strong>.</p>
 </li>
 <li>
-<p>(x=-\dfrac{b}{2a}=4).</p>
+<p>\(x=-\dfrac{b}{2a}=4\).</p>
 </li>
 <li>
-<p><strong>C</strong> (y=9(1.2)^x).</p>
+<p><strong>C</strong> \(y=9(1.2)^x\).</p>
 </li>
 <li>
-<p>(3:1) with 2 cups vinegar → <strong>6</strong> cups oil.</p>
+<p>\(3:1\) with 2 cups vinegar → <strong>6</strong> cups oil.</p>
 </li>
 <li>
-<p>(80\times 1.25=100), (100\times 0.75=75). <strong>B</strong>.</p>
+<p>\(80\times 1.25=100\), \(100\times 0.75=75\). <strong>B</strong>.</p>
 </li>
 <li>
 <p>Ordered already; middle value <strong>3</strong>. <strong>B</strong>. (Mean is 6; don’t confuse them.)</p>
 </li>
 <li>
-<p>Seniors only: (18/30). <strong>B</strong>.</p>
+<p>Seniors only: \(18/30\). <strong>B</strong>.</p>
 </li>
 <li>
-<p>(27).</p>
+<p>\(27\).</p>
 </li>
 <li>
-<p>(180-40-65=75). <strong>B</strong>.</p>
+<p>\(180-40-65=75\). <strong>B</strong>.</p>
 </li>
 <li>
-<p><strong>B</strong> (5\sqrt{2}).</p>
+<p><strong>B</strong> \(5\sqrt{2}\).</p>
 </li>
 <li>
-<p>(C=\pi d=10\pi) → enter <strong>10</strong>.</p>
+<p>\(C=\pi d=10\pi\) → enter <strong>10</strong>.</p>
 </li>
 </ol>
 <hr />
 <h2>Optional Algebra drill</h2>
 <p>Items 1–16 match the original Saturday Algebra set.</p>
 <ol>
-<li>(x=\dfrac{20}{7})  </li>
-<li>(x=12)  </li>
-<li>(x=20)  </li>
-<li>(n-18=4n) → (n=-6)  </li>
-<li>(x=8)  </li>
-<li>(y=\dfrac{3}{2}x-6); slope (\tfrac{3}{2}); intercept (-6)  </li>
-<li>(y-7=-\tfrac12(x+4)) → (y=-\tfrac12 x+5)  </li>
-<li>Slope 12 = \$/shirt; intercept 45 = fixed fee; (C=141)  </li>
+<li>\(x=\dfrac{20}{7}\)  </li>
+<li>\(x=12\)  </li>
+<li>\(x=20\)  </li>
+<li>\(n-18=4n\) → \(n=-6\)  </li>
+<li>\(x=8\)  </li>
+<li>\(y=\dfrac{3}{2}x-6\); slope \(\tfrac{3}{2}\); intercept \(-6\)  </li>
+<li>\(y-7=-\tfrac12(x+4)\) → \(y=-\tfrac12 x+5\)  </li>
+<li>Slope 12 = \$/shirt; intercept 45 = fixed fee; \(C=141\)  </li>
 <li><strong>B</strong>  </li>
-<li>(x=\dfrac{32}{7}), (y=\dfrac{43}{7})  </li>
-<li>(x=\dfrac{13}{10}), (y=\dfrac{8}{5})  </li>
+<li>\(x=\dfrac{32}{7}\), \(y=\dfrac{43}{7}\)  </li>
+<li>\(x=\dfrac{13}{10}\), \(y=\dfrac{8}{5}\)  </li>
 <li><strong>0 solutions</strong>  </li>
 <li><strong>8</strong> adult tickets  </li>
-<li>(x&gt;-3)  </li>
-<li><strong>B</strong> ((1,2))  </li>
-<li>(k&gt;4)</li>
+<li>\(x&gt;-3\)  </li>
+<li><strong>B</strong> \((1,2)\)  </li>
+<li>\(k&gt;4\)</li>
 </ol>
 <h1>Answer key — Weekend 2</h1>
 <hr />
 <h2>Saturday</h2>
-<p><strong>S1.</strong> (\dfrac{(x-3)(x+3)}{x-3}=x+3). <strong>B</strong>.</p>
-<p><strong>S2.</strong> (\dfrac{2x(x^2-4)}{2x}=x^2-4).</p>
-<p><strong>S3.</strong> Difference of cubes (a=2x), (b=3): ((2x-3)(4x^2+6x+9)).</p>
-<p><strong>S4.</strong> ((x-3)(4x-2)=2(x-3)(2x-1)). <strong>A</strong>.<br />
-(C is (4x^2-10x+6), not the expansion (4x^2-14x+6).)</p>
-<p><strong>S5.</strong> ((3x^2 y)^2=9x^4 y^2) → (a+b+c=9+4+2=15).</p>
-<p><strong>S6.</strong> (\sqrt{18x^2}=x\sqrt{18}=3x\sqrt{2}) for (x&gt;0).</p>
-<p><strong>S7.</strong> (3x+1=10) → (x=3); (3x+1=-10) → (x=-\dfrac{11}{3}).</p>
-<p><strong>S8.</strong> (-3&lt;x-4&lt;3) → (1&lt;x&lt;7).</p>
-<p><strong>S9.</strong> (2x-5=x+1) → (x=6); (2x-5=-(x+1)) → (2x-5=-x-1) → (3x=4) → (x=\dfrac{4}{3}).</p>
+<p><strong>S1.</strong> \(\dfrac{(x-3)(x+3)}{x-3}=x+3\). <strong>B</strong>.</p>
+<p><strong>S2.</strong> \(\dfrac{2x(x^2-4)}{2x}=x^2-4\).</p>
+<p><strong>S3.</strong> Difference of cubes \(a=2x\), \(b=3\): \((2x-3)(4x^2+6x+9)\).</p>
+<p><strong>S4.</strong> \((x-3)(4x-2)=2(x-3)(2x-1)\). <strong>A</strong>.<br />
+(C is \(4x^2-10x+6\), not the expansion \(4x^2-14x+6\).)</p>
+<p><strong>S5.</strong> \((3x^2 y)^2=9x^4 y^2\) → \(a+b+c=9+4+2=15\).</p>
+<p><strong>S6.</strong> \(\sqrt{18x^2}=x\sqrt{18}=3x\sqrt{2}\) for \(x&gt;0\).</p>
+<p><strong>S7.</strong> \(3x+1=10\) → \(x=3\); \(3x+1=-10\) → \(x=-\dfrac{11}{3}\).</p>
+<p><strong>S8.</strong> \(-3&lt;x-4&lt;3\) → \(1&lt;x&lt;7\).</p>
+<p><strong>S9.</strong> \(2x-5=x+1\) → \(x=6\); \(2x-5=-(x+1)\) → \(2x-5=-x-1\) → \(3x=4\) → \(x=\dfrac{4}{3}\).</p>
 <p><strong>S10.</strong> Absolute value cannot equal a negative. <strong>A</strong> (0 solutions).</p>
-<p><strong>S11.</strong> (2x-3=\pm 7) → (x=5) or (x=-2). Larger <strong>5</strong>.</p>
-<p><strong>S12.</strong> (x+3=2(x-1)=2x-2) → (5=x). Not 1, so valid.</p>
-<p><strong>S13.</strong> Multiply by (x-2): (1+3(x-2)=5) → (1+3x-6=5) → (3x=10) → (x=\dfrac{10}{3}).</p>
-<p><strong>S14.</strong> (\dfrac{x-2}{x-1}=1) → (x-2=x-1) → (-2=-1), contradiction. (x=1) forbidden. <strong>No solution</strong>.</p>
-<p><strong>S15.</strong> Undefined at (x=2). Numerator ((x-2)(x-3)) → simplified (x-3).</p>
-<p><strong>S16.</strong> (\dfrac{4}{x}=3-\dfrac12=\dfrac52) → (x=\dfrac{8}{5}).</p>
-<p><strong>S17.</strong> (2x+3=x^2) → (x^2-2x-3=0) → (x=3) or (-1).<br />
-(x=-1): (\sqrt{1}=1\neq -1). <strong>Only (x=3)</strong>.</p>
-<p><strong>S18.</strong> (x+12=x^2) → (x^2-x-12=0) → (x=4) or (-3). Only <strong>(x=4)</strong>.</p>
-<p><strong>S19.</strong> (3x-2=16) → (x=6). Check: (\sqrt{16}=4). ✓</p>
-<p><strong>S20.</strong> (5x+1=(x+1)^2=x^2+2x+1) → (x^2-3x=0) → (x=0) or (3). Both check. Larger <strong>3</strong>.</p>
-<p><strong>E1.</strong> (x+4).<br />
-<strong>E2.</strong> (x=4) or (x=-14).<br />
-<strong>E3.</strong> <strong>No.</strong> (\sqrt{1}=1) but (1-2=-1). Also (\sqrt{\cdot}) cannot equal a negative.</p>
+<p><strong>S11.</strong> \(2x-3=\pm 7\) → \(x=5\) or \(x=-2\). Larger <strong>5</strong>.</p>
+<p><strong>S12.</strong> \(x+3=2(x-1)=2x-2\) → \(5=x\). Not 1, so valid.</p>
+<p><strong>S13.</strong> Multiply by \(x-2\): \(1+3(x-2)=5\) → \(1+3x-6=5\) → \(3x=10\) → \(x=\dfrac{10}{3}\).</p>
+<p><strong>S14.</strong> \(\dfrac{x-2}{x-1}=1\) → \(x-2=x-1\) → \(-2=-1\), contradiction. \(x=1\) forbidden. <strong>No solution</strong>.</p>
+<p><strong>S15.</strong> Undefined at \(x=2\). Numerator \((x-2)(x-3)\) → simplified \(x-3\).</p>
+<p><strong>S16.</strong> \(\dfrac{4}{x}=3-\dfrac12=\dfrac52\) → \(x=\dfrac{8}{5}\).</p>
+<p><strong>S17.</strong> \(2x+3=x^2\) → \(x^2-2x-3=0\) → \(x=3\) or \(-1\).<br />
+\(x=-1\): \(\sqrt{1}=1\neq -1\). <strong>Only \(x=3\)</strong>.</p>
+<p><strong>S18.</strong> \(x+12=x^2\) → \(x^2-x-12=0\) → \(x=4\) or \(-3\). Only <strong>\(x=4\)</strong>.</p>
+<p><strong>S19.</strong> \(3x-2=16\) → \(x=6\). Check: \(\sqrt{16}=4\). ✓</p>
+<p><strong>S20.</strong> \(5x+1=(x+1)^2=x^2+2x+1\) → \(x^2-3x=0\) → \(x=0\) or \(3\). Both check. Larger <strong>3</strong>.</p>
+<p><strong>E1.</strong> \(x+4\).<br />
+<strong>E2.</strong> \(x=4\) or \(x=-14\).<br />
+<strong>E3.</strong> <strong>No.</strong> \(\sqrt{1}=1\) but \(1-2=-1\). Also \(\sqrt{\cdot}\) cannot equal a negative.</p>
 <hr />
 <h2>Sunday — Blocks 1–3</h2>
-<p><strong>U1.</strong> (2^{x+1}=2^4) → (x=3).<br />
-<strong>U2.</strong> (3^x=9=3^2) → (x=2).<br />
-<strong>U3.</strong> (\left(\tfrac12\right)^t=\tfrac14=\left(\tfrac12\right)^2) → (t=2).<br />
+<p><strong>U1.</strong> \(2^{x+1}=2^4\) → \(x=3\).<br />
+<strong>U2.</strong> \(3^x=9=3^2\) → \(x=2\).<br />
+<strong>U3.</strong> \(\left(\tfrac12\right)^t=\tfrac14=\left(\tfrac12\right)^2\) → \(t=2\).<br />
 <strong>U4.</strong> <strong>C</strong>.<br />
-<strong>U5.</strong> 3 periods: (80\cdot 3^3=2160).<br />
-<strong>U6.</strong> (V(t)=20000(0.85)^t); (V(2)=20000\cdot 0.7225=14450).</p>
-<p><strong>U7.</strong> (x^2=2x+3) → (x^2-2x-3=0) → ((x-3)(x+1)=0) → ((3,9)), ((-1,1)).<br />
-<strong>U8.</strong> (x^2-x+1=0), disc (1-4&lt;0). <strong>A</strong> (0).<br />
-<strong>U9.</strong> (x+x^2-1=5) → (x^2+x-6=0) → ((2,3)) and ((-3,8)).<br />
-<strong>U10.</strong> (x^2-x-4=0) → (x=\dfrac{1+\sqrt{17}}{2}) (the larger).<br />
-<strong>U11.</strong> (x^2+9=25) → (x=\pm 4). Points ((4,3)) and ((-4,3)). <strong>Two</strong>.</p>
-<p><strong>U12.</strong> Vertex ((1,5)), <strong>minimum</strong>, (f(3)=13).<br />
-<strong>U13.</strong> (g(0)=3), (g(4)=48). 3 = initial value; 2 = growth factor (doubles each step).<br />
-<strong>U14.</strong> (t=-\dfrac{b}{2a}=\dfrac{48}{32}=1.5); (h(1.5)=40).<br />
+<strong>U5.</strong> 3 periods: \(80\cdot 3^3=2160\).<br />
+<strong>U6.</strong> \(V(t)=20000(0.85)^t\); \(V(2)=20000\cdot 0.7225=14450\).</p>
+<p><strong>U7.</strong> \(x^2=2x+3\) → \(x^2-2x-3=0\) → \((x-3)(x+1)=0\) → \((3,9)\), \((-1,1)\).<br />
+<strong>U8.</strong> \(x^2-x+1=0\), disc \(1-4&lt;0\). <strong>A</strong> (0).<br />
+<strong>U9.</strong> \(x+x^2-1=5\) → \(x^2+x-6=0\) → \((2,3)\) and \((-3,8)\).<br />
+<strong>U10.</strong> \(x^2-x-4=0\) → \(x=\dfrac{1+\sqrt{17}}{2}\) (the larger).<br />
+<strong>U11.</strong> \(x^2+9=25\) → \(x=\pm 4\). Points \((4,3)\) and \((-4,3)\). <strong>Two</strong>.</p>
+<p><strong>U12.</strong> Vertex \((1,5)\), <strong>minimum</strong>, \(f(3)=13\).<br />
+<strong>U13.</strong> \(g(0)=3\), \(g(4)=48\). 3 = initial value; 2 = growth factor (doubles each step).<br />
+<strong>U14.</strong> \(t=-\dfrac{b}{2a}=\dfrac{48}{32}=1.5\); \(h(1.5)=40\).<br />
 <strong>U15.</strong> <strong>B</strong> (constant <em>factor</em>, intercept 7).<br />
 <strong>U16.</strong> <strong>9</strong>.</p>
 <hr />
 <h2>Sunday — Timed mix</h2>
-<p><strong>T1.</strong> (x=-4,3).<br />
-<strong>T2.</strong> (x^2-8x+16).<br />
-<strong>T3.</strong> (2x-3).<br />
-<strong>T4.</strong> (x=4) or (x=-14).<br />
-<strong>T5.</strong> (x=5).<br />
-<strong>T6.</strong> (x=6).<br />
-<strong>T7.</strong> (x=4).<br />
+<p><strong>T1.</strong> \(x=-4,3\).<br />
+<strong>T2.</strong> \(x^2-8x+16\).<br />
+<strong>T3.</strong> \(2x-3\).<br />
+<strong>T4.</strong> \(x=4\) or \(x=-14\).<br />
+<strong>T5.</strong> \(x=5\).<br />
+<strong>T6.</strong> \(x=6\).<br />
+<strong>T7.</strong> \(x=4\).<br />
 <strong>T8.</strong> <strong>2</strong>.<br />
-<strong>T9.</strong> ((-1,5)).<br />
+<strong>T9.</strong> \((-1,5)\).<br />
 <strong>T10.</strong> <strong>450</strong>.<br />
 <strong>T11.</strong> <strong>−5</strong>.<br />
-<strong>T12.</strong> (y=20(0.85)^x).</p>
+<strong>T12.</strong> \(y=20(0.85)^x\).</p>
 <hr />
 <h2>Practice Set 02</h2>
 <ol>
-<li><strong>B</strong> (x+3)  </li>
+<li><strong>B</strong> \(x+3\)  </li>
 <li><strong>15</strong>  </li>
 <li><strong>B</strong>  </li>
-<li><strong>B</strong> (3) and (-\dfrac{11}{3})  </li>
-<li><strong>B</strong> (1&lt;x&lt;7)  </li>
+<li><strong>B</strong> \(3\) and \(-\dfrac{11}{3}\)  </li>
+<li><strong>B</strong> \(1&lt;x&lt;7\)  </li>
 <li><strong>6</strong>  </li>
 <li><strong>A</strong> 0  </li>
 <li><strong>5</strong>  </li>
 <li><strong>C</strong> no solution  </li>
 <li><strong>B</strong> 3 only  </li>
 <li><strong>6</strong>  </li>
-<li><strong>B</strong> (x=3)  </li>
+<li><strong>B</strong> \(x=3\)  </li>
 <li><strong>2160</strong>  </li>
 <li><strong>C</strong> 2  </li>
-<li><strong>B</strong> min 5 at (x=1)  </li>
+<li><strong>B</strong> min 5 at \(x=1\)  </li>
 <li><strong>9</strong></li>
 </ol>
 <h1>Answer key — Weekend 3</h1>
 <hr />
 <h2>Saturday</h2>
-<p><strong>S1.</strong> (\dfrac{2}{5}=\dfrac{12}{s}) → (s=30).</p>
+<p><strong>S1.</strong> \(\dfrac{2}{5}=\dfrac{12}{s}\) → \(s=30\).</p>
 <p><strong>S2.</strong> 60 mph × 2.5 h = <strong>150</strong>.</p>
-<p><strong>S3.</strong> Combined 95 pages/min → (600/95=\dfrac{120}{19}) minutes (≈ 6.32).</p>
-<p><strong>S4.</strong> (\dfrac{3}{8}=\dfrac{x}{20}) → (x=\dfrac{15}{2}=7.5).</p>
-<p><strong>S5.</strong> (1.5\times 48=72) miles.</p>
-<p><strong>S6.</strong> 4 equal parts; (16/4=4) cups concentrate.</p>
-<p><strong>S7.</strong> A: (5) miles / (0.2) h = <strong>25 mph</strong>. B 20. C and D are 24 mph. <strong>A</strong>.</p>
-<p><strong>S8.</strong> (40/160=25\%).</p>
-<p><strong>S9.</strong> (0.45x=18) → (x=40).</p>
-<p><strong>S10.</strong> (80\times 1.25=100), (100\times 0.75=75).</p>
-<p><strong>S11.</strong> (60\times 0.85=51), (51\times 1.08=55.08).</p>
-<p><strong>S12.</strong> (\dfrac{15}{50}=30\%).</p>
-<p><strong>S13.</strong> (800\times 1.1\times 1.1=968). <strong>B</strong>.</p>
-<p><strong>S14.</strong> (1.2x=72) → (x=60).</p>
-<p><strong>S15.</strong> Mean 6; median 3; range (16-2=14).</p>
+<p><strong>S3.</strong> Combined 95 pages/min → \(600/95=\dfrac{120}{19}\) minutes (≈ 6.32).</p>
+<p><strong>S4.</strong> \(\dfrac{3}{8}=\dfrac{x}{20}\) → \(x=\dfrac{15}{2}=7.5\).</p>
+<p><strong>S5.</strong> \(1.5\times 48=72\) miles.</p>
+<p><strong>S6.</strong> 4 equal parts; \(16/4=4\) cups concentrate.</p>
+<p><strong>S7.</strong> A: \(5\) miles / \(0.2\) h = <strong>25 mph</strong>. B 20. C and D are 24 mph. <strong>A</strong>.</p>
+<p><strong>S8.</strong> \(40/160=25\%\).</p>
+<p><strong>S9.</strong> \(0.45x=18\) → \(x=40\).</p>
+<p><strong>S10.</strong> \(80\times 1.25=100\), \(100\times 0.75=75\).</p>
+<p><strong>S11.</strong> \(60\times 0.85=51\), \(51\times 1.08=55.08\).</p>
+<p><strong>S12.</strong> \(\dfrac{15}{50}=30\%\).</p>
+<p><strong>S13.</strong> \(800\times 1.1\times 1.1=968\). <strong>B</strong>.</p>
+<p><strong>S14.</strong> \(1.2x=72\) → \(x=60\).</p>
+<p><strong>S15.</strong> Mean 6; median 3; range \(16-2=14\).</p>
 <p><strong>S16.</strong> Mean 77.2; median 74. Quote the <strong>median</strong>.</p>
 <p><strong>S17.</strong> Sum must be 400. Known sum 320. Fifth <strong>80</strong>.</p>
-<p><strong>S18.</strong> Both medians 5; means (6) vs (10). <strong>B</strong>.</p>
-<p><strong>S19.</strong> New median of six values is 5 (was 3); mean jumps from 6 to (130/6\approx 21.7). <strong>B</strong>.</p>
+<p><strong>S18.</strong> Both medians 5; means \(6\) vs \(10\). <strong>B</strong>.</p>
+<p><strong>S19.</strong> New median of six values is 5 (was 3); mean jumps from 6 to \(130/6\approx 21.7\). <strong>B</strong>.</p>
 <p><strong>S20.</strong> Right tail pulls the mean up. <strong>B</strong>.</p>
-<p><strong>M1.</strong> 15. <strong>M2.</strong> 80. <strong>M3.</strong> 12. <strong>M4.</strong> (28-5=23). <strong>M5.</strong> 132.</p>
-<p><strong>E1.</strong> (50\times 1.2=60), (60\times 0.8=48).<br />
-<strong>E2.</strong> 7 parts; (28/7=4); larger (5\times 4=20).<br />
-<strong>E3.</strong> Sorted (3,3,7,9,11); median <strong>7</strong>.</p>
+<p><strong>M1.</strong> 15. <strong>M2.</strong> 80. <strong>M3.</strong> 12. <strong>M4.</strong> \(28-5=23\). <strong>M5.</strong> 132.</p>
+<p><strong>E1.</strong> \(50\times 1.2=60\), \(60\times 0.8=48\).<br />
+<strong>E2.</strong> 7 parts; \(28/7=4\); larger \(5\times 4=20\).<br />
+<strong>E3.</strong> Sorted \(3,3,7,9,11\); median <strong>7</strong>.</p>
 <hr />
 <h2>Sunday</h2>
-<p><strong>U1.</strong> Slope = 8 points per hour; (y=90).<br />
-<strong>U2.</strong> Ratios 1.5 → (y=12(1.5)^x).<br />
+<p><strong>U1.</strong> Slope = 8 points per hour; \(y=90\).<br />
+<strong>U2.</strong> Ratios 1.5 → \(y=12(1.5)^x\).<br />
 <strong>U3.</strong> <strong>A</strong>.<br />
 <strong>U4.</strong> <strong>A</strong>.<br />
-<strong>U5.</strong> (12\cdot 8+45=141).</p>
-<p><strong>U6.</strong> (30/50=0.6).<br />
-<strong>U7.</strong> (18/30=0.6).<br />
-<strong>U8.</strong> No row: 20 people; juniors among them 8 → (8/20=0.4).<br />
+<strong>U5.</strong> \(12\cdot 8+45=141\).</p>
+<p><strong>U6.</strong> \(30/50=0.6\).<br />
+<strong>U7.</strong> \(18/30=0.6\).<br />
+<strong>U8.</strong> No row: 20 people; juniors among them 8 → \(8/20=0.4\).<br />
 <strong>U9.</strong> <strong>12</strong>.<br />
-<strong>U10.</strong> (2/5=0.4).<br />
-<strong>U11.</strong> (6/10=0.6).<br />
-<strong>U12.</strong> <strong>B</strong> (18/50).</p>
+<strong>U10.</strong> \(2/5=0.4\).<br />
+<strong>U11.</strong> \(6/10=0.6\).<br />
+<strong>U12.</strong> <strong>B</strong> \(18/50\).</p>
 <p><strong>U13.</strong> <strong>B</strong>.<br />
-<strong>U14.</strong> <strong>B</strong> (larger (n), smaller MOE).<br />
+<strong>U14.</strong> <strong>B</strong> (larger \(n\), smaller MOE).<br />
 <strong>U15.</strong> <strong>B</strong>.<br />
 <strong>U16.</strong> <strong>B</strong>.<br />
 <strong>U17.</strong> <strong>B</strong>.<br />
@@ -2877,8 +2881,8 @@ Positive root: (\dfrac{4+\sqrt{21}}{4}) seconds.<br />
 <hr />
 <h2>Sunday timed mix</h2>
 <p><strong>T1.</strong> 6. <strong>T2.</strong> 40. <strong>T3.</strong> 75. <strong>T4.</strong> 3. <strong>T5.</strong> 80. <strong>T6.</strong> 90.<br />
-<strong>T7.</strong> (18/30). <strong>T8.</strong> (18/50). <strong>T9.</strong> 48. <strong>T10.</strong> Yes — convenience/bias.<br />
-<strong>T11.</strong> (\dfrac{120}{19}) min. <strong>T12.</strong> 968.</p>
+<strong>T7.</strong> \(18/30\). <strong>T8.</strong> \(18/50\). <strong>T9.</strong> 48. <strong>T10.</strong> Yes — convenience/bias.<br />
+<strong>T11.</strong> \(\dfrac{120}{19}\) min. <strong>T12.</strong> 968.</p>
 <hr />
 <h2>Practice Set 03</h2>
 <ol>
@@ -2894,90 +2898,90 @@ Positive root: (\dfrac{4+\sqrt{21}}{4}) seconds.<br />
 <li><strong>80</strong>  </li>
 <li><strong>B</strong>  </li>
 <li><strong>90</strong>  </li>
-<li><strong>B</strong> (18/30)  </li>
-<li><strong>B</strong> (18/50)  </li>
+<li><strong>B</strong> \(18/30\)  </li>
+<li><strong>B</strong> \(18/50\)  </li>
 <li><strong>B</strong>  </li>
 <li><strong>B</strong></li>
 </ol>
 <h1>Answer key — Weekend 4</h1>
 <hr />
 <h2>Saturday</h2>
-<p><strong>S1.</strong> (27); doubled edge → (\times 8) → (216).</p>
-<p><strong>S2.</strong> Area (48). Diagonal (10).</p>
-<p><strong>S3.</strong> (\tfrac12\cdot 10\cdot 7=35).</p>
-<p><strong>S4.</strong> Volume (60). Surface (2(4\cdot3+4\cdot5+3\cdot5)=2(12+20+15)=94).</p>
-<p><strong>S5.</strong> Area ratio (4:9). (20\cdot\tfrac94=45). <strong>C</strong>.</p>
-<p><strong>S6.</strong> (V=\pi\cdot 9\cdot 4=36\pi). Enter <strong>36</strong>.</p>
-<p><strong>S7.</strong> (\left(\tfrac12\right)^3=\tfrac18). <strong>C</strong>.</p>
-<p><strong>S8.</strong> (75^\circ).</p>
-<p><strong>S9.</strong> (\dfrac{6}{8}=\dfrac{9}{x}) → (x=12).</p>
-<p><strong>S10.</strong> Scale (2.5) → perimeter (45).</p>
-<p><strong>S11.</strong> Alternate interior angles equal. <strong>B</strong> (110^\circ).</p>
-<p><strong>S12.</strong> (6x=180) → (x=30).</p>
-<p><strong>S13.</strong> Base angles (\dfrac{140}{2}=70^\circ).</p>
-<p><strong>S14.</strong> Angles do not scale. <strong>B</strong> (5^\circ).</p>
-<p><strong>S15.</strong> (13).</p>
-<p><strong>S16.</strong> (5\sqrt{2}).</p>
-<p><strong>S17.</strong> Long (6\sqrt{3}); hyp (12).</p>
-<p><strong>S18.</strong> (13).</p>
-<p><strong>S19.</strong> (8) (6-8-10).</p>
+<p><strong>S1.</strong> \(27\); doubled edge → \(\times 8\) → \(216\).</p>
+<p><strong>S2.</strong> Area \(48\). Diagonal \(10\).</p>
+<p><strong>S3.</strong> \(\tfrac12\cdot 10\cdot 7=35\).</p>
+<p><strong>S4.</strong> Volume \(60\). Surface \(2(4\cdot3+4\cdot5+3\cdot5)=2(12+20+15)=94\).</p>
+<p><strong>S5.</strong> Area ratio \(4:9\). \(20\cdot\tfrac94=45\). <strong>C</strong>.</p>
+<p><strong>S6.</strong> \(V=\pi\cdot 9\cdot 4=36\pi\). Enter <strong>36</strong>.</p>
+<p><strong>S7.</strong> \(\left(\tfrac12\right)^3=\tfrac18\). <strong>C</strong>.</p>
+<p><strong>S8.</strong> \(75^\circ\).</p>
+<p><strong>S9.</strong> \(\dfrac{6}{8}=\dfrac{9}{x}\) → \(x=12\).</p>
+<p><strong>S10.</strong> Scale \(2.5\) → perimeter \(45\).</p>
+<p><strong>S11.</strong> Alternate interior angles equal. <strong>B</strong> \(110^\circ\).</p>
+<p><strong>S12.</strong> \(6x=180\) → \(x=30\).</p>
+<p><strong>S13.</strong> Base angles \(\dfrac{140}{2}=70^\circ\).</p>
+<p><strong>S14.</strong> Angles do not scale. <strong>B</strong> \(5^\circ\).</p>
+<p><strong>S15.</strong> \(13\).</p>
+<p><strong>S16.</strong> \(5\sqrt{2}\).</p>
+<p><strong>S17.</strong> Long \(6\sqrt{3}\); hyp \(12\).</p>
+<p><strong>S18.</strong> \(13\).</p>
+<p><strong>S19.</strong> \(8\) (6-8-10).</p>
 <p><strong>S20.</strong> <strong>A</strong> 6.</p>
-<p><strong>S21.</strong> Short (=) hyp(/2=7). <strong>A</strong>.</p>
-<p><strong>S22.</strong> (15) (9-12-15).</p>
-<p><strong>M1.</strong> (16\pi). <strong>M2.</strong> (55^\circ). <strong>M3.</strong> (8). <strong>M4.</strong> (9). <strong>M5.</strong> (7\sqrt{2}).</p>
-<p><strong>E1.</strong> (k=\tfrac52), area (\times\tfrac{25}{4}) → (8\cdot\tfrac{25}{4}=50).<br />
+<p><strong>S21.</strong> Short \(=\) hyp\(/2=7\). <strong>A</strong>.</p>
+<p><strong>S22.</strong> \(15\) (9-12-15).</p>
+<p><strong>M1.</strong> \(16\pi\). <strong>M2.</strong> \(55^\circ\). <strong>M3.</strong> \(8\). <strong>M4.</strong> \(9\). <strong>M5.</strong> \(7\sqrt{2}\).</p>
+<p><strong>E1.</strong> \(k=\tfrac52\), area \(\times\tfrac{25}{4}\) → \(8\cdot\tfrac{25}{4}=50\).<br />
 <strong>E2.</strong> Do <strong>not</strong>.<br />
-<strong>E3.</strong> (10).</p>
+<strong>E3.</strong> \(10\).</p>
 <hr />
 <h2>Sunday</h2>
-<p><strong>U1.</strong> (\dfrac{3}{5}).<br />
-<strong>U2.</strong> (\dfrac{4}{5}).<br />
-<strong>U3.</strong> (\tan=\dfrac{3}{4}); hyp (5).<br />
-<strong>U4.</strong> 5-12-13 → (\cos\theta=\dfrac{12}{13}).<br />
-<strong>U5.</strong> 3-4-5 → (\sin\theta=0.6).<br />
-<strong>U6.</strong> <strong>B</strong> (\sin 70^\circ).</p>
-<p><strong>U7.</strong> (10).<br />
-<strong>U8.</strong> (16\pi).<br />
-<strong>U9.</strong> (\tfrac{1}{6}\cdot 12\pi=2\pi).<br />
-<strong>U10.</strong> (\tfrac{1}{6}\cdot 36\pi=6\pi). Enter <strong>6</strong>.<br />
-<strong>U11.</strong> Center ((2,-1)), radius (4).<br />
-<strong>U12.</strong> (\tfrac14\cdot 16\pi=4\pi).</p>
+<p><strong>U1.</strong> \(\dfrac{3}{5}\).<br />
+<strong>U2.</strong> \(\dfrac{4}{5}\).<br />
+<strong>U3.</strong> \(\tan=\dfrac{3}{4}\); hyp \(5\).<br />
+<strong>U4.</strong> 5-12-13 → \(\cos\theta=\dfrac{12}{13}\).<br />
+<strong>U5.</strong> 3-4-5 → \(\sin\theta=0.6\).<br />
+<strong>U6.</strong> <strong>B</strong> \(\sin 70^\circ\).</p>
+<p><strong>U7.</strong> \(10\).<br />
+<strong>U8.</strong> \(16\pi\).<br />
+<strong>U9.</strong> \(\tfrac{1}{6}\cdot 12\pi=2\pi\).<br />
+<strong>U10.</strong> \(\tfrac{1}{6}\cdot 36\pi=6\pi\). Enter <strong>6</strong>.<br />
+<strong>U11.</strong> Center \((2,-1)\), radius \(4\).<br />
+<strong>U12.</strong> \(\tfrac14\cdot 16\pi=4\pi\).</p>
 <hr />
 <h2>Module 1 simulation</h2>
-<p><strong>M1.</strong> (x=\dfrac{20}{7})<br />
-<strong>M2.</strong> (-\dfrac52)<br />
-<strong>M3.</strong> (x=5)<br />
-<strong>M4.</strong> (3) and (-1)<br />
-<strong>M5.</strong> (4)<br />
-<strong>M6.</strong> (3)<br />
-<strong>M7.</strong> (40)<br />
-<strong>M8.</strong> (75)<br />
-<strong>M9.</strong> (18/30)<br />
-<strong>M10.</strong> (48)<br />
-<strong>M11.</strong> (75^\circ)<br />
-<strong>M12.</strong> (13)<br />
-<strong>M13.</strong> (27)<br />
-<strong>M14.</strong> (0.6)<br />
-<strong>M15.</strong> (0)<br />
-<strong>M16.</strong> (x&lt;-4)</p>
+<p><strong>M1.</strong> \(x=\dfrac{20}{7}\)<br />
+<strong>M2.</strong> \(-\dfrac52\)<br />
+<strong>M3.</strong> \(x=5\)<br />
+<strong>M4.</strong> \(3\) and \(-1\)<br />
+<strong>M5.</strong> \(4\)<br />
+<strong>M6.</strong> \(3\)<br />
+<strong>M7.</strong> \(40\)<br />
+<strong>M8.</strong> \(75\)<br />
+<strong>M9.</strong> \(18/30\)<br />
+<strong>M10.</strong> \(48\)<br />
+<strong>M11.</strong> \(75^\circ\)<br />
+<strong>M12.</strong> \(13\)<br />
+<strong>M13.</strong> \(27\)<br />
+<strong>M14.</strong> \(0.6\)<br />
+<strong>M15.</strong> \(0\)<br />
+<strong>M16.</strong> \(x&lt;-4\)</p>
 <hr />
 <h2>Practice Set 04</h2>
 <ol>
 <li><strong>27</strong>  </li>
-<li><strong>C</strong> (\tfrac18)  </li>
+<li><strong>C</strong> \(\tfrac18\)  </li>
 <li><strong>C</strong> 45  </li>
-<li><strong>B</strong> (75^\circ)  </li>
+<li><strong>B</strong> \(75^\circ\)  </li>
 <li><strong>30</strong>  </li>
-<li><strong>B</strong> (5^\circ)  </li>
+<li><strong>B</strong> \(5^\circ\)  </li>
 <li><strong>13</strong>  </li>
-<li><strong>B</strong> (5\sqrt{2})  </li>
+<li><strong>B</strong> \(5\sqrt{2}\)  </li>
 <li><strong>A</strong> 7  </li>
-<li><strong>B</strong> (3/5)  </li>
-<li><strong>B</strong> (\sin 70^\circ)  </li>
+<li><strong>B</strong> \(3/5\)  </li>
+<li><strong>B</strong> \(\sin 70^\circ\)  </li>
 <li><strong>10</strong>  </li>
-<li><strong>B</strong> (2\pi)  </li>
+<li><strong>B</strong> \(2\pi\)  </li>
 <li><strong>B</strong> 4  </li>
-<li><strong>B</strong> (x&lt;-4)  </li>
+<li><strong>B</strong> \(x&lt;-4\)  </li>
 <li><strong>B</strong> \$75</li>
 </ol>
 </body>

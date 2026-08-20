@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Assemble the SAT Math desk packet (markdown + print HTML)."""
 
+import html
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -102,6 +104,10 @@ HTML_HEAD = """<!DOCTYPE html>
   }
   @page { size: letter; margin: 0.85in; }
 </style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body);"></script>
 </head>
 <body>
 """
@@ -121,20 +127,43 @@ def strip_first_heading(text: str) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
+# GitHub-style TeX. python-markdown treats \ as escape, so \(, \), and \\
+# would otherwise collapse before KaTeX can render them.
+_MATH_RE = re.compile(r"\\\(.+?\\\)|\\\[.+?\\\]", re.DOTALL)
+
+
+def _protect_math(md: str) -> tuple[str, list[str]]:
+    chunks: list[str] = []
+
+    def stash(match: re.Match[str]) -> str:
+        chunks.append(match.group(0))
+        return f"@@MATH{len(chunks) - 1}@@"
+
+    return _MATH_RE.sub(stash, md), chunks
+
+
+def _restore_math(html_text: str, chunks: list[str]) -> str:
+    for i, tex in enumerate(chunks):
+        html_text = html_text.replace(f"@@MATH{i}@@", html.escape(tex, quote=False))
+    return html_text
+
+
 def to_html(md: str) -> str:
+    protected, chunks = _protect_math(md)
     try:
         import markdown
 
-        return markdown.markdown(
-            md,
+        converted = markdown.markdown(
+            protected,
             extensions=["tables", "fenced_code", "sane_lists"],
         )
     except ImportError:
         # Minimal fallback: keep markdown readable in a <pre> if the library is missing.
         escaped = (
-            md.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+            protected.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
         )
-        return f"<pre>{escaped}</pre>"
+        converted = f"<pre>{escaped}</pre>"
+    return _restore_math(converted, chunks)
 
 
 def main() -> None:
