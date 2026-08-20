@@ -1,18 +1,27 @@
 # Printable SAT Math desk packet
 
-One aggregated document of everything in `sat-prep/`, meant to print and put on the desk with Karina.
+Math notes and exam-style questions only — no Saturday 2:00–2:30 lesson clock.
+
+**Print this:** [`SAT-MATH-DESK-PACKET.pdf`](SAT-MATH-DESK-PACKET.pdf)
 
 | File | Use |
 |---|---|
-| [`SAT-MATH-DESK-PACKET.pdf`](SAT-MATH-DESK-PACKET.pdf) | **Print this** |
-| [`SAT-MATH-DESK-PACKET.md`](SAT-MATH-DESK-PACKET.md) | Same content, GitHub / editor |
-| [`SAT-MATH-DESK-PACKET.html`](SAT-MATH-DESK-PACKET.html) | Browser print if you want to reprint |
-| [`build_packet.py`](build_packet.py) | Rebuild after weekend files change |
+| `SAT-MATH-DESK-PACKET.md` | Source (edit this) |
+| `SAT-MATH-DESK-PACKET.html` | Browser reprint |
+| `SAT-MATH-DESK-PACKET.pdf` | Desk printout |
+| `build_packet.py` | Rebuild HTML + rendered math |
 
-Answer keys are at the **back**. Skip those pages if she should not see solutions during a timed set.
+Equations are rendered with KaTeX before the PDF is made, so they should print as real math, not raw `\( ... \)` code.
+
+Answer keys are the last section. Skip those pages if Karina should not see solutions during a set.
 
 Rebuild:
 
 ```bash
 python3 sat-prep/print/build_packet.py
+# then print HTML to PDF, or:
+timeout 45 google-chrome --headless --disable-gpu --no-sandbox --no-pdf-header-footer \
+  --user-data-dir=/tmp/chrome-sat-pdf \
+  --print-to-pdf=sat-prep/print/SAT-MATH-DESK-PACKET.pdf \
+  file://$PWD/sat-prep/print/SAT-MATH-DESK-PACKET.html
 ```
