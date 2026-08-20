@@ -27,6 +27,11 @@ Cycle: Common App **2026–27** (researched 2026-08-19).
 
 | Path | Description |
 |---|---|
-| `sat-prep/SAT-MATH-PREPARATION-PLAN.md` | Implementation plan for Digital SAT Math weekends (680 → ~780) |
+| `sat-prep/SAT-MATH-PREPARATION-PLAN.md` | Implementation plan (680 → ~780) |
+| `sat-prep/00-digital-sat-overview.md` | Digital SAT structure primer |
+| `sat-prep/01-math-content-map.md` | Full Math skill checklist |
+| `sat-prep/CURRICULUM.md` | Multi-weekend roadmap |
+| `sat-prep/weekend-01/` | **Ready:** Sat/Sun 4h scripts + practice + answer key |
+| `sat-prep/weekend-02/` … `weekend-04/` | Outline stubs for next weekends |
 
-Lesson packs, content maps, and practice sets will be added under `sat-prep/` as execution continues. They will **not** be placed inside `docs/`.
+Start at [`sat-prep/README.md`](sat-prep/README.md).
