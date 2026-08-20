@@ -1,0 +1,15 @@
+{
+  "name": "print",
+  "version": "1.0.0",
+  "description": "One aggregated document of everything in `sat-prep/`, meant to print and put on the desk with Karina.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "katex": "^0.18.4"
+  }
+}
