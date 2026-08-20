@@ -226,8 +226,15 @@ Commit on current branch (or a new `cursor/sat-math-prep-…` branch if cleaner)
 
 ---
 
-## Approval gate
+## Execution status (updated 2026-08-20)
 
-**No `sat-prep/` files will be written until you approve this plan** (or say “start”).
+| Phase | Status |
+|---|---|
+| 0 Assumptions in README | Done |
+| 1 Foundations docs | Done |
+| 2 Weekend 1 full pack | Done — see `weekend-01/` |
+| 3 Weekends 2–4 stubs | Done |
+| 4 Optional PDF | Skipped (Markdown is source of truth) |
+| 5 Commit + push | Done on `cursor/college-application-data-235e` |
 
-After approval, execution will create the folder structure, Weekend 1 complete pack, curriculum roadmap, and push to the same repo.
+**Next (only if requested):** expand `weekend-02/` … `weekend-04/` from stubs into full Sat/Sun packs; optional PDF export.
