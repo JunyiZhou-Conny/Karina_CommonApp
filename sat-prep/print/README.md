@@ -2,7 +2,9 @@
 
 Math notes and exam-style questions only — no Saturday 2:00–2:30 lesson clock.
 
-**Print this:** [`SAT-MATH-DESK-PACKET.pdf`](SAT-MATH-DESK-PACKET.pdf)
+**Print the full desk packet:** [`SAT-MATH-DESK-PACKET.pdf`](SAT-MATH-DESK-PACKET.pdf)
+
+**Print the current gap set (12 items):** [`TARGETED-SET-01.pdf`](TARGETED-SET-01.pdf) — pages 1–3 for Karina; last page is the key.
 
 | File | Use |
 |---|---|
@@ -19,9 +21,10 @@ Rebuild:
 
 ```bash
 python3 sat-prep/print/build_packet.py
+python3 sat-prep/print/build_packet.py TARGETED-SET-01.md
 # then print HTML to PDF, or:
 timeout 45 google-chrome --headless --disable-gpu --no-sandbox --no-pdf-header-footer \
   --user-data-dir=/tmp/chrome-sat-pdf \
-  --print-to-pdf=sat-prep/print/SAT-MATH-DESK-PACKET.pdf \
-  file://$PWD/sat-prep/print/SAT-MATH-DESK-PACKET.html
+  --print-to-pdf=sat-prep/print/TARGETED-SET-01.pdf \
+  file://$PWD/sat-prep/print/TARGETED-SET-01.html
 ```

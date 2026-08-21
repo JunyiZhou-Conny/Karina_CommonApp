@@ -39,7 +39,7 @@ SPR: type a number (integer, decimal, or fraction). Blank SPR is a free miss.
 
 - Isolate: expand → combine like terms → divide. If you see \(5-2(3x+1)\), the minus hits **both** terms inside.
 - Fractions: multiply **every** term by the LCD.
-- Slope: \(m=\dfrac{y_2-y_1}{x_2-x_1}\). Parallel = same \(m\). Perpendicular = negative reciprocal.
+- Slope: \(m=\dfrac{y_2-y_1}{x_2-x_1}\). Parallel = same \(m\). Perpendicular = **negative reciprocal**, so \(m_1 m_2=-1\).
 - \(y=mx+b\): \(m\) is the rate (units of \(y\) per 1 unit of \(x\)); \(b\) is the value when \(x=0\).
 - System: 1 solution (intersect), 0 (parallel distinct), infinitely many (same line).
 - Inequality: flip **only** when multiplying or dividing by a negative.
@@ -50,6 +50,7 @@ SPR: type a number (integer, decimal, or fraction). Blank SPR is a free miss.
 - Quadratic \(ax^2+bx+c\): zeros from factors; vertex \(x=-\dfrac{b}{2a}\); vertex form \(a(x-h)^2+k\) has vertex \((h,k)\).
 - If \(a>0\), minimum is \(k\). If \(a<0\), maximum is \(k\).
 - Exponential: \(y=A\cdot r^x\). \(A=y(0)\). Growth \(r>1\); decay \(0<r<1\). “+20%” means \(\times 1.20\), not \(+20\).
+- Period: \(A(1+r)^{kt}\) completes \(k\) growth cycles per 1 unit of \(t\). Months per cycle \(=12/k\) if \(t\) is in years.
 - \(|A|=k\): if \(k<0\), no solution; if \(k=0\), one; if \(k>0\), two cases.
 - Rational: multiply by LCD; throw away any \(x\) that makes a denominator 0.
 - Radical: isolate, square, **check** in the original (extraneous roots are a real SAT skill).
@@ -60,6 +61,7 @@ SPR: type a number (integer, decimal, or fraction). Blank SPR is a free miss.
 - Combined rate: add the rates, then time \(=\dfrac{\text{work}}{\text{combined rate}}\).
 - Percent of: part \(= p\times\) whole. Percent change \(=\dfrac{\text{new}-\text{old}}{\text{old}}\).
 - Successive percents multiply: up 10% then up 10% is \(\times 1.1\times 1.1=1.21\), not \(+20\%\).
+- “Increase \(x\) by \(p\%\)” means \(x\bigl(1+\frac{p}{100}\bigr)\). Increase by 400% is \(\times 5\), not \(\times 4\).
 - “30% of the 40% that are red” is \(0.3\times 0.4=0.12\), not \(40-30\).
 - Mean follows outliers; median often does not. Mean of \(n\) values \(\Rightarrow\) sum \(=n\cdot\text{mean}\).
 - Two-way table: \(P(A)\) uses the grand total; \(P(A\mid B)\) first restrict to the \(B\) row or column.
@@ -76,6 +78,15 @@ SPR: type a number (integer, decimal, or fraction). Blank SPR is a free miss.
 - \(\sin\theta=\dfrac{\text{opp}}{\text{hyp}}\), \(\cos\theta=\dfrac{\text{adj}}{\text{hyp}}\), \(\tan\theta=\dfrac{\text{opp}}{\text{adj}}\). Also \(\cos\theta=\sin(90^\circ-\theta)\).
 - Circle: \(C=2\pi r=\pi d\), \(A=\pi r^2\), arc \(=\dfrac{\theta}{360}\cdot 2\pi r\), sector \(=\dfrac{\theta}{360}\cdot\pi r^2\).
 - \((x-h)^2+(y-k)^2=r^2\): center \((h,k)\), radius \(r\).
+- Tangent at \(P\): the radius to \(P\) is **perpendicular** to the tangent. Find \(m_{\text{radius}}\), then \(m_{\text{tangent}}=-\dfrac{1}{m_{\text{radius}}}\), then point-slope **at \(P\)** (not at the center).
+
+### Combo moves (this is what SAT actually asks)
+
+Isolated formulas above are not enough. These collisions are current leaks — see [`../error-log/NOTEBOOK.md`](../error-log/NOTEBOOK.md).
+
+- Successive percents **multiply**: up 10% then up 10% is \(\times 1.1\times 1.1=1.21\), not \(+20\%\). Up then down the same percent does **not** return to the start.
+- “Increase \(x\) by 400%” means \(5x\), not \(4x\).
+- Circle + tangent = geometry **plus** linear equations: radius slope, \(m_1 m_2=-1\), then a line.
 
 ---
 

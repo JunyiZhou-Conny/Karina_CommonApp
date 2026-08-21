@@ -7,16 +7,9 @@ import subprocess
 import sys
 
 HERE = Path(__file__).resolve().parent
-MD_PATH = HERE / "SAT-MATH-DESK-PACKET.md"
-HTML_PATH = HERE / "SAT-MATH-DESK-PACKET.html"
+DEFAULT_MD = HERE / "SAT-MATH-DESK-PACKET.md"
 
-HTML_HEAD = """<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>SAT Math Desk Packet — Karina</title>
-<link rel="stylesheet" href="vendor/katex/katex.min.css">
-<style>
+SHARED_CSS = """
   body {
     font-family: Georgia, "Times New Roman", serif;
     font-size: 12.5pt;
@@ -27,8 +20,6 @@ HTML_HEAD = """<!DOCTYPE html>
     color: #111;
   }
   h1 { font-size: 22pt; margin-top: 1.6rem; page-break-after: avoid; }
-  h2 { font-size: 16pt; margin-top: 1.5rem; page-break-after: avoid; page-break-before: always; }
-  h1 + p + p + p + p + hr + h2 { page-break-before: avoid; }
   h3 { font-size: 13.5pt; page-break-after: avoid; }
   table { border-collapse: collapse; width: 100%; margin: 0.8rem 0; font-size: 11pt; }
   th, td { border: 1px solid #444; padding: 5px 7px; text-align: left; vertical-align: top; }
@@ -36,11 +27,28 @@ HTML_HEAD = """<!DOCTYPE html>
   p { margin: 0.45rem 0; }
   li { margin: 0.25rem 0; }
   .katex { font-size: 1.05em; }
+  .page-break { break-before: page; page-break-before: always; }
   @media print {
     body { margin: 0; max-width: none; padding: 0; }
     a { color: inherit; text-decoration: none; }
   }
   @page { size: letter; margin: 0.75in; }
+"""
+
+DESK_H2 = "  h2 { font-size: 16pt; margin-top: 1.5rem; page-break-after: avoid; page-break-before: always; }\n  h1 + p + p + p + p + hr + h2 { page-break-before: avoid; }\n"
+COMPACT_H2 = "  h2 { font-size: 16pt; margin-top: 1.5rem; page-break-after: avoid; }\n"
+
+
+def html_head(title: str, compact: bool) -> str:
+    h2 = COMPACT_H2 if compact else DESK_H2
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{title}</title>
+<link rel="stylesheet" href="vendor/katex/katex.min.css">
+<style>
+{h2}{SHARED_CSS}
 </style>
 </head>
 <body>
@@ -85,14 +93,29 @@ def to_html(md: str) -> str:
     return markdown.markdown(md, extensions=["tables", "fenced_code", "sane_lists"])
 
 
-def main() -> None:
-    raw = MD_PATH.read_text(encoding="utf-8")
+def build(md_path: Path, compact: bool = False) -> Path:
+    html_path = md_path.with_suffix(".html")
+    raw = md_path.read_text(encoding="utf-8")
+    title = next((line[2:].strip() for line in raw.splitlines() if line.startswith("# ")), md_path.stem)
     stashed, stored = stash_math(raw)
     html = to_html(stashed)
     html = restore_placeholders(html, stored)
-    HTML_PATH.write_text(HTML_HEAD + html + HTML_TAIL, encoding="utf-8")
-    subprocess.run(["node", str(HERE / "render_math.mjs"), str(HTML_PATH)], check=True)
-    print(f"Wrote {HTML_PATH} ({len(stored)} math fragments)")
+    html_path.write_text(html_head(title, compact) + html + HTML_TAIL, encoding="utf-8")
+    subprocess.run(["node", str(HERE / "render_math.mjs"), str(html_path)], check=True)
+    print(f"Wrote {html_path} ({len(stored)} math fragments)")
+    return html_path
+
+
+def main() -> None:
+    args = [a for a in sys.argv[1:] if a != "--compact"]
+    compact = "--compact" in sys.argv[1:]
+    md_path = HERE / args[0] if args else DEFAULT_MD
+    if not md_path.is_absolute():
+        candidate = HERE / md_path
+        md_path = candidate if candidate.exists() else Path(args[0])
+    if not compact:
+        compact = md_path.name != "SAT-MATH-DESK-PACKET.md"
+    build(md_path, compact=compact)
 
 
 if __name__ == "__main__":
