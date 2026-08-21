@@ -22,7 +22,9 @@ Each exam is labeled (Test 1 through Test 11). Each page is stamped with the sou
 | Test 10 | `sat-practice-test-10-digital.pdf` | Module 1 + Module 2 |
 | Test 11 | `sat-practice-test-11-digital.pdf` | Module 1 + Module 2 |
 
-Skipped on purpose: `scoring-sat-practice-test-4-digital.pdf`, `scoring-sat-practice-test-9-digital.pdf`.
+Scoring PDFs are **not** copied into the question packet. Keys live next to the booklets at the repo root (`scoring-sat-practice-test-4-digital.pdf`, `scoring-sat-practice-test-5-digital.pdf`, `scoring-sat-practice-test-9-digital.pdf`).
+
+Tutor-facing Math key for Test 5: [`test-5-math-answer-key.md`](test-5-math-answer-key.md).
 
 Rebuild after more files are added:
 
