@@ -8,7 +8,7 @@
 **PSDA** = **Problem-Solving and Data Analysis** — College Board’s name for ratios, percents, data, probability, and statistical claims (~15% of Math).
 
 **Print for the desk:** [`print/SAT-MATH-DESK-PACKET.pdf`](print/SAT-MATH-DESK-PACKET.pdf) — full notes + mixed questions  
-**Print the current gap set:** [`print/TARGETED-SET-01.pdf`](print/TARGETED-SET-01.pdf) — 12 items on Test 5 / B14 leaks only
+**Print the current gap set:** [`print/TARGETED-SET-01.pdf`](print/TARGETED-SET-01.pdf) — 25 items (20 on current leaks + 5 last-four Module 2 style)
 
 **Official College Board files:** [`official/`](official/) — Tests 1–11 booklets, answer explanations, scoring worksheets  
 **Math pages only:** [`official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)  

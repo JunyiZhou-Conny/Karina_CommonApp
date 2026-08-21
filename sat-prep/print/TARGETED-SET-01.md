@@ -4,7 +4,7 @@
 **Print this PDF.** Work on paper. Calculator / Desmos is fine.  
 **Do not print the last page for her** (answer key).
 
-This set is only the leaks from Test 5 and desk **B14**. It is not another full mixed packet. Items are instructor-written SAT-style questions, not official College Board stems.
+This set is only the leaks from Test 5 and desk **B14**, plus five last-four Module 2–style stretch items. It is not another full mixed packet. Items are instructor-written SAT-style questions, not official College Board stems, and **not** taken from Practice Tests 1–11.
 
 **SPR** = student-produced response. Write a number (integer, decimal, or fraction).
 
@@ -37,6 +37,10 @@ This set is only the leaks from Test 5 and desk **B14**. It is not another full 
 - Perpendicular slopes: \(m_1 m_2=-1\) (negative reciprocal). Flip the fraction and change the sign.
 - Vertical radius \(\Rightarrow\) horizontal tangent (slope \(0\)).
 - Write the tangent with point-slope **at \(P\)**, not at the center. Then test points in that line.
+
+### Last-four Module 2 style (items 21–25)
+
+On the paper practice tests, Module 2 **#24–#27** are the usual score-splitters. On the real Bluebook exam there are 22 questions per module, so the same role is the last few items. Those questions almost always **stack two skills**. Items 21–25 below are written in that style. They are originals, not pulled from Tests 1–11.
 
 ---
 
@@ -106,6 +110,74 @@ B) \$0.40
 C) \$4  
 D) \$8
 
+**13.** (SPR) A balance of \$200 increases by 10% at the end of year 1 and increases by 10% again at the end of year 2. What is the balance, in dollars, after 2 years?
+
+Answer: ______________
+
+**14.** The result of increasing the quantity \(x\) by 150% is 75. What is the value of \(x\)?  
+A) \(30\)  
+B) \(50\)  
+C) \(112.5\)  
+D) \(187.5\)
+
+**15.** A population of 500 grows by 20%, then decreases by 20%. What is the new population?  
+A) \(500\)  
+B) \(480\)  
+C) \(520\)  
+D) \(400\)
+
+**16.** The function \(S\) is defined by \(S(t)=90(1.02)^{t/4}\), where \(t\) is years after 2018. According to the model, \(S\) increases by 2% every \(n\) months. What is the value of \(n\)?  
+A) \(4\)  
+B) \(8\)  
+C) \(24\)  
+D) \(48\)
+
+**17.** A circle has center \((3,0)\). A line is tangent to the circle at \((3,5)\). What is the slope of the tangent line?  
+A) \(0\)  
+B) \(1\)  
+C) undefined  
+D) \(5\)
+
+**18.** (SPR) A circle has center \((-4,-1)\). A line is tangent to the circle at \((0,2)\). What is the slope of the tangent line?
+
+Answer: ______________
+
+**19.** A price of \$120 decreases by 25%, then the new price increases by 25%. What is the final price?  
+A) \$120  
+B) \$112.50  
+C) \$115  
+D) \$90
+
+**20.** Which value is equivalent to two successive 15% increases?  
+A) a 30% increase  
+B) \(\times 1.30\)  
+C) \(\times 1.3225\)  
+D) \(\times 1.15\)
+
+**21.** (SPR) A circle has center \((1,-2)\). A line is tangent to the circle at \((5,1)\). The tangent intersects the \(y\)-axis at \((0,b)\). What is the value of \(b\)?
+
+Answer: ______________
+
+**22.** The function \(R\) is defined by \(R(t)=80(1.05)^{4t/3}\), where \(t\) is years after 2015. According to the model, \(R\) increases by 5% every \(n\) months. What is \(n\)?  
+A) \(4\)  
+B) \(8\)  
+C) \(9\)  
+D) \(16\)
+
+**23.** (SPR) A quantity is increased by 50%, then that result is increased by 50% again. The final value is 225. What was the original quantity?
+
+Answer: ______________
+
+**24.** Which quadratic equation has no real solutions?  
+A) \(x^2-6x+9=0\)  
+B) \(x^2-6x+5=0\)  
+C) \(2x^2-3x-2=0\)  
+D) \(3x^2-2x+5=0\)
+
+**25.** (SPR) The legs of a right triangle have lengths \(x\) and \(x+7\). The hypotenuse is the diameter of a circle. The area of the triangle is 60. What is the diameter of the circle?
+
+Answer: ______________
+
 <div class="page-break"></div>
 
 ## 3. Answer key (instructor)
@@ -126,3 +198,16 @@ Skip this page when you print the set for Karina.
 | 10 | C, \(-2\) | Radius slope \(\dfrac{1}{2}\), so \(m_t=-2\). Product is \(-1\). |
 | 11 | A, \(0\) | Radius is vertical, so the tangent is horizontal. |
 | 12 | B, \(\$0.40\) | \(40\times 1.1\times 0.9=39.60\). Short of \$40 by \(0.40\). |
+| 13 | \(242\) | \(200\times 1.1\times 1.1=242\). |
+| 14 | A, \(30\) | Increase by 150% means \(2.5x=75\). Trap B is “150% of 75” thinking inverted. |
+| 15 | B, \(480\) | \(500\times 1.2\times 0.8=480\). |
+| 16 | D, \(48\) | Exponent \(t/4\) = one cycle every 4 years = 48 months. |
+| 17 | A, \(0\) | Radius is vertical, so the tangent is horizontal. |
+| 18 | \(-\dfrac{4}{3}\) | Radius slope \(\dfrac{3}{4}\); tangent is the negative reciprocal. |
+| 19 | B, \(\$112.50\) | \(120\times 0.75\times 1.25=112.5\). |
+| 20 | C, \(\times 1.3225\) | \(1.15^2=1.3225\), not \(+30\%\). |
+| 21 | \(\dfrac{23}{3}\) | Radius slope \(\dfrac{3}{4}\), tangent slope \(-\dfrac{4}{3}\). \(y-1=-\dfrac{4}{3}(x-5)\). At \(x=0\), \(y=\dfrac{23}{3}\). |
+| 22 | C, \(9\) | Exponent \(\dfrac{4}{3}t\) = \(\dfrac{4}{3}\) cycles per year = one cycle every \(\dfrac{3}{4}\) year = 9 months. |
+| 23 | \(100\) | \(x\times 1.5\times 1.5=225\Rightarrow x=100\). |
+| 24 | D | Discriminant of D is \(4-60<0\). A is a repeated root; B and C have two real roots. |
+| 25 | \(17\) | \(\frac{1}{2}x(x+7)=60\Rightarrow x=8\). Legs 8 and 15, hypotenuse \(17\). |

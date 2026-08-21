@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) (pages 1–3; skip the key on page 4)  
+**Print for her:** [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) (notes + 25 questions; skip the answer-key page)  
 **Your key:** [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
 Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27. That band is already warm.
@@ -107,8 +107,16 @@ Desk Math Notes already had “perpendicular = negative reciprocal” and “\((
 
 ---
 
+## Official hard #24–#27 (search result)
+
+There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters — keep Tests 1–11 unused for now.
+
+Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuitequestionbank.collegeboard.org/). Third-party “real SAT leak” PDFs are not a source we will copy. Details: [`../resources.md`](../resources.md).
+
+---
+
 ## Next sitting
 
-Give her the printed [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) only (12 items).  
+Give her the printed [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) only (25 items; skip the answer-key pages).  
 Do not restart the 17-page packet from A1.  
 After she finishes, mark each gap 🟨/✅ in the table and add a new session block.
