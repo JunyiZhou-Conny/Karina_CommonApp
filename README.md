@@ -36,7 +36,8 @@ Cycle: Common App **2026–27** (researched 2026-08-19).
 | `sat-prep/weekend-03/` | **Ready:** PSDA (Problem-Solving and Data Analysis) |
 | `sat-prep/weekend-04/` | **Ready:** Geometry & Trig + Module 1 strategy |
 
-**Printable desk packet:** [`sat-prep/print/SAT-MATH-DESK-PACKET.pdf`](sat-prep/print/SAT-MATH-DESK-PACKET.pdf) (math notes + questions; answers at the back)
+**Printable desk packet:** [`sat-prep/print/SAT-MATH-DESK-PACKET.pdf`](sat-prep/print/SAT-MATH-DESK-PACKET.pdf) (math notes + questions; answers at the back)  
+**Printable gap set:** [`sat-prep/print/TARGETED-SET-01.pdf`](sat-prep/print/TARGETED-SET-01.pdf) (notes + 12 questions; skip the last page)
 
 **Official College Board files:** [`sat-prep/official/`](sat-prep/official/) — booklets, answer explanations, scoring worksheets  
 **Math pages only:** [`sat-prep/official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](sat-prep/official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)  

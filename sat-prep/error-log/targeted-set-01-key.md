@@ -1,6 +1,6 @@
 # Targeted set 01 — instructor key
 
-Do not give this page to Karina until she finishes [`targeted-set-01.md`](targeted-set-01.md).
+Do not give this page to Karina until she finishes the printed set: [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf).
 
 | # | Answer | Gap | Why |
 |---|---|---|---|

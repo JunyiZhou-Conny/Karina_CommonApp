@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Student-facing drill for the current gaps:** [`targeted-set-01.md`](targeted-set-01.md)  
+**Print for her:** [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) (pages 1–3; skip the key on page 4)  
 **Your key:** [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
 Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27. That band is already warm.
@@ -109,6 +109,6 @@ Desk Math Notes already had “perpendicular = negative reciprocal” and “\((
 
 ## Next sitting
 
-Give her [`targeted-set-01.md`](targeted-set-01.md) only (12 items).  
+Give her the printed [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) only (12 items).  
 Do not restart the 17-page packet from A1.  
 After she finishes, mark each gap 🟨/✅ in the table and add a new session block.

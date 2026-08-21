@@ -3,7 +3,9 @@
 | File | Who |
 |---|---|
 | [`NOTEBOOK.md`](NOTEBOOK.md) | You — misses, knowledge gaps, what to say |
-| [`targeted-set-01.md`](targeted-set-01.md) | Karina — 12 items on current gaps only |
-| [`targeted-set-01-key.md`](targeted-set-01-key.md) | You — answers |
+| [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) | **Print for Karina** — notes + 12 questions (skip last page) |
+| [`targeted-set-01-key.md`](targeted-set-01-key.md) | You — answers + what to drill next |
 
-Next set should be `targeted-set-02` after the next official test or Bluebook module, not a repeat of skills she already hits.
+Official test pages stay in [`../official/`](../official/). Those she already prints from the College Board PDFs.
+
+Next set should be `TARGETED-SET-02` after the next official module, not a repeat of skills she already hits.
