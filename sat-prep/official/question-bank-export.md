@@ -44,7 +44,7 @@ QB-SAT-Hard-Geometry-01-questions.pdf
 QB-SAT-Hard-Geometry-01-answers.pdf
 ```
 
-Drop those into `sat-prep/official/question-bank/` when you have them. I will not scrape the bank into the repo.
+Drop those into [`suitebank/`](suitebank/). First pack (your current screen): [`suitebank/SAT-Math-PSDA-Hard-exclude-active/`](suitebank/SAT-Math-PSDA-Hard-exclude-active/) — SAT · Math · PSDA · Hard · exclude active · 66 items. I will not scrape the bank into the repo.
 
 ---
 

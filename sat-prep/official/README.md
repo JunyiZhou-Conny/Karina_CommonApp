@@ -8,6 +8,7 @@ All uploaded official PDFs live here (not at the repo root).
 | [`answers/`](answers/) | Answer-explanation booklets |
 | [`scoring/`](scoring/) | Scoring worksheets / raw-score conversion |
 | [`keys/`](keys/) | Tutor check sheets (Math only, for live scoring) |
+| [`suitebank/`](suitebank/) | SAT Suite Question Bank exports (filter-labeled packs) |
 
 Extracted **Math Module 1 + 2 question pages only:** [`../official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](../official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)
 
