@@ -40,6 +40,7 @@ Cycle: Common App **2026–27** (researched 2026-08-19).
 
 **Official College Board files:** [`sat-prep/official/`](sat-prep/official/) — booklets, answer explanations, scoring worksheets  
 **Math pages only:** [`sat-prep/official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](sat-prep/official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)  
-**Test 5 Math check sheet:** [`sat-prep/official/keys/test-05-math.md`](sat-prep/official/keys/test-05-math.md)
+**Test 5 Math check sheet:** [`sat-prep/official/keys/test-05-math.md`](sat-prep/official/keys/test-05-math.md)  
+**Miss notebook:** [`sat-prep/error-log/NOTEBOOK.md`](sat-prep/error-log/NOTEBOOK.md) — gaps + targeted drills only
 
 Start at [`sat-prep/README.md`](sat-prep/README.md).

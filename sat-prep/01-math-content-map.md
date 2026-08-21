@@ -11,7 +11,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | # | Skill | Status | Notes |
 |---|---|---|---|
 | A1 | Linear equations in one variable | ⬜ | Isolate; clear fractions/decimals |
-| A2 | Linear equations in two variables | ⬜ | Forms: slope-intercept, standard, point-slope |
+| A2 | Linear equations in two variables | 🟨 | Forms: slope-intercept, standard, point-slope. **Leak:** perpendicular \(\Rightarrow m_1 m_2=-1\), then write the line at the contact point (Test 5 M2 #26). |
 | A3 | Linear functions | ⬜ | Rate of change; intercept meaning in context |
 | A4 | Systems of two linear equations in two variables | ⬜ | Substitution, elimination, Desmos intersection |
 | A5 | Linear inequalities in one or two variables | ⬜ | Solution sets; which values satisfy |
@@ -27,7 +27,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | B1 | Equivalent expressions | ⬜ | Factor, expand, rewrite radicals/exponents |
 | B2 | Nonlinear equations in one variable | ⬜ | Quadratic, absolute value, radical, rational, exponential |
 | B3 | Systems involving nonlinear equations | ⬜ | Line + parabola, etc. |
-| B4 | Nonlinear functions | ⬜ | Quadratic/exponential graphs & parameters |
+| B4 | Nonlinear functions | 🟨 | Quadratic/exponential graphs & parameters. **Leak:** read \(A(1+r)^{kt}\) as a **period** (Test 5 M2 #25; desk B14). |
 
 **Weekend 1:** survey (quadratics, exponentials, abs value, nonlinear systems).  
 **Weekend 2:** full B deep dive.
@@ -39,7 +39,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | # | Skill | Status | Notes |
 |---|---|---|---|
 | C1 | Ratios, rates, proportional relationships, and units | ⬜ | Unit analysis |
-| C2 | Percentages | ⬜ | % change, successive % |
+| C2 | Percentages | 🟨 | % change, successive %. **Leak:** multiply factors, don’t add percents; “increase by \(p\%\)” \(\neq\) “\(p\%\) of.” |
 | C3 | One-variable data: distributions; center & spread | ⬜ | Mean/median/range; histograms |
 | C4 | Two-variable data: models & scatterplots | ⬜ | Linear vs exponential fit |
 | C5 | Probability and conditional probability | ⬜ | Tables / two-way frequency |
@@ -57,7 +57,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | D1 | Area and volume | ⬜ | Formulas; scale factors |
 | D2 | Lines, angles, and triangles | ⬜ | Parallel lines, similarity, congruence |
 | D3 | Right triangles and trigonometry | ⬜ | Pythagorean; sin/cos/tan; special rights |
-| D4 | Circles | ⬜ | Arc, sector, equation of circle (as tested) |
+| D4 | Circles | 🟨 | Arc, sector, equation of circle. **Leak:** tangent \(\perp\) radius (not just center/radius). See error log. |
 
 **Weekend 1:** survey. **Weekend 4:** full Geometry & Trig + Module 1 mix.
 
