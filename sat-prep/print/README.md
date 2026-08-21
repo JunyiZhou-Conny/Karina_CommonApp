@@ -4,7 +4,7 @@ Math notes and exam-style questions only — no Saturday 2:00–2:30 lesson cloc
 
 **Print the full desk packet:** [`SAT-MATH-DESK-PACKET.pdf`](SAT-MATH-DESK-PACKET.pdf)
 
-**Print the current gap set (12 items):** [`TARGETED-SET-01.pdf`](TARGETED-SET-01.pdf) — pages 1–3 for Karina; last page is the key.
+**Print the current gap set (25 items):** [`TARGETED-SET-01.pdf`](TARGETED-SET-01.pdf) — notes + questions for Karina; last page is the key.
 
 | File | Use |
 |---|---|

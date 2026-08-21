@@ -3,7 +3,7 @@
 | File | Who |
 |---|---|
 | [`NOTEBOOK.md`](NOTEBOOK.md) | You — misses, knowledge gaps, what to say |
-| [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) | **Print for Karina** — notes + 12 questions (skip last page) |
+| [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) | **Print for Karina** — notes + 25 questions (skip last page) |
 | [`targeted-set-01-key.md`](targeted-set-01-key.md) | You — answers + what to drill next |
 
 Official test pages stay in [`../official/`](../official/). Those she already prints from the College Board PDFs.
