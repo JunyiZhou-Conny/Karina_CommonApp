@@ -7,7 +7,7 @@
 | Math section overview | https://satsuite.collegeboard.org/sat/whats-on-the-test/math/overview | Domains + question counts |
 | Digital SAT specs overview (PDF) | https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf | Timing, adaptive design |
 | Bluebook practice tests | https://satsuite.collegeboard.org/practice/practice-tests/bluebook | Full-length timed practice |
-| SAT Suite Question Bank | https://satsuitequestionbank.collegeboard.org/ | Official items; filter Math → **Hard**. This is the robust source for extra hard items without spending Tests 1–11. |
+| SAT Suite Educator Question Bank | https://satsuiteeducatorquestionbank.collegeboard.org/ (also cb.org/ssqb) | Official items; filter Math → **Hard** → one domain. PDF export, 20 at a time, with or without answers. How-to: [`official/question-bank-export.md`](official/question-bank-export.md) |
 | Student Question Bank (skill list) | https://satsuite.collegeboard.org/practice/student-question-bank/math | What each Math skill looks like |
 | Digital SAT sample questions | https://satsuite.collegeboard.org/media/pdf/digital-sat-sample-questions.pdf | Public worked samples (not a Module 2 #24–#27 set) |
 
