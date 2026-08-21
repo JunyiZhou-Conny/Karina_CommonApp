@@ -9,7 +9,9 @@
 
 **Print for the desk:** [`print/SAT-MATH-DESK-PACKET.pdf`](print/SAT-MATH-DESK-PACKET.pdf) — math notes and exam-style questions only (equations rendered). No lesson clock.
 
-**Official SAT Math pages (College Board PDFs):** [`official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)
+**Official College Board files:** [`official/`](official/) — Tests 1–11 booklets, answer explanations, scoring worksheets  
+**Math pages only:** [`official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)  
+**Test 5 Math check sheet:** [`official/keys/test-05-math.md`](official/keys/test-05-math.md)
 
 ## Start here
 

@@ -23,4 +23,5 @@
 
 - Lesson examples in `weekend-*/` are **instructor-created SAT-style** items unless marked otherwise.
 - For authentic College Board items: pull from Question Bank / Bluebook, then log misses against skill IDs in [`01-math-content-map.md`](01-math-content-map.md).
-- Do **not** paste full copyrighted Bluebook forms into this repo.
+- Official paper practice PDFs already in this repo: [`official/`](official/).
+- Do **not** paste full copyrighted Bluebook on-screen forms into this repo.

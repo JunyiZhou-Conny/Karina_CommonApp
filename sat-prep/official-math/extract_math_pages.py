@@ -5,7 +5,8 @@ from pathlib import Path
 import re
 import pymupdf
 
-ROOT = Path(__file__).resolve().parents[2]
+REPO_ROOT = Path(__file__).resolve().parents[2]
+OFFICIAL_TESTS = Path(__file__).resolve().parents[1] / "official" / "tests"
 OUT_DIR = Path(__file__).resolve().parent
 OUT_PDF = OUT_DIR / "SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf"
 
@@ -14,12 +15,22 @@ KNOWN_EXAMS = range(1, 12)
 
 
 def discover_sources() -> list[tuple[int, Path]]:
-    """Pick up every question booklet at the repo root, including newly added tests."""
+    """Pick up every question booklet under sat-prep/official/tests/."""
     found: list[tuple[int, Path]] = []
-    for path in ROOT.glob("sat-practice-test-*-digital.pdf"):
-        match = SOURCE_NAME.fullmatch(path.name)
-        if match:
-            found.append((int(match.group(1)), path))
+    search_dirs = [OFFICIAL_TESTS, REPO_ROOT]
+    seen: set[int] = set()
+    for folder in search_dirs:
+        if not folder.exists():
+            continue
+        for path in folder.glob("sat-practice-test-*-digital.pdf"):
+            match = SOURCE_NAME.fullmatch(path.name)
+            if not match:
+                continue
+            exam = int(match.group(1))
+            if exam in seen:
+                continue
+            seen.add(exam)
+            found.append((exam, path))
     return sorted(found, key=lambda item: item[0])
 
 
