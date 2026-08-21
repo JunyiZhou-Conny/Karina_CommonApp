@@ -32,7 +32,7 @@ Items **1–20** stay on current leaks. Items **21–25** are last-four Module 2
 | 24 | **D** | last-four | Discriminant \(4-60<0\). |
 | 25 | **17** | last-four | Legs 8 and 15; hypotenuse is the diameter. |
 
-If she misses **1–4, 12–15, 19, 20, 23** → stay on K1.  
+If she misses **1, 2, 4, 12, 13, 15, 19, 20, 23** → stay on K1.  
 If she misses **3, 14** → stay on K2 wording.  
 If she misses **5, 6, 16, 22** → stay on K3 (read the exponent as a clock).  
 If she misses **7–11, 17, 18, 21** → radius first, then \(m_1 m_2=-1\), then the line at \(P\).  
