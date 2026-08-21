@@ -37,7 +37,8 @@ Cycle: Common App **2026–27** (researched 2026-08-19).
 | `sat-prep/weekend-04/` | **Ready:** Geometry & Trig + Module 1 strategy |
 
 **Printable desk packet:** [`sat-prep/print/SAT-MATH-DESK-PACKET.pdf`](sat-prep/print/SAT-MATH-DESK-PACKET.pdf) (math notes + questions; answers at the back)  
-**Printable gap set:** [`sat-prep/print/TARGETED-SET-01.pdf`](sat-prep/print/TARGETED-SET-01.pdf) (notes + 25 questions; skip the last page)
+**Printable gap set:** [`sat-prep/print/TARGETED-SET-01.pdf`](sat-prep/print/TARGETED-SET-01.pdf) (notes + 25 questions; skip the last page)  
+**Suite Bank Hard pack:** [`sat-prep/official/suitebank/SAT-Math-Hard-exclude-active/`](sat-prep/official/suitebank/SAT-Math-Hard-exclude-active/) — 340 official Hard SAT Math items (student PDFs + keys)
 
 **Official College Board files:** [`sat-prep/official/`](sat-prep/official/) — booklets, answer explanations, scoring worksheets  
 **Math pages only:** [`sat-prep/official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](sat-prep/official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)  
