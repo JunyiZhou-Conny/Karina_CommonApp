@@ -14,7 +14,8 @@
 **Math pages only:** [`official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)  
 **Test 5 Math check sheet:** [`official/keys/test-05-math.md`](official/keys/test-05-math.md)  
 **Miss notebook (use after every sitting):** [`error-log/NOTEBOOK.md`](error-log/NOTEBOOK.md)  
-**Question Bank export (Hard, by domain):** [`official/question-bank-export.md`](official/question-bank-export.md)
+**Question Bank export (Hard, by domain):** [`official/question-bank-export.md`](official/question-bank-export.md)  
+**Suite Bank Hard pack (340 items):** [`official/suitebank/SAT-Math-Hard-exclude-active/`](official/suitebank/SAT-Math-Hard-exclude-active/)
 
 ## Start here
 

@@ -44,16 +44,14 @@ QB-SAT-Hard-Geometry-01-questions.pdf
 QB-SAT-Hard-Geometry-01-answers.pdf
 ```
 
-Drop those into `sat-prep/official/question-bank/` when you have them. I will not scrape the bank into the repo.
+Filed pack (your eight uploads): [`suitebank/SAT-Math-Hard-exclude-active/`](suitebank/SAT-Math-Hard-exclude-active/) — 340 Hard SAT Math items.
 
 ---
 
 ## Size (why this is not “four clicks”)
 
 College Board’s own help: **at most 20 questions per export**.  
-A third-party count of the public bank (not official, order-of-magnitude only): about **190 Hard Math** items if you exclude active Bluebook questions. Split across four domains, that is several 20-item PDFs per domain, not one file each.
-
-So “four documents” is the **filter plan**. The actual print pile is more like **8–20 PDFs** (questions + keys, maybe more than one batch per domain).
+Your Hard + exclude-active SAT Math export is **340** items (84 Algebra + 102 Advanced Math + 66 PSDA + 88 Geometry). That is already filed under `suitebank/`.
 
 ---
 
