@@ -13,6 +13,7 @@
 **Official College Board files:** [`official/`](official/) — Tests 1–11 booklets, answer explanations, scoring worksheets  
 **Math pages only:** [`official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)  
 **Test 5 Math check sheet:** [`official/keys/test-05-math.md`](official/keys/test-05-math.md)  
+**Test 11 Math check sheet:** [`official/keys/test-11-math.md`](official/keys/test-11-math.md)  
 **Miss notebook (use after every sitting):** [`error-log/NOTEBOOK.md`](error-log/NOTEBOOK.md)  
 **Question Bank export (Hard, by domain):** [`official/question-bank-export.md`](official/question-bank-export.md)  
 **Suite Bank Hard pack (340 items):** [`official/suitebank/SAT-Math-Hard-exclude-active/`](official/suitebank/SAT-Math-Hard-exclude-active/)
