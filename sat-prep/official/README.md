@@ -26,6 +26,6 @@ Extracted **Math Module 1 + 2 question pages only:** [`../official-math/SAT-MATH
 | 8 | `tests/` | — | — |
 | 9 | `tests/` | `answers/` | `scoring/` |
 | 10 | `tests/` | `answers/` | — |
-| 11 | `tests/` | `answers/` | — |
+| 11 | `tests/` | `answers/` | `scoring/` + [`keys/test-11-math.md`](keys/test-11-math.md) |
 
 Test 5 Math questions: booklet pages 32–41 (Module 1) and 42–50 (Module 2).
