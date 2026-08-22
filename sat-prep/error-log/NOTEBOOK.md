@@ -15,14 +15,15 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 
 | ID | Knowledge point | Where it showed up | Status |
 |---|---|---|---|
-| **K1** | Successive percent = **multiply** growth factors, do not add the percents. Up 10% then up 10% is \(\times 1.1 \times 1.1 = 1.21\), not \(+20\%\). | Desk **B14**, desk **C4/C6**, Test 5 percent items | 🟨 teach |
-| **K2** | “Increase \(x\) by \(p\%\)” means \(x(1+\frac{p}{100})\), not \(x\cdot\frac{p}{100}\). Increase by 400% is \(\times 5\). | Test 5 Math **Module 1 #25** | 🟨 teach |
-| **K3** | Exponential model period: if \(P(t)=A(1+r)^{kt}\), there are \(k\) growth cycles per 1 unit of \(t\). Convert that period into months when the question asks for \(n\) months. | Test 5 Math **Module 2 #25** (Advanced Math) | 🟨 teach |
-| **K4** | Tangent to a circle is **perpendicular to the radius** at the contact point. | Test 5 Math **Module 2 #26** | 🟨 teach |
-| **K5** | Perpendicular slopes: \(m_1 m_2 = -1\) (negative reciprocal). Vertical radius \(\Rightarrow\) horizontal tangent (slope 0). | Test 5 Math **Module 2 #26**; desk Algebra note she did not apply | 🟨 teach |
-| **K6** | Combo: circle equation \(\rightarrow\) center \(\rightarrow\) radius slope \(\rightarrow\) tangent slope \(\rightarrow\) point-slope line \(\rightarrow\) test a point. Not “just write \((x-h)^2+(y-k)^2=r^2\).” | Same official #26 vs desk D13-style notes | 🟨 teach |
+| **K1** | Successive percent = **multiply** growth factors. Do **not** add the percents. Do **not** add the starting amount back after you multiply. Final = \(\text{start}\times(1+r)^n\), never \(\text{start}\times(1+r)^n+\text{start}\). That last add-on is an **overestimate**. | Desk B14 / C4 / C6; Test 5; **Set 01 #4, #20** | 🟨 still |
+| **K2** | “Increase \(x\) by \(p\%\)” means \(x(1+\frac{p}{100})\), not \(x\cdot\frac{p}{100}\). Increase by 400% is \(\times 5\). | Test 5 M1 #25; Set 01 #3 clean | 🟩 Set 01 clean |
+| **K3** | Exponential model period: if \(P(t)=A(1+r)^{kt}\), there are \(k\) growth cycles per 1 unit of \(t\). Convert that period into months when the question asks for \(n\) months. | Test 5 M2 #25; Set 01 #5, #6 clean | 🟩 Set 01 clean |
+| **K4** | Tangent to a circle is **perpendicular to the radius** at the contact point. | Test 5 M2 #26; Set 01 ordinary-slope items clean | 🟩 ordinary case clean |
+| **K5** | Perpendicular slopes: \(m_1 m_2 = -1\). **Axis-aligned special case is still leaking** — see K7. | Test 5 M2 #26; Set 01 #11, #17 | 🟨 still (axis case) |
+| **K6** | Combo: circle \(\rightarrow\) center \(\rightarrow\) radius slope \(\rightarrow\) tangent slope \(\rightarrow\) point-slope at \(P\) \(\rightarrow\) test a point. | Test 5 M2 #26; Set 01 #8, #9, #21–#23 clean | 🟩 ordinary combo clean |
+| **K7** | Slope language, not just “negative reciprocal.” A line **perpendicular to the x-axis** is vertical \(\Rightarrow\) slope **undefined**. A line **parallel to the x-axis** is horizontal \(\Rightarrow\) slope **0**. SAT asks for the **tangent**, not the radius: vertical radius \(\Rightarrow\) tangent slope **0**; horizontal radius \(\Rightarrow\) tangent slope **undefined**. | **Set 01 #11, #17** (same type) | 🟨 teach |
 
-When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**.
+When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
 ---
 
@@ -72,6 +73,22 @@ You walked these with her. Official stems stay in the College Board PDFs; this l
 - Check sheet: [`../official/keys/test-05-math.md`](../official/keys/test-05-math.md)
 - Desk B14 / C4 / C6: [`../print/SAT-MATH-DESK-PACKET.md`](../print/SAT-MATH-DESK-PACKET.md)
 
+### 2026-08-22 — Targeted Set 01
+
+**Result:** pretty clean. Missed **only #4, #11, #17, #20**. Those are two families, two items each.
+
+| Item | Key | Family | What she did | Gaps |
+|---|---|---|---|---|
+| **#4** | **125** = \(80\times(1.25)^2\) | Successive growth, SPR | Grew it, then **added the initial 80 back**. Overestimate (looks like 205). | K1 |
+| **#20** | **C, \(\times 1.3225\)** = \(1.15^2\) | Same type, MC | Same add-start / overestimate habit, or treating two +15% as +30% (\(\times 1.30\)). | K1 |
+| **#11** | **A, 0** | Vertical radius, tangent slope | Center \((4,1)\), tangent at \((4,7)\). Radius is vertical (⊥ x-axis, slope **undefined**). Tangent is horizontal (∥ x-axis, slope **0**). SAT wants the **tangent**. | K5, K7 |
+| **#17** | **A, 0** | Same type | Center \((3,0)\), tangent at \((3,5)\). Same vertical-radius trap. | K5, K7 |
+
+Items that landed (do not rebuild these for Set 02 unless they reappear on Test 11): #1–#3, #5–#10, #12–#16, #18–#19, #21–#25. That includes K2, K3, ordinary-slope K4/K5/K6, and last-four combo items.
+
+Print: [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf)  
+Key: [`targeted-set-01-key.md`](targeted-set-01-key.md)
+
 ---
 
 ## What to say at the desk (short)
@@ -82,6 +99,7 @@ You walked these with her. Official stems stay in the College Board PDFs; this l
 - Up \(p\%\) \(\Rightarrow\) \(\times(1+\frac{p}{100})\). Down \(p\%\) \(\Rightarrow\) \(\times(1-\frac{p}{100})\).
 - Two identical ups: square the factor. +10% then +10% = \(\times 1.21\), which is a **21%** increase, not 20%.
 - +10% then −10% is **not** back to start: \(\times 1.1\times 0.9=0.99\).
+- **Her consistent overestimate (Set 01 #4 / #20):** after you multiply, you already **have** the new population. Do not add the starting amount again. \(80\times(1.25)^2=125\), not \(125+80\). The grown number **includes** the original 80.
 
 ### “Increase by \(p\%\)” (K2)
 
@@ -103,7 +121,18 @@ You walked these with her. Official stems stay in the College Board PDFs; this l
 4. Write the tangent with **point-slope at \(P\)**, never at \(C\).
 5. Test each choice in that line. Points on the radius are the usual trap.
 
-Desk Math Notes already had “perpendicular = negative reciprocal” and “\((x-h)^2+(y-k)^2=r^2\).” The missing page is the **glue** between them. That glue is now in the notes as “Combo moves.”
+### 0 vs undefined (K7) — say this every time the radius is axis-aligned
+
+| Line | Picture | Slope |
+|---|---|---|
+| Perpendicular to the x-axis | vertical, same \(x\) | **undefined** |
+| Parallel to the x-axis | horizontal, same \(y\) | **0** |
+
+- Same \(x\) on center and contact point \(\Rightarrow\) radius is vertical \(\Rightarrow\) tangent is **horizontal** \(\Rightarrow\) slope **0**.
+- Same \(y\) on center and contact point \(\Rightarrow\) radius is horizontal \(\Rightarrow\) tangent is **vertical** \(\Rightarrow\) slope **undefined**.
+- Trap: she names the slope of the **radius** (undefined on #11 / #17) instead of the **tangent** (0). Circle the word the SAT asked for before you bubble.
+
+Desk Math Notes already had “perpendicular = negative reciprocal” and “\((x-h)^2+(y-k)^2=r^2\).” The missing page is the **glue** between them. That glue is now in the notes as “Combo moves.” The leftover trap is the **axis-aligned** special case, not the ordinary negative-reciprocal case.
 
 ---
 
@@ -115,8 +144,31 @@ Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuite
 
 ---
 
+## Targeted Set 02 — design notes (do not write the set yet)
+
+Build this **after** Test 11 is logged. Keep it short. Only the two families that are still leaking.
+
+**Family A — successive growth, punish the add-start overestimate (K1)**
+
+- Same type as Set 01 **#4** and **#20**.
+- Mix SPR and MC. Use two (or three) identical growths, and at least one +p% then −p%.
+- Write trap numbers that match **\(\text{start}\times(1+r)^n+\text{start}\)** so her habit has a place to land and be marked wrong.
+- Also keep the older +20% vs \(\times 1.21\) trap in one MC item.
+- Do **not** restack “increase by 300%” (K2) or exponent-as-clock (K3) unless Test 11 reopens them.
+
+**Family B — axis-aligned radius / tangent, 0 vs undefined (K5, K7)**
+
+- Same type as Set 01 **#11** and **#17**.
+- At least two items: vertical radius \(\Rightarrow\) tangent slope **0**.
+- At least one item: horizontal radius \(\Rightarrow\) tangent slope **undefined** (the other half of the caveat).
+- One short verbal: “line perpendicular to the x-axis” vs “line parallel to the x-axis.”
+- Ordinary negative-reciprocal tangents (#7–#10, #21–#23) landed — do not refill the set with those.
+
+Do **not** write last-four combo items again unless Test 11 last-four miss.
+
+---
+
 ## Next sitting
 
-Give her the printed [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) only (25 items; skip the answer-key pages).  
-Do not restart the 17-page packet from A1.  
-After she finishes, mark each gap 🟨/✅ in the table and add a new session block.
+Today she is also sitting **Official Test 11**. Log that next.  
+Do **not** print a Targeted Set 02 until Test 11 misses are in this notebook. Set 02 should still be the two families above, plus whatever Test 11 newly opens.
