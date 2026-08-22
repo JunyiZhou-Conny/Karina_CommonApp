@@ -11,7 +11,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | # | Skill | Status | Notes |
 |---|---|---|---|
 | A1 | Linear equations in one variable | ⬜ | Isolate; clear fractions/decimals |
-| A2 | Linear equations in two variables | 🟨 | Forms: slope-intercept, standard, point-slope. **Leak:** perpendicular \(\Rightarrow m_1 m_2=-1\), then write the line at the contact point (Test 5 M2 #26). |
+| A2 | Linear equations in two variables | 🟨 | Forms: slope-intercept, standard, point-slope. Ordinary \(m_1 m_2=-1\) landed on Set 01. **Still leaking:** vertical line (⊥ x-axis) has **undefined** slope; horizontal (∥ x-axis) has slope **0**. SAT asks for the tangent, not the radius (Set 01 #11, #17). |
 | A3 | Linear functions | ⬜ | Rate of change; intercept meaning in context |
 | A4 | Systems of two linear equations in two variables | ⬜ | Substitution, elimination, Desmos intersection |
 | A5 | Linear inequalities in one or two variables | ⬜ | Solution sets; which values satisfy |
@@ -39,7 +39,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | # | Skill | Status | Notes |
 |---|---|---|---|
 | C1 | Ratios, rates, proportional relationships, and units | ⬜ | Unit analysis |
-| C2 | Percentages | 🟨 | % change, successive %. **Leak:** multiply factors, don’t add percents; “increase by \(p\%\)” \(\neq\) “\(p\%\) of.” |
+| C2 | Percentages | 🟨 | % change, successive %. Multiply factors, don’t add percents. **Set 01 leftover:** after \(\text{start}\times(1+r)^n\), do **not** add the start back — that overestimates (#4, #20). “Increase by \(p\%\)” wording (K2) landed. |
 | C3 | One-variable data: distributions; center & spread | ⬜ | Mean/median/range; histograms |
 | C4 | Two-variable data: models & scatterplots | ⬜ | Linear vs exponential fit |
 | C5 | Probability and conditional probability | ⬜ | Tables / two-way frequency |
@@ -57,7 +57,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | D1 | Area and volume | ⬜ | Formulas; scale factors |
 | D2 | Lines, angles, and triangles | ⬜ | Parallel lines, similarity, congruence |
 | D3 | Right triangles and trigonometry | ⬜ | Pythagorean; sin/cos/tan; special rights |
-| D4 | Circles | 🟨 | Arc, sector, equation of circle. **Leak:** tangent \(\perp\) radius (not just center/radius). See error log. |
+| D4 | Circles | 🟨 | Arc, sector, equation of circle. Ordinary tangent \(\perp\) radius combo landed on Set 01. **Still leaking:** axis-aligned radius \(\Rightarrow\) tangent slope is 0 or undefined (the other one from the radius). See error-log K7. |
 
 **Weekend 1:** survey. **Weekend 4:** full Geometry & Trig + Module 1 mix.
 
