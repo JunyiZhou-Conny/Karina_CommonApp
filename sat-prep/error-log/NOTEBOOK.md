@@ -7,7 +7,9 @@ Living instructor log. After each session, add what she actually missed. Next pr
 **Print for her:** [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) (notes + 25 questions; skip the answer-key page)  
 **Your key:** [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
-Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27. That band is already warm.
+Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27; Test 11 Module 1 was 23/27. That band is already warm.
+
+**Today’s scorecard:** [`TEST-11-REPORT.md`](TEST-11-REPORT.md)
 
 ---
 
@@ -21,7 +23,15 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K4** | Tangent to a circle is **perpendicular to the radius** at the contact point. | Test 5 M2 #26; Set 01 ordinary-slope items clean | 🟩 ordinary case clean |
 | **K5** | Perpendicular slopes: \(m_1 m_2 = -1\). **Axis-aligned special case is still leaking** — see K7. | Test 5 M2 #26; Set 01 #11, #17 | 🟨 still (axis case) |
 | **K6** | Combo: circle \(\rightarrow\) center \(\rightarrow\) radius slope \(\rightarrow\) tangent slope \(\rightarrow\) point-slope at \(P\) \(\rightarrow\) test a point. | Test 5 M2 #26; Set 01 #8, #9, #21–#23 clean | 🟩 ordinary combo clean |
-| **K7** | Slope language, not just “negative reciprocal.” A line **perpendicular to the x-axis** is vertical \(\Rightarrow\) slope **undefined**. A line **parallel to the x-axis** is horizontal \(\Rightarrow\) slope **0**. SAT asks for the **tangent**, not the radius: vertical radius \(\Rightarrow\) tangent slope **0**; horizontal radius \(\Rightarrow\) tangent slope **undefined**. | **Set 01 #11, #17** (same type) | 🟨 teach |
+| **K7** | Slope language, not just “negative reciprocal.” A line **perpendicular to the x-axis** is vertical \(\Rightarrow\) slope **undefined**. A line **parallel to the x-axis** is horizontal \(\Rightarrow\) slope **0**. SAT asks for the **tangent**, not the radius: vertical radius \(\Rightarrow\) tangent slope **0**; horizontal radius \(\Rightarrow\) tangent slope **undefined**. | **Set 01 #11, #17** (same type). Not in the named Test 11 misses. | 🟨 still |
+| **K8** | Right-triangle trig: from the **named angle**, mark opposite / adjacent / hypotenuse, then isolate the side they asked for. sin vs cos is a side-label, not a guess. | Test 11 **M1 #19** | 🟨 teach |
+| **K9** | Altitude-to-hypotenuse / similar right triangles: tan (or sin/cos) is a **ratio of the two given lengths**. Ugly numbers (429, 572) cancel. Do **not** Pythagorean a giant hypotenuse — that is the trap. | Test 11 **M2 #26** | 🟨 teach |
+| **K10** | Messy-data estimate: read a graph intercept approximately, compute, pick **closest**. Tolerate ambiguity. Trap = the other variable’s value. | Test 11 **M2 #19** | 🟨 teach |
+| **K11** | Linear systems: 0 / 1 / infinitely many / “at least one.” Scale-check: same line \(\Rightarrow\) infinite; one intersection \(\Rightarrow\) one. “At least one” includes both. | Test 11 **M1 #25** | 🟨 teach |
+| **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. 1 nmi = 1.852 km does **not** mean 1 nmi² = 1.852 km². | Test 11 **M2 #27** | 🟨 teach |
+| **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 **M1 #24** | 🟨 teach |
+| **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 **M1 #23** | 🟨 teach |
+| **K15** | “Equivalent form that **displays** the maximum as a constant” = **vertex form**, not factored form. | Test 11 **M2 #22** | 🟨 teach |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -89,6 +99,35 @@ Items that landed (do not rebuild these for Set 02 unless they reappear on Test 
 Print: [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf)  
 Key: [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
+### 2026-08-22 — Official Test 11 Math (final report)
+
+**Score:** Module 1 **23/27**, Module 2 **22/27** → raw **45** → paper conversion Math **640–700**.  
+Keeps pace with Test 5 (24 + 21 = 45, same band). One fewer on Module 1, one more on Module 2.
+
+Named misses: M1 **19, 23, 24, 25** (4, matches 23/27). M2 **19, 22, 26, 27** (4 named; 22/27 implies **one more unspecified** M2 miss).
+
+Official stems stay in the College Board PDFs. This log records the leak.
+
+| Item | Key | Family | What she did not have ready | Gaps |
+|---|---|---|---|---|
+| **M1 #19** | **D** | Right-triangle sin/cos | From the named angle, mark opposite / adjacent / hypotenuse, then isolate QS. sin vs cos is a side-label. Same trig family as M2 #26. | K8 |
+| **M1 #23** | **B** | Recover \(f\) from a shifted graph | Graph is \(y=f(x)+4\). Undo the +4 to get \(f\). | K14 |
+| **M1 #24** | **A** | Intersecting-lines angle inventory | Four angles: verticals equal, adjacents supplementary. List every pairwise sum, then pick the choice that is **not** on the list. Close reading + combinations. | K13 |
+| **M1 #25** | **C** | Linear systems, how many solutions | I is a scale of the same line (infinitely many). II crosses it (one). “At least one” includes both → C. Typical 0 / 1 / infinite / at-least-one item. | K11 |
+| **M2 #19** | **A, 811** | Messy-data estimate | Graph intercept is approximate; total mass / count ≈ 809; closest is 811. Tolerate ambiguity. Trap B is the **other** star type. Common SAT estimate item. | K10 |
+| **M2 #22** | **C** | Equivalent form that **displays** the max | Vertex form, not factored form. Completing the square puts the maximum out as a constant. | K15 |
+| **M2 #26** | **D, 3/4** | Big-number trig / similar right triangles | Legs 572 and 429. tan is a **ratio**; the numbers cancel to 3/4. Trap: Pythagorean a giant hypotenuse, then tan = opp/hyp. Same trig family as M1 #19. | K9 |
+| **M2 #27** | **157.8** or **789/5** | Area unit conversion | 1 nmi = 1.852 km ⇒ 1 nmi² = \((1.852)^2\) km², then × 46. Linear factor is not the area factor. | K12 |
+
+Set 01 leftovers (K1 add-start, K7 0 vs undefined) did **not** show up in the named Test 11 misses. Keep them for Set 02 anyway.
+
+**Official files (you, not her):**
+
+- Questions: [`../official/tests/sat-practice-test-11-digital.pdf`](../official/tests/sat-practice-test-11-digital.pdf) — M1 late items booklet pp. 39–40; M2 late items booklet pp. 49–51
+- Explanations: [`../official/answers/sat-practice-test-11-answers-digital.pdf`](../official/answers/sat-practice-test-11-answers-digital.pdf)
+- Check sheet + conversion: [`../official/keys/test-11-math.md`](../official/keys/test-11-math.md) (PR #12 until merged)
+- Scorecard: [`TEST-11-REPORT.md`](TEST-11-REPORT.md)
+
 ---
 
 ## What to say at the desk (short)
@@ -134,11 +173,41 @@ Key: [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
 Desk Math Notes already had “perpendicular = negative reciprocal” and “\((x-h)^2+(y-k)^2=r^2\).” The missing page is the **glue** between them. That glue is now in the notes as “Combo moves.” The leftover trap is the **axis-aligned** special case, not the ordinary negative-reciprocal case.
 
+### Right-triangle trig (K8, K9)
+
+- Name the angle first. Opposite / adjacent / hypotenuse are relative to **that** angle.
+- Isolate the side they asked for. \(\sin\theta=\frac{\text{opp}}{\text{hyp}}\) is a sentence, not a button.
+- If SAT drops 429 and 572, they want the **ratio**, not a 5-digit hypotenuse. Similar right triangles (altitude to the hypotenuse) make \(\tan/\sin/\cos\) equal to a ratio of the two given legs. Pythagorean here is the trap.
+
+### Messy estimate (K10)
+
+- The graph/table is allowed to be a little dirty. Compute, then take **closest**.
+- Write what the intercept **means** (all of one type, none of the other) before you divide.
+- The other intercept is the usual trap.
+
+### Linear systems, how many solutions (K11)
+
+- Same line (one equation is a scale of the other) \(\Rightarrow\) infinitely many.
+- Same slope, different intercept \(\Rightarrow\) none.
+- Different slopes \(\Rightarrow\) exactly one.
+- “At least one” = infinite **or** one. Do not stop at “I looks the same, so A.”
+
+### Area units (K12)
+
+- Length converts with \(k\). Area converts with \(k^2\). Volume with \(k^3\).
+- Square the linear factor **before** you multiply by the given area.
+
+### Angle combinations (K13)
+
+- Two lines \(\Rightarrow\) two pairs of verticals, adjacent pairs = 180°.
+- Three possible sums: two equals, two supplements, or 180°.
+- “Could NOT” means find the expression that is not one of those three.
+
 ---
 
 ## Official hard #24–#27 (search result)
 
-There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters — keep Tests 1–11 unused for now.
+There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5 and 11. **Still unused:** Tests 1–4, 6–10.
 
 Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuitequestionbank.collegeboard.org/). Third-party “real SAT leak” PDFs are not a source we will copy. Details: [`../resources.md`](../resources.md).
 
@@ -146,29 +215,30 @@ Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuite
 
 ## Targeted Set 02 — design notes (do not write the set yet)
 
-Build this **after** Test 11 is logged. Keep it short. Only the two families that are still leaking.
+Test 11 is now logged. Set 02 should mix **Set 01 leftovers** with the **Test 11 types you flagged**. Still instructor-written originals. Do not mine Tests 1–11.
 
-**Family A — successive growth, punish the add-start overestimate (K1)**
+**Carry from Set 01**
 
-- Same type as Set 01 **#4** and **#20**.
-- Mix SPR and MC. Use two (or three) identical growths, and at least one +p% then −p%.
-- Write trap numbers that match **\(\text{start}\times(1+r)^n+\text{start}\)** so her habit has a place to land and be marked wrong.
-- Also keep the older +20% vs \(\times 1.21\) trap in one MC item.
-- Do **not** restack “increase by 300%” (K2) or exponent-as-clock (K3) unless Test 11 reopens them.
+- **Family A — successive growth (K1).** Same type as Set 01 #4 / #20. Trap numbers that match \(\text{start}\times(1+r)^n+\text{start}\) (her overestimate). One +20% vs \(\times 1.21\) MC.
+- **Family B — 0 vs undefined (K5, K7).** Same type as Set 01 #11 / #17. Two vertical-radius → tangent **0**. One horizontal-radius → tangent **undefined**. One verbal ⊥ x-axis vs ∥ x-axis.
 
-**Family B — axis-aligned radius / tangent, 0 vs undefined (K5, K7)**
+**Add from Test 11 (instructor-flagged)**
 
-- Same type as Set 01 **#11** and **#17**.
-- At least two items: vertical radius \(\Rightarrow\) tangent slope **0**.
-- At least one item: horizontal radius \(\Rightarrow\) tangent slope **undefined** (the other half of the caveat).
-- One short verbal: “line perpendicular to the x-axis” vs “line parallel to the x-axis.”
-- Ordinary negative-reciprocal tangents (#7–#10, #21–#23) landed — do not refill the set with those.
+- **Family C — right-triangle trig (K8, K9).** Same type as Test 11 M1 #19 and M2 #26. At least one clean SOHCAHTOA “which side.” At least one altitude / similar-triangle item with **ugly side lengths** whose ratio cancels; include a Pythagorean-hypotenuse trap answer.
+- **Family D — messy estimate (K10).** Same type as Test 11 M2 #19. Graph or intercept is not a nice integer; student must tolerate ambiguity and pick **closest**. Put the other-variable value in the choices.
+- **Family E — linear systems, how many solutions (K11).** Same type as Test 11 M1 #25. Infinite / one / none / “at least one.” One I/II item.
+- **Family F — area unit conversion (K12).** Same type as Test 11 M2 #27. Linear factor given; they must square it.
+- **Family G — angle inventory / “could NOT” (K13).** Same type as Test 11 M1 #24. Close reading + enumerate the pairwise sums.
 
-Do **not** write last-four combo items again unless Test 11 last-four miss.
+**Optional / light (missed, not flagged as a family)**
+
+- One recover-\(f\) from \(y=f(x)+k\) (K14, Test 11 M1 #23).
+- One “displays the maximum as a constant” = vertex form (K15, Test 11 M2 #22).
+
+Do **not** restack K2 / K3 / ordinary-slope tangent combo unless they reopen.
 
 ---
 
 ## Next sitting
 
-Today she is also sitting **Official Test 11**. Log that next.  
-Do **not** print a Targeted Set 02 until Test 11 misses are in this notebook. Set 02 should still be the two families above, plus whatever Test 11 newly opens.
+Targeted Set 02 can be written when you ask. Until then, desk talk the new K8–K13 scripts above. No new official sit until Set 02 (Tests 1–10 still unused).
