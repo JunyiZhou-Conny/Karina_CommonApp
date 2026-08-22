@@ -52,9 +52,12 @@ Set 01 leftovers that did **not** reappear in the named Test 11 misses (still on
 
 ---
 
-## Set 02 (not written yet)
+## Set 02 (written)
 
-When we write it, include:
+Homework: [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) (30 items, no key).  
+Key: [`targeted-set-02-key.md`](targeted-set-02-key.md).
+
+Includes:
 
 1. Successive growth with the add-start overestimate (Set 01 #4 / #20)
 2. Vertical / horizontal tangent, 0 vs undefined (Set 01 #11 / #17)

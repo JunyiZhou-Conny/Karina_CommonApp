@@ -4,8 +4,10 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) (notes + 25 questions; skip the answer-key page)  
-**Your key:** [`targeted-set-01-key.md`](targeted-set-01-key.md)
+**Print for her (current homework):** [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) (notes + 30 questions; **no key in the file**)  
+**Your key:** [`targeted-set-02-key.md`](targeted-set-02-key.md)
+
+Set 01 (done): [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) · [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
 Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27; Test 11 Module 1 was 23/27. That band is already warm.
 
@@ -213,14 +215,16 @@ Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuite
 
 ---
 
-## Targeted Set 02 — design notes (do not write the set yet)
+## Targeted Set 02 — written (30 items)
 
-Test 11 is now logged. Set 02 should mix **Set 01 leftovers** with the **Test 11 types you flagged**. Still instructor-written originals. Do not mine Tests 1–11.
+Homework file: [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf). Instructor key: [`targeted-set-02-key.md`](targeted-set-02-key.md).
+
+Instructor-written originals. Do not mine Tests 1–11. Mix of **Set 01 leftovers** and **Test 11 types**.
 
 **Carry from Set 01**
 
 - **Family A — successive growth (K1).** Same type as Set 01 #4 / #20. Trap numbers that match \(\text{start}\times(1+r)^n+\text{start}\) (her overestimate). One +20% vs \(\times 1.21\) MC.
-- **Family B — 0 vs undefined (K5, K7).** Same type as Set 01 #11 / #17. Two vertical-radius → tangent **0**. One horizontal-radius → tangent **undefined**. One verbal ⊥ x-axis vs ∥ x-axis.
+- **Family B — 0 vs undefined (K5, K7).** Same type as Set 01 #11 / #17, plus the vertical-tangent half you asked for. In the set: #4–#5 slope **0**; #6, #7, #17, #23, #29 slope **undefined**.
 
 **Add from Test 11 (instructor-flagged)**
 
@@ -241,4 +245,5 @@ Do **not** restack K2 / K3 / ordinary-slope tangent combo unless they reopen.
 
 ## Next sitting
 
-Targeted Set 02 can be written when you ask. Until then, desk talk the new K8–K13 scripts above. No new official sit until Set 02 (Tests 1–10 still unused).
+Give her [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) (30 items, no key in the file).  
+After she finishes, mark K1 / K7–K15 in the table and add a session block. Tests 1–4 and 6–10 still unused.
