@@ -23,7 +23,7 @@ Do **not** give this page to Karina. Send her [`../print/TARGETED-SET-02.pdf`](.
 | 15 | **B, \(2x-5\)** | K14 | Undo the \(+6\): \(f(x)=2x+1-6\). |
 | 16 | **B, \$86.40** | K1 | \(90\times 1.2\times 0.8=86.4\). Same % up and down does not cancel. |
 | 17 | **B, undefined** | K7 | Radius \(\parallel\) x-axis \(\Rightarrow\) tangent \(\perp\) x-axis \(\Rightarrow\) undefined. Trap A is “horizontal things have slope 0.” |
-| 18 | **A, \(3/4\)** | K9 | \(\tan Z=XW/WY=156/208=3/4\). Ugly-number / altitude item. Pythagorean \(260\): traps C \(3/5\) and D \(4/5\). B is the reciprocal. |
+| 18 | **B, \(4/3\)** | K9 | \(\tan Z=XW/WZ=156/117=4/3\). Ugly-number / altitude item. Pythagorean \(260\): traps C \(3/5\) and D \(4/5\). A is the reciprocal. |
 | 19 | **B, 245** | K10 | \(6{,}375/26\approx 245.2\). A uses count 30; C uses count 20. |
 | 20 | **C, infinitely many** | K11 | Second equation is the first \(\div 2\). Same line. |
 | 21 | **20.7** | K12 | \(8\times(1.609)^2=20.711\ldots\). No-square trap: \(12.9\). |
