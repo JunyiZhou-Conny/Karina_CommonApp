@@ -4,9 +4,10 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her (current homework):** [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) (notes + 30 questions; **no key in the file**)  
-**Your key:** [`targeted-set-02-key.md`](targeted-set-02-key.md)
+**Print for her (current homework):** [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) (notes + 30 questions; **no key in the file**)  
+**Your key:** [`targeted-set-03-key.md`](targeted-set-03-key.md)
 
+Set 02 (done): [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) · [`targeted-set-02-key.md`](targeted-set-02-key.md)  
 Set 01 (done): [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) · [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
 Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27; Test 11 Module 1 was 23/27. That band is already warm.
@@ -33,7 +34,12 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. | Test 11 M2 #27; Set 02 #13, #21 clean | 🟩 Set 02 clean |
 | **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 M1 #24; Set 02 #14, #25 clean | 🟩 Set 02 clean |
 | **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 M1 #23; Set 02 #15 clean | 🟩 Set 02 clean |
-| **K15** | “Equivalent form that **displays** a feature as a constant” (vertex / intercept). Set 02 vertex item landed; Test 9 M2 #26 (y-intercept display) missed. | Test 11 M2 #22; Set 02 #27 clean; **Test 9 M2 #26** | 🟨 reopen |
+| **K15** | “Equivalent form that **displays** a feature as a constant or coefficient” (vertex / intercept). Set 02 vertex item landed; Test 9 M2 #26 (y-intercept display) missed. | Test 11 M2 #22; Set 02 #27 clean; **Test 9 M2 #26**; Set 03 #24–#27 | 🟨 reopen |
+| **K16** | Frequency table: **maximum data value** is the largest value that occurs. Frequency is a count. Do **not** multiply value \(\times\) frequency. Frequency 0 means that value is not in the set. | Test 9 M1 #14 (she wrote \(11\times 11=121\)); Set 03 #1–#3 | 🟨 new |
+| **K17** | Radical equation, “**smallest** solution”: square **both** sides, then check. A domain leftover (\(x\ge 2\)) is not the answer. \(\sqrt{(x-h)^2}=\|x-h\|\), not “so \(x=h\).” | Test 9 M1 #21 (she entered **2**); Set 03 #4–#10 | 🟨 new |
+| **K18** | “**By how many**” after a sample: scale to the full group, **then subtract**. Trap = sample gap or the winner’s scaled total. | Test 9 M1 #26; Set 03 #11–#16, #30 | 🟨 new |
+| **K19** | Similar solids: \(k^2=\mathrm{SA}_\text{large}/\mathrm{SA}_\text{small}\) as **one** fraction, then \(k=\sqrt{\text{that}}\). Volumes with \(k^3\). Do not \(\sqrt{\mathrm{SA}}\) each area separately (decimal spray). | Test 9 M1 #27; Set 03 #17–#20 | 🟨 new |
+| **K20** | Adding rationals: if one denom is \(a-b\) and the other is \(b-a\), rewrite \(b-a=-(a-b)\) **before** combining. Do not invent a new free denominator. | Test 9 M2 #25; Set 03 #21–#23 | 🟨 new |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -278,6 +284,33 @@ She **cannot** bring her own highlighter, colored pencils, or paper. The center 
 4. Eyes back to the stem. Check the job line against the bubble.
 5. Practice this in the **Bluebook app**, not only paper Tests 1–4 / 6–8 / 10. Paper hid the transfer cost.
 
+### Frequency table (K16) — Test 9 M1 #14
+
+- First column = data values. Second = how many times. They are not the same kind of number.
+- Maximum **data value** = the last value that actually occurs. She multiplied \(11\times 11\) and entered **121**. The answer was **14**.
+- Simple item. Mark it as attention, not a new skill.
+
+### Radical, smallest solution (K17) — Test 9 M1 #21
+
+- Square both sides. Do not simplify one side and stop.
+- She saw \((x-2)\) and wrote **2** (domain leftover). Official smallest was **−3**.
+- \(\sqrt{(x-h)^2}=\|x-h\|\). Two numbers, pick the lesser one that checks.
+
+### “By how many” (K18) — Test 9 M1 #26
+
+- Scale, then subtract. “By how many … expected” is a **margin**, not a total.
+- Traps: unscaled sample gap; the winner’s scaled count.
+
+### Similar solids, one fraction (K19) — Test 9 M1 #27
+
+- \(k^2=1450/58=25\), then \(k=5\). One division, then one square root.
+- \(\sqrt{1450}\) and \(\sqrt{58}\) as two hits is how the calculator fills with junk decimals.
+- Then \(V\) scales with \(k^3\).
+
+### Rational rewrite \(b-a\) (K20) — Test 9 M2 #25
+
+- Flip the second denominator to a minus **before** you add. Do not stack a fresh common denom and hope.
+
 ---
 
 ## Official hard #24–#27 (search result)
@@ -316,6 +349,22 @@ Do **not** restack K2 / K3 / ordinary-slope tangent combo unless they reopen.
 
 ---
 
+## Targeted Set 03 — written (30 items)
+
+Homework file: [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf). Instructor key: [`targeted-set-03-key.md`](targeted-set-03-key.md).
+
+Instructor-written originals. Do not mine Tests 1–11. **Skip** Test 9 M1 #7 (profit), #12 (arc QR), #25 (stain twice).
+
+- **K16** frequency / max data value — #1–#3 (simple; her 121 miss).
+- **K17** radical, square both sides, smallest solution — #4–#10.
+- **K18** “by how many” (scale then subtract; not polling) — #11–#16, #30.
+- **K19** similar solids, one-fraction \(k\) — #17–#20.
+- **K20** rational, flip \(b-a\) first — #21–#23.
+- **K15** displays max / min / intercept as a constant or coefficient (I/II) — #24–#27.
+- **K7 leftover only** — #28 undefined, #29 slope 0. Not this week’s focus.
+
+---
+
 ## Next sitting
 
-Test 9 is locked: raw **44**, **630–690**. Module 2 was the strongest official sit so far. Next drill: **screen → scratch job line** (see above) plus leftover K7 (vertical = undefined) and K15 (y-intercept display). Tests 1–4, 6–8, 10 still unused. Do the next official sit in **Bluebook** so the transfer is trained.
+Send Set 03. Test 9 is locked: raw **44**, **630–690**. After she returns Set 03, next unused official sit is still Tests 1–4, 6–8, 10 — prefer **Bluebook** so the 22-question module and the screen → scratch job line are trained.
