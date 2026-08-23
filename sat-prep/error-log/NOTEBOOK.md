@@ -4,10 +4,15 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) (notes + 25 questions; skip the answer-key page)  
-**Your key:** [`targeted-set-01-key.md`](targeted-set-01-key.md)
+**Print for her (current homework):** [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) (notes + 38 questions; **no key in the file**)  
+**Your key:** [`targeted-set-03-key.md`](targeted-set-03-key.md)
 
-Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27. That band is already warm.
+Set 02 (done): [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) · [`targeted-set-02-key.md`](targeted-set-02-key.md)  
+Set 01 (done): [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) · [`targeted-set-01-key.md`](targeted-set-01-key.md)
+
+Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27; Test 11 Module 1 was 23/27. That band is already warm.
+
+**Today’s scorecard:** [`TEST-11-REPORT.md`](TEST-11-REPORT.md)
 
 ---
 
@@ -15,14 +20,32 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 
 | ID | Knowledge point | Where it showed up | Status |
 |---|---|---|---|
-| **K1** | Successive percent = **multiply** growth factors, do not add the percents. Up 10% then up 10% is \(\times 1.1 \times 1.1 = 1.21\), not \(+20\%\). | Desk **B14**, desk **C4/C6**, Test 5 percent items | 🟨 teach |
-| **K2** | “Increase \(x\) by \(p\%\)” means \(x(1+\frac{p}{100})\), not \(x\cdot\frac{p}{100}\). Increase by 400% is \(\times 5\). | Test 5 Math **Module 1 #25** | 🟨 teach |
-| **K3** | Exponential model period: if \(P(t)=A(1+r)^{kt}\), there are \(k\) growth cycles per 1 unit of \(t\). Convert that period into months when the question asks for \(n\) months. | Test 5 Math **Module 2 #25** (Advanced Math) | 🟨 teach |
-| **K4** | Tangent to a circle is **perpendicular to the radius** at the contact point. | Test 5 Math **Module 2 #26** | 🟨 teach |
-| **K5** | Perpendicular slopes: \(m_1 m_2 = -1\) (negative reciprocal). Vertical radius \(\Rightarrow\) horizontal tangent (slope 0). | Test 5 Math **Module 2 #26**; desk Algebra note she did not apply | 🟨 teach |
-| **K6** | Combo: circle equation \(\rightarrow\) center \(\rightarrow\) radius slope \(\rightarrow\) tangent slope \(\rightarrow\) point-slope line \(\rightarrow\) test a point. Not “just write \((x-h)^2+(y-k)^2=r^2\).” | Same official #26 vs desk D13-style notes | 🟨 teach |
+| **K1** | Successive percent = **multiply** growth factors. Do **not** add the percents. Do **not** add the starting amount back after you multiply. Final = \(\text{start}\times(1+r)^n\), never \(\text{start}\times(1+r)^n+\text{start}\). That last add-on is an **overestimate**. | Desk B14 / C4 / C6; Test 5; Set 01 #4, #20; **Set 02 #1–#3, #16, #22, #28 all clean** | 🟩 Set 02 clean |
+| **K2** | “Increase \(x\) by \(p\%\)” means \(x(1+\frac{p}{100})\), not \(x\cdot\frac{p}{100}\). Increase by 400% is \(\times 5\). | Test 5 M1 #25; Set 01 #3 clean | 🟩 Set 01 clean |
+| **K3** | Exponential model period: if \(P(t)=A(1+r)^{kt}\), there are \(k\) growth cycles per 1 unit of \(t\). Convert that period into months when the question asks for \(n\) months. | Test 5 M2 #25; Set 01 #5, #6 clean | 🟩 Set 01 clean |
+| **K4** | Tangent to a circle is **perpendicular to the radius** at the contact point. | Test 5 M2 #26; Set 01 ordinary-slope items clean | 🟩 ordinary case clean |
+| **K5** | Perpendicular slopes: \(m_1 m_2 = -1\). Horizontal tangent (slope 0) is landing. Vertical-line case is K7. | Test 5 M2 #26; Set 01 #11, #17; Set 02 #4 clean | 🟩 horizontal case clean |
+| **K6** | Combo: circle \(\rightarrow\) center \(\rightarrow\) radius slope \(\rightarrow\) tangent slope \(\rightarrow\) point-slope at \(P\) \(\rightarrow\) test a point. | Test 5 M2 #26; Set 01 #8, #9, #21–#23 clean | 🟩 ordinary combo clean |
+| **K7** | **A vertical line has undefined slope.** That is the leftover. Horizontal / parallel to the x-axis = 0 is landing. When the tangent is vertical (same \(y\) on center and contact point, or “radius ∥ x-axis”), she still writes **0** instead of **undefined**. | Set 02 **#17, #23, #29** (instructor call). #6 / #7 she did hit. | 🟨 still — vertical only |
+| **K8** | Right-triangle trig: from the **named angle**, mark opposite / adjacent / hypotenuse, then isolate the side they asked for. sin vs cos is a side-label, not a guess. | Test 11 M1 #19; Set 02 #8, #9, #24 clean | 🟩 Set 02 clean |
+| **K9** | Altitude-to-hypotenuse / similar right triangles: tan (or sin/cos) is a **ratio of the two given lengths**. Ugly numbers cancel. Do **not** Pythagorean a giant hypotenuse. | Test 11 M2 #26; Set 02 #10, #18, #30 clean | 🟩 Set 02 clean |
+| **K10** | Messy-data estimate: read a graph intercept approximately, compute, pick **closest**. Tolerate ambiguity. Trap = the other variable’s value. | Test 11 M2 #19; Set 02 #11, #19 clean | 🟩 Set 02 clean |
+| **K11** | Linear systems: 0 / 1 / infinitely many / “at least one.” One miss on Set 02 (#12). Not the leftover you are drilling. | Test 11 M1 #25; Set 02 #12 miss, #20 / #26 clean | 🟩 treat as one-off |
+| **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. | Test 11 M2 #27; Set 02 #13, #21 clean | 🟩 Set 02 clean |
+| **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 M1 #24; Set 02 #14, #25 clean | 🟩 Set 02 clean |
+| **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 M1 #23; Set 02 #15 clean | 🟩 Set 02 clean |
+| **K15** | “Equivalent form that **displays** a feature as a constant or coefficient” (vertex / intercept). Set 02 vertex item landed; Test 9 M2 #26 (y-intercept display) missed. | Test 11 M2 #22; Set 02 #27 clean; **Test 9 M2 #26**; Set 03 #4, #13, #22, #28 | 🟨 reopen |
+| **K16** | Frequency table: read which column they asked for. **Maximum data value** = largest value that occurs. **Maximum frequency** = largest count. Do **not** multiply value \(\times\) frequency. Frequency 0 means that value is not in the set. | Test 9 M1 #14 (she wrote \(11\times 11=121\)); Set 03 #1, #18 data value; **#7 frequency** | 🟨 new |
+| **K17** | Radical equation, “**smallest** solution”: square **both** sides, then check. A domain leftover (\(x\ge 2\)) is not the answer. \(\sqrt{(x-h)^2}=\|x-h\|\), not “so \(x=h\).” | Test 9 M1 #21 (she entered **2**); Set 03 #3, #6, #9, #12, #15, #19, #23 | 🟨 new |
+| **K18** | “**By how many**” after a sample: scale to the full group, **then subtract**. Trap = sample gap or the winner’s scaled total. | Test 9 M1 #26; Set 03 #2, #5, #11, #16, #21, #26, #30 | 🟨 new |
+| **K19** | Similar solids: \(k^2=\mathrm{SA}_\text{large}/\mathrm{SA}_\text{small}\) as **one** fraction, then \(k=\sqrt{\text{that}}\). Volumes with \(k^3\). Do not \(\sqrt{\mathrm{SA}}\) each area separately (decimal spray). | Test 9 M1 #27; Set 03 #8, #14, #20, #25 | 🟨 new |
+| **K20** | Adding rationals: common denominator, then expand. Do **not** cancel a shared factor before you add — you need it, and the original is undefined when that factor is 0. | Test 9 M2 #25; Set 03 #10, #17, #27 | 🟨 new |
+| **K21** | Markup / **margin**: retail \(=\text{cost}\times(1+\frac{p}{100})\). The margin is the **increase**, \(\text{cost}\times\frac{p}{100}\), not the new price. | Set 03 #31, #35 (tail) | ⬜ watch |
+| **K22** | Scatterplot association + line of best fit. Rising cloud = positive; falling = negative. Predict by plugging into the fit line. | Set 03 #32, #36 (tail) | ⬜ watch |
+| **K23** | Sum of solutions of \(ax^2+bx+c=0\) is \(-\frac{b}{a}\). Do not solve for each root. | Set 03 #33, #37 (tail) | ⬜ watch |
+| **K24** | **Lateral faces** = faces that are not the bases. Rectangular prism: 4. Triangular prism: 3. Trap = counting every face. | Set 03 #34, #38 (tail) | ⬜ watch |
 
-When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**.
+When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
 ---
 
@@ -72,6 +95,98 @@ You walked these with her. Official stems stay in the College Board PDFs; this l
 - Check sheet: [`../official/keys/test-05-math.md`](../official/keys/test-05-math.md)
 - Desk B14 / C4 / C6: [`../print/SAT-MATH-DESK-PACKET.md`](../print/SAT-MATH-DESK-PACKET.md)
 
+### 2026-08-22 — Targeted Set 01
+
+**Result:** pretty clean. Missed **only #4, #11, #17, #20**. Those are two families, two items each.
+
+| Item | Key | Family | What she did | Gaps |
+|---|---|---|---|---|
+| **#4** | **125** = \(80\times(1.25)^2\) | Successive growth, SPR | Grew it, then **added the initial 80 back**. Overestimate (looks like 205). | K1 |
+| **#20** | **C, \(\times 1.3225\)** = \(1.15^2\) | Same type, MC | Same add-start / overestimate habit, or treating two +15% as +30% (\(\times 1.30\)). | K1 |
+| **#11** | **A, 0** | Vertical radius, tangent slope | Center \((4,1)\), tangent at \((4,7)\). Radius is vertical (⊥ x-axis, slope **undefined**). Tangent is horizontal (∥ x-axis, slope **0**). SAT wants the **tangent**. | K5, K7 |
+| **#17** | **A, 0** | Same type | Center \((3,0)\), tangent at \((3,5)\). Same vertical-radius trap. | K5, K7 |
+
+Items that landed (do not rebuild these for Set 02 unless they reappear on Test 11): #1–#3, #5–#10, #12–#16, #18–#19, #21–#25. That includes K2, K3, ordinary-slope K4/K5/K6, and last-four combo items.
+
+Print: [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf)  
+Key: [`targeted-set-01-key.md`](targeted-set-01-key.md)
+
+### 2026-08-22 — Official Test 11 Math (final report)
+
+**Score:** Module 1 **23/27**, Module 2 **22/27** → raw **45** → paper conversion Math **640–700**.  
+Keeps pace with Test 5 (24 + 21 = 45, same band). One fewer on Module 1, one more on Module 2.
+
+Named misses: M1 **19, 23, 24, 25** (4, matches 23/27). M2 **19, 22, 26, 27** (4 named; 22/27 implies **one more unspecified** M2 miss).
+
+Official stems stay in the College Board PDFs. This log records the leak.
+
+| Item | Key | Family | What she did not have ready | Gaps |
+|---|---|---|---|---|
+| **M1 #19** | **D** | Right-triangle sin/cos | From the named angle, mark opposite / adjacent / hypotenuse, then isolate QS. sin vs cos is a side-label. Same trig family as M2 #26. | K8 |
+| **M1 #23** | **B** | Recover \(f\) from a shifted graph | Graph is \(y=f(x)+4\). Undo the +4 to get \(f\). | K14 |
+| **M1 #24** | **A** | Intersecting-lines angle inventory | Four angles: verticals equal, adjacents supplementary. List every pairwise sum, then pick the choice that is **not** on the list. Close reading + combinations. | K13 |
+| **M1 #25** | **C** | Linear systems, how many solutions | I is a scale of the same line (infinitely many). II crosses it (one). “At least one” includes both → C. Typical 0 / 1 / infinite / at-least-one item. | K11 |
+| **M2 #19** | **A, 811** | Messy-data estimate | Graph intercept is approximate; total mass / count ≈ 809; closest is 811. Tolerate ambiguity. Trap B is the **other** star type. Common SAT estimate item. | K10 |
+| **M2 #22** | **C** | Equivalent form that **displays** the max | Vertex form, not factored form. Completing the square puts the maximum out as a constant. | K15 |
+| **M2 #26** | **D, 3/4** | Big-number trig / similar right triangles | Legs 572 and 429. tan is a **ratio**; the numbers cancel to 3/4. Trap: Pythagorean a giant hypotenuse, then tan = opp/hyp. Same trig family as M1 #19. | K9 |
+| **M2 #27** | **157.8** or **789/5** | Area unit conversion | 1 nmi = 1.852 km ⇒ 1 nmi² = \((1.852)^2\) km², then × 46. Linear factor is not the area factor. | K12 |
+
+Set 01 leftovers (K1 add-start, K7 0 vs undefined) did **not** show up in the named Test 11 misses. Keep them for Set 02 anyway.
+
+**Official files (you, not her):**
+
+- Questions: [`../official/tests/sat-practice-test-11-digital.pdf`](../official/tests/sat-practice-test-11-digital.pdf) — M1 late items booklet pp. 39–40; M2 late items booklet pp. 49–51
+- Explanations: [`../official/answers/sat-practice-test-11-answers-digital.pdf`](../official/answers/sat-practice-test-11-answers-digital.pdf)
+- Check sheet + conversion: [`../official/keys/test-11-math.md`](../official/keys/test-11-math.md) (PR #12 until merged)
+- Scorecard: [`TEST-11-REPORT.md`](TEST-11-REPORT.md)
+
+### 2026-08-23 — Targeted Set 02
+
+**Result:** **25/30**. Decent / strong set. Instructor call: the only leak to keep drilling is **vertical line \(\Rightarrow\) slope undefined**.
+
+K1 (successive growth / add-start) is clean. Trig, estimate, units, angle inventory, shift, and vertex form all landed. Horizontal tangent (slope 0) is landing (#4).
+
+| Item | Her answer | Key | Family | What happened | Gaps |
+|---|---|---|---|---|---|
+| **#5** | **D** | **0** | Vertical radius, tangent slope (SPR) | Same \(x=1\). Tangent is horizontal. She marked D, not 0. | K7 |
+| **#12** | **C, I and II** | **A, I only** | Linear systems, at least one | I is the same line (infinite). II is parallel (\(2x+6y=20\) \(\Rightarrow\) \(x+3y=10\)) \(\Rightarrow\) **none**. “At least one” does not save II. | K11 |
+| **#17** | **A, 0** | **B, undefined** | Radius \(\parallel\) x-axis | Radius horizontal \(\Rightarrow\) tangent vertical \(\Rightarrow\) **undefined**. She bubbled 0. | K7 |
+| **#23** | **A, 0** | **B, undefined** | Same \(y=8\), vertical tangent | Same type as #6 / #7 (which she hit) and #29. Late-set flip back to 0. | K7 |
+| **#29** | **A, 0** | **B, undefined** | Same \(y=1\), vertical tangent | Same leak as #17 / #23. | K7 |
+
+#4, #6, #7 landed. #20 and #26 landed. **Instructor call:** do not restack the set. The exception is **vertical line = undefined slope** (#17, #23, #29 she wrote 0). #5 / #12 are not the family to rebuild.
+
+Print: [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf)  
+Key: [`targeted-set-02-key.md`](targeted-set-02-key.md)
+
+### 2026-08-23 — Official Test 9 Math
+
+**Score:** Module 1 **20/27**, Module 2 **24/27** → raw **44** → this paper table Math **630–690**.
+
+| | Test 5 | Test 11 | Test 9 |
+|---|---|---|---|
+| M1 | 24/27 | 23/27 | **20/27** |
+| M2 | 21/27 | 22/27 | **24/27** |
+| Raw | 45 | 45 | **44** |
+| Paper Math | 640–700 | 640–700 | **630–690** |
+
+M2 jumped (21–22 → **24**). M1 slipped (24 → 20), mostly read-the-stem items plus the similar-prism closer. Watch-list clones she **hit:** M1 #19 (no solution), M2 #16 (increase by 7%), M2 #20 (double time = exponent), M2 #23 (square the mile→yard factor).
+
+| Item | Her answer | Official | One-line why |
+|---|---|---|---|
+| **M1 #7** | **220** | **224** | Profit \(900=5x-220\Rightarrow x=224\). 220 is the constant, not the poster count. |
+| **M1 #12** | **A** | **B** | Setup was right. She computed arc **PQ**. SAT asked the longer arc **QR**. |
+| **M1 #14** | **121** | **14** | Asked for the **maximum data value**. 11 is the mode (highest frequency). She did \(11\times 11\). |
+| **M1 #21** | **2** | **−3** | Smallest solution of the squared / radical equation. 2 is the obvious leftover from \((x-2)\). |
+| **M1 #25** | **A** | **D** | Stain the fence **twice** \(\Rightarrow S=2w/170=w/85\). |
+| **M1 #26** | **C** | **B** | Poll scale-up: expected **win by**, not Angel’s raw expected votes. |
+| **M1 #27** | **miss** (not 1260) | **1260** | Similar prisms: \(k^2=1450/58=25\), \(k=5\), \(V_X=10\), sum \(10+1250=1260\). Scale area with \(k^2\), volume with \(k^3\). |
+| **M2 #14** | **4** | **2** or **−12** | Quadratic; 4 is not a root. |
+| **M2 #25** | **D** | **C** | Equivalent rational expression (last-four grind). |
+| **M2 #26** | **C** | **D** | “Displays the y-intercept as a constant” — K15. Neither I nor II. |
+
+**Official files:** booklet `../official/tests/sat-practice-test-9-digital.pdf`; explanations `../official/answers/sat-practice-test-9-answers-digital.pdf`; scoring `../official/scoring/scoring-sat-practice-test-9-digital.pdf`.
+
 ---
 
 ## What to say at the desk (short)
@@ -82,6 +197,7 @@ You walked these with her. Official stems stay in the College Board PDFs; this l
 - Up \(p\%\) \(\Rightarrow\) \(\times(1+\frac{p}{100})\). Down \(p\%\) \(\Rightarrow\) \(\times(1-\frac{p}{100})\).
 - Two identical ups: square the factor. +10% then +10% = \(\times 1.21\), which is a **21%** increase, not 20%.
 - +10% then −10% is **not** back to start: \(\times 1.1\times 0.9=0.99\).
+- **Her consistent overestimate (Set 01 #4 / #20):** after you multiply, you already **have** the new population. Do not add the starting amount again. \(80\times(1.25)^2=125\), not \(125+80\). The grown number **includes** the original 80.
 
 ### “Increase by \(p\%\)” (K2)
 
@@ -103,20 +219,158 @@ You walked these with her. Official stems stay in the College Board PDFs; this l
 4. Write the tangent with **point-slope at \(P\)**, never at \(C\).
 5. Test each choice in that line. Points on the radius are the usual trap.
 
-Desk Math Notes already had “perpendicular = negative reciprocal” and “\((x-h)^2+(y-k)^2=r^2\).” The missing page is the **glue** between them. That glue is now in the notes as “Combo moves.”
+### 0 vs undefined (K7) — say this every time the radius is axis-aligned
+
+| Line | Picture | Slope |
+|---|---|---|
+| Perpendicular to the x-axis | vertical, same \(x\) | **undefined** |
+| Parallel to the x-axis | horizontal, same \(y\) | **0** |
+
+- Same \(x\) on center and contact point \(\Rightarrow\) radius is vertical \(\Rightarrow\) tangent is **horizontal** \(\Rightarrow\) slope **0**.
+- Same \(y\) on center and contact point \(\Rightarrow\) radius is horizontal \(\Rightarrow\) tangent is **vertical** \(\Rightarrow\) slope **undefined**.
+- **Say this and stop:** a vertical line has **no slope / undefined**. Rise over run is a number over **zero**. That is not 0.
+- Horizontal = 0 she already has. Do not reteach that unless it reopens.
+- Same \(y\) on center and \(P\) \(\Rightarrow\) the **tangent** is the vertical one \(\Rightarrow\) **undefined**.
+
+Desk Math Notes already had “perpendicular = negative reciprocal” and “\((x-h)^2+(y-k)^2=r^2\).” The leftover is only the **vertical-line** word: undefined.
+
+### Right-triangle trig (K8, K9)
+
+- Name the angle first. Opposite / adjacent / hypotenuse are relative to **that** angle.
+- Isolate the side they asked for. \(\sin\theta=\frac{\text{opp}}{\text{hyp}}\) is a sentence, not a button.
+- If SAT drops 429 and 572, they want the **ratio**, not a 5-digit hypotenuse. Similar right triangles (altitude to the hypotenuse) make \(\tan/\sin/\cos\) equal to a ratio of the two given legs. Pythagorean here is the trap.
+
+### Messy estimate (K10)
+
+- The graph/table is allowed to be a little dirty. Compute, then take **closest**.
+- Write what the intercept **means** (all of one type, none of the other) before you divide.
+- The other intercept is the usual trap.
+
+### Linear systems, how many solutions (K11)
+
+- Same line (one equation is a scale of the other) \(\Rightarrow\) infinitely many.
+- Same slope, different intercept \(\Rightarrow\) none.
+- Different slopes \(\Rightarrow\) exactly one.
+- “At least one” = infinite **or** one. Do not stop at “I looks the same, so A.”
+
+### Area units (K12)
+
+- Length converts with \(k\). Area converts with \(k^2\). Volume with \(k^3\).
+- Square the linear factor **before** you multiply by the given area.
+
+### Angle combinations (K13)
+
+- Two lines \(\Rightarrow\) two pairs of verticals, adjacent pairs = 180°.
+- Three possible sums: two equals, two supplements, or 180°.
+- “Could NOT” means find the expression that is not one of those three.
+
+### Screen → scratch (Test 9 M1 cluster)
+
+Not a knowledge gap. She had the math. She copied the **wrong job** off the screen: PQ not QR (#12), mode not max (#14), “smallest” leftover (#21), stain once not twice (#25), vote total not win-by (#26). Paper booklets hide this. Bluebook is one source on the monitor and another on the provided scratch paper. The leak is the transfer.
+
+**Bluebook tools she can actually use (official):**
+
+- **Highlights & Notes** exist. College Board’s student guide says they work **on non-math questions** (highlight / recolor / underline / note on a passage). The Bluebook tools page is broader (“highlight text from a question”). Do not count on Math having the same annotate strip as Reading and Writing. Shortcut: **Ctrl+H** (Mac also Ctrl+H).
+- **Line Reader** works on Math. A focus strip over the last sentence / the asked-for quantity. Shortcut: **Ctrl+L** (Mac: **Cmd+L**). This is the one built for her leak.
+- **Option Eliminator:** strike a choice she already rejected so she does not re-grab the trap (PQ’s arc, the mode, the unscaled vote total).
+- **Mark for Review** + question menu: flag any item she computed before she wrote the job.
+- **Zoom** (Ctrl +/−) on a figure or a histogram axis.
+- **Desmos** and the **reference sheet** are Math-only extras; they do not fix a misread.
+- Timer can be hidden until 5 minutes left.
+
+She **cannot** bring her own highlighter, colored pencils, or paper. The center gives scratch paper; she brings a pen or pencil. Highlighting is in-app, not physical.
+
+**Desk protocol (write this before any numbers):**
+
+1. Eyes on the last sentence. Line-reader it. Say the job in 3–5 words.
+2. On scratch, write that job first: `QR not PQ` / `max value not mode` / `twice` / `win by` / `smallest`.
+3. Then copy numbers. Then calculate.
+4. Eyes back to the stem. Check the job line against the bubble.
+5. Practice this in the **Bluebook app**, not only paper Tests 1–4 / 6–8 / 10. Paper hid the transfer cost.
+
+### Frequency table (K16) — Test 9 M1 #14
+
+- First column = data values. Second = how many times. They are not the same kind of number.
+- Maximum **data value** = the last value that actually occurs. She multiplied \(11\times 11\) and entered **121**. The answer was **14**.
+- Simple item. Mark it as attention, not a new skill.
+
+### Radical, smallest solution (K17) — Test 9 M1 #21
+
+- Square both sides. Do not simplify one side and stop.
+- She saw \((x-2)\) and wrote **2** (domain leftover). Official smallest was **−3**.
+- \(\sqrt{(x-h)^2}=\|x-h\|\). Two numbers, pick the lesser one that checks.
+
+### “By how many” (K18) — Test 9 M1 #26
+
+- Scale, then subtract. “By how many … expected” is a **margin**, not a total.
+- Traps: unscaled sample gap; the winner’s scaled count.
+
+### Similar solids, one fraction (K19) — Test 9 M1 #27
+
+- \(k^2=1450/58=25\), then \(k=5\). One division, then one square root.
+- \(\sqrt{1450}\) and \(\sqrt{58}\) as two hits is how the calculator fills with junk decimals.
+- Then \(V\) scales with \(k^3\).
+
+### Rational, keep the factor (K20) — Test 9 M2 #25
+
+- Common denominator, add numerators, expand. Do not cross out a factor that is still needed to match the other term.
+- Crossing it out also hides that the original is undefined when that factor is 0. SAT’s listed form is the unsimplified combined expression.
 
 ---
 
 ## Official hard #24–#27 (search result)
 
-There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters — keep Tests 1–11 unused for now.
+There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5, 9, and 11. **Still unused:** Tests 1–4, 6–8, 10.
 
 Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuitequestionbank.collegeboard.org/). Third-party “real SAT leak” PDFs are not a source we will copy. Details: [`../resources.md`](../resources.md).
 
 ---
 
+## Targeted Set 02 — written (30 items)
+
+Homework file: [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf). Instructor key: [`targeted-set-02-key.md`](targeted-set-02-key.md).
+
+Instructor-written originals. Do not mine Tests 1–11. Mix of **Set 01 leftovers** and **Test 11 types**.
+
+**Carry from Set 01**
+
+- **Family A — successive growth (K1).** Same type as Set 01 #4 / #20. Trap numbers that match \(\text{start}\times(1+r)^n+\text{start}\) (her overestimate). One +20% vs \(\times 1.21\) MC.
+- **Family B — 0 vs undefined (K5, K7).** Same type as Set 01 #11 / #17, plus the vertical-tangent half you asked for. In the set: #4–#5 slope **0**; #6, #7, #17, #23, #29 slope **undefined**.
+
+**Add from Test 11 (instructor-flagged)**
+
+- **Family C — right-triangle trig (K8, K9).** Same type as Test 11 M1 #19 and M2 #26. At least one clean SOHCAHTOA “which side.” At least one altitude / similar-triangle item with **ugly side lengths** whose ratio cancels; include a Pythagorean-hypotenuse trap answer.
+- **Family D — messy estimate (K10).** Same type as Test 11 M2 #19. Graph or intercept is not a nice integer; student must tolerate ambiguity and pick **closest**. Put the other-variable value in the choices.
+- **Family E — linear systems, how many solutions (K11).** Same type as Test 11 M1 #25. Infinite / one / none / “at least one.” One I/II item.
+- **Family F — area unit conversion (K12).** Same type as Test 11 M2 #27. Linear factor given; they must square it.
+- **Family G — angle inventory / “could NOT” (K13).** Same type as Test 11 M1 #24. Close reading + enumerate the pairwise sums.
+
+**Optional / light (missed, not flagged as a family)**
+
+- One recover-\(f\) from \(y=f(x)+k\) (K14, Test 11 M1 #23).
+- One “displays the maximum as a constant” = vertex form (K15, Test 11 M2 #22).
+
+Do **not** restack K2 / K3 / ordinary-slope tangent combo unless they reopen.
+
+---
+
+## Targeted Set 03 — written (38 items)
+
+Homework file: [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf). Instructor key: [`targeted-set-03-key.md`](targeted-set-03-key.md).
+
+Instructor-written originals. Do not mine Tests 1–11. **Skip** Test 9 M1 #7 (profit), #12 (arc QR), #25 (stain twice).
+
+- **K16** frequency — #1, #18 max **data value**; #7 max **frequency**.
+- **K17** radical — #3, #6, #9, #12, #15, #19, #23.
+- **K18** “by how many” — #2, #5, #11, #16, #21, #26, #30.
+- **K19** similar solids — #8, #14, #20, #25.
+- **K20** rational, keep the shared factor — #10, #17, #27.
+- **K15** displays — #4, #13, #22, #28.
+- **K7 leftover** — #24 undefined, #29 slope 0.
+- **Tail** — markup #31 / margin #35; scatter #32 / fit #36; sum of roots #33 / #37; lateral #34 / #38.
+
+---
+
 ## Next sitting
 
-Give her the printed [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) only (25 items; skip the answer-key pages).  
-Do not restart the 17-page packet from A1.  
-After she finishes, mark each gap 🟨/✅ in the table and add a new session block.
+Send Set 03. Test 9 is locked: raw **44**, **630–690**. After she returns Set 03, next unused official sit is still Tests 1–4, 6–8, 10 — prefer **Bluebook** so the 22-question module and the screen → scratch job line are trained.
