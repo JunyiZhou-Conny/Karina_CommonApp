@@ -98,7 +98,31 @@ What is the smallest solution to the given equation?
 
 Answer: ______________
 
-**4.** The frequency table summarizes a data set.
+**4.** The function \(f\) is defined by \(f(x)=-3(x+1)(x-5)\). Which of the following equivalent forms displays the maximum value of \(f\) as a constant or coefficient?
+
+I. \(f(x)=-3(x-2)^2+27\)  
+II. \(f(x)=-3x^2+12x+15\)
+
+A) I only  
+B) II only  
+C) I and II  
+D) Neither I nor II
+
+**5.** A warehouse sampled 120 boxes: 75 marked rush and 45 marked standard. If 960 boxes ship this week, by how many more rush boxes than standard boxes are expected?  
+A) \(30\)  
+B) \(240\)  
+C) \(600\)  
+D) \(840\)
+
+**6.** (SPR)
+
+\[\sqrt{x(x-5)}=\sqrt{x+27}\]
+
+What is the smallest solution to the given equation?
+
+Answer: ______________
+
+**7.** The frequency table summarizes a data set.
 
 | Data value | Frequency |
 |---|---|
@@ -107,21 +131,17 @@ Answer: ______________
 | 30 | 8 |
 | 40 | 1 |
 
-What is the maximum frequency in the data set?  
+What is the maximum frequency value in the data set?  
 A) \(20\)  
 B) \(40\)  
 C) \(400\)  
 D) \(61\)
 
-**5.** (SPR)
-
-\[\sqrt{x(x-5)}=\sqrt{x+27}\]
-
-What is the smallest solution to the given equation?
+**8.** (SPR) Right circular cone \(P\) is similar to right circular cone \(Q\). The surface area of cone \(P\) is \(48\) square centimeters and the surface area of cone \(Q\) is \(1{,}200\) square centimeters. The volume of cone \(Q\) is \(2{,}000\) cubic centimeters. What is the sum of the volumes, in cubic centimeters, of cone \(P\) and cone \(Q\)?
 
 Answer: ______________
 
-**6.** (SPR)
+**9.** (SPR)
 
 \[\sqrt{x(x-2)}=\sqrt{35}\]
 
@@ -129,7 +149,19 @@ What is the smallest solution to the given equation?
 
 Answer: ______________
 
-**7.** (SPR)
+**10.** Which expression is equivalent to \(\dfrac{y+5}{x-4}+\dfrac{y}{xy}\)?  
+A) \(\dfrac{xy^{2}+5xy-4y}{x^{2}y-4xy}\)  
+B) \(\dfrac{xy^{2}+6xy-4y}{x^{2}y-4xy}\)  
+C) \(\dfrac{xy+6x-4}{x^{2}-4x}\)  
+D) \(\dfrac{y+5}{x-4}+\dfrac{1}{x}\)
+
+**11.** An app store sampled 400 reviews: 260 preferred Game A and 140 preferred Game B. If 5,200 users each pick one of the two games, by how many more users is Game A expected to be chosen?  
+A) \(120\)  
+B) \(1{,}560\)  
+C) \(3{,}380\)  
+D) \(4{,}800\)
+
+**12.** (SPR)
 
 \[\sqrt{x(x-6)}=4\]
 
@@ -137,7 +169,21 @@ What is the smallest solution to the given equation?
 
 Answer: ______________
 
-**8.** (SPR)
+**13.** The function \(f\) is defined by \(f(x)=2(x-4)^2+9\). Which of the following equivalent forms displays the minimum value of \(f\) as a constant or coefficient?
+
+I. \(f(x)=2(x-4)^2+9\)  
+II. \(f(x)=2x^2-16x+41\)
+
+A) I only  
+B) II only  
+C) I and II  
+D) Neither I nor II
+
+**14.** (SPR) Right cylinder \(A\) is similar to right cylinder \(B\). The surface area of cylinder \(A\) is \(75\) square inches and the surface area of cylinder \(B\) is \(1{,}200\) square inches. The volume of cylinder \(B\) is \(1{,}024\) cubic inches. What is the sum of the volumes, in cubic inches, of cylinder \(A\) and cylinder \(B\)?
+
+Answer: ______________
+
+**15.** (SPR)
 
 \[\sqrt{(x-4)^2}=7\]
 
@@ -145,23 +191,19 @@ What is the smallest solution to the given equation?
 
 Answer: ______________
 
-**9.** (SPR)
+**16.** A nursery sampled 90 seedlings: 54 tomato and 36 pepper. If 630 seedlings are planted, by how many more tomato plants than pepper plants are expected?  
+A) \(18\)  
+B) \(126\)  
+C) \(378\)  
+D) \(540\)
 
-\[\sqrt{(x-3)^2}=\sqrt{3x+19}\]
+**17.** Which expression is equivalent to \(\dfrac{n+8}{m-3}+\dfrac{n(m-3)}{mn(m-3)}\)?  
+A) \(\dfrac{mn^{2}+8mn-3n}{m^{2}n-3mn}\)  
+B) \(\dfrac{mn+9m-3}{m^{2}-3m}\)  
+C) \(\dfrac{mn^{2}+9mn-3n}{m^{2}n-3mn}\)  
+D) \(\dfrac{1}{m}+\dfrac{n+8}{m-3}\)
 
-What is the smallest solution to the given equation?
-
-Answer: ______________
-
-**10.** (SPR)
-
-\[\sqrt{5x+6}=x+2\]
-
-What is the smallest solution to the given equation?
-
-Answer: ______________
-
-**11.** (SPR) The frequency table summarizes a data set.
+**18.** (SPR) The frequency table summarizes a data set.
 
 | Data value | Frequency |
 |---|---|
@@ -177,89 +219,25 @@ What is the maximum data value in the data set?
 
 Answer: ______________
 
-**12.** A warehouse sampled 120 boxes: 75 marked rush and 45 marked standard. If 960 boxes ship this week, by how many more rush boxes than standard boxes are expected?  
-A) \(30\)  
-B) \(240\)  
-C) \(600\)  
-D) \(840\)
+**19.** (SPR)
 
-**13.** An app store sampled 400 reviews: 260 preferred Game A and 140 preferred Game B. If 5,200 users each pick one of the two games, by how many more users is Game A expected to be chosen?  
-A) \(120\)  
-B) \(1{,}560\)  
-C) \(3{,}380\)  
-D) \(4{,}800\)
+\[\sqrt{(x-3)^2}=\sqrt{3x+19}\]
 
-**14.** A nursery sampled 90 seedlings: 54 tomato and 36 pepper. If 630 seedlings are planted, by how many more tomato plants than pepper plants are expected?  
-A) \(18\)  
-B) \(126\)  
-C) \(378\)  
-D) \(540\)
+What is the smallest solution to the given equation?
 
-**15.** A library sampled 175 hold requests: 105 for mysteries and 70 for science fiction. If 2,100 holds are placed, by how many more mystery holds than science-fiction holds are expected?  
+Answer: ______________
+
+**20.** (SPR) Pyramid \(R\) is similar to pyramid \(S\). The surface area of pyramid \(R\) is \(32\) square meters and the surface area of pyramid \(S\) is \(800\) square meters. The volume of pyramid \(R\) is \(6\) cubic meters. What is the volume, in cubic meters, of pyramid \(S\)?
+
+Answer: ______________
+
+**21.** A library sampled 175 hold requests: 105 for mysteries and 70 for science fiction. If 2,100 holds are placed, by how many more mystery holds than science-fiction holds are expected?  
 A) \(35\)  
 B) \(420\)  
 C) \(1{,}260\)  
 D) \(1{,}925\)
 
-**16.** (SPR) A transit survey sampled 48 riders: 30 took Route A and 18 took Route B. If 720 riders take one of those two routes, by how many more Route A riders than Route B riders are expected?
-
-Answer: ______________
-
-**17.** (SPR) Right circular cone \(P\) is similar to right circular cone \(Q\). The surface area of cone \(P\) is \(48\) square centimeters and the surface area of cone \(Q\) is \(1{,}200\) square centimeters. The volume of cone \(Q\) is \(2{,}000\) cubic centimeters. What is the sum of the volumes, in cubic centimeters, of cone \(P\) and cone \(Q\)?
-
-Answer: ______________
-
-**18.** (SPR) Right cylinder \(A\) is similar to right cylinder \(B\). The surface area of cylinder \(A\) is \(75\) square inches and the surface area of cylinder \(B\) is \(1{,}200\) square inches. The volume of cylinder \(B\) is \(1{,}024\) cubic inches. What is the sum of the volumes, in cubic inches, of cylinder \(A\) and cylinder \(B\)?
-
-Answer: ______________
-
-**19.** (SPR) Pyramid \(R\) is similar to pyramid \(S\). The surface area of pyramid \(R\) is \(32\) square meters and the surface area of pyramid \(S\) is \(800\) square meters. The volume of pyramid \(R\) is \(6\) cubic meters. What is the volume, in cubic meters, of pyramid \(S\)?
-
-Answer: ______________
-
-**20.** (SPR) Right rectangular prism \(M\) is similar to right rectangular prism \(N\). The surface area of prism \(M\) is \(54\) square centimeters and the surface area of prism \(N\) is \(1{,}350\) square centimeters. The volume of prism \(N\) is \(1{,}000\) cubic centimeters. What is the sum of the volumes, in cubic centimeters, of prism \(M\) and prism \(N\)?
-
-Answer: ______________
-
-**21.** Which expression is equivalent to \(\dfrac{y+5}{x-4}+\dfrac{y}{xy}\)?  
-A) \(\dfrac{xy^{2}+5xy-4y}{x^{2}y-4xy}\)  
-B) \(\dfrac{xy^{2}+6xy-4y}{x^{2}y-4xy}\)  
-C) \(\dfrac{xy+6x-4}{x^{2}-4x}\)  
-D) \(\dfrac{y+5}{x-4}+\dfrac{1}{x}\)
-
-**22.** Which expression is equivalent to \(\dfrac{n+8}{m-3}+\dfrac{n(m-3)}{mn(m-3)}\)?  
-A) \(\dfrac{mn^{2}+8mn-3n}{m^{2}n-3mn}\)  
-B) \(\dfrac{mn+9m-3}{m^{2}-3m}\)  
-C) \(\dfrac{mn^{2}+9mn-3n}{m^{2}n-3mn}\)  
-D) \(\dfrac{1}{m}+\dfrac{n+8}{m-3}\)
-
-**23.** Which expression is equivalent to \(\dfrac{w+3}{t-7}+\dfrac{w(t-7)}{tw(t-7)}\)?  
-A) \(\dfrac{tw^{2}+3tw-7w}{t^{2}w-7tw}\)  
-B) \(\dfrac{tw^{2}+4tw-7w}{t^{2}w-7tw}\)  
-C) \(\dfrac{tw+4t-7}{t^{2}-7t}\)  
-D) \(\dfrac{w+3}{t-7}+\dfrac{1}{t}\)
-
-**24.** The function \(f\) is defined by \(f(x)=-3(x+1)(x-5)\). Which of the following equivalent forms displays the maximum value of \(f\) as a constant or coefficient?
-
-I. \(f(x)=-3(x-2)^2+27\)  
-II. \(f(x)=-3x^2+12x+15\)
-
-A) I only  
-B) II only  
-C) I and II  
-D) Neither I nor II
-
-**25.** The function \(f\) is defined by \(f(x)=2(x-4)^2+9\). Which of the following equivalent forms displays the minimum value of \(f\) as a constant or coefficient?
-
-I. \(f(x)=2(x-4)^2+9\)  
-II. \(f(x)=2x^2-16x+41\)
-
-A) I only  
-B) II only  
-C) I and II  
-D) Neither I nor II
-
-**26.** The function \(f\) is defined by \(f(x)=5(1.4)^{x+2}\). Which of the following equivalent forms displays the \(y\)-coordinate of the \(y\)-intercept of the graph of \(y=f(x)\) as a constant or coefficient?
+**22.** The function \(f\) is defined by \(f(x)=5(1.4)^{x+2}\). Which of the following equivalent forms displays the \(y\)-coordinate of the \(y\)-intercept of the graph of \(y=f(x)\) as a constant or coefficient?
 
 I. \(g(x)=9.8\,(1.4)^{x}\)  
 II. \(h(x)=5(1.4)^{x}+2\)
@@ -269,7 +247,35 @@ B) II only
 C) I and II  
 D) Neither I nor II
 
-**27.** The function \(f\) is defined by \(f(x)=3(1.5)^{x}+7\). Which of the following equivalent forms displays the \(y\)-coordinate of the \(y\)-intercept of the graph of \(y=f(x)\) as a constant or coefficient?
+**23.** (SPR)
+
+\[\sqrt{5x+6}=x+2\]
+
+What is the smallest solution to the given equation?
+
+Answer: ______________
+
+**24.** A circle has center \((3,8)\). A line is tangent to the circle at \((11,8)\). What is the slope of the tangent line?  
+A) \(0\)  
+B) \(\dfrac{8}{11}\)  
+C) undefined  
+D) \(8\)
+
+**25.** (SPR) Right rectangular prism \(M\) is similar to right rectangular prism \(N\). The surface area of prism \(M\) is \(54\) square centimeters and the surface area of prism \(N\) is \(1{,}350\) square centimeters. The volume of prism \(N\) is \(1{,}000\) cubic centimeters. What is the sum of the volumes, in cubic centimeters, of prism \(M\) and prism \(N\)?
+
+Answer: ______________
+
+**26.** (SPR) A transit survey sampled 48 riders: 30 took Route A and 18 took Route B. If 720 riders take one of those two routes, by how many more Route A riders than Route B riders are expected?
+
+Answer: ______________
+
+**27.** Which expression is equivalent to \(\dfrac{w+3}{t-7}+\dfrac{w(t-7)}{tw(t-7)}\)?  
+A) \(\dfrac{tw^{2}+3tw-7w}{t^{2}w-7tw}\)  
+B) \(\dfrac{tw^{2}+4tw-7w}{t^{2}w-7tw}\)  
+C) \(\dfrac{tw+4t-7}{t^{2}-7t}\)  
+D) \(\dfrac{w+3}{t-7}+\dfrac{1}{t}\)
+
+**28.** The function \(f\) is defined by \(f(x)=3(1.5)^{x}+7\). Which of the following equivalent forms displays the \(y\)-coordinate of the \(y\)-intercept of the graph of \(y=f(x)\) as a constant or coefficient?
 
 I. \(g(x)=3(1.5)^{x}+7\)  
 II. \(h(x)=10+3\bigl((1.5)^{x}-1\bigr)\)
@@ -278,12 +284,6 @@ A) I only
 B) II only  
 C) I and II  
 D) Neither I nor II
-
-**28.** A circle has center \((3,8)\). A line is tangent to the circle at \((11,8)\). What is the slope of the tangent line?  
-A) \(0\)  
-B) \(\dfrac{8}{11}\)  
-C) undefined  
-D) \(8\)
 
 **29.** A circle has center \((6,1)\). A line is tangent to the circle at \((6,9)\). What is the slope of the tangent line?  
 A) \(0\)  
@@ -301,11 +301,7 @@ B) \$80
 C) \$89  
 D) \$160
 
-**32.** (SPR) A retailer buys a chair for \$120. The chair is sold with a 40% markup. The **margin** is the increase from the wholesale cost to the retail price. What is that margin, in dollars?
-
-Answer: ______________
-
-**33.** The table gives six points from a scatterplot.
+**32.** The table gives six points from a scatterplot.
 
 | \(x\) | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|
@@ -317,25 +313,29 @@ B) A strong negative linear association
 C) No linear association  
 D) A positive association that becomes negative
 
-**34.** A line of best fit for a scatterplot is \(y=1.8x+22\), where \(x\) is hours practiced and \(y\) is a score. Based on this line, what is the predicted score after 10 hours of practice?  
-A) \(1.8\)  
-B) \(22\)  
-C) \(40\)  
-D) \(180\)
-
-**35.** (SPR) What is the sum of the solutions to the given equation?
+**33.** (SPR) What is the sum of the solutions to the given equation?
 
 \[3x^2-12x+7=0\]
 
 Answer: ______________
 
-**36.** (SPR) What is the sum of the solutions to the given equation?
-
-\[2x^2+10x-3=0\]
+**34.** (SPR) A right rectangular prism has two rectangular bases. How many lateral faces does the prism have?
 
 Answer: ______________
 
-**37.** (SPR) A right rectangular prism has two rectangular bases. How many lateral faces does the prism have?
+**35.** (SPR) A retailer buys a chair for \$120. The chair is sold with a 40% markup. The **margin** is the increase from the wholesale cost to the retail price. What is that margin, in dollars?
+
+Answer: ______________
+
+**36.** A line of best fit for a scatterplot is \(y=1.8x+22\), where \(x\) is hours practiced and \(y\) is a score. Based on this line, what is the predicted score after 10 hours of practice?  
+A) \(1.8\)  
+B) \(22\)  
+C) \(40\)  
+D) \(180\)
+
+**37.** (SPR) What is the sum of the solutions to the given equation?
+
+\[2x^2+10x-3=0\]
 
 Answer: ______________
 

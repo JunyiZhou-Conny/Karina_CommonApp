@@ -34,16 +34,16 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. | Test 11 M2 #27; Set 02 #13, #21 clean | 🟩 Set 02 clean |
 | **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 M1 #24; Set 02 #14, #25 clean | 🟩 Set 02 clean |
 | **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 M1 #23; Set 02 #15 clean | 🟩 Set 02 clean |
-| **K15** | “Equivalent form that **displays** a feature as a constant or coefficient” (vertex / intercept). Set 02 vertex item landed; Test 9 M2 #26 (y-intercept display) missed. | Test 11 M2 #22; Set 02 #27 clean; **Test 9 M2 #26**; Set 03 #24–#27 | 🟨 reopen |
-| **K16** | Frequency table: read which column they asked for. **Maximum data value** = largest value that occurs. **Maximum frequency** = largest count. Do **not** multiply value \(\times\) frequency. Frequency 0 means that value is not in the set. | Test 9 M1 #14 (she wrote \(11\times 11=121\)); Set 03 #1, #11 data value; **#4 frequency** | 🟨 new |
-| **K17** | Radical equation, “**smallest** solution”: square **both** sides, then check. A domain leftover (\(x\ge 2\)) is not the answer. \(\sqrt{(x-h)^2}=\|x-h\|\), not “so \(x=h\).” | Test 9 M1 #21 (she entered **2**); Set 03 #3, #5–#10 | 🟨 new |
-| **K18** | “**By how many**” after a sample: scale to the full group, **then subtract**. Trap = sample gap or the winner’s scaled total. | Test 9 M1 #26; Set 03 #2, #12–#16, #30 | 🟨 new |
-| **K19** | Similar solids: \(k^2=\mathrm{SA}_\text{large}/\mathrm{SA}_\text{small}\) as **one** fraction, then \(k=\sqrt{\text{that}}\). Volumes with \(k^3\). Do not \(\sqrt{\mathrm{SA}}\) each area separately (decimal spray). | Test 9 M1 #27; Set 03 #17–#20 | 🟨 new |
-| **K20** | Adding rationals: common denominator, then expand. Do **not** cancel a shared factor before you add — you need it, and the original is undefined when that factor is 0. | Test 9 M2 #25; Set 03 #21–#23 | 🟨 new |
-| **K21** | Markup / **margin**: retail \(=\text{cost}\times(1+\frac{p}{100})\). The margin is the **increase**, \(\text{cost}\times\frac{p}{100}\), not the new price. | Set 03 #31–#32 (tail) | ⬜ watch |
-| **K22** | Scatterplot association + line of best fit. Rising cloud = positive; falling = negative. Predict by plugging into the fit line. | Set 03 #33–#34 (tail) | ⬜ watch |
-| **K23** | Sum of solutions of \(ax^2+bx+c=0\) is \(-\frac{b}{a}\). Do not solve for each root. | Set 03 #35–#36 (tail) | ⬜ watch |
-| **K24** | **Lateral faces** = faces that are not the bases. Rectangular prism: 4. Triangular prism: 3. Trap = counting every face. | Set 03 #37–#38 (tail) | ⬜ watch |
+| **K15** | “Equivalent form that **displays** a feature as a constant or coefficient” (vertex / intercept). Set 02 vertex item landed; Test 9 M2 #26 (y-intercept display) missed. | Test 11 M2 #22; Set 02 #27 clean; **Test 9 M2 #26**; Set 03 #4, #13, #22, #28 | 🟨 reopen |
+| **K16** | Frequency table: read which column they asked for. **Maximum data value** = largest value that occurs. **Maximum frequency** = largest count. Do **not** multiply value \(\times\) frequency. Frequency 0 means that value is not in the set. | Test 9 M1 #14 (she wrote \(11\times 11=121\)); Set 03 #1, #18 data value; **#7 frequency** | 🟨 new |
+| **K17** | Radical equation, “**smallest** solution”: square **both** sides, then check. A domain leftover (\(x\ge 2\)) is not the answer. \(\sqrt{(x-h)^2}=\|x-h\|\), not “so \(x=h\).” | Test 9 M1 #21 (she entered **2**); Set 03 #3, #6, #9, #12, #15, #19, #23 | 🟨 new |
+| **K18** | “**By how many**” after a sample: scale to the full group, **then subtract**. Trap = sample gap or the winner’s scaled total. | Test 9 M1 #26; Set 03 #2, #5, #11, #16, #21, #26, #30 | 🟨 new |
+| **K19** | Similar solids: \(k^2=\mathrm{SA}_\text{large}/\mathrm{SA}_\text{small}\) as **one** fraction, then \(k=\sqrt{\text{that}}\). Volumes with \(k^3\). Do not \(\sqrt{\mathrm{SA}}\) each area separately (decimal spray). | Test 9 M1 #27; Set 03 #8, #14, #20, #25 | 🟨 new |
+| **K20** | Adding rationals: common denominator, then expand. Do **not** cancel a shared factor before you add — you need it, and the original is undefined when that factor is 0. | Test 9 M2 #25; Set 03 #10, #17, #27 | 🟨 new |
+| **K21** | Markup / **margin**: retail \(=\text{cost}\times(1+\frac{p}{100})\). The margin is the **increase**, \(\text{cost}\times\frac{p}{100}\), not the new price. | Set 03 #31, #35 (tail) | ⬜ watch |
+| **K22** | Scatterplot association + line of best fit. Rising cloud = positive; falling = negative. Predict by plugging into the fit line. | Set 03 #32, #36 (tail) | ⬜ watch |
+| **K23** | Sum of solutions of \(ax^2+bx+c=0\) is \(-\frac{b}{a}\). Do not solve for each root. | Set 03 #33, #37 (tail) | ⬜ watch |
+| **K24** | **Lateral faces** = faces that are not the bases. Rectangular prism: 4. Triangular prism: 3. Trap = counting every face. | Set 03 #34, #38 (tail) | ⬜ watch |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -360,14 +360,14 @@ Homework file: [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf). I
 
 Instructor-written originals. Do not mine Tests 1–11. **Skip** Test 9 M1 #7 (profit), #12 (arc QR), #25 (stain twice).
 
-- **K16** frequency — #1 and #11 max **data value**; #4 max **frequency** (read the column).
-- **K17** radical, square both sides, smallest solution — #3, #5–#10.
-- **K18** “by how many” (scale then subtract; concert first) — #2, #12–#16, #30.
-- **K19** similar solids, one-fraction \(k\) — #17–#20.
-- **K20** rational, keep the shared factor and add — #21–#23.
-- **K15** displays max / min / intercept as a constant or coefficient (I/II) — #24–#27.
-- **K7 leftover only** — #28 undefined, #29 slope 0. Not this week’s focus.
-- **Tail, not this week’s focus** — markup/margin #31–#32; scatterplot / best fit #33–#34; sum of roots \(-\frac{b}{a}\) #35–#36; lateral-face count #37–#38.
+- **K16** frequency — #1, #18 max **data value**; #7 max **frequency**.
+- **K17** radical — #3, #6, #9, #12, #15, #19, #23.
+- **K18** “by how many” — #2, #5, #11, #16, #21, #26, #30.
+- **K19** similar solids — #8, #14, #20, #25.
+- **K20** rational, keep the shared factor — #10, #17, #27.
+- **K15** displays — #4, #13, #22, #28.
+- **K7 leftover** — #24 undefined, #29 slope 0.
+- **Tail** — markup #31 / margin #35; scatter #32 / fit #36; sum of roots #33 / #37; lateral #34 / #38.
 
 ---
 
