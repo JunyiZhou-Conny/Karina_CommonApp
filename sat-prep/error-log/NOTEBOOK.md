@@ -149,6 +149,28 @@ K1 (successive growth / add-start) is clean. Trig, estimate, units, angle invent
 Print: [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf)  
 Key: [`targeted-set-02-key.md`](targeted-set-02-key.md)
 
+### 2026-08-23 — Official Test 9 Math
+
+**Score (pending M1 #27 final):** Module 2 **24/27** (clear). Module 1 **20/27 or 21/27** depending on #27.  
+Raw **44 or 45** → this paper table **630–690** or **650–710**.
+
+M2 jumped (21–22 → **24**). The watch-list clones she **hit:** M1 #19 (no solution), M2 #16 (increase by 7%), M2 #20 (double time = exponent), M2 #23 (square the mile→yard factor).
+
+| Item | Her answer | Official | One-line why |
+|---|---|---|---|
+| **M1 #7** | **220** | **224** | Profit \(900=5x-220\Rightarrow x=224\). 220 is the constant, not the poster count. |
+| **M1 #12** | **A** | **B** | Circle / arc split on a diameter figure. |
+| **M1 #14** | **121** | **14** | Asked for the **maximum data value**. 11 is the mode (highest frequency). She did \(11\times 11\). |
+| **M1 #21** | **2** | **−3** | Smallest solution of the squared / radical equation. 2 is the obvious leftover from \((x-2)\). |
+| **M1 #25** | **A** | **D** | Stain the fence **twice** \(\Rightarrow S=2w/170=w/85\). |
+| **M1 #26** | **C** | **B** | Poll scale-up: expected **win by**, not Angel’s raw expected votes. |
+| **M1 #27** | **unconfirmed** | **1260** | Similar prisms: \(k^2=1450/58=25\), \(k=5\), \(V_X=1250/125=10\), sum **1260**. Notes show \(1250+164\) — need her circled number. |
+| **M2 #14** | **4** | **2** or **−12** | Quadratic; 4 is not a root. |
+| **M2 #25** | **D** | **C** | Equivalent rational expression (last-four grind). |
+| **M2 #26** | **C** | **D** | “Displays the y-intercept as a constant” — K15. Neither I nor II. |
+
+**Official files:** booklet `../official/tests/sat-practice-test-9-digital.pdf`; explanations `../official/answers/sat-practice-test-9-answers-digital.pdf`; scoring `../official/scoring/scoring-sat-practice-test-9-digital.pdf`.
+
 ---
 
 ## What to say at the desk (short)
@@ -266,4 +288,4 @@ Do **not** restack K2 / K3 / ordinary-slope tangent combo unless they reopen.
 
 ## Next sitting
 
-Set 02 was a strong sit. One desk line if it comes up on Test 9: **vertical \(\Rightarrow\) undefined, not 0.** Log Test 9 next. Tests 1–4, 6–8, 10 still unused.
+Test 9 is scored except **M1 #27** (confirm her circled number). Module 2 was the strongest official sit so far. Next drill from this sit: read **what** the question asked (max value vs mode; win-by vs votes; twice the stain). Tests 1–4, 6–8, 10 still unused.
