@@ -101,7 +101,7 @@ Answer: ______________
 | 30 | 8 |
 | 40 | 1 |
 
-What is the maximum frequency value in the data set?  
+What is the maximum frequency in the data set?  
 A) \(20\)  
 B) \(40\)  
 C) \(400\)  
