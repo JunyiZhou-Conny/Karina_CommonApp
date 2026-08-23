@@ -105,7 +105,7 @@ def build(md_path: Path, compact: bool = False) -> Path:
     raw = md_path.read_text(encoding="utf-8")
     title = next((line[2:].strip() for line in raw.splitlines() if line.startswith("# ")), md_path.stem)
     if compact:
-        raw = re.sub(r"\n\n(\*\*\d+\.\*\*)", r"\n\n<div class=\"q-gap\"></div>\n\n\1", raw)
+        raw = re.sub(r"\n\n(\*\*\d+\.\*\*)", r'\n\n<div class="q-gap"></div>\n\n\1', raw)
     stashed, stored = stash_math(raw)
     html = to_html(stashed)
     html = restore_placeholders(html, stored)
