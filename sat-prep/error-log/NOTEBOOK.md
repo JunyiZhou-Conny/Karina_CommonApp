@@ -33,7 +33,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. | Test 11 M2 #27; Set 02 #13, #21 clean | 🟩 Set 02 clean |
 | **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 M1 #24; Set 02 #14, #25 clean | 🟩 Set 02 clean |
 | **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 M1 #23; Set 02 #15 clean | 🟩 Set 02 clean |
-| **K15** | “Equivalent form that **displays** the maximum as a constant” = **vertex form**, not factored form. | Test 11 M2 #22; Set 02 #27 clean | 🟩 Set 02 clean |
+| **K15** | “Equivalent form that **displays** a feature as a constant” (vertex / intercept). Set 02 vertex item landed; Test 9 M2 #26 (y-intercept display) missed. | Test 11 M2 #22; Set 02 #27 clean; **Test 9 M2 #26** | 🟨 reopen |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -151,8 +151,7 @@ Key: [`targeted-set-02-key.md`](targeted-set-02-key.md)
 
 ### 2026-08-23 — Official Test 9 Math
 
-**Score (pending M1 #27 final):** Module 2 **24/27** (clear). Module 1 **20/27 or 21/27** depending on #27.  
-Raw **44 or 45** → this paper table **630–690** or **650–710**.
+**Score:** Module 1 **20/27**, Module 2 **24/27** → raw **44** → this paper table Math **630–690**.
 
 M2 jumped (21–22 → **24**). The watch-list clones she **hit:** M1 #19 (no solution), M2 #16 (increase by 7%), M2 #20 (double time = exponent), M2 #23 (square the mile→yard factor).
 
@@ -164,7 +163,7 @@ M2 jumped (21–22 → **24**). The watch-list clones she **hit:** M1 #19 (no so
 | **M1 #21** | **2** | **−3** | Smallest solution of the squared / radical equation. 2 is the obvious leftover from \((x-2)\). |
 | **M1 #25** | **A** | **D** | Stain the fence **twice** \(\Rightarrow S=2w/170=w/85\). |
 | **M1 #26** | **C** | **B** | Poll scale-up: expected **win by**, not Angel’s raw expected votes. |
-| **M1 #27** | **unconfirmed** | **1260** | Similar prisms: \(k^2=1450/58=25\), \(k=5\), \(V_X=1250/125=10\), sum **1260**. Notes show \(1250+164\) — need her circled number. |
+| **M1 #27** | **miss** (not 1260) | **1260** | Similar prisms: \(k^2=1450/58=25\), \(k=5\), \(V_X=10\), sum \(10+1250=1260\). Scale area with \(k^2\), volume with \(k^3\). |
 | **M2 #14** | **4** | **2** or **−12** | Quadratic; 4 is not a root. |
 | **M2 #25** | **D** | **C** | Equivalent rational expression (last-four grind). |
 | **M2 #26** | **C** | **D** | “Displays the y-intercept as a constant” — K15. Neither I nor II. |
@@ -288,4 +287,4 @@ Do **not** restack K2 / K3 / ordinary-slope tangent combo unless they reopen.
 
 ## Next sitting
 
-Test 9 is scored except **M1 #27** (confirm her circled number). Module 2 was the strongest official sit so far. Next drill from this sit: read **what** the question asked (max value vs mode; win-by vs votes; twice the stain). Tests 1–4, 6–8, 10 still unused.
+Test 9 is locked: raw **44**, **630–690**. Module 2 was the strongest official sit so far. Next drill: read **what** the question asked (max value vs mode; win-by vs votes; twice the stain) and similar-solid scale (\(k^2\) / \(k^3\)). Tests 1–4, 6–8, 10 still unused.
