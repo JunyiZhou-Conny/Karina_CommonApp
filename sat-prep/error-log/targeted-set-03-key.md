@@ -10,7 +10,7 @@ Items 31–38: extra types, not this week’s focus (markup / scatterplot / sum 
 | 1 | **9** | K16 | Largest value that occurs. Frequency 0 kills 7. Trap: \(12\) (mode), \(9\times 11=99\). |
 | 2 | **B, 560** | K18 | Concert. \(\times 8\): \(1{,}280-720\). A is sample gap. C is floor only. |
 | 3 | **−2** | K17 | Square: \(x(x-3)=3x+16\Rightarrow x^2-6x-16=0\Rightarrow(x-8)(x+2)\). Both work. Trap: **3**. |
-| 4 | **B, 40** | K16 | 20 is the mode. \(400=20\times 20\). \(61\) is a junk sum. |
+| 4 | **A, 20** | K16 | Asks for the **maximum frequency**, not the maximum data value. 20 is the largest count. Trap B is the largest data value. \(400=20\times 20\). |
 | 5 | **−3** | K17 | Square: \(x(x-5)=x+27\Rightarrow x^2-6x-27=0\Rightarrow(x-9)(x+3)\). Both work. Trap: **5**. |
 | 6 | **−5** | K17 | Square: \(x(x-2)=35\Rightarrow(x-7)(x+5)\). Both work. Trap: **2** (her Test 9 leftover). |
 | 7 | **−2** | K17 | Square: \(x(x-6)=16\Rightarrow(x-8)(x+2)\). Trap: **6**. |

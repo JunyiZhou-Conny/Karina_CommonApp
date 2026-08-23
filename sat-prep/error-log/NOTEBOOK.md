@@ -35,7 +35,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 M1 #24; Set 02 #14, #25 clean | 🟩 Set 02 clean |
 | **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 M1 #23; Set 02 #15 clean | 🟩 Set 02 clean |
 | **K15** | “Equivalent form that **displays** a feature as a constant or coefficient” (vertex / intercept). Set 02 vertex item landed; Test 9 M2 #26 (y-intercept display) missed. | Test 11 M2 #22; Set 02 #27 clean; **Test 9 M2 #26**; Set 03 #24–#27 | 🟨 reopen |
-| **K16** | Frequency table: **maximum data value** is the largest value that occurs. Frequency is a count. Do **not** multiply value \(\times\) frequency. Frequency 0 means that value is not in the set. | Test 9 M1 #14 (she wrote \(11\times 11=121\)); Set 03 #1, #4, #11 | 🟨 new |
+| **K16** | Frequency table: read which column they asked for. **Maximum data value** = largest value that occurs. **Maximum frequency** = largest count. Do **not** multiply value \(\times\) frequency. Frequency 0 means that value is not in the set. | Test 9 M1 #14 (she wrote \(11\times 11=121\)); Set 03 #1, #11 data value; **#4 frequency** | 🟨 new |
 | **K17** | Radical equation, “**smallest** solution”: square **both** sides, then check. A domain leftover (\(x\ge 2\)) is not the answer. \(\sqrt{(x-h)^2}=\|x-h\|\), not “so \(x=h\).” | Test 9 M1 #21 (she entered **2**); Set 03 #3, #5–#10 | 🟨 new |
 | **K18** | “**By how many**” after a sample: scale to the full group, **then subtract**. Trap = sample gap or the winner’s scaled total. | Test 9 M1 #26; Set 03 #2, #12–#16, #30 | 🟨 new |
 | **K19** | Similar solids: \(k^2=\mathrm{SA}_\text{large}/\mathrm{SA}_\text{small}\) as **one** fraction, then \(k=\sqrt{\text{that}}\). Volumes with \(k^3\). Do not \(\sqrt{\mathrm{SA}}\) each area separately (decimal spray). | Test 9 M1 #27; Set 03 #17–#20 | 🟨 new |
@@ -359,7 +359,7 @@ Homework file: [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf). I
 
 Instructor-written originals. Do not mine Tests 1–11. **Skip** Test 9 M1 #7 (profit), #12 (arc QR), #25 (stain twice).
 
-- **K16** frequency / max data value — #1, #4, #11 (shuffled; not stacked).
+- **K16** frequency — #1 and #11 max **data value**; #4 max **frequency** (read the column).
 - **K17** radical, square both sides, smallest solution — #3, #5–#10.
 - **K18** “by how many” (scale then subtract; concert first) — #2, #12–#16, #30.
 - **K19** similar solids, one-fraction \(k\) — #17–#20.

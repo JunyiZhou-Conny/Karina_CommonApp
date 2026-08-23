@@ -18,6 +18,7 @@ Some questions on Test 9 did not go well. These are **new** questions in the sam
 - **Data value** = the number in the first column (what was measured).
 - **Frequency** = how many times that value occurs. It is a count, not a data value.
 - “Maximum **data value**” = the largest number that actually appears in the set. Frequency 0 means that value is **not** in the set.
+- “Maximum **frequency**” = the largest count in the frequency column. That is not the same question.
 - Do **not** multiply value \(\times\) frequency. That product is not the maximum.
 
 ### Square-root equations — smallest solution
@@ -100,7 +101,7 @@ Answer: ______________
 | 30 | 8 |
 | 40 | 1 |
 
-What is the maximum data value in the data set?  
+What is the maximum frequency value in the data set?  
 A) \(20\)  
 B) \(40\)  
 C) \(400\)  
