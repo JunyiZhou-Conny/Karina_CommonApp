@@ -37,10 +37,17 @@ SHARED_CSS = """
 
 DESK_H2 = "  h2 { font-size: 16pt; margin-top: 1.5rem; page-break-after: avoid; page-break-before: always; }\n  h1 + p + p + p + p + hr + h2 { page-break-before: avoid; }\n"
 COMPACT_H2 = "  h2 { font-size: 16pt; margin-top: 1.5rem; page-break-after: avoid; }\n"
+COMPACT_EXTRA = """
+  p { margin: 0.5rem 0 0.85rem; }
+  li { margin: 0.32rem 0; }
+  table { margin: 0.55rem 0 1rem; }
+  .q-gap { height: 0.7em; }
+"""
 
 
 def html_head(title: str, compact: bool) -> str:
     h2 = COMPACT_H2 if compact else DESK_H2
+    extra = COMPACT_EXTRA if compact else ""
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -48,7 +55,7 @@ def html_head(title: str, compact: bool) -> str:
 <title>{title}</title>
 <link rel="stylesheet" href="vendor/katex/katex.min.css">
 <style>
-{h2}{SHARED_CSS}
+{h2}{SHARED_CSS}{extra}
 </style>
 </head>
 <body>
@@ -97,6 +104,8 @@ def build(md_path: Path, compact: bool = False) -> Path:
     html_path = md_path.with_suffix(".html")
     raw = md_path.read_text(encoding="utf-8")
     title = next((line[2:].strip() for line in raw.splitlines() if line.startswith("# ")), md_path.stem)
+    if compact:
+        raw = re.sub(r"\n\n(\*\*\d+\.\*\*)", r"\n\n<div class=\"q-gap\"></div>\n\n\1", raw)
     stashed, stored = stash_math(raw)
     html = to_html(stashed)
     html = restore_placeholders(html, stored)

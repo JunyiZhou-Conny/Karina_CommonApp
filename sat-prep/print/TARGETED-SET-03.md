@@ -3,11 +3,11 @@
 **Student:** Karina  
 **Homework after Test 9.** Work on paper. Calculator / Desmos is fine.
 
-38 questions. Items 1–30 are the Test 9 leaks (and two leftover slope items). Items 31–38 are extra types, not this week’s focus. All items are instructor-written SAT-style questions, **not** official College Board stems, and **not** taken from Practice Tests 1–11.
+Some questions on Test 9 did not go well. These are **new** questions in the same style — not the official items.
 
 **SPR** = student-produced response. Write a number (integer, decimal, or fraction).
 
-Before you calculate: write a 3–5 word **job** on scratch (`max value`, `smallest`, `by how many`, `sum of volumes`). Then copy numbers.
+***Read the prompt carefully.*** When you copy numbers from the computer onto scratch paper, check that they are accurate before you begin any calculation.
 
 ---
 
@@ -29,20 +29,15 @@ Before you calculate: write a 3–5 word **job** on scratch (`max value`, `small
 
 ### “By how many”
 
-- Scale the sample to the full group **first**.
-- Then **subtract**. “By how many more / by how many would A beat B” is a difference, not a total.
-- Trap 1 = the sample difference (never scaled). Trap 2 = the scaled total for A only.
+You have seen this phrasing before. ***By how many*** means the **gap** — how much one count beats the other — after you scale the sample up to the full group.
+
+A concert sample is the usual picture: some people bought floor seats, some bought balcony. The question then asks, if the whole house buys a ticket, ***by how many*** more floor seats than balcony seats are expected. That is not the floor-seat total, and it is not the small gap from the sample. Scale first, then subtract.
 
 ### Similar solids
 
 - Linear scale \(k\) from surface areas: \(k^2=\dfrac{\text{SA}_\text{large}}{\text{SA}_\text{small}}\) as **one fraction**, then \(k=\sqrt{\text{that}}\).
 - Do **not** take \(\sqrt{\text{SA}_\text{large}}\) and \(\sqrt{\text{SA}_\text{small}}\) as two separate calculator hits. That sprays decimals and you lose the clean square.
 - Volumes scale with \(k^3\). Areas with \(k^2\).
-
-### Adding rational expressions
-
-- If one denominator is \(a-b\) and the other is \(b-a\), rewrite \(b-a=-(a-b)\) **before** you add.
-- Do not invent a new free denominator and dump both numerators on top.
 
 ### “Displays … as a constant or coefficient”
 
@@ -82,23 +77,21 @@ What is the maximum data value in the data set?
 
 Answer: ______________
 
-**2.** (SPR) The frequency table summarizes a data set.
+**2.** A concert sampled 250 people at the gate: 160 bought a floor ticket and 90 bought a balcony ticket. If 2,000 people buy one of those two tickets, by how many more floor tickets than balcony tickets are expected?  
+A) \(70\)  
+B) \(560\)  
+C) \(1{,}280\)  
+D) \(1{,}750\)
 
-| Data value | Frequency |
-|---|---|
-| 2 | 4 |
-| 5 | 15 |
-| 8 | 7 |
-| 11 | 2 |
-| 14 | 6 |
-| 17 | 0 |
-| 18 | 3 |
+**3.** (SPR)
 
-What is the maximum data value in the data set?
+\[\sqrt{x(x-3)}=\sqrt{3x+16}\]
+
+What is the smallest solution to the given equation?
 
 Answer: ______________
 
-**3.** The frequency table summarizes a data set.
+**4.** The frequency table summarizes a data set.
 
 | Data value | Frequency |
 |---|---|
@@ -112,14 +105,6 @@ A) \(20\)
 B) \(40\)  
 C) \(400\)  
 D) \(61\)
-
-**4.** (SPR)
-
-\[\sqrt{x(x-3)}=\sqrt{3x+16}\]
-
-What is the smallest solution to the given equation?
-
-Answer: ______________
 
 **5.** (SPR)
 
@@ -169,11 +154,21 @@ What is the smallest solution to the given equation?
 
 Answer: ______________
 
-**11.** A bakery sampled 250 customers at random: 160 bought a muffin and 90 bought a scone. If 2,000 customers buy one of those two items, by how many more muffins than scones are expected?  
-A) \(70\)  
-B) \(560\)  
-C) \(1{,}280\)  
-D) \(1{,}750\)
+**11.** (SPR) The frequency table summarizes a data set.
+
+| Data value | Frequency |
+|---|---|
+| 2 | 4 |
+| 5 | 15 |
+| 8 | 7 |
+| 11 | 2 |
+| 14 | 6 |
+| 17 | 0 |
+| 18 | 3 |
+
+What is the maximum data value in the data set?
+
+Answer: ______________
 
 **12.** A warehouse sampled 120 boxes: 75 marked rush and 45 marked standard. If 960 boxes ship this week, by how many more rush boxes than standard boxes are expected?  
 A) \(30\)  
