@@ -19,21 +19,21 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 
 | ID | Knowledge point | Where it showed up | Status |
 |---|---|---|---|
-| **K1** | Successive percent = **multiply** growth factors. Do **not** add the percents. Do **not** add the starting amount back after you multiply. Final = \(\text{start}\times(1+r)^n\), never \(\text{start}\times(1+r)^n+\text{start}\). That last add-on is an **overestimate**. | Desk B14 / C4 / C6; Test 5; **Set 01 #4, #20** | 🟨 still |
+| **K1** | Successive percent = **multiply** growth factors. Do **not** add the percents. Do **not** add the starting amount back after you multiply. Final = \(\text{start}\times(1+r)^n\), never \(\text{start}\times(1+r)^n+\text{start}\). That last add-on is an **overestimate**. | Desk B14 / C4 / C6; Test 5; Set 01 #4, #20; **Set 02 #1–#3, #16, #22, #28 all clean** | 🟩 Set 02 clean |
 | **K2** | “Increase \(x\) by \(p\%\)” means \(x(1+\frac{p}{100})\), not \(x\cdot\frac{p}{100}\). Increase by 400% is \(\times 5\). | Test 5 M1 #25; Set 01 #3 clean | 🟩 Set 01 clean |
 | **K3** | Exponential model period: if \(P(t)=A(1+r)^{kt}\), there are \(k\) growth cycles per 1 unit of \(t\). Convert that period into months when the question asks for \(n\) months. | Test 5 M2 #25; Set 01 #5, #6 clean | 🟩 Set 01 clean |
 | **K4** | Tangent to a circle is **perpendicular to the radius** at the contact point. | Test 5 M2 #26; Set 01 ordinary-slope items clean | 🟩 ordinary case clean |
 | **K5** | Perpendicular slopes: \(m_1 m_2 = -1\). **Axis-aligned special case is still leaking** — see K7. | Test 5 M2 #26; Set 01 #11, #17 | 🟨 still (axis case) |
 | **K6** | Combo: circle \(\rightarrow\) center \(\rightarrow\) radius slope \(\rightarrow\) tangent slope \(\rightarrow\) point-slope at \(P\) \(\rightarrow\) test a point. | Test 5 M2 #26; Set 01 #8, #9, #21–#23 clean | 🟩 ordinary combo clean |
-| **K7** | Slope language, not just “negative reciprocal.” A line **perpendicular to the x-axis** is vertical \(\Rightarrow\) slope **undefined**. A line **parallel to the x-axis** is horizontal \(\Rightarrow\) slope **0**. SAT asks for the **tangent**, not the radius: vertical radius \(\Rightarrow\) tangent slope **0**; horizontal radius \(\Rightarrow\) tangent slope **undefined**. | **Set 01 #11, #17** (same type). Not in the named Test 11 misses. | 🟨 still |
-| **K8** | Right-triangle trig: from the **named angle**, mark opposite / adjacent / hypotenuse, then isolate the side they asked for. sin vs cos is a side-label, not a guess. | Test 11 **M1 #19** | 🟨 teach |
-| **K9** | Altitude-to-hypotenuse / similar right triangles: tan (or sin/cos) is a **ratio of the two given lengths**. Ugly numbers (429, 572) cancel. Do **not** Pythagorean a giant hypotenuse — that is the trap. | Test 11 **M2 #26** | 🟨 teach |
-| **K10** | Messy-data estimate: read a graph intercept approximately, compute, pick **closest**. Tolerate ambiguity. Trap = the other variable’s value. | Test 11 **M2 #19** | 🟨 teach |
-| **K11** | Linear systems: 0 / 1 / infinitely many / “at least one.” Scale-check: same line \(\Rightarrow\) infinite; one intersection \(\Rightarrow\) one. “At least one” includes both. | Test 11 **M1 #25** | 🟨 teach |
-| **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. 1 nmi = 1.852 km does **not** mean 1 nmi² = 1.852 km². | Test 11 **M2 #27** | 🟨 teach |
-| **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 **M1 #24** | 🟨 teach |
-| **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 **M1 #23** | 🟨 teach |
-| **K15** | “Equivalent form that **displays** the maximum as a constant” = **vertex form**, not factored form. | Test 11 **M2 #22** | 🟨 teach |
+| **K7** | Slope language, not just “negative reciprocal.” A line **perpendicular to the x-axis** is vertical \(\Rightarrow\) slope **undefined**. A line **parallel to the x-axis** is horizontal \(\Rightarrow\) slope **0**. SAT asks for the **tangent**, not the radius: vertical radius \(\Rightarrow\) tangent slope **0**; horizontal radius \(\Rightarrow\) tangent slope **undefined**. | Set 01 #11, #17; **Set 02 #5, #17, #23, #29** | 🟨 still |
+| **K8** | Right-triangle trig: from the **named angle**, mark opposite / adjacent / hypotenuse, then isolate the side they asked for. sin vs cos is a side-label, not a guess. | Test 11 M1 #19; Set 02 #8, #9, #24 clean | 🟩 Set 02 clean |
+| **K9** | Altitude-to-hypotenuse / similar right triangles: tan (or sin/cos) is a **ratio of the two given lengths**. Ugly numbers cancel. Do **not** Pythagorean a giant hypotenuse. | Test 11 M2 #26; Set 02 #10, #18, #30 clean | 🟩 Set 02 clean |
+| **K10** | Messy-data estimate: read a graph intercept approximately, compute, pick **closest**. Tolerate ambiguity. Trap = the other variable’s value. | Test 11 M2 #19; Set 02 #11, #19 clean | 🟩 Set 02 clean |
+| **K11** | Linear systems: 0 / 1 / infinitely many / “at least one.” Scale-check: same line \(\Rightarrow\) infinite; parallel \(\Rightarrow\) none; one intersection \(\Rightarrow\) one. “At least one” is infinite **or** one — it does **not** rescue a parallel pair. | Test 11 M1 #25; **Set 02 #12** (said I and II; II is parallel / none) | 🟨 still |
+| **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. | Test 11 M2 #27; Set 02 #13, #21 clean | 🟩 Set 02 clean |
+| **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 M1 #24; Set 02 #14, #25 clean | 🟩 Set 02 clean |
+| **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 M1 #23; Set 02 #15 clean | 🟩 Set 02 clean |
+| **K15** | “Equivalent form that **displays** the maximum as a constant” = **vertex form**, not factored form. | Test 11 M2 #22; Set 02 #27 clean | 🟩 Set 02 clean |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -129,6 +129,25 @@ Set 01 leftovers (K1 add-start, K7 0 vs undefined) did **not** show up in the na
 - Explanations: [`../official/answers/sat-practice-test-11-answers-digital.pdf`](../official/answers/sat-practice-test-11-answers-digital.pdf)
 - Check sheet + conversion: [`../official/keys/test-11-math.md`](../official/keys/test-11-math.md) (PR #12 until merged)
 - Scorecard: [`TEST-11-REPORT.md`](TEST-11-REPORT.md)
+
+### 2026-08-23 — Targeted Set 02
+
+**Result:** **25/30**. Missed **#5, #12, #17, #23, #29**.
+
+K1 (successive growth / add-start) is clean on this set. Trig, estimate, units, angle inventory, shift, and vertex form all landed.
+
+| Item | Her answer | Key | Family | What happened | Gaps |
+|---|---|---|---|---|---|
+| **#5** | **D** | **0** | Vertical radius, tangent slope (SPR) | Same \(x=1\). Tangent is horizontal. She marked D, not 0. | K7 |
+| **#12** | **C, I and II** | **A, I only** | Linear systems, at least one | I is the same line (infinite). II is parallel (\(2x+6y=20\) \(\Rightarrow\) \(x+3y=10\)) \(\Rightarrow\) **none**. “At least one” does not save II. | K11 |
+| **#17** | **A, 0** | **B, undefined** | Radius \(\parallel\) x-axis | Radius horizontal \(\Rightarrow\) tangent vertical \(\Rightarrow\) **undefined**. She bubbled 0. | K7 |
+| **#23** | **A, 0** | **B, undefined** | Same \(y=8\), vertical tangent | Same type as #6 / #7 (which she hit) and #29. Late-set flip back to 0. | K7 |
+| **#29** | **A, 0** | **B, undefined** | Same \(y=1\), vertical tangent | Same leak as #17 / #23. | K7 |
+
+#4, #6, #7 (0 vs undefined MC) landed. #20 and #26 (systems) landed. The leftover is: **horizontal radius / “radius ∥ x-axis” → tangent slope undefined**, plus **parallel lines are not “at least one.”**
+
+Print: [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf)  
+Key: [`targeted-set-02-key.md`](targeted-set-02-key.md)
 
 ---
 
@@ -245,5 +264,4 @@ Do **not** restack K2 / K3 / ordinary-slope tangent combo unless they reopen.
 
 ## Next sitting
 
-Give her [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) (30 items, no key in the file).  
-After she finishes, mark K1 / K7–K15 in the table and add a session block. Tests 1–4 and 6–10 still unused.
+Set 02 is scored. Desk-talk the five misses (especially K7 vertical tangent / undefined, and K11 parallel \(\neq\) at least one). She is also sitting **Official Test 9** today. Log that next. Tests 1–4, 6–8, 10 still unused.

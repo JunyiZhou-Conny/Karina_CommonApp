@@ -39,6 +39,8 @@ Do **not** give this page to Karina. Send her [`../print/TARGETED-SET-02.pdf`](.
 
 **Counts:** K1 ×6 (#1–3, 16, 22, 28). K7 ×7 (#4–7, 17, 23, 29) — three horizontal-tangent / slope 0, **four vertical-tangent / undefined**. K8/K9 ×6. K10 ×2. K11 ×4. K12 ×2. K13 ×2. K14 ×1. K15 ×1.
 
+**2026-08-23 result:** **25/30**. Missed **#5 (D, key 0), #12 (C, key A), #17 (A, key B), #23 (A, key B), #29 (A, key B).**
+
 If she misses **1, 3, 22** with a number a bit too big → still adding the start (K1).  
 If she misses **4 / 5** as undefined and **6 / 7 / 23 / 29** as 0 → she is naming the radius, not the tangent (K7).  
 If she misses **10, 18, 30** with a 3/5 or 4/5 → she Pythagorean’d (K9).
