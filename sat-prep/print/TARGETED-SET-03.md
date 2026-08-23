@@ -40,6 +40,12 @@ A concert sample is the usual picture: some people bought floor seats, some boug
 - Do **not** take \(\sqrt{\text{SA}_\text{large}}\) and \(\sqrt{\text{SA}_\text{small}}\) as two separate calculator hits. That sprays decimals and you lose the clean square.
 - Volumes scale with \(k^3\). Areas with \(k^2\).
 
+### Adding rational expressions
+
+- Get a **common denominator**, then add the numerators. Expand and combine like terms.
+- If a factor sits in a numerator and a denominator, do **not** cross it out before you add. You still need that factor to match the other term.
+- The original expression is not defined when that factor is 0. Crossing it out hides that, and the form SAT lists will not match what you get after canceling.
+
 ### “Displays … as a constant or coefficient”
 
 - The feature they named (maximum, minimum, \(y\)-intercept) must sit out as a number you can read — a constant term or a coefficient — with no leftover arithmetic.
@@ -215,23 +221,23 @@ Answer: ______________
 
 Answer: ______________
 
-**21.** Which expression is equivalent to \(\dfrac{4y}{x-y}+\dfrac{4x}{y-x}\)?  
-A) \(4\)  
-B) \(-4\)  
-C) \(\dfrac{4(x+y)}{x-y}\)  
-D) \(\dfrac{8xy}{x-y}\)
+**21.** Which expression is equivalent to \(\dfrac{y+5}{x-4}+\dfrac{y}{xy}\)?  
+A) \(\dfrac{xy^{2}+5xy-4y}{x^{2}y-4xy}\)  
+B) \(\dfrac{xy^{2}+6xy-4y}{x^{2}y-4xy}\)  
+C) \(\dfrac{xy+6x-4}{x^{2}-4x}\)  
+D) \(\dfrac{y+5}{x-4}+\dfrac{1}{x}\)
 
-**22.** Which expression is equivalent to \(\dfrac{m}{m-n}+\dfrac{n}{n-m}\)?  
-A) \(0\)  
-B) \(1\)  
-C) \(\dfrac{m+n}{m-n}\)  
-D) \(\dfrac{m-n}{n-m}\)
+**22.** Which expression is equivalent to \(\dfrac{n+8}{m-3}+\dfrac{n(m-3)}{mn(m-3)}\)?  
+A) \(\dfrac{mn^{2}+8mn-3n}{m^{2}n-3mn}\)  
+B) \(\dfrac{mn+9m-3}{m^{2}-3m}\)  
+C) \(\dfrac{mn^{2}+9mn-3n}{m^{2}n-3mn}\)  
+D) \(\dfrac{1}{m}+\dfrac{n+8}{m-3}\)
 
-**23.** Which expression is equivalent to \(\dfrac{2a}{a-b}-\dfrac{2b}{b-a}\)?  
-A) \(2\)  
-B) \(\dfrac{2(a-b)}{a+b}\)  
-C) \(\dfrac{2(a+b)}{a-b}\)  
-D) \(\dfrac{2(a-b)}{b-a}\)
+**23.** Which expression is equivalent to \(\dfrac{w+3}{t-7}+\dfrac{w(t-7)}{tw(t-7)}\)?  
+A) \(\dfrac{tw^{2}+3tw-7w}{t^{2}w-7tw}\)  
+B) \(\dfrac{tw^{2}+4tw-7w}{t^{2}w-7tw}\)  
+C) \(\dfrac{tw+4t-7}{t^{2}-7t}\)  
+D) \(\dfrac{w+3}{t-7}+\dfrac{1}{t}\)
 
 **24.** The function \(f\) is defined by \(f(x)=-3(x+1)(x-5)\). Which of the following equivalent forms displays the maximum value of \(f\) as a constant or coefficient?
 

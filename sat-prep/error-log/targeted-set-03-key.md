@@ -27,9 +27,9 @@ Items 31–38: extra types, not this week’s focus (markup / scatterplot / sum 
 | 18 | **1,040** | K19 | \(1{,}200/75=16\Rightarrow k=4\). \(1{,}024/64=16\). Sum \(1{,}040\). |
 | 19 | **750** | K19 | \(800/32=25\Rightarrow k=5\). \(6\times 125=750\). |
 | 20 | **1,008** | K19 | \(1{,}350/54=25\Rightarrow k=5\). \(1{,}000/125=8\). Sum \(1{,}008\). |
-| 21 | **B, −4** | K20 | \(y-x=-(x-y)\). Then \(4(y-x)/(x-y)=-4\). C is the unsimplified add. |
-| 22 | **B, 1** | K20 | \(n-m=-(m-n)\). Then \((m-n)/(m-n)=1\). |
-| 23 | **C, \(\dfrac{2(a+b)}{a-b}\)** | K20 | \(b-a=-(a-b)\), so the minus flips. Then \(2(a+b)/(a-b)\). |
+| 21 | **B** | K20 | Common denom \(xy(x-4)\): \(xy(y+5)+y(x-4)=xy^{2}+6xy-4y\). A drops the extra \(xy\). C/D cancel \(y\) first. |
+| 22 | **C** | K20 | Keep \(n(m-3)\). Common \(mn(m-3)\): \(mn(n+8)+n(m-3)=mn^{2}+9mn-3n\). A drops \(mn\). B/D cancel \(n\) and \(m-3\). |
+| 23 | **B** | K20 | Same keep-the-factor add: \(tw(w+3)+w(t-7)=tw^{2}+4tw-7w\). A is \(3tw\). C/D cancel \(w\) and \(t-7\). |
 | 24 | **A, I only** | K15 | Max is \(27\) in vertex form. II’s \(+15\) is the intercept. |
 | 25 | **A, I only** | K15 | Min is \(+9\). II’s \(+41\) is the intercept. |
 | 26 | **A, I only** | K15 | \(5(1.4)^{x+2}=9.8(1.4)^{x}\). Intercept \(9.8\) is the coefficient. II is not even equivalent. |
