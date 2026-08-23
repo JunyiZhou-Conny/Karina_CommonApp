@@ -153,12 +153,19 @@ Key: [`targeted-set-02-key.md`](targeted-set-02-key.md)
 
 **Score:** Module 1 **20/27**, Module 2 **24/27** → raw **44** → this paper table Math **630–690**.
 
-M2 jumped (21–22 → **24**). The watch-list clones she **hit:** M1 #19 (no solution), M2 #16 (increase by 7%), M2 #20 (double time = exponent), M2 #23 (square the mile→yard factor).
+| | Test 5 | Test 11 | Test 9 |
+|---|---|---|---|
+| M1 | 24/27 | 23/27 | **20/27** |
+| M2 | 21/27 | 22/27 | **24/27** |
+| Raw | 45 | 45 | **44** |
+| Paper Math | 640–700 | 640–700 | **630–690** |
+
+M2 jumped (21–22 → **24**). M1 slipped (24 → 20), mostly read-the-stem items plus the similar-prism closer. Watch-list clones she **hit:** M1 #19 (no solution), M2 #16 (increase by 7%), M2 #20 (double time = exponent), M2 #23 (square the mile→yard factor).
 
 | Item | Her answer | Official | One-line why |
 |---|---|---|---|
 | **M1 #7** | **220** | **224** | Profit \(900=5x-220\Rightarrow x=224\). 220 is the constant, not the poster count. |
-| **M1 #12** | **A** | **B** | Circle / arc split on a diameter figure. |
+| **M1 #12** | **A** | **B** | Setup was right. She computed arc **PQ**. SAT asked the longer arc **QR**. |
 | **M1 #14** | **121** | **14** | Asked for the **maximum data value**. 11 is the mode (highest frequency). She did \(11\times 11\). |
 | **M1 #21** | **2** | **−3** | Smallest solution of the squared / radical equation. 2 is the obvious leftover from \((x-2)\). |
 | **M1 #25** | **A** | **D** | Stain the fence **twice** \(\Rightarrow S=2w/170=w/85\). |
@@ -247,11 +254,35 @@ Desk Math Notes already had “perpendicular = negative reciprocal” and “\((
 - Three possible sums: two equals, two supplements, or 180°.
 - “Could NOT” means find the expression that is not one of those three.
 
+### Screen → scratch (Test 9 M1 cluster)
+
+Not a knowledge gap. She had the math. She copied the **wrong job** off the screen: PQ not QR (#12), mode not max (#14), “smallest” leftover (#21), stain once not twice (#25), vote total not win-by (#26). Paper booklets hide this. Bluebook is one source on the monitor and another on the provided scratch paper. The leak is the transfer.
+
+**Bluebook tools she can actually use (official):**
+
+- **Highlights & Notes** exist. College Board’s student guide says they work **on non-math questions** (highlight / recolor / underline / note on a passage). The Bluebook tools page is broader (“highlight text from a question”). Do not count on Math having the same annotate strip as Reading and Writing. Shortcut: **Ctrl+H** (Mac also Ctrl+H).
+- **Line Reader** works on Math. A focus strip over the last sentence / the asked-for quantity. Shortcut: **Ctrl+L** (Mac: **Cmd+L**). This is the one built for her leak.
+- **Option Eliminator:** strike a choice she already rejected so she does not re-grab the trap (PQ’s arc, the mode, the unscaled vote total).
+- **Mark for Review** + question menu: flag any item she computed before she wrote the job.
+- **Zoom** (Ctrl +/−) on a figure or a histogram axis.
+- **Desmos** and the **reference sheet** are Math-only extras; they do not fix a misread.
+- Timer can be hidden until 5 minutes left.
+
+She **cannot** bring her own highlighter, colored pencils, or paper. The center gives scratch paper; she brings a pen or pencil. Highlighting is in-app, not physical.
+
+**Desk protocol (write this before any numbers):**
+
+1. Eyes on the last sentence. Line-reader it. Say the job in 3–5 words.
+2. On scratch, write that job first: `QR not PQ` / `max value not mode` / `twice` / `win by` / `smallest`.
+3. Then copy numbers. Then calculate.
+4. Eyes back to the stem. Check the job line against the bubble.
+5. Practice this in the **Bluebook app**, not only paper Tests 1–4 / 6–8 / 10. Paper hid the transfer cost.
+
 ---
 
 ## Official hard #24–#27 (search result)
 
-There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5 and 11. **Still unused:** Tests 1–4, 6–10.
+There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5, 9, and 11. **Still unused:** Tests 1–4, 6–8, 10.
 
 Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuitequestionbank.collegeboard.org/). Third-party “real SAT leak” PDFs are not a source we will copy. Details: [`../resources.md`](../resources.md).
 
@@ -287,4 +318,4 @@ Do **not** restack K2 / K3 / ordinary-slope tangent combo unless they reopen.
 
 ## Next sitting
 
-Test 9 is locked: raw **44**, **630–690**. Module 2 was the strongest official sit so far. Next drill: read **what** the question asked (max value vs mode; win-by vs votes; twice the stain) and similar-solid scale (\(k^2\) / \(k^3\)). Tests 1–4, 6–8, 10 still unused.
+Test 9 is locked: raw **44**, **630–690**. Module 2 was the strongest official sit so far. Next drill: **screen → scratch job line** (see above) plus leftover K7 (vertical = undefined) and K15 (y-intercept display). Tests 1–4, 6–8, 10 still unused. Do the next official sit in **Bluebook** so the transfer is trained.
