@@ -11,7 +11,7 @@ Sources: College Board Digital SAT Math domains / skill lists (Algebra, Advanced
 | # | Skill | Status | Notes |
 |---|---|---|---|
 | A1 | Linear equations in one variable | ⬜ | Isolate; clear fractions/decimals |
-| A2 | Linear equations in two variables | 🟨 | Forms: slope-intercept, standard, point-slope. Ordinary \(m_1 m_2=-1\) landed on Set 01. **Still leaking:** vertical line (⊥ x-axis) has **undefined** slope; horizontal (∥ x-axis) has slope **0**. SAT asks for the tangent, not the radius (Set 01 #11, #17). |
+| A2 | Linear equations in two variables | 🟨 | Forms: slope-intercept, standard, point-slope. Horizontal slope 0 is landing. **Leftover (Set 02):** a **vertical** line has **undefined** slope — she still writes 0. |
 | A3 | Linear functions | 🟨 | Rate of change; intercept meaning. **Leak:** graph of \(y=f(x)+k\) — undo the shift to recover \(f\) (Test 11 M1 #23). |
 | A4 | Systems of two linear equations in two variables | 🟨 | Substitution, elimination, Desmos. **Leak:** 0 / 1 / infinitely many / “at least one.” Scale-check same line vs one intersection (Test 11 M1 #25). |
 | A5 | Linear inequalities in one or two variables | ⬜ | Solution sets; which values satisfy |
