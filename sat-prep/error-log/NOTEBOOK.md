@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her (current homework):** [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) (notes + 30 questions; **no key in the file**)  
+**Print for her (current homework):** [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) (notes + 38 questions; **no key in the file**)  
 **Your key:** [`targeted-set-03-key.md`](targeted-set-03-key.md)
 
 Set 02 (done): [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) · [`targeted-set-02-key.md`](targeted-set-02-key.md)  
@@ -40,6 +40,10 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K18** | “**By how many**” after a sample: scale to the full group, **then subtract**. Trap = sample gap or the winner’s scaled total. | Test 9 M1 #26; Set 03 #11–#16, #30 | 🟨 new |
 | **K19** | Similar solids: \(k^2=\mathrm{SA}_\text{large}/\mathrm{SA}_\text{small}\) as **one** fraction, then \(k=\sqrt{\text{that}}\). Volumes with \(k^3\). Do not \(\sqrt{\mathrm{SA}}\) each area separately (decimal spray). | Test 9 M1 #27; Set 03 #17–#20 | 🟨 new |
 | **K20** | Adding rationals: if one denom is \(a-b\) and the other is \(b-a\), rewrite \(b-a=-(a-b)\) **before** combining. Do not invent a new free denominator. | Test 9 M2 #25; Set 03 #21–#23 | 🟨 new |
+| **K21** | Markup / **margin**: retail \(=\text{cost}\times(1+\frac{p}{100})\). The margin is the **increase**, \(\text{cost}\times\frac{p}{100}\), not the new price. | Set 03 #31–#32 (tail) | ⬜ watch |
+| **K22** | Scatterplot association + line of best fit. Rising cloud = positive; falling = negative. Predict by plugging into the fit line. | Set 03 #33–#34 (tail) | ⬜ watch |
+| **K23** | Sum of solutions of \(ax^2+bx+c=0\) is \(-\frac{b}{a}\). Do not solve for each root. | Set 03 #35–#36 (tail) | ⬜ watch |
+| **K24** | **Lateral faces** = faces that are not the bases. Rectangular prism: 4. Triangular prism: 3. Trap = counting every face. | Set 03 #37–#38 (tail) | ⬜ watch |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -349,7 +353,7 @@ Do **not** restack K2 / K3 / ordinary-slope tangent combo unless they reopen.
 
 ---
 
-## Targeted Set 03 — written (30 items)
+## Targeted Set 03 — written (38 items)
 
 Homework file: [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf). Instructor key: [`targeted-set-03-key.md`](targeted-set-03-key.md).
 
@@ -362,6 +366,7 @@ Instructor-written originals. Do not mine Tests 1–11. **Skip** Test 9 M1 #7 (p
 - **K20** rational, flip \(b-a\) first — #21–#23.
 - **K15** displays max / min / intercept as a constant or coefficient (I/II) — #24–#27.
 - **K7 leftover only** — #28 undefined, #29 slope 0. Not this week’s focus.
+- **Tail, not this week’s focus** — markup/margin #31–#32; scatterplot / best fit #33–#34; sum of roots \(-\frac{b}{a}\) #35–#36; lateral-face count #37–#38.
 
 ---
 

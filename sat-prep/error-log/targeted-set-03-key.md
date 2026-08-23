@@ -2,7 +2,8 @@
 
 Do **not** give this page to Karina. Send her [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) only (no key in that file).
 
-30 originals after Test 9. Skip M1 #7 / #12 / #25 (stain). Leftover K7 is two items only.
+Items 1–30: Test 9 leaks. Skip M1 #7 / #12 / #25 (stain). Leftover K7 is two items only.  
+Items 31–38: extra types, not this week’s focus (markup / scatterplot / sum of roots / lateral faces).
 
 | # | Answer | Gap | Why / her likely trap |
 |---|---|---|---|
@@ -36,8 +37,16 @@ Do **not** give this page to Karina. Send her [`../print/TARGETED-SET-03.pdf`](.
 | 28 | **C, undefined** | K7 | Same \(y=8\): horizontal radius \(\Rightarrow\) vertical tangent. |
 | 29 | **A, 0** | K7 | Same \(x=6\): vertical radius \(\Rightarrow\) horizontal tangent. Contrast item. |
 | 30 | **160** | K18 | \(\times 8\): \(400-240\). |
+| 31 | **B, \$80** | K21 | \(64\times 1.25=80\). A is the margin (\$16). D is \(\times 2.5\). |
+| 32 | **48** | K21 | Margin = the increase \(=120\times 0.40=48\). Trap: retail \(168\). |
+| 33 | **B** | K22 | \(y\) falls as \(x\) rises. Clear negative linear association. |
+| 34 | **C, 40** | K22 | \(1.8\times 10+22=40\). A is the slope; B is the intercept; D is \(1.8\times 100\). |
+| 35 | **4** | K23 | Sum \(=-\frac{b}{a}=-\frac{-12}{3}=4\). Do not solve. Trap: product \(7/3\). |
+| 36 | **−5** | K23 | Sum \(=-\frac{10}{2}=-5\). Trap: \(5\) (dropped the minus). |
+| 37 | **4** | K24 | Rectangular prism: 4 side faces, not the 2 bases. Trap: \(6\) (all faces). |
+| 38 | **3** | K24 | Triangular prism: 3 rectangular sides, not the 2 triangular bases. Trap: \(5\) (all faces). |
 
-**Counts:** K16 ×3 (#1–#3). K17 ×7 (#4–#10). K18 ×7 (#11–#16, #30). K19 ×4 (#17–#20). K20 ×3 (#21–#23). K15 ×4 (#24–#27). K7 ×2 (#28–#29).
+**Counts:** K16 ×3 (#1–#3). K17 ×7 (#4–#10). K18 ×7 (#11–#16, #30). K19 ×4 (#17–#20). K20 ×3 (#21–#23). K15 ×4 (#24–#27). K7 ×2 (#28–#29). Tail: K21 ×2, K22 ×2, K23 ×2, K24 ×2.
 
 If she misses **1–3** with a product or the mode → still reading frequency as the data.  
 If she misses **4–10** with \(2\), \(3\), \(4\), \(5\), or \(6\) → she wrote the domain leftover.  

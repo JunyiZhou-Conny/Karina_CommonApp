@@ -3,7 +3,7 @@
 **Student:** Karina  
 **Homework after Test 9.** Work on paper. Calculator / Desmos is fine.
 
-30 questions. These are only the leaks from Test 9 (and two leftover slope items). Items are instructor-written SAT-style questions, **not** official College Board stems, and **not** taken from Practice Tests 1–11.
+38 questions. Items 1–30 are the Test 9 leaks (and two leftover slope items). Items 31–38 are extra types, not this week’s focus. All items are instructor-written SAT-style questions, **not** official College Board stems, and **not** taken from Practice Tests 1–11.
 
 **SPR** = student-produced response. Write a number (integer, decimal, or fraction).
 
@@ -55,6 +55,13 @@ Before you calculate: write a 3–5 word **job** on scratch (`max value`, `small
 
 - Same \(y\) on center and contact point \(\Rightarrow\) tangent is **vertical** \(\Rightarrow\) slope **undefined**.
 - Same \(x\) \(\Rightarrow\) tangent is **horizontal** \(\Rightarrow\) slope **0**.
+
+### Last few (not this week’s focus)
+
+- **Markup / margin.** Cost marked up by \(p\%\) \(\Rightarrow\) retail \(=\text{cost}\times\bigl(1+\frac{p}{100}\bigr)\). The **margin** (the increase) is \(\text{cost}\times\frac{p}{100}\). That increase is not the new price.
+- **Scatterplot.** Points rising together \(\Rightarrow\) positive association. Points falling \(\Rightarrow\) negative. A **line of best fit** is the line that tracks the cloud; plug \(x\) into that equation to predict \(y\).
+- **Sum of the solutions** of \(ax^2+bx+c=0\) is \(-\dfrac{b}{a}\). Do not solve for each root.
+- **Lateral faces** are the faces that are **not** the bases. A right rectangular prism has 4. A right triangular prism has 3.
 
 ---
 
@@ -283,5 +290,53 @@ C) \(8\)
 D) \(\dfrac{1}{6}\)
 
 **30.** (SPR) A theater surveyed 80 ticket buyers: 50 chose the matinee and 30 chose the evening show. If 640 tickets are sold, by how many more matinee tickets than evening tickets are expected?
+
+Answer: ______________
+
+**31.** A shop pays a wholesale cost of \$64 for a lamp. The lamp is marked up by 25% to set the retail price. What is the retail price?  
+A) \$16  
+B) \$80  
+C) \$89  
+D) \$160
+
+**32.** (SPR) A retailer buys a chair for \$120. The chair is sold with a 40% markup. The **margin** is the increase from the wholesale cost to the retail price. What is that margin, in dollars?
+
+Answer: ______________
+
+**33.** The table gives six points from a scatterplot.
+
+| \(x\) | 2 | 3 | 4 | 5 | 6 | 7 |
+|---|---|---|---|---|---|---|
+| \(y\) | 18 | 16 | 15 | 12 | 11 | 9 |
+
+Which statement best describes the association between \(x\) and \(y\)?  
+A) A strong positive linear association  
+B) A strong negative linear association  
+C) No linear association  
+D) A positive association that becomes negative
+
+**34.** A line of best fit for a scatterplot is \(y=1.8x+22\), where \(x\) is hours practiced and \(y\) is a score. Based on this line, what is the predicted score after 10 hours of practice?  
+A) \(1.8\)  
+B) \(22\)  
+C) \(40\)  
+D) \(180\)
+
+**35.** (SPR) What is the sum of the solutions to the given equation?
+
+\[3x^2-12x+7=0\]
+
+Answer: ______________
+
+**36.** (SPR) What is the sum of the solutions to the given equation?
+
+\[2x^2+10x-3=0\]
+
+Answer: ______________
+
+**37.** (SPR) A right rectangular prism has two rectangular bases. How many lateral faces does the prism have?
+
+Answer: ______________
+
+**38.** (SPR) A right triangular prism has two triangular bases. How many lateral faces does the prism have?
 
 Answer: ______________
