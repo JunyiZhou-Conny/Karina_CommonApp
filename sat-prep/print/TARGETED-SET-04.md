@@ -40,6 +40,7 @@ A model \(A(1+r)^{kt}\) finishes **one** growth (or decay) cycle when the expone
 - \(a+b+c\) is the \(y\)-value at \(x=1\). Write vertex form and plug in \(x=1\).
 - Two \(x\)-intercepts and a vertex **below** the axis \(\Rightarrow\) opens up \(\Rightarrow a>0\), so \(f(1)\) is **greater** than the vertex \(y\).
 - For \(ax^2+bx+c=0\): **sum** of solutions is \(-\dfrac{b}{a}\). Keep the minus. **Product** is \(\dfrac{c}{a}\).
+- If they ask for the product of the sum and the product, that is \(\bigl(-\frac{b}{a}\bigr)\times\frac{c}{a}\). Do both, then multiply.
 - If they write the product as \(k\) times an expression, \(k\) is whatever is left after \(c/a\).
 
 ---
@@ -101,7 +102,7 @@ B) \(p(x)=\dfrac{8}{x-3}\)
 C) \(p(x)=\dfrac{8}{x-7}\)  
 D) \(p(x)=\dfrac{8}{x}\)
 
-**9.** (SPR) What is the sum of the solutions to the equation \(6x^2+18x+5=0\)?
+**9.** (SPR) Let \(s\) be the sum of the solutions to \(6x^2+18x+5=0\) and let \(p\) be the product of the solutions. What is the value of \(sp\)?
 
 **10.** The function \(S\) is defined by \(S(t)=110(1.10)^{t/0.75}\), where \(t\) is years after 2015. According to the model, the quantity increases by \(n\%\) every 9 months. What is the value of \(n\)?
 

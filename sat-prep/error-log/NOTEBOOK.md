@@ -420,7 +420,7 @@ Instructor-written originals. Do not mine Tests 1–11. Covers **all four Bluebo
 - **K3** exponential period (4): find \(n\%\) #1, hide \(k\) #4 / #6, unsimplified exponent #10
 - **K25** data-set shift (1): median and range #2
 - **K26** recover rational, then shift (2): #5, #8
-- Parabola (3): vertex / \(f(1)\) #3, product of roots #7, sum of roots #9
+- Parabola (3): vertex / \(f(1)\) #3, product of roots #7, \(sp\) (sum \(\times\) product) #9
 
 ---
 
