@@ -19,7 +19,7 @@ These are **two separate workstreams** in one repo:
 | `docs/supplemental-essays-and-plans-2026-27.docx` | Same content in Word |
 | `docs/SOURCES.md` | Source URLs + confidence tags |
 
-Cycle: Common App **2026–27** (researched 2026-08-19).
+Cycle: Common App **2026–27** (researched 2026-08-19; Newton North College Planning Guide ingested 2026-08-26 — Scoir / EA / ED / RD process in the packet §1a).
 
 ---
 

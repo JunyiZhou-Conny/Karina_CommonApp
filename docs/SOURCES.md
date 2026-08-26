@@ -1,6 +1,6 @@
 # Source Log — Karina Common App Packet (2026–27)
 
-Last verified batch: **2026-08-19**
+Last verified batch: **2026-08-19** · NNHS guide ingest: **2026-08-26**
 
 Confidence legend used in the master doc:
 
@@ -37,6 +37,7 @@ Confidence legend used in the master doc:
 | Suffolk | Deadlines + requirements | https://www.suffolk.edu/undergraduate-admission/information-for/freshman | 2026-08-19 | Official (via public admissions pages) |
 | UC system | PIQs | https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/personal-insight-questions.html | 2026-08-19 | Official |
 | UC system | Filing window | UC Admissions how-to-apply materials | 2026-08-19 | Official |
+| Newton North HS | College Planning Guide (Scoir, EA/ED/RD, recs, transcript send) | Local PDF uploaded 2026-08-26 (111 pp.; **not republished** in this repo — digest only in `supplemental-essays-and-plans-2026-27.md` §1a) | 2026-08-26 | Official (school handbook). Appendix 10 UMass/state minimums is older statewide language — do **not** override official UMass EA **Nov 5** from the UMass site. Appendix 2 timeline worksheet did not extract as text. |
 
 ## Assumptions applied (user did not clarify)
 
@@ -57,3 +58,10 @@ Confidence legend used in the master doc:
 - [x] ED1 BU and EA UMass Amherst correctly labeled in plan snapshot
 - [x] Docx regenerated from markdown after QA edits
 - [x] Link live-check: Official URLs returning 200 for core sources (NYU MEET / NEU / Brandeis returned 403 in this environment on recheck; prior successful fetches retained in source notes)
+
+## NNHS guide ingest (2026-08-26)
+
+- [x] Operational digest added as packet §1a (Scoir columns, send trigger, ED contract, recs, senior auto-sends)
+- [x] College deadline table left on official school pages (not rewritten from the handbook)
+- [x] 111-page PDF not committed (copyright / size)
+- [x] Word twin regenerated from markdown after the ingest
