@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) — 10 items, K3 both directions (no key). Then a Suite Hard module if you want volume the same day. Next unused official sit is Bluebook **6, 7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 9 / 11.
+**Print for her:** [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) — 10 items covering all four Bluebook 4 misses (no key). Then a Suite Hard module if you want volume the same day. Next unused official sit is Bluebook **6, 7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 9 / 11.
 
 Set 04 (ready): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
 Set 03 (done): [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) · [`targeted-set-03-key.md`](targeted-set-03-key.md)  
@@ -415,13 +415,12 @@ Leftover: frequency **column** (#7), scatter **direction** (#32), sign of \(-\fr
 
 Homework file: [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf). Instructor key: [`targeted-set-04-key.md`](targeted-set-04-key.md).
 
-Instructor-written originals. Do not mine Tests 1–11. **K3 only**, both directions. Set 01 already cleaned “find the months.” This set hides the other piece:
+Instructor-written originals. Do not mine Tests 1–11. Covers **all four Bluebook 4 Module 2 misses**:
 
-- Find \(n\%\) from the base (Bluebook 4 direction): #1, #6, #9, #10
-- Hide \(k\) / the exponent (the rewrite): #2, #5, #7
-- Find months, including \(t\) already in months: #3, #8
-- Decay base \(<1\): #4
-- Unsimplified exponent \(t/0.75\): #10
+- **K3** exponential period (4): find \(n\%\) #1, hide \(k\) #4 / #6, unsimplified exponent #10
+- **K25** data-set shift (1): median and range #2
+- **K26** recover rational, then shift (2): #5, #8
+- Parabola (3): vertex / \(f(1)\) #3, product of roots #7, sum of roots #9
 
 ---
 
@@ -458,4 +457,4 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22**. **Set 04** is the K3 drill (10 originals). Suite Hard module is fine the same day — do not restack this family there unless it reappears. Next unused official sit: Bluebook **6, 7, 8, or 10** (not 4 / 5 / 9 / 11). Leftover from Set 03 still open: K16 / K22 / K23 / K24. Test 4 also opened **K25 / K26 / K27** (not in Set 04).
+Bluebook 4 is locked: **22/22 + 18/22**. **Set 04** is the 10-item drill on those four misses (plus sum-of-roots, the Set 03 leftover). Suite Hard module is fine the same day — do not restack these families there unless they reappear. Next unused official sit: Bluebook **6, 7, 8, or 10** (not 4 / 5 / 9 / 11). Set 03 leftovers still open if they miss Set 04 #9: K16 / K22 / K23 / K24.

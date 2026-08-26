@@ -45,4 +45,4 @@ Landed on the same module (do not rebuild): **#19** product of roots; **#20** co
 Vieta **product** \(c/a\) is landing (#19). Set 03 leftover **K23** is still the **sign of the sum** \(-\frac{b}{a}\).
 
 Living log: [`NOTEBOOK.md`](NOTEBOOK.md).  
-K3 drill (10 originals): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · key [`targeted-set-04-key.md`](targeted-set-04-key.md).
+Set 04 (10 originals: 4 exponential, 1 data shift, 2 rational-then-shift, 3 parabola): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · key [`targeted-set-04-key.md`](targeted-set-04-key.md).

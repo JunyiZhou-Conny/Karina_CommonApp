@@ -2,27 +2,29 @@
 
 Do **not** give this page to Karina. Send her [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) only (no key in that file).
 
-Ten instructor originals on **K3 bidirectional**. Not mined from Tests 1–11. Not Bluebook 4 M2 #10. Set 01 already cleaned “find the months” with \(2t\), \(3t\), \(t/4\), and \(\frac{4}{3}t\). This set hides the other piece.
+Ten instructor originals covering **all four Bluebook 4 Module 2 misses**. Not mined from Tests 1–11. Not the official stems.
 
-| # | Answer | Job | Why / trap |
-|---|---|---|---|
-| 1 | **C, 12** | Find \(n\%\) | \(\frac{3}{5}t=1\Rightarrow t=\frac{5}{3}\) yr \(=20\) mo. Base \(1.12\Rightarrow n=12\). A/B are the fraction. D is the period. |
-| 2 | **A** | Hide \(k\) | 18 mo \(=\frac{3}{2}\) yr. Reciprocal \(k=\frac{2}{3}\). B is the period used as the coefficient (the inversion). C/D treat 18 as if \(t\) were already in months or in 18-year lumps. |
-| 3 | **10** | \(t\) already months | Exponent \(m/10=1\Rightarrow m=10\). Do not also \(\times 12\) or \(\div 12\). |
-| 4 | **18** | Decay, find \(n\%\) | \(\frac{4}{5}t=1\Rightarrow t=\frac{5}{4}\) yr \(=15\) mo. Base \(0.82\Rightarrow\) decrease \(18\%\). Trap: **82**, or **15**. |
-| 5 | **\(\frac{4}{5}\)** or **0.8** | Hide \(k\), SPR | 15 mo \(=\frac{5}{4}\) yr. \(k=\frac{4}{5}\). Trap: \(\frac{5}{4}\) (period as coefficient). |
-| 6 | **C, 15** | Find \(n\%\) | \(\frac{2}{5}t=1\Rightarrow t=\frac{5}{2}\) yr \(=30\) mo. \(1.15\Rightarrow 15\). A/B fraction. D period. |
-| 7 | **A, \(\frac{3}{2}t\)** | Hide exponent | 8 mo \(=\frac{2}{3}\) yr. Reciprocal \(\frac{3}{2}\). B is the 8-month period written as a coefficient of \(t\). |
-| 8 | **B, 8** | Find months | \(\frac{3}{2}t=1\Rightarrow t=\frac{2}{3}\) yr \(=8\) mo. A is \(12/3\). D is \(12\times\frac{3}{2}\). |
-| 9 | **C, 9** | \(t\) in months, find \(n\%\) | Base \(1.09\Rightarrow 9\). B is the period. D is a “91% of” grab. |
-| 10 | **C, 10** | Unsimplified exponent | \(t/0.75=1\Rightarrow t=0.75\) yr \(=9\) mo. Same clock as \(\frac{4}{3}t\). \(1.10\Rightarrow 10\). A/B leftovers. D is the base. |
+| # | Answer | Gap | Job | Why / trap |
+|---|---|---|---|---|
+| 1 | **C, 12** | K3 | Find \(n\%\) | \(\frac{3}{5}t=1\Rightarrow t=\frac{5}{3}\) yr \(=20\) mo. Base \(1.12\Rightarrow n=12\). A/B fraction. D period. |
+| 2 | **C** | K25 | Median and range | Add 7: median \(10\to 17\), range \(7\to 7\). Center moves, spread stays. |
+| 3 | **D, −7** | K27 | \(f(1)\), vertex below | \(f(1)=9a-10\). Two intercepts + vertex below \(\Rightarrow a>0\Rightarrow f(1)>-10\). Only −7. A/B sit below. C is the vertex \(y\). |
+| 4 | **A** | K3 | Hide \(k\) | 18 mo \(=\frac{3}{2}\) yr. Reciprocal \(k=\frac{2}{3}\). B writes the period as the coefficient. |
+| 5 | **B** | K26 | Recover, then \(f(x-3)\) | Asymptote \(x=-2\Rightarrow b=2\). \((0,3)\Rightarrow a=6\). \(g(x)=\frac{6}{(x-3)+2}=\frac{6}{x-1}\). A is \(f\). C replaces with \(+3\). D dumps the shift onto the \(y\)-axis. |
+| 6 | **\(\frac{4}{5}\)** or **0.8** | K3 | Hide \(k\), SPR | 15 mo \(=\frac{5}{4}\) yr. \(k=\frac{4}{5}\). Trap: \(\frac{5}{4}\). |
+| 7 | **A, \(\frac{1}{8}\)** | K27 / Vieta product | Product \(c/a\) | \(c/a=pq/8=kpq\Rightarrow k=\frac{1}{8}\). C forgets to divide. D inverts. Not a copy of Bluebook 4 #19. |
+| 8 | **B** | K26 | Recover, then \(h(x+2)\) | Asymptote \(x=5\Rightarrow b=-5\), so \(h(x)=\frac{a}{x-5}\). \((7,4)\Rightarrow a=8\). \(p(x)=\frac{8}{x+2-5}=\frac{8}{x-3}\). A is \(h\). |
+| 9 | **−3** | K23 | Sum \(-\frac{b}{a}\) | \(-\frac{18}{6}=-3\). Trap: **3** (dropped minus). Different numbers from Set 03 #33 / #37. |
+| 10 | **C, 10** | K3 | Unsimplified exponent | \(t/0.75=1\Rightarrow t=0.75\) yr \(=9\) mo. \(1.10\Rightarrow 10\). A/B leftovers. D is the base. |
 
-**Counts:** find \(n\%\) #1, #6, #9, #10. Hide \(k\) / exponent #2, #5, #7. Find months #3, #8. Decay #4.
+**Counts:** K3 #1, #4, #6, #10. K25 #2. K26 #5, #8. Parabola #3 (vertex / \(f(1)\)), #7 (product), #9 (sum).
 
-If she misses **2 / 5 / 7** with the reciprocal fraction, she still has the clock backwards (period written as \(k\)).  
-If she misses **1 / 6 / 9 / 10** with the months or the leftover integer, she did not read \(n\) from the base.  
-If she misses **3** with 120 or \(\frac{10}{12}\), she converted a clock that was already in months.  
-If she misses **4** with 82, she read the base instead of the decrease.  
-If she misses **8** with 18 or 4, same leftover-integer habit as Bluebook 4.
+If she misses **4 / 6** with the reciprocal, the clock is still backwards.  
+If she misses **1 / 10** with the months or the leftover integer, she did not read \(n\) from the base.  
+If she misses **2** with “range greater,” she treated a translation as a stretch.  
+If she misses **5 / 8** with the recovered \(f\), she did the first job and stopped.  
+If she misses **3** with the vertex \(y\), she never signed \(a\).  
+If she misses **7** with 1 or 8, she skipped \(c/a\).  
+If she misses **9** with 3, same sign leak as Set 03.
 
-Suite Hard module is a separate sitting. Do not restack this family on that module unless it reappears.
+Suite Hard module is a separate sitting. Do not restack these four families on that module unless they reappear.
