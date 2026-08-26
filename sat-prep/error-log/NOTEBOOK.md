@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** Set 03 is locked. Next unused official sit is Bluebook **4, 6, 7, 8, or 10**. Do not restack the Test 9 families that just cleaned.
+**Print for her:** Set 03 is locked. Next unused official sit is Bluebook **4, 6, 7, 8, or 10**. Hard-volume modules (optional, after or beside that sit): [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-01.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-01.pdf). Your keys: [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md). Do not restack the Test 9 families that just cleaned.
 
 Set 03 (done): [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) · [`targeted-set-03-key.md`](targeted-set-03-key.md)  
 Set 02 (done): [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) · [`targeted-set-02-key.md`](targeted-set-02-key.md)  
@@ -387,6 +387,16 @@ Leftover: frequency **column** (#7), scatter **direction** (#32), sign of \(-\fr
 
 ---
 
+## Suite Hard simulation modules (340)
+
+Official exclude-active Hard items, shuffled into **15 × 22** (35 min) plus a 10-item remainder. Mixed domains in every module. Student PDFs have no answers.
+
+Index: [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md).
+
+These are **all Hard** and not adaptive. They do **not** replace unused Bluebook sits (4 / 6 / 7 / 8 / 10). Log misses as module + item + domain.
+
+---
+
 ## Next sitting
 
-Set 03 is locked: **33/38**. Next unused official sit: Bluebook **4, 6, 7, 8, or 10** (not 5 / 9 / 11). Paper Tests 1–3 are 54-question booklets only.
+Set 03 is locked: **33/38**. Next unused official sit: Bluebook **4, 6, 7, 8, or 10** (not 5 / 9 / 11). Paper Tests 1–3 are 54-question booklets only. Hard-volume track: Suite modules 01–16 when you want official Hard reps.

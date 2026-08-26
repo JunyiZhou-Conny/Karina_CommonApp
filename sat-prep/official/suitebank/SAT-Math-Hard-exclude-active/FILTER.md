@@ -20,6 +20,9 @@ Official SAT Suite Educator Question Bank exports you downloaded.
 
 **Total: 340 Hard SAT Math items** (active Bluebook questions excluded).
 
-Student PDFs are questions only (one item per page; item # = page #).  
+Shuffled into SAT-length simulation modules (15 × 22 + remainder 10): [`modules/README.md`](modules/README.md).  
+Print for her: [`modules/student/module-01.pdf`](modules/student/module-01.pdf) onward. Your keys: [`modules/keys/`](modules/keys/).
+
+Student domain PDFs are questions only (one item per page; item # = page #).  
 Keys PDFs are the official export with correct answers and rationales.  
 Check sheets are a compact # → answer list for live scoring. A few SPR answers are only in the keys PDF as rendered math; those rows say *see keys*.
