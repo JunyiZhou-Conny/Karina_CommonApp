@@ -14,8 +14,7 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-from pypdf import PdfReader, PdfWriter
-from pypdf.generic import RectangleObject
+from pypdf import PdfReader, PdfWriter, Transformation
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.units import inch
 from reportlab.pdfgen import canvas
@@ -338,6 +337,38 @@ def make_answer_sheet(path: Path, module: dict) -> None:
     c.save()
 
 
+QUESTION_BAR = 34
+
+
+def labeled_question_page(src_page, n: int, total: int, module_id: int):
+    """Official item page, shifted down, with a SAT-style Question N of M bar on top."""
+    tmp = PdfWriter()
+    tmp.add_page(src_page)
+    page = tmp.pages[0]
+    page.add_transformation(Transformation().translate(0, -QUESTION_BAR))
+
+    def draw(c, w, h):
+        c.setFillColorRGB(0.90, 0.90, 0.90)
+        c.rect(0, h - QUESTION_BAR, w, QUESTION_BAR, fill=1, stroke=0)
+        box_w = 24 if n < 10 else 30
+        c.setFillColorRGB(0, 0, 0)
+        c.rect(18, h - QUESTION_BAR + 5, box_w, 24, fill=1, stroke=0)
+        c.setFillColorRGB(1, 1, 1)
+        c.setFont("Helvetica-Bold", 12)
+        c.drawCentredString(18 + box_w / 2, h - QUESTION_BAR + 11, str(n))
+        c.setFillColorRGB(0.12, 0.12, 0.12)
+        c.setFont("Helvetica-Bold", 12)
+        c.drawString(18 + box_w + 8, h - QUESTION_BAR + 12, f"Question {n} of {total}")
+        c.setFont("Helvetica", 10)
+        c.drawRightString(w - 22, h - QUESTION_BAR + 13, f"Module {module_id}")
+        c.setStrokeColorRGB(0.55, 0.55, 0.55)
+        c.setLineWidth(0.6)
+        c.line(0, h - QUESTION_BAR, w, h - QUESTION_BAR)
+
+    _overlay_pdf(page, draw)
+    return page
+
+
 def write_module_pdf(module: dict, readers: dict[str, PdfReader]) -> Path:
     OUT_STUDENT.mkdir(parents=True, exist_ok=True)
     sheet_path = HERE / f".sheet-{module['label']}.pdf"
@@ -346,10 +377,16 @@ def write_module_pdf(module: dict, readers: dict[str, PdfReader]) -> Path:
     writer = PdfWriter()
     for page in official_directions_pages(module):
         writer.add_page(page)
-    for item in module["items"]:
-        tmp = PdfWriter()
-        tmp.add_page(readers[item["domain"]].pages[item["source_n"] - 1])
-        writer.add_page(tmp.pages[0])
+    total = len(module["items"])
+    for i, item in enumerate(module["items"], start=1):
+        writer.add_page(
+            labeled_question_page(
+                readers[item["domain"]].pages[item["source_n"] - 1],
+                i,
+                total,
+                module["id"],
+            )
+        )
     writer.add_page(PdfReader(str(sheet_path)).pages[0])
 
     out = OUT_STUDENT / f"module-{module['label']}.pdf"
@@ -415,7 +452,7 @@ def write_master_key(modules: list[dict]) -> Path:
         "",
         "## How to sit",
         "",
-        "1. Print [`student/module-01.pdf`](student/module-01.pdf). Pages 1–2 are the official SAT Math directions + reference. Question 1 starts on page 3 (College Board page, no overlay). Last page is the answer sheet.",
+        "1. Print [`student/module-01.pdf`](student/module-01.pdf). Pages 1–2 are the official SAT Math directions + reference. Question 1 starts on page 3; each item has **Question N of 22** in a bar above the official page (Question ID stays visible). Last page is the answer sheet.",
         "2. 35 minutes, no pausing. Then score from the matching key.",
         "3. Log misses by **module # + item #** (and domain). Do not restack a clean domain.",
         "4. Next unused official Bluebook sit is still **4, 6, 7, 8, or 10** — these modules do not replace that.",
