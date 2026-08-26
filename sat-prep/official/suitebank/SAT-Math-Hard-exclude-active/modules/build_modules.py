@@ -26,6 +26,9 @@ STUDENT_DIR = PACK / "student"
 ANSWERS_DIR = PACK / "answers"
 OUT_STUDENT = HERE / "student"
 OUT_KEYS = HERE / "keys"
+# Standard SAT Math directions + reference (same wording/layout on every official booklet).
+OFFICIAL_DIRECTIONS = HERE.parents[2] / "tests/sat-practice-test-4-digital.pdf"
+DIRECTIONS_PAGE_INDEXES = (31, 32)  # 1-based pages 32–33
 
 SEED = 20260826
 FULL_SIZE = 22
@@ -248,60 +251,73 @@ def build_roster(bank: dict[str, list[dict]]) -> list[dict]:
     return modules
 
 
-def stamp_question_number(page, n: int, module_label: str):
-    """Overlay 'Module XX · Question N' in the top margin."""
+def _html_y_to_pdf(y_from_top: float, page_h: float = 792.0) -> float:
+    return page_h - y_from_top
+
+
+def _overlay_pdf(page, draw) -> None:
+    buf = HERE / f".overlay-{id(page)}.pdf"
     box = page.mediabox
-    width = float(box.width)
-    height = float(box.height)
-    buf = HERE / f".stamp-{module_label}-{n:02d}.pdf"
-    c = canvas.Canvas(str(buf), pagesize=(width, height))
-    c.setFillColorRGB(0.12, 0.12, 0.12)
-    c.setFont("Times-Bold", 12)
-    c.drawString(36, height - 28, f"Module {module_label}   ·   Question {n}")
-    c.setFont("Times-Roman", 9)
-    c.drawRightString(width - 36, height - 28, "Suite Hard  ·  no calculator ban")
+    c = canvas.Canvas(str(buf), pagesize=(float(box.width), float(box.height)))
+    draw(c, float(box.width), float(box.height))
     c.save()
-    overlay = PdfReader(str(buf)).pages[0]
-    page.merge_page(overlay)
+    page.merge_page(PdfReader(str(buf)).pages[0])
     buf.unlink(missing_ok=True)
 
 
-def make_cover(path: Path, module: dict) -> None:
-    c = canvas.Canvas(str(path), pagesize=letter)
-    w, h = letter
-    c.setFont("Times-Bold", 22)
-    c.drawString(0.9 * inch, h - 1.3 * inch, f"Suite Hard  ·  Simulation Module {module['label']}")
-    c.setFont("Times-Roman", 13)
+def official_directions_pages(module: dict) -> list:
+    """Official SAT Math directions + reference, with this module's count."""
+    if not OFFICIAL_DIRECTIONS.exists():
+        raise SystemExit(f"missing official directions: {OFFICIAL_DIRECTIONS}")
+    src = PdfReader(str(OFFICIAL_DIRECTIONS))
     n = len(module["items"])
-    y = h - 1.85 * inch
-    lines = [
-        f"{n} questions   ·   {module['minutes']} minutes   ·   official SAT Math Hard",
-        "Exclude-active: these items are not on current Bluebook full-length tests.",
-        "All items are Hard. This is not an adaptive Module 1. It is harder than test day.",
-        "Calculator / Desmos is allowed on every item, same as Bluebook.",
-        "Question 1 is the first page after this cover. Write answers on the last page.",
-        "***Read the prompt carefully.*** Write the job on scratch before you copy numbers.",
-        "",
-        "Domain mix in this module:",
-    ]
-    for line in lines:
-        c.drawString(0.9 * inch, y, line)
-        y -= 20
-    quota = module["quota"]
-    for domain in ("Algebra", "Advanced Math", "PSDA", "Geometry"):
-        c.drawString(1.15 * inch, y, f"{domain}:  {quota.get(domain, 0)}")
-        y -= 18
-    c.setFont("Times-Italic", 11)
-    c.drawString(0.9 * inch, 0.85 * inch, "Do not open the next module until this one is timed and scored.")
-    c.save()
+    mod_n = str(module["id"])
+    pages = []
+
+    def patch_count(c, w, h):
+        # Official booklet says "27 QUESTIONS". Cover just that number.
+        x0, x1 = 124.0, 146.0
+        y0, y1 = _html_y_to_pdf(161.2), _html_y_to_pdf(141.8)
+        c.setFillColorRGB(1, 1, 1)
+        c.rect(x0, y0, x1 - x0, y1 - y0, fill=1, stroke=0)
+        c.setFillColorRGB(0, 0, 0)
+        c.setFont("Helvetica-Bold", 13)
+        label = str(n)
+        c.drawCentredString((x0 + x1) / 2, y0 + 4, label)
+
+    def patch_module(c, w, h, x_center: float):
+        # Official header "Module / 1" — write this module number.
+        c.setFillColorRGB(0.82, 0.82, 0.82)  # match the gray header pill
+        c.rect(x_center - 14, _html_y_to_pdf(65.0), 28, 26, fill=1, stroke=0)
+        c.setFillColorRGB(0, 0, 0)
+        c.setFont("Helvetica-Bold", 16 if len(mod_n) == 1 else 13)
+        c.drawCentredString(x_center, _html_y_to_pdf(61.5), mod_n)
+
+    for i, idx in enumerate(DIRECTIONS_PAGE_INDEXES):
+        tmp = PdfWriter()
+        tmp.add_page(src.pages[idx])
+        page = tmp.pages[0]
+        first = i == 0
+        needs_overlay = first or module["id"] != 1
+        if needs_overlay:
+
+            def draw(c, w, h, first=first):
+                if first:
+                    patch_count(c, w, h)
+                if module["id"] != 1:
+                    patch_module(c, w, h, 297.4 if first else 315.4)
+
+            _overlay_pdf(page, draw)
+        pages.append(page)
+    return pages
 
 
 def make_answer_sheet(path: Path, module: dict) -> None:
     c = canvas.Canvas(str(path), pagesize=letter)
     w, h = letter
-    c.setFont("Times-Bold", 16)
-    c.drawString(0.9 * inch, h - 0.9 * inch, f"Module {module['label']}  ·  answer sheet")
-    c.setFont("Times-Roman", 11)
+    c.setFont("Helvetica-Bold", 16)
+    c.drawString(0.9 * inch, h - 0.9 * inch, f"Math  ·  Module {module['id']}  ·  Answers")
+    c.setFont("Helvetica", 11)
     c.drawString(0.9 * inch, h - 1.15 * inch, "Write one answer per line. SPR: integer, decimal, or fraction.")
     n = len(module["items"])
     split = (n + 1) // 2 if n > 11 else n
@@ -324,27 +340,21 @@ def make_answer_sheet(path: Path, module: dict) -> None:
 
 def write_module_pdf(module: dict, readers: dict[str, PdfReader]) -> Path:
     OUT_STUDENT.mkdir(parents=True, exist_ok=True)
-    cover_path = HERE / f".cover-{module['label']}.pdf"
     sheet_path = HERE / f".sheet-{module['label']}.pdf"
-    make_cover(cover_path, module)
     make_answer_sheet(sheet_path, module)
 
     writer = PdfWriter()
-    writer.add_page(PdfReader(str(cover_path)).pages[0])
-    for i, item in enumerate(module["items"], start=1):
-        page = readers[item["domain"]].pages[item["source_n"] - 1]
-        # clone via a one-page writer so we do not mutate the source reader
+    for page in official_directions_pages(module):
+        writer.add_page(page)
+    for item in module["items"]:
         tmp = PdfWriter()
-        tmp.add_page(page)
-        cloned = tmp.pages[0]
-        stamp_question_number(cloned, i, module["label"])
-        writer.add_page(cloned)
+        tmp.add_page(readers[item["domain"]].pages[item["source_n"] - 1])
+        writer.add_page(tmp.pages[0])
     writer.add_page(PdfReader(str(sheet_path)).pages[0])
 
     out = OUT_STUDENT / f"module-{module['label']}.pdf"
     with out.open("wb") as f:
         writer.write(f)
-    cover_path.unlink(missing_ok=True)
     sheet_path.unlink(missing_ok=True)
     return out
 
@@ -405,7 +415,7 @@ def write_master_key(modules: list[dict]) -> Path:
         "",
         "## How to sit",
         "",
-        "1. Print [`student/module-01.pdf`](student/module-01.pdf) (cover + 22 items + answer sheet).",
+        "1. Print [`student/module-01.pdf`](student/module-01.pdf). Pages 1–2 are the official SAT Math directions + reference. Question 1 starts on page 3 (College Board page, no overlay). Last page is the answer sheet.",
         "2. 35 minutes, no pausing. Then score from the matching key.",
         "3. Log misses by **module # + item #** (and domain). Do not restack a clean domain.",
         "4. Next unused official Bluebook sit is still **4, 6, 7, 8, or 10** — these modules do not replace that.",
@@ -455,7 +465,7 @@ def verify(modules: list[dict], bank: dict[str, list[dict]]) -> None:
     for m in modules:
         pdf = OUT_STUDENT / f"module-{m['label']}.pdf"
         reader = PdfReader(str(pdf))
-        expected_pages = 1 + len(m["items"]) + 1
+        expected_pages = 2 + len(m["items"]) + 1  # official directions + items + answer sheet
         if len(reader.pages) != expected_pages:
             raise SystemExit(f"module {m['label']}: {len(reader.pages)} pages, expected {expected_pages}")
         if len(set(it["domain"] for it in m["items"])) < (4 if m["kind"] == "full" else 3):
