@@ -31,5 +31,5 @@ A 5/5/6/6 split is not possible: PSDA only has **66** Hard items (that split wou
 1. Print [`student/module-01.pdf`](student/module-01.pdf). Pages 1–2 are the official SAT Math directions + reference. Question 1 starts on page 3; each item has **Question N of 22** above the official page.
 2. 35 minutes, no pausing. Score from the matching key in [`keys/`](keys/) — do not put answers in the student PDF.
 3. Log misses by **module # + item #** (and domain). Do not restack a clean domain.
-4. Next unused official Bluebook sit is still **4, 6, 7, 8, or 10** — these modules do not replace that.
+4. Next unused official Bluebook sit is **6, 7, 8, or 10** (4 is used) — these modules do not replace that.
 
