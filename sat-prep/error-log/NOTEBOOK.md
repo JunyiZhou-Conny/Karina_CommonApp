@@ -4,9 +4,9 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her (current homework):** [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) (notes + 38 questions; **no key in the file**)  
-**Your key:** [`targeted-set-03-key.md`](targeted-set-03-key.md)
+**Print for her:** Set 03 is locked. Next unused official sit is Bluebook **4, 6, 7, 8, or 10**. Do not restack the Test 9 families that just cleaned.
 
+Set 03 (done): [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) · [`targeted-set-03-key.md`](targeted-set-03-key.md)  
 Set 02 (done): [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) · [`targeted-set-02-key.md`](targeted-set-02-key.md)  
 Set 01 (done): [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) · [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
@@ -26,7 +26,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K4** | Tangent to a circle is **perpendicular to the radius** at the contact point. | Test 5 M2 #26; Set 01 ordinary-slope items clean | 🟩 ordinary case clean |
 | **K5** | Perpendicular slopes: \(m_1 m_2 = -1\). Horizontal tangent (slope 0) is landing. Vertical-line case is K7. | Test 5 M2 #26; Set 01 #11, #17; Set 02 #4 clean | 🟩 horizontal case clean |
 | **K6** | Combo: circle \(\rightarrow\) center \(\rightarrow\) radius slope \(\rightarrow\) tangent slope \(\rightarrow\) point-slope at \(P\) \(\rightarrow\) test a point. | Test 5 M2 #26; Set 01 #8, #9, #21–#23 clean | 🟩 ordinary combo clean |
-| **K7** | **A vertical line has undefined slope.** That is the leftover. Horizontal / parallel to the x-axis = 0 is landing. When the tangent is vertical (same \(y\) on center and contact point, or “radius ∥ x-axis”), she still writes **0** instead of **undefined**. | Set 02 **#17, #23, #29** (instructor call). #6 / #7 she did hit. | 🟨 still — vertical only |
+| **K7** | **A vertical line has undefined slope.** Horizontal = 0 is landing. | Set 02 **#17, #23, #29** wrote 0. **Set 03 #24 undefined and #29 slope 0 both clean** | 🟩 Set 03 clean |
 | **K8** | Right-triangle trig: from the **named angle**, mark opposite / adjacent / hypotenuse, then isolate the side they asked for. sin vs cos is a side-label, not a guess. | Test 11 M1 #19; Set 02 #8, #9, #24 clean | 🟩 Set 02 clean |
 | **K9** | Altitude-to-hypotenuse / similar right triangles: tan (or sin/cos) is a **ratio of the two given lengths**. Ugly numbers cancel. Do **not** Pythagorean a giant hypotenuse. | Test 11 M2 #26; Set 02 #10, #18, #30 clean | 🟩 Set 02 clean |
 | **K10** | Messy-data estimate: read a graph intercept approximately, compute, pick **closest**. Tolerate ambiguity. Trap = the other variable’s value. | Test 11 M2 #19; Set 02 #11, #19 clean | 🟩 Set 02 clean |
@@ -34,16 +34,16 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. | Test 11 M2 #27; Set 02 #13, #21 clean | 🟩 Set 02 clean |
 | **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 M1 #24; Set 02 #14, #25 clean | 🟩 Set 02 clean |
 | **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 M1 #23; Set 02 #15 clean | 🟩 Set 02 clean |
-| **K15** | “Equivalent form that **displays** a feature as a constant or coefficient” (vertex / intercept). Set 02 vertex item landed; Test 9 M2 #26 (y-intercept display) missed. | Test 11 M2 #22; Set 02 #27 clean; **Test 9 M2 #26**; Set 03 #4, #13, #22, #28 | 🟨 reopen |
-| **K16** | Frequency table: read which column they asked for. **Maximum data value** = largest value that occurs. **Maximum frequency** = largest count. Do **not** multiply value \(\times\) frequency. Frequency 0 means that value is not in the set. | Test 9 M1 #14 (she wrote \(11\times 11=121\)); Set 03 #1, #18 data value; **#7 frequency** | 🟨 new |
-| **K17** | Radical equation, “**smallest** solution”: square **both** sides, then check. A domain leftover (\(x\ge 2\)) is not the answer. \(\sqrt{(x-h)^2}=\|x-h\|\), not “so \(x=h\).” | Test 9 M1 #21 (she entered **2**); Set 03 #3, #6, #9, #12, #15, #19, #23 | 🟨 new |
-| **K18** | “**By how many**” after a sample: scale to the full group, **then subtract**. Trap = sample gap or the winner’s scaled total. | Test 9 M1 #26; Set 03 #2, #5, #11, #16, #21, #26, #30 | 🟨 new |
-| **K19** | Similar solids: \(k^2=\mathrm{SA}_\text{large}/\mathrm{SA}_\text{small}\) as **one** fraction, then \(k=\sqrt{\text{that}}\). Volumes with \(k^3\). Do not \(\sqrt{\mathrm{SA}}\) each area separately (decimal spray). | Test 9 M1 #27; Set 03 #8, #14, #20, #25 | 🟨 new |
-| **K20** | Adding rationals: common denominator, then expand. Do **not** cancel a shared factor before you add — you need it, and the original is undefined when that factor is 0. | Test 9 M2 #25; Set 03 #10, #17, #27 | 🟨 new |
-| **K21** | Markup / **margin**: retail \(=\text{cost}\times(1+\frac{p}{100})\). The margin is the **increase**, \(\text{cost}\times\frac{p}{100}\), not the new price. | Set 03 #31, #35 (tail) | ⬜ watch |
-| **K22** | Scatterplot association + line of best fit. Rising cloud = positive; falling = negative. Predict by plugging into the fit line. | Set 03 #32, #36 (tail) | ⬜ watch |
-| **K23** | Sum of solutions of \(ax^2+bx+c=0\) is \(-\frac{b}{a}\). Do not solve for each root. | Set 03 #33, #37 (tail) | ⬜ watch |
-| **K24** | **Lateral faces** = faces that are not the bases. Rectangular prism: 4. Triangular prism: 3. Trap = counting every face. | Set 03 #34, #38 (tail) | ⬜ watch |
+| **K15** | “Equivalent form that **displays** a feature as a constant or coefficient” (vertex / intercept). | Test 11 M2 #22; Set 02 #27; Test 9 M2 #26 miss; **Set 03 #4, #13, #22, #28 all clean** | 🟩 Set 03 clean |
+| **K16** | Frequency table: read which column they asked for. Max **data value** landed. Max **frequency** she still read as the data-value column. | Test 9 M1 #14; Set 03 #1, #18 clean; **#7 wrote B (40)** | 🟨 frequency column only |
+| **K17** | Radical, “smallest solution”: square both sides, then check. | Test 9 M1 #21; **Set 03 #3, #6, #9, #12, #15, #19, #23 all clean** | 🟩 Set 03 clean |
+| **K18** | “**By how many**”: scale, then subtract. | Test 9 M1 #26; **Set 03 #2, #5, #11, #16, #21, #26, #30 all clean** | 🟩 Set 03 clean |
+| **K19** | Similar solids: \(k^2=\) one fraction, then \(k=\sqrt{\text{that}}\). Volumes with \(k^3\). | Test 9 M1 #27; **Set 03 #8, #14, #20, #25 all clean** | 🟩 Set 03 clean |
+| **K20** | Adding rationals: keep the shared factor, common denom, expand. | Test 9 M2 #25; **Set 03 #10, #17, #27 all clean** | 🟩 Set 03 clean |
+| **K21** | Markup / **margin**: retail \(=\text{cost}\times(1+\frac{p}{100})\). Margin is the increase. | Set 03 #31, #35 both clean | 🟩 Set 03 clean |
+| **K22** | Scatterplot: falling points = **negative** association. Line of best fit predict is landing. | Set 03 #36 clean; **#32 wrote C** (no association) | 🟨 association word |
+| **K23** | Sum of solutions of \(ax^2+bx+c=0\) is \(-\frac{b}{a}\). She is getting the **absolute value** / flipping the sign. | Set 03 **#33 wrote −4** (key 4); **#37 wrote 5** (key −5) | 🟨 sign of \(-\frac{b}{a}\) |
+| **K24** | **Lateral faces** = not the bases. Rectangular prism 4 landed. Triangular prism is 3. | Set 03 #34 clean; **#38 wrote 4** (key 3) | 🟨 triangular only |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -369,8 +369,24 @@ Instructor-written originals. Do not mine Tests 1–11. **Skip** Test 9 M1 #7 (p
 - **K7 leftover** — #24 undefined, #29 slope 0.
 - **Tail** — markup #31 / margin #35; scatter #32 / fit #36; sum of roots #33 / #37; lateral #34 / #38.
 
+### 2026-08-24 — Targeted Set 03 result
+
+**33/38.** Missed **#7, #32, #33, #37, #38**.
+
+| Item | Her answer | Key | One-line why |
+|---|---|---|---|
+| **#7** | **B, 40** | **A, 20** | Asked for max **frequency**. 40 is the max data value. |
+| **#32** | **C** | **B** | Falling scatter is a **negative** linear association, not “none.” |
+| **#33** | **−4** | **4** | Sum \(=-\frac{b}{a}=\frac{12}{3}=4\). She flipped the sign. |
+| **#37** | **5** | **−5** | Same leak: \(-\frac{10}{2}=-5\). She added the quadratic-formula roots and dropped the minus. |
+| **#38** | **4** | **3** | Triangular prism: 3 lateral faces. 4 is the rectangular count. |
+
+This week’s Test 9 families all landed: radicals, “by how many,” similar solids, keep-the-factor rationals, displays, K7, markup/margin. Do **not** restack those.
+
+Leftover: frequency **column** (#7), scatter **direction** (#32), sign of \(-\frac{b}{a}\) (#33 / #37), triangular lateral faces (#38).
+
 ---
 
 ## Next sitting
 
-Send Set 03. Test 9 is locked: raw **44**, **630–690**. After she returns Set 03, next unused official sit is still Tests 1–4, 6–8, 10 — prefer **Bluebook** so the 22-question module and the screen → scratch job line are trained.
+Set 03 is locked: **33/38**. Next unused official sit: Bluebook **4, 6, 7, 8, or 10** (not 5 / 9 / 11). Paper Tests 1–3 are 54-question booklets only.

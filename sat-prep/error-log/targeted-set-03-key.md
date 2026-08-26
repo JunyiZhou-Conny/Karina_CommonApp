@@ -4,6 +4,8 @@ Do **not** give this page to Karina. Send her [`../print/TARGETED-SET-03.pdf`](.
 
 Shuffled again so same-type items are not stacked.
 
+**2026-08-24 result:** **33/38**. Missed **#7 (B, key A), #32 (C, key B), #33 (−4, key 4), #37 (5, key −5), #38 (4, key 3).**
+
 | # | Answer | Gap | Why / her likely trap |
 |---|---|---|---|
 | 1 | **9** | K16 | Largest data value that occurs. Frequency 0 kills 7. Trap: \(12\) (mode), \(9\times 11=99\). |
