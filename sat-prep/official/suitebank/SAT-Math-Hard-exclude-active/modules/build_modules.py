@@ -15,8 +15,6 @@ from collections import Counter
 from pathlib import Path
 
 from pypdf import PdfReader, PdfWriter, Transformation
-from reportlab.lib.pagesizes import letter
-from reportlab.lib.units import inch
 from reportlab.pdfgen import canvas
 
 HERE = Path(__file__).resolve().parent
@@ -311,32 +309,6 @@ def official_directions_pages(module: dict) -> list:
     return pages
 
 
-def make_answer_sheet(path: Path, module: dict) -> None:
-    c = canvas.Canvas(str(path), pagesize=letter)
-    w, h = letter
-    c.setFont("Helvetica-Bold", 16)
-    c.drawString(0.9 * inch, h - 0.9 * inch, f"Math  ·  Module {module['id']}  ·  Answers")
-    c.setFont("Helvetica", 11)
-    c.drawString(0.9 * inch, h - 1.15 * inch, "Write one answer per line. SPR: integer, decimal, or fraction.")
-    n = len(module["items"])
-    split = (n + 1) // 2 if n > 11 else n
-    c.setStrokeColorRGB(0.4, 0.4, 0.4)
-    y = h - 1.55 * inch
-    for i in range(1, split + 1):
-        c.setFont("Times-Bold", 12)
-        c.drawString(1.0 * inch, y, f"{i:2d}.")
-        c.line(1.45 * inch, y - 2, 4.6 * inch, y - 2)
-        y -= 28
-    if n > split:
-        y = h - 1.55 * inch
-        for i in range(split + 1, n + 1):
-            c.setFont("Times-Bold", 12)
-            c.drawString(5.3 * inch, y, f"{i:2d}.")
-            c.line(5.75 * inch, y - 2, 7.6 * inch, y - 2)
-            y -= 28
-    c.save()
-
-
 QUESTION_BAR = 34
 
 
@@ -371,9 +343,6 @@ def labeled_question_page(src_page, n: int, total: int, module_id: int):
 
 def write_module_pdf(module: dict, readers: dict[str, PdfReader]) -> Path:
     OUT_STUDENT.mkdir(parents=True, exist_ok=True)
-    sheet_path = HERE / f".sheet-{module['label']}.pdf"
-    make_answer_sheet(sheet_path, module)
-
     writer = PdfWriter()
     for page in official_directions_pages(module):
         writer.add_page(page)
@@ -387,12 +356,9 @@ def write_module_pdf(module: dict, readers: dict[str, PdfReader]) -> Path:
                 module["id"],
             )
         )
-    writer.add_page(PdfReader(str(sheet_path)).pages[0])
-
     out = OUT_STUDENT / f"module-{module['label']}.pdf"
     with out.open("wb") as f:
         writer.write(f)
-    sheet_path.unlink(missing_ok=True)
     return out
 
 
@@ -452,8 +418,8 @@ def write_master_key(modules: list[dict]) -> Path:
         "",
         "## How to sit",
         "",
-        "1. Print [`student/module-01.pdf`](student/module-01.pdf). Pages 1–2 are the official SAT Math directions + reference. Question 1 starts on page 3; each item has **Question N of 22** in a bar above the official page (Question ID stays visible). Last page is the answer sheet.",
-        "2. 35 minutes, no pausing. Then score from the matching key.",
+        "1. Print [`student/module-01.pdf`](student/module-01.pdf). Pages 1–2 are the official SAT Math directions + reference. Question 1 starts on page 3; each item has **Question N of 22** above the official page.",
+        "2. 35 minutes, no pausing. Score from the matching key in [`keys/`](keys/) — do not put answers in the student PDF.",
         "3. Log misses by **module # + item #** (and domain). Do not restack a clean domain.",
         "4. Next unused official Bluebook sit is still **4, 6, 7, 8, or 10** — these modules do not replace that.",
         "",
@@ -502,7 +468,7 @@ def verify(modules: list[dict], bank: dict[str, list[dict]]) -> None:
     for m in modules:
         pdf = OUT_STUDENT / f"module-{m['label']}.pdf"
         reader = PdfReader(str(pdf))
-        expected_pages = 2 + len(m["items"]) + 1  # official directions + items + answer sheet
+        expected_pages = 2 + len(m["items"])  # official directions + items
         if len(reader.pages) != expected_pages:
             raise SystemExit(f"module {m['label']}: {len(reader.pages)} pages, expected {expected_pages}")
         if len(set(it["domain"] for it in m["items"])) < (4 if m["kind"] == "full" else 3):
