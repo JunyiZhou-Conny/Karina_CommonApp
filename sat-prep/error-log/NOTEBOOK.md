@@ -4,8 +4,9 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** Set 03 is locked. Next unused official sit is Bluebook **6, 7, 8, or 10**. Hard-volume modules (optional, after or beside that sit): [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-01.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-01.pdf). Your keys: [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md). Do not restack the Test 9 families that just cleaned. Do **not** re-sit Bluebook 4 / 5 / 9 / 11.
+**Print for her:** [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) — 10 items, K3 both directions (no key). Then a Suite Hard module if you want volume the same day. Next unused official sit is Bluebook **6, 7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 9 / 11.
 
+Set 04 (ready): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
 Set 03 (done): [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) · [`targeted-set-03-key.md`](targeted-set-03-key.md)  
 Set 02 (done): [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) · [`targeted-set-02-key.md`](targeted-set-02-key.md)  
 Set 01 (done): [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) · [`targeted-set-01-key.md`](targeted-set-01-key.md)
@@ -410,6 +411,20 @@ Leftover: frequency **column** (#7), scatter **direction** (#32), sign of \(-\fr
 
 ---
 
+## Targeted Set 04 — written (10 items)
+
+Homework file: [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf). Instructor key: [`targeted-set-04-key.md`](targeted-set-04-key.md).
+
+Instructor-written originals. Do not mine Tests 1–11. **K3 only**, both directions. Set 01 already cleaned “find the months.” This set hides the other piece:
+
+- Find \(n\%\) from the base (Bluebook 4 direction): #1, #6, #9, #10
+- Hide \(k\) / the exponent (the rewrite): #2, #5, #7
+- Find months, including \(t\) already in months: #3, #8
+- Decay base \(<1\): #4
+- Unsimplified exponent \(t/0.75\): #10
+
+---
+
 ## Suite Hard simulation modules (340)
 
 Official exclude-active Hard items, shuffled into **15 × 22** (35 min) plus a 10-item remainder. Mixed domains in every module. Student PDFs have no answers.
@@ -443,4 +458,4 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22**. Next unused official sit: Bluebook **6, 7, 8, or 10** (not 4 / 5 / 9 / 11). Paper Tests 1–3 are 54-question booklets only. Hard-volume track: Suite modules 01–16. Next originals, if any: **K3 reverse**, **K25**, **K26**, **K27** — plus leftover K16 / K22 / K23 / K24 from Set 03.
+Bluebook 4 is locked: **22/22 + 18/22**. **Set 04** is the K3 drill (10 originals). Suite Hard module is fine the same day — do not restack this family there unless it reappears. Next unused official sit: Bluebook **6, 7, 8, or 10** (not 4 / 5 / 9 / 11). Leftover from Set 03 still open: K16 / K22 / K23 / K24. Test 4 also opened **K25 / K26 / K27** (not in Set 04).
