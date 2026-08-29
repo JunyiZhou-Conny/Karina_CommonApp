@@ -4,15 +4,16 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** Set 03 is locked. Next unused official sit is Bluebook **4, 6, 7, 8, or 10**. Hard-volume modules (optional, after or beside that sit): [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-01.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-01.pdf). Your keys: [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md). Do not restack the Test 9 families that just cleaned.
+**Print for her:** [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) — 10 items covering all four Bluebook 4 misses (no key). Then a Suite Hard module if you want volume the same day. Next unused official sit is Bluebook **6, 7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 9 / 11.
 
+Set 04 (ready): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
 Set 03 (done): [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) · [`targeted-set-03-key.md`](targeted-set-03-key.md)  
 Set 02 (done): [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) · [`targeted-set-02-key.md`](targeted-set-02-key.md)  
 Set 01 (done): [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) · [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
 Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27; Test 11 Module 1 was 23/27. That band is already warm.
 
-**Today’s scorecard:** [`TEST-11-REPORT.md`](TEST-11-REPORT.md)
+**Today’s scorecard:** [`TEST-4-REPORT.md`](TEST-4-REPORT.md) (Bluebook, 8/26). Paper sits: [`TEST-11-REPORT.md`](TEST-11-REPORT.md).
 
 ---
 
@@ -22,7 +23,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 |---|---|---|---|
 | **K1** | Successive percent = **multiply** growth factors. Do **not** add the percents. Do **not** add the starting amount back after you multiply. Final = \(\text{start}\times(1+r)^n\), never \(\text{start}\times(1+r)^n+\text{start}\). That last add-on is an **overestimate**. | Desk B14 / C4 / C6; Test 5; Set 01 #4, #20; **Set 02 #1–#3, #16, #22, #28 all clean** | 🟩 Set 02 clean |
 | **K2** | “Increase \(x\) by \(p\%\)” means \(x(1+\frac{p}{100})\), not \(x\cdot\frac{p}{100}\). Increase by 400% is \(\times 5\). | Test 5 M1 #25; Set 01 #3 clean | 🟩 Set 01 clean |
-| **K3** | Exponential model period: if \(P(t)=A(1+r)^{kt}\), there are \(k\) growth cycles per 1 unit of \(t\). Convert that period into months when the question asks for \(n\) months. | Test 5 M2 #25; Set 01 #5, #6 clean | 🟩 Set 01 clean |
+| **K3** | Exponential period is **bidirectional**. \(P(t)=A(1+r)^{kt}\): one cycle when \(kt=1\), so \(t=1/k\). SAT can hide **months** (Test 5) or hide **percent** (Bluebook 4). The written coefficient and the period are reciprocals. Do not grab the leftover number in the fraction. | Test 5 M2 #25 (find months); Set 01 #5, #6 clean on that direction; **Bluebook 4 M2 #10 find \(n\%\)** | 🟨 reverse unknown (find %) |
 | **K4** | Tangent to a circle is **perpendicular to the radius** at the contact point. | Test 5 M2 #26; Set 01 ordinary-slope items clean | 🟩 ordinary case clean |
 | **K5** | Perpendicular slopes: \(m_1 m_2 = -1\). Horizontal tangent (slope 0) is landing. Vertical-line case is K7. | Test 5 M2 #26; Set 01 #11, #17; Set 02 #4 clean | 🟩 horizontal case clean |
 | **K6** | Combo: circle \(\rightarrow\) center \(\rightarrow\) radius slope \(\rightarrow\) tangent slope \(\rightarrow\) point-slope at \(P\) \(\rightarrow\) test a point. | Test 5 M2 #26; Set 01 #8, #9, #21–#23 clean | 🟩 ordinary combo clean |
@@ -43,7 +44,10 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K21** | Markup / **margin**: retail \(=\text{cost}\times(1+\frac{p}{100})\). Margin is the increase. | Set 03 #31, #35 both clean | 🟩 Set 03 clean |
 | **K22** | Scatterplot: falling points = **negative** association. Line of best fit predict is landing. | Set 03 #36 clean; **#32 wrote C** (no association) | 🟨 association word |
 | **K23** | Sum of solutions of \(ax^2+bx+c=0\) is \(-\frac{b}{a}\). She is getting the **absolute value** / flipping the sign. | Set 03 **#33 wrote −4** (key 4); **#37 wrote 5** (key −5) | 🟨 sign of \(-\frac{b}{a}\) |
-| **K24** | **Lateral faces** = not the bases. Rectangular prism 4 landed. Triangular prism is 3. | Set 03 #34 clean; **#38 wrote 4** (key 3) | 🟨 triangular only |
+| **K24** | **Lateral faces** = not the bases. Rectangular prism 4 landed. Triangular prism is 3. | Set 03 #34 clean; **#38 wrote 4** (key 3). Bluebook 4 M2 #21 glued-prism surface area **clean** | 🟨 triangular only (SA combo landed) |
+| **K25** | Add a constant to every data value: **center moves** (mean, median, quartiles), **spread stays** (range, IQR, SD). | Bluebook 4 M2 **#17** | 🟨 shift vs spread |
+| **K26** | Rational \(f(x)=\frac{a}{x+b}\): asymptote gives \(b\), one point gives \(a\). Then \(g(x)=f(x+h)\) **replaces** \(x\). Stopping at recovered \(f\) is the trap. | Bluebook 4 M2 **#18** | 🟨 recover, then shift |
+| **K27** | \(a+b+c=f(1)\). Write vertex form, plug \(x=1\). Two \(x\)-intercepts + vertex below the axis \(\Rightarrow a>0\), so \(f(1)\) is on the correct side of the vertex \(y\). | Bluebook 4 M2 **#22** | 🟨 \(f(1)\) + sign of \(a\) |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -205,11 +209,13 @@ M2 jumped (21–22 → **24**). M1 slipped (24 → 20), mostly read-the-stem ite
 - Increase by 400% = add four copies of \(x\) = \(\times 5\).
 - “400% **of** \(x\)” is the other sentence (\(\times 4\)). SAT uses both.
 
-### Exponential period (K3)
+### Exponential period (K3) — both directions
 
-- \(A(1+r)^{kt}\) completes \(k\) growth cycles in one year if \(t\) is in years.
-- Months per cycle = \(12/k\).
-- Example: exponent \(1.5t\) \(\Rightarrow\) 1.5 cycles/year \(\Rightarrow\) one cycle every 8 months.
+- \(A(1+r)^{kt}\) completes one cycle when \(kt=1\), i.e. after \(t=1/k\) years.
+- Months per cycle = \(12/k\). Example: exponent \(1.5t\) \(\Rightarrow\) one cycle every 8 months (Test 5 direction: they give \(r\), you find months).
+- Reverse (Bluebook 4): they give the period in months, you find \(n\) from the **base**. \(1.04\) means \(n=4\), not \(1.04\), not the leftover integer in the fraction.
+- The coefficient of \(t\) and the period in years are **reciprocals**. If the exponent is \(\frac{2}{3}t\) (same as \(\frac{4}{6}t\)), one cycle is \(\frac{3}{2}=1.5\) years = 18 months.
+- Future original, same family: hide \(k\), give “increases \(r\%\) every 18 months,” ask for the exponent. Or change the base / write \(t\) in months.
 
 ### Tangent + perpendicular (K4–K6)
 
@@ -263,6 +269,24 @@ Desk Math Notes already had “perpendicular = negative reciprocal” and “\((
 - Two lines \(\Rightarrow\) two pairs of verticals, adjacent pairs = 180°.
 - Three possible sums: two equals, two supplements, or 180°.
 - “Could NOT” means find the expression that is not one of those three.
+
+### Shift vs spread (K25)
+
+- Add (or subtract) the same number to every value: mean, median, and quartiles **move** by that number.
+- Range, IQR, and SD **do not** move. The list is just translated.
+- Bluebook 4 asked median and **range**, not mean. Mean would also have increased; that is not what the choices compared.
+
+### Recover, then shift (K26)
+
+- \(f(x)=\frac{a}{x+b}\): vertical asymptote \(x=-b\), then one grid point for \(a\).
+- \(g(x)=f(x+h)\) means replace \(x\) by \(x+h\). That is a horizontal shift (left if \(h>0\)).
+- Trap 1: report \(f\) and stop. Trap 2: move the asymptote to the \(y\)-axis and call that \(g\).
+
+### \(a+b+c=f(1)\) (K27)
+
+- \(a+b+c\) is the \(y\)-value at \(x=1\), not a sum of roots.
+- Vertex form, plug \(x=1\). Then use the picture to sign \(a\): two \(x\)-intercepts and a vertex below the axis \(\Rightarrow\) opens up \(\Rightarrow a>0\).
+- Product of roots \(c/a\) (Bluebook 4 #19) is a different sentence and she landed it.
 
 ### Screen → scratch (Test 9 M1 cluster)
 
@@ -320,7 +344,7 @@ She **cannot** bring her own highlighter, colored pencils, or paper. The center 
 
 ## Official hard #24–#27 (search result)
 
-There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5, 9, and 11. **Still unused:** Tests 1–4, 6–8, 10.
+There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5, 9, and 11 (paper 27+27) and Bluebook **4** (22+22). **Still unused:** Bluebook **6, 7, 8, 10**. Paper-only leftovers: Tests 1–3. Paper Test 4 booklet exists; its 27+27 numbering is **not** the Bluebook review. Do not re-sit 4.
 
 Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuitequestionbank.collegeboard.org/). Third-party “real SAT leak” PDFs are not a source we will copy. Details: [`../resources.md`](../resources.md).
 
@@ -387,16 +411,50 @@ Leftover: frequency **column** (#7), scatter **direction** (#32), sign of \(-\fr
 
 ---
 
+## Targeted Set 04 — written (10 items)
+
+Homework file: [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf). Instructor key: [`targeted-set-04-key.md`](targeted-set-04-key.md).
+
+Instructor-written originals. Do not mine Tests 1–11. Covers **all four Bluebook 4 Module 2 misses**:
+
+- **K3** exponential period (4): find \(n\%\) #1, hide \(k\) #4 / #6, unsimplified exponent #10
+- **K25** data-set shift (1): median and range #2
+- **K26** recover rational, then shift (2): #5, #8
+- Parabola (3): vertex / \(f(1)\) #3, product of roots #7, \(sp\) (sum \(\times\) product) #9
+
+---
+
 ## Suite Hard simulation modules (340)
 
 Official exclude-active Hard items, shuffled into **15 × 22** (35 min) plus a 10-item remainder. Mixed domains in every module. Student PDFs have no answers.
 
 Index: [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md).
 
-These are **all Hard** and not adaptive. They do **not** replace unused Bluebook sits (4 / 6 / 7 / 8 / 10). Log misses as module + item + domain.
+These are **all Hard** and not adaptive. They do **not** replace unused Bluebook sits (**6 / 7 / 8 / 10**). Log misses as module + item + domain.
+
+---
+
+### 2026-08-26 — Bluebook Practice Test 4 Math
+
+**Score:** Module 1 **22/22**, Module 2 **18/22** → raw **40/44**. First real 44-question adaptive sit. Perfect M1 routed her to **hard** M2. Do **not** convert with paper Test 4 / 5 / 9 / 11 tables. Read the in-app Math section score (200–800) from Bluebook.
+
+My Practice header 40/98 + 58 incorrect is the **full exam** (54 RW + 44 Math). It is consistent with 40 Math correct and RW blank or all wrong. Do not mix that header with the Math 40/44.
+
+Misses (all Module 2): **#10, #17, #18, #22**. Overview filter confirms those four only.
+
+| Item | Domain | Official / key | Gap IDs | One-line why |
+|---|---|---|---|---|
+| M2 **#10** | Advanced Math | **4** | K3 | Same exponential-period family as Test 5 M2 #25, **reverse unknown**: period given (18 months), find \(n\%\) from the base \(1.04\). Traps: \(1.04\), leftover integer in the fraction, or \(1.04^{k}-1\). |
+| M2 **#17** | PSDA | **median of B > median of A; range equal** | K25 | Add a constant to every value: center moves, spread stays. Not a mean question. |
+| M2 **#18** | Advanced Math | \(g(x)=\frac{6}{x+8}\) | K26 | Recover \(f\), then apply \(g(x)=f(x+4)\). Trap = stop at \(f\) or shift the asymptote to the \(y\)-axis. Not a parabola. |
+| M2 **#22** | Advanced Math | **−12** | K27 | \(a+b+c=f(1)=64a-14\). Two \(x\)-intercepts + vertex below axis \(\Rightarrow a>0\) \(\Rightarrow f(1)>-14\). Only −12 works. |
+
+Landed on the same hard module (do not drill): **#19** product of roots \(c/a\) (Vieta product is clean; Set 03 leftover is still the **sign of the sum** \(-\frac{b}{a}\)); **#20** complete-the-square radius; **#21** two prisms glued on a square base (surface-area combo).
+
+Her selected choices were not in the screenshots. Official stems stay in Bluebook; paper Test 4 has some of the same items at **different numbers**.
 
 ---
 
 ## Next sitting
 
-Set 03 is locked: **33/38**. Next unused official sit: Bluebook **4, 6, 7, 8, or 10** (not 5 / 9 / 11). Paper Tests 1–3 are 54-question booklets only. Hard-volume track: Suite modules 01–16 when you want official Hard reps.
+Bluebook 4 is locked: **22/22 + 18/22**. **Set 04** is the 10-item drill on those four misses (plus sum-of-roots, the Set 03 leftover). Suite Hard module is fine the same day — do not restack these families there unless they reappear. Next unused official sit: Bluebook **6, 7, 8, or 10** (not 4 / 5 / 9 / 11). Set 03 leftovers still open if they miss Set 04 #9: K16 / K22 / K23 / K24.
