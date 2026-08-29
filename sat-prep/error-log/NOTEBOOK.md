@@ -49,7 +49,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K25** | Add a constant to every data value: **center moves** (mean, median, quartiles), **spread stays** (range, IQR, SD). | Bluebook 4 M2 **#17**; **Set 04 #2 clean** | 🟩 Set 04 clean |
 | **K26** | Rational \(f(x)=\frac{a}{x+b}\): asymptote gives \(b\), one point gives \(a\). Then \(g(x)=f(x+h)\) **replaces** \(x\). Stopping at recovered \(f\) is the trap. | Bluebook 4 M2 **#18**; **Set 04 #5, #8 clean** | 🟩 Set 04 clean |
 | **K27** | \(a+b+c=f(1)\). Write vertex form, plug \(x=1\). Two \(x\)-intercepts + vertex below the axis \(\Rightarrow a>0\), so \(f(1)\) is on the correct side of the vertex \(y\). | Bluebook 4 M2 **#22**; **Set 04 #3 clean** | 🟩 Set 04 clean |
-| **K28** | Conditional probability from a two-way table. Write \(P(A\mid B)=P(A\cap B)/P(B)\). Interpret \(A\), \(B\), \(A\mid B\), and \(A\cap B\) as sentences. \(P(B)\) is the \(B\) slice, not the grand total. | **Bluebook 6** grove / two-way table | 🟨 new |
+| **K28** | Conditional probability. Write \(P(A\mid B)=P(A\cap B)/P(B)\). If the stem already names \(A\) and \(B\), interpret \(A\mid B\) and \(A\cap B\) only. Grove-style items: multiply rows \(\times\) per-row counts first, then condition. \(P(B)\) is the \(B\) slice, not the grand total. | **Bluebook 6** maple / taller (rows, not a finished table) | 🟨 new |
 | **K29** | Polynomial constant \(c\) from the zeros: write the factors, multiply the constant pieces. If the leading coefficient is not 1, multiply that through. Do not rebuild \(a\) and \(b\) first. | **Module 01 #3** wrote 1410 (key 210) | 🟨 new |
 | **K30** | Rectangle + diagonal: write Pythagorean and **finish**. Ugly \(d^2\) is not a trick. | **Module 01 #12** left \(8+\sqrt{2344}/2\) (key 38) | 🟨 new |
 | **K31** | Circle equation: translate changes the center; a new radius changes \(r^2\). Do both. | **Bluebook 6 M1 last item** | 🟨 new |
@@ -298,9 +298,10 @@ Desk Math Notes already had “perpendicular = negative reciprocal” and “\((
 
 ### Conditional two-way table (K28)
 
-- Write \(A\), \(B\), \(A\mid B\), and \(A\cap B\) as sentences first.
-- \(P(A\mid B)=P(A\cap B)/P(B)\). Denominator is the \(B\) column (or row), not the grand total.
+- If the stem already names \(A\) and \(B\), interpret \(A\mid B\) and \(A\cap B\) only.
+- \(P(A\mid B)=P(A\cap B)/P(B)\). Denominator is the \(B\) slice, not the grand total.
 - \(\cap\) means “and.”
+- Grove-style (Bluebook 6): no finished table. Multiply rows \(\times\) the per-row counts, then condition.
 
 ### Polynomial \(c\) from zeros (K29)
 
@@ -485,7 +486,8 @@ Instructor-written originals. Do not mine Tests 1–11.
 
 **From Bluebook 6 (6)**
 
-- **#7–#8** two-way tables: interpret \(A\), \(B\), \(A\mid B\), \(A\cap B\), write the formula, then compute (K28).
+- **#7** finished table: interpret \(A\mid B\) and \(A\cap B\) only (stem already names \(A\) and \(B\)), write the formula, then compute (K28).
+- **#8** grove-style fruit clone of Bluebook 6 maple-given-taller: rows \(\times\) per-row counts, then condition (K28).
 - **#9** circle down-shift **and** new radius (K31).
 - **#10** factored / zeros form \(\to a+2b+3c\) (K32).
 - **#11** tangent quadrilateral, perimeter, monstrous numbers, Pythagorean (K33).

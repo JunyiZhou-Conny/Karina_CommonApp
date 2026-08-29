@@ -5,7 +5,7 @@
 
 These are **new** questions on the items that missed — not those official questions, and not copies from Sets 01–04.
 
-**SPR** = student-produced response. Write a number (integer, decimal, or fraction). On **#7** and **#8**, also write the four event sentences and the formula before you compute.
+**SPR** = student-produced response. Write a number (integer, decimal, or fraction). On **#7**, interpret \(A\mid B\) and \(A\cap B\), write the formula, then compute. **#8** is a count-then-condition item — no interpretation blanks.
 
 ***Write the job first.***
 
@@ -74,13 +74,14 @@ That is the whole job if they asked for the \(x\)-value. Completing the square f
 
 \[P(A\mid B)=\dfrac{P(A\cap B)}{P(B)}\]
 
-- Event \(A\) is a yes/no sentence about the random pick.
-- Event \(B\) is a different yes/no sentence.
+- If the stem already says what \(A\) is and what \(B\) is, do **not** rewrite those two. Interpret \(A\mid B\) and \(A\cap B\) only.
 - Event \(A\cap B\) is **both** sentences at once. The symbol \(\cap\) means “and.”
-- Event \(A\mid B\) is “\(A\) happens, **restricted to the cases where \(B\) already happened**.” The denominator is no longer the whole table. It is only the \(B\) column (or row).
+- Event \(A\mid B\) is “\(A\) happens, **restricted to the cases where \(B\) already happened**.” The denominator is no longer the whole table. It is only the \(B\) slice.
 - \(P(B)\) is (count of \(B\)) / (grand total). \(P(A\cap B)\) is (count of both) / (grand total). \(P(A\mid B)\) is (count of both) / (count of \(B\)).
 
-On **#7** and **#8**, write those four sentences and the formula **before** you divide.
+On **#7**, write \(A\mid B\), \(A\cap B\), and the formula **before** you divide.
+
+Some items never hand you a finished table. They give **rows** of two kinds, and each row has two counts. Multiply first: (number of rows) \(\times\) (count per row). That fills the table. Then condition. A leftover per-row number is not the probability.
 
 ### Circle moved, radius changed
 
@@ -130,33 +131,19 @@ The leading coefficient is the circled number. It is not 1.
 
 A tree is selected at random. Let \(A\) be the event that the tree is a spruce. Let \(B\) be the event that the tree is tagged.
 
-Write a one-sentence interpretation for each event. Then write the formula, then the probability.
+Interpret event \(A\mid B\) and event \(A\cap B\). Then write the formula, then the probability.
 
-- Event \(A\): <span class="blank-line"></span>
-- Event \(B\): <span class="blank-line"></span>
 - Event \(A\mid B\): <span class="blank-line"></span>
 - Event \(A\cap B\) (the \(\cap\) symbol means “and”): <span class="blank-line"></span>
 - Formula: \(P(A\mid B)=\) <span class="blank-line"></span>
 - (SPR) The value of \(P(A\mid B)\): ______________
 
-**8.** A school club has only juniors and seniors. Each member is either enrolled in calculus or not enrolled in calculus. The table shows the counts.
+**8.** A farm has \(4\) rows of watermelon plants and \(6\) rows of blueberry bushes. Each watermelon row has \(7\) plants that produced ripe fruit and \(5\) plants that did not. Each blueberry row has \(10\) bushes that produced ripe fruit and \(3\) bushes that did not. A plant or bush from one of these rows will be selected at random. What is the probability of selecting a watermelon plant, given that the selected plant or bush produced ripe fruit?
 
-| | Calculus | No calculus | Total |
-|---|---:|---:|---:|
-| Junior | 8 | 22 | 30 |
-| Senior | 18 | 12 | 30 |
-| Total | 26 | 34 | 60 |
-
-A member is selected at random. Let \(A\) be the event that the member is a senior. Let \(B\) be the event that the member is enrolled in calculus.
-
-Write a one-sentence interpretation for each event. Then write the formula, then the probability.
-
-- Event \(A\): <span class="blank-line"></span>
-- Event \(B\): <span class="blank-line"></span>
-- Event \(A\mid B\): <span class="blank-line"></span>
-- Event \(A\cap B\) (the \(\cap\) symbol means “and”): <span class="blank-line"></span>
-- Formula: \(P(A\mid B)=\) <span class="blank-line"></span>
-- (SPR) The value of \(P(A\mid B)\): ______________
+A) \(\dfrac{7}{12}\)  
+B) \(\dfrac{7}{22}\)  
+C) \(\dfrac{15}{22}\)  
+D) \(\dfrac{14}{63}\)
 
 **9.** (SPR) In the \(xy\)-plane, a circle has equation \((x+4)^2+(y-1)^2=49\). The circle is translated \(6\) units down, and the radius of the resulting circle is \(3\). Write the equation of the new circle as \((x-h)^2+(y-k)^2=r^2\). What is the value of \(r^2-k\)?
 
@@ -170,7 +157,9 @@ The circle is tangent to \(\overline{HX}\) at point \(P\), and \(PX=780\).
 
 The radius to a point of tangency is perpendicular to the tangent line. What is the distance \(CH\)?
 
-**12.** (SPR) In the system below, \(p\) is a constant.
+<div class="page-break"></div>
+
+**12.** (SPR) In the system below, \(p\) is a constant. The system has infinitely many solutions for one value of \(p\), and no solution for every other value of \(p\). What is the value of \(p\) that gives infinitely many solutions?
 
 \[
 \begin{align*}
@@ -178,5 +167,3 @@ The radius to a point of tangency is perpendicular to the tangent line. What is 
 2x+y&=4
 \end{align*}
 \]
-
-The system has infinitely many solutions for one value of \(p\), and it has no solution for every other value of \(p\). What is that value of \(p\) that gives infinitely many solutions?

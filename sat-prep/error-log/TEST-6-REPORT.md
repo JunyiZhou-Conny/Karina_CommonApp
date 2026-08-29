@@ -33,7 +33,7 @@ Instructor walkthrough after the sitting. Bluebook will show the official keys; 
 
 ## What to emphasize
 
-**Conditional (K28).** Write event \(A\), event \(B\), event \(A\mid B\), and event \(A\cap B\) as sentences before any fraction. The formula is \(P(A\mid B)=P(A\cap B)/P(B)\). The denominator is the \(B\) slice of the table, not the grand total.
+**Conditional (K28).** The maple item is rows \(\times\) per-row counts, then \(P(\text{type}\mid\text{taller})\). If a stem already names \(A\) and \(B\), interpret \(A\mid B\) and \(A\cap B\) only. Formula \(P(A\mid B)=P(A\cap B)/P(B)\). Denominator is the \(B\) slice, not the grand total.
 
 **Factored \(a+b\) (K32).** Zeros give \(a(x-r)(x-s)\). One point gives \(a\). Then expand. \(a+b+c=f(1)\); \(a+2b+3c\) is a different combination.
 
