@@ -28,6 +28,24 @@ SHARED_CSS = """
   li { margin: 0.25rem 0; }
   .katex { font-size: 1.05em; }
   .page-break { break-before: page; page-break-before: always; }
+  .circ-lead {
+    color: #b00000;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 1.2em;
+    border: 2.5px solid #b00000;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.45em;
+    height: 1.45em;
+    line-height: 1;
+    margin: 0 0.12em;
+    vertical-align: -0.15em;
+    font-family: Georgia, "Times New Roman", serif;
+  }
+  .blank-line { border-bottom: 1px solid #333; display: inline-block; min-width: 22em; height: 1.15em; }
   @media print {
     body { margin: 0; max-width: none; padding: 0; }
     a { color: inherit; text-decoration: none; }

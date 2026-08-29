@@ -4,16 +4,17 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) — 10 items covering all four Bluebook 4 misses (no key). Then a Suite Hard module if you want volume the same day. Next unused official sit is Bluebook **6, 7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 9 / 11.
+**Print for her:** [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) — 12 items covering Bluebook 6 + Module 01 misses (no key). Then Suite Hard **Module 02**. Next unused official sit is Bluebook **7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 6 / 9 / 11.
 
-Set 04 (ready): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
+Set 05 (ready): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · [`targeted-set-05-key.md`](targeted-set-05-key.md)  
+Set 04 (done, 9/10): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
 Set 03 (done): [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) · [`targeted-set-03-key.md`](targeted-set-03-key.md)  
 Set 02 (done): [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) · [`targeted-set-02-key.md`](targeted-set-02-key.md)  
 Set 01 (done): [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) · [`targeted-set-01-key.md`](targeted-set-01-key.md)
 
 Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27; Test 11 Module 1 was 23/27. That band is already warm.
 
-**Today’s scorecard:** [`TEST-4-REPORT.md`](TEST-4-REPORT.md) (Bluebook, 8/26). Paper sits: [`TEST-11-REPORT.md`](TEST-11-REPORT.md).
+**Today’s scorecard:** [`TEST-6-REPORT.md`](TEST-6-REPORT.md) (Bluebook, 8/28–29, in-app **710**). Prior adaptive: [`TEST-4-REPORT.md`](TEST-4-REPORT.md) (8/26, **770**). Paper sits: [`TEST-11-REPORT.md`](TEST-11-REPORT.md).
 
 ---
 
@@ -23,7 +24,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 |---|---|---|---|
 | **K1** | Successive percent = **multiply** growth factors. Do **not** add the percents. Do **not** add the starting amount back after you multiply. Final = \(\text{start}\times(1+r)^n\), never \(\text{start}\times(1+r)^n+\text{start}\). That last add-on is an **overestimate**. | Desk B14 / C4 / C6; Test 5; Set 01 #4, #20; **Set 02 #1–#3, #16, #22, #28 all clean** | 🟩 Set 02 clean |
 | **K2** | “Increase \(x\) by \(p\%\)” means \(x(1+\frac{p}{100})\), not \(x\cdot\frac{p}{100}\). Increase by 400% is \(\times 5\). | Test 5 M1 #25; Set 01 #3 clean | 🟩 Set 01 clean |
-| **K3** | Exponential period is **bidirectional**. \(P(t)=A(1+r)^{kt}\): one cycle when \(kt=1\), so \(t=1/k\). SAT can hide **months** (Test 5) or hide **percent** (Bluebook 4). The written coefficient and the period are reciprocals. Do not grab the leftover number in the fraction. | Test 5 M2 #25 (find months); Set 01 #5, #6 clean on that direction; **Bluebook 4 M2 #10 find \(n\%\)** | 🟨 reverse unknown (find %) |
+| **K3** | Exponential period is **bidirectional**. \(P(t)=A(1+r)^{kt}\): one cycle when \(kt=1\), so \(t=1/k\). SAT can hide **months** (Test 5) or hide **percent** (Bluebook 4). The written coefficient and the period are **reciprocals**. Do not report the period as \(k\). | Test 5 M2 #25; Bluebook 4 M2 #10; Set 04 #1 / #4 / #10 clean; **Set 04 #6 wrote \(\frac{5}{4}\) (the period) not \(\frac{4}{5}\)** | 🟨 hide-\(k\) reciprocal |
 | **K4** | Tangent to a circle is **perpendicular to the radius** at the contact point. | Test 5 M2 #26; Set 01 ordinary-slope items clean | 🟩 ordinary case clean |
 | **K5** | Perpendicular slopes: \(m_1 m_2 = -1\). Horizontal tangent (slope 0) is landing. Vertical-line case is K7. | Test 5 M2 #26; Set 01 #11, #17; Set 02 #4 clean | 🟩 horizontal case clean |
 | **K6** | Combo: circle \(\rightarrow\) center \(\rightarrow\) radius slope \(\rightarrow\) tangent slope \(\rightarrow\) point-slope at \(P\) \(\rightarrow\) test a point. | Test 5 M2 #26; Set 01 #8, #9, #21–#23 clean | 🟩 ordinary combo clean |
@@ -31,7 +32,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K8** | Right-triangle trig: from the **named angle**, mark opposite / adjacent / hypotenuse, then isolate the side they asked for. sin vs cos is a side-label, not a guess. | Test 11 M1 #19; Set 02 #8, #9, #24 clean | 🟩 Set 02 clean |
 | **K9** | Altitude-to-hypotenuse / similar right triangles: tan (or sin/cos) is a **ratio of the two given lengths**. Ugly numbers cancel. Do **not** Pythagorean a giant hypotenuse. | Test 11 M2 #26; Set 02 #10, #18, #30 clean | 🟩 Set 02 clean |
 | **K10** | Messy-data estimate: read a graph intercept approximately, compute, pick **closest**. Tolerate ambiguity. Trap = the other variable’s value. | Test 11 M2 #19; Set 02 #11, #19 clean | 🟩 Set 02 clean |
-| **K11** | Linear systems: 0 / 1 / infinitely many / “at least one.” One miss on Set 02 (#12). Not the leftover you are drilling. | Test 11 M1 #25; Set 02 #12 miss, #20 / #26 clean | 🟩 treat as one-off |
+| **K11** | Linear systems: 0 / 1 / infinitely many / find \(p\) or \(s\). Same line \(\Rightarrow\) infinitely many (matching constants). Parallel \(\Rightarrow\) none. | Test 11 M1 #25; Set 02 #12 miss, #20 / #26 clean; **Module 01 #13 blank**; **Bluebook 6 same-line / find \(p\)** | 🟨 reopened |
 | **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. | Test 11 M2 #27; Set 02 #13, #21 clean | 🟩 Set 02 clean |
 | **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 M1 #24; Set 02 #14, #25 clean | 🟩 Set 02 clean |
 | **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 M1 #23; Set 02 #15 clean | 🟩 Set 02 clean |
@@ -43,11 +44,18 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K20** | Adding rationals: keep the shared factor, common denom, expand. | Test 9 M2 #25; **Set 03 #10, #17, #27 all clean** | 🟩 Set 03 clean |
 | **K21** | Markup / **margin**: retail \(=\text{cost}\times(1+\frac{p}{100})\). Margin is the increase. | Set 03 #31, #35 both clean | 🟩 Set 03 clean |
 | **K22** | Scatterplot: falling points = **negative** association. Line of best fit predict is landing. | Set 03 #36 clean; **#32 wrote C** (no association) | 🟨 association word |
-| **K23** | Sum of solutions of \(ax^2+bx+c=0\) is \(-\frac{b}{a}\). She is getting the **absolute value** / flipping the sign. | Set 03 **#33 wrote −4** (key 4); **#37 wrote 5** (key −5) | 🟨 sign of \(-\frac{b}{a}\) |
+| **K23** | Sum of solutions of \(ax^2+bx+c=0\) is \(-\frac{b}{a}\). She is getting the **absolute value** / flipping the sign. | Set 03 **#33 wrote −4** (key 4); **#37 wrote 5** (key −5); **Set 04 #9 \(sp=-\frac{5}{2}\) clean** | 🟨 sign of \(-\frac{b}{a}\) (product combo landed) |
 | **K24** | **Lateral faces** = not the bases. Rectangular prism 4 landed. Triangular prism is 3. | Set 03 #34 clean; **#38 wrote 4** (key 3). Bluebook 4 M2 #21 glued-prism surface area **clean** | 🟨 triangular only (SA combo landed) |
-| **K25** | Add a constant to every data value: **center moves** (mean, median, quartiles), **spread stays** (range, IQR, SD). | Bluebook 4 M2 **#17** | 🟨 shift vs spread |
-| **K26** | Rational \(f(x)=\frac{a}{x+b}\): asymptote gives \(b\), one point gives \(a\). Then \(g(x)=f(x+h)\) **replaces** \(x\). Stopping at recovered \(f\) is the trap. | Bluebook 4 M2 **#18** | 🟨 recover, then shift |
-| **K27** | \(a+b+c=f(1)\). Write vertex form, plug \(x=1\). Two \(x\)-intercepts + vertex below the axis \(\Rightarrow a>0\), so \(f(1)\) is on the correct side of the vertex \(y\). | Bluebook 4 M2 **#22** | 🟨 \(f(1)\) + sign of \(a\) |
+| **K25** | Add a constant to every data value: **center moves** (mean, median, quartiles), **spread stays** (range, IQR, SD). | Bluebook 4 M2 **#17**; **Set 04 #2 clean** | 🟩 Set 04 clean |
+| **K26** | Rational \(f(x)=\frac{a}{x+b}\): asymptote gives \(b\), one point gives \(a\). Then \(g(x)=f(x+h)\) **replaces** \(x\). Stopping at recovered \(f\) is the trap. | Bluebook 4 M2 **#18**; **Set 04 #5, #8 clean** | 🟩 Set 04 clean |
+| **K27** | \(a+b+c=f(1)\). Write vertex form, plug \(x=1\). Two \(x\)-intercepts + vertex below the axis \(\Rightarrow a>0\), so \(f(1)\) is on the correct side of the vertex \(y\). | Bluebook 4 M2 **#22**; **Set 04 #3 clean** | 🟩 Set 04 clean |
+| **K28** | Conditional probability from a two-way table. Write \(P(A\mid B)=P(A\cap B)/P(B)\). Interpret \(A\), \(B\), \(A\mid B\), and \(A\cap B\) as sentences. \(P(B)\) is the \(B\) slice, not the grand total. | **Bluebook 6** grove / two-way table | 🟨 new |
+| **K29** | Polynomial constant \(c\) from the zeros: write the factors, multiply the constant pieces. If the leading coefficient is not 1, multiply that through. Do not rebuild \(a\) and \(b\) first. | **Module 01 #3** wrote 1410 (key 210) | 🟨 new |
+| **K30** | Rectangle + diagonal: write Pythagorean and **finish**. Ugly \(d^2\) is not a trick. | **Module 01 #12** left \(8+\sqrt{2344}/2\) (key 38) | 🟨 new |
+| **K31** | Circle equation: translate changes the center; a new radius changes \(r^2\). Do both. | **Bluebook 6 M1 last item** | 🟨 new |
+| **K32** | Quadratic in **factor / zeros** form. Find \(a\) from a point, expand, then \(a+b\) / \(a+b+c\) / \(a+2b+3c\). Not the vertex-form \(f(1)\) item. | **Bluebook 6** late M2 \(a+b\) | 🟨 new |
+| **K33** | Several tangents form a quadrilateral. Equal tangents from a point; \(H\) is where two tangents meet; radius \(\perp\) tangent; then Pythagorean. A monstrous length is bait. | **Bluebook 6** tangent-quad + perimeter | 🟨 new |
+| **K34** | Minimum (or maximum) of \(ax^2+bx+c\) is at \(x=-b/(2a)\). Do not complete the square if they asked for that \(x\). | **Module 01 #20** completed the square, including unused \(-\frac{121}{4}\) | 🟨 new |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -288,6 +296,34 @@ Desk Math Notes already had “perpendicular = negative reciprocal” and “\((
 - Vertex form, plug \(x=1\). Then use the picture to sign \(a\): two \(x\)-intercepts and a vertex below the axis \(\Rightarrow\) opens up \(\Rightarrow a>0\).
 - Product of roots \(c/a\) (Bluebook 4 #19) is a different sentence and she landed it.
 
+### Conditional two-way table (K28)
+
+- Write \(A\), \(B\), \(A\mid B\), and \(A\cap B\) as sentences first.
+- \(P(A\mid B)=P(A\cap B)/P(B)\). Denominator is the \(B\) column (or row), not the grand total.
+- \(\cap\) means “and.”
+
+### Polynomial \(c\) from zeros (K29)
+
+- Monic cubic: multiply the three factor constants. Do not rebuild \(a\) and \(b\).
+- Leading coefficient not 1: multiply that through. Look at the number in front of \(x^3\).
+
+### Finish Pythagorean (K30, K33)
+
+- Rectangle + diagonal: write \(x^2+(x+d)^2=d_{\text{diag}}^2\) and **solve**.
+- Tangents: equal from a point; radius \(\perp\) tangent; then \(r^2+t^2=CH^2\). Ugly numbers are bait.
+
+### Circle translate + new radius (K31)
+
+- Center moves with the shift. Right-hand side is the **new** \(r^2\).
+
+### Factored form \(\to a+2b+3c\) (K32)
+
+- \(f(x)=a(x-r)(x-s)\). One point finds \(a\). Expand. \(a+b+c=f(1)\); \(a+2b+3c\) is not \(f(1)\).
+
+### Minimum \(x\) of a quadratic (K34)
+
+- \(x=-b/(2a)\). Completing the square is extra if they asked for that \(x\).
+
 ### Screen → scratch (Test 9 M1 cluster)
 
 Not a knowledge gap. She had the math. She copied the **wrong job** off the screen: PQ not QR (#12), mode not max (#14), “smallest” leftover (#21), stain once not twice (#25), vote total not win-by (#26). Paper booklets hide this. Bluebook is one source on the monitor and another on the provided scratch paper. The leak is the transfer.
@@ -344,7 +380,7 @@ She **cannot** bring her own highlighter, colored pencils, or paper. The center 
 
 ## Official hard #24–#27 (search result)
 
-There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5, 9, and 11 (paper 27+27) and Bluebook **4** (22+22). **Still unused:** Bluebook **6, 7, 8, 10**. Paper-only leftovers: Tests 1–3. Paper Test 4 booklet exists; its 27+27 numbering is **not** the Bluebook review. Do not re-sit 4.
+There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5, 9, and 11 (paper 27+27) and Bluebook **4** and **6** (22+22). **Still unused:** Bluebook **7, 8, 10**. Paper-only leftovers: Tests 1–3. Paper Test 4 booklet exists; its 27+27 numbering is **not** the Bluebook review. Do not re-sit 4 / 5 / 6 / 9 / 11.
 
 Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuitequestionbank.collegeboard.org/). Third-party “real SAT leak” PDFs are not a source we will copy. Details: [`../resources.md`](../resources.md).
 
@@ -422,6 +458,39 @@ Instructor-written originals. Do not mine Tests 1–11. Covers **all four Bluebo
 - **K26** recover rational, then shift (2): #5, #8
 - Parabola (3): vertex / \(f(1)\) #3, product of roots #7, \(sp\) (sum \(\times\) product) #9
 
+### 2026-08-28 — Targeted Set 04 result
+
+**9/10.** Only miss **#6**.
+
+| Item | Her answer | Key | One-line why |
+|---|---|---|---|
+| **#6** | **\(\frac{5}{4}\)** | **\(\frac{4}{5}\)** | 15 months \(=\frac{5}{4}\) years is the **period**. \(k\) is the reciprocal. She reported the period as \(k\). |
+
+#1, #4, #10 (other K3 directions) landed. Data-set shift, rational-then-shift, vertex \(f(1)\), product of roots, and \(sp\) all landed. Do **not** restack those. The leftover is only hide-\(k\) **reciprocal**.
+
+---
+
+## Targeted Set 05 — written (12 items)
+
+Homework file: [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf). Instructor key: [`targeted-set-05-key.md`](targeted-set-05-key.md).
+
+Instructor-written originals. Do not mine Tests 1–11.
+
+**From Suite Hard Module 01 (6)**
+
+- **#1–#3** consecutive cubic / degree-6 triad (K29): monic \(c\) from zeros \(-5,-6,-7\); six small zeros; **same three zeros with leading 2 circled**.
+- **#4** rectangle + diagonal, finish Pythagorean (K30 / Module 01 #12).
+- **#5** infinitely many \(\Rightarrow\) the printed constant (K11 / Module 01 #13).
+- **#6** \(x=-b/(2a)\) for the minimum (K34 / Module 01 #20).
+
+**From Bluebook 6 (6)**
+
+- **#7–#8** two-way tables: interpret \(A\), \(B\), \(A\mid B\), \(A\cap B\), write the formula, then compute (K28).
+- **#9** circle down-shift **and** new radius (K31).
+- **#10** factored / zeros form \(\to a+2b+3c\) (K32).
+- **#11** tangent quadrilateral, perimeter, monstrous numbers, Pythagorean (K33).
+- **#12** no solution / infinitely many, value of \(p\) (K11).
+
 ---
 
 ## Suite Hard simulation modules (340)
@@ -430,7 +499,38 @@ Official exclude-active Hard items, shuffled into **15 × 22** (35 min) plus a 1
 
 Index: [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/README.md).
 
-These are **all Hard** and not adaptive. They do **not** replace unused Bluebook sits (**6 / 7 / 8 / 10**). Log misses as module + item + domain.
+These are **all Hard** and not adaptive. They do **not** replace unused Bluebook sits (**7 / 8 / 10**). Log misses as module + item + domain.
+
+### 2026-08-28 — Suite Hard Module 01
+
+**17/22** on an all-Hard mix. Paper titled “Suite - Hard Modules M1.” Only **#13** was blank.
+
+| # | She wrote | Official | One-line why | Gaps |
+|---|---|---|---|---|
+| **1** | 5 | **B** | Asked for **blackberries**. She solved raspberries \(r=4\) (trap) and parked a circle radius 5 in this slot. | job line |
+| **3** | 1410 | **210** | Zeros include \(-5,6,7\). \((x+5)(x-6)(x-7)=x^3-8x^2-23x+\mathbf{210}\). Had \(a,b\) then recopied \(a=-48\to 1410\). Fast path is the constant from the factors. | K29 |
+| **12** | \(8+\sqrt{2344}/2\) | **38** | Rectangle, one side 8 more, diagonal given. \(x^2+(x+8)^2=2344\Rightarrow x=30\), asked side **38**. Did not finish Pythagorean. | K30 |
+| **13** | blank | **403** | Infinitely many solutions — matching constants. Started expanding \(13r(x-8)\), did not finish. | K11 |
+| **20** | 25/4 | 25/4 | Min of a quadratic — she **completed the square** (including unused \(-\frac{121}{4}\)). Landed, but the fast path is \(x=-b/(2a)\). | K34 (method) |
+| **22** | −8 | **−12** | Already had −12 (symmetric \(y\)); added the vertex \(y\) and got −8. Stop when you have the asked value. | extra step |
+
+#2, #4–#11, #14–#19, #21 landed. #16 “could NOT” four-angle sums was long (tested extra identities) but correct — do not restack K13. #18 solved both intersection points to add \(y\)s; Vieta + \(y=-x-1\) is faster, but she scored it.
+
+### 2026-08-28 / 08-29 — Bluebook Practice Test 6 Math
+
+**Score:** Module 1 **21/22**, Module 2 **17/22** → raw **38/44**. In-app Math **710**. Second real 44-question adaptive sit. Do **not** convert with paper tables.
+
+Named leak types (official stems stay in Bluebook):
+
+| Type | What she did not have ready | Gaps |
+|---|---|---|
+| Two-way table / grove, conditional | No formula for \(P(A\mid B)\), no \(P(B)\), no \(P(A\cap B)\), events not in words | K28 |
+| Late M2, \(a+b\) from factors / zeros | Need factored form, not vertex form | K32 |
+| Circle + tangents → quadrilateral, perimeter, a length | Tangents equal; \(H\) is the intersection; radius \(\perp\) tangent; then Pythagorean. Size looked like a trick. | K33 |
+| Two equations that are the same line | Infinite / none; find \(p\) | K11 |
+| M1 last item, circle picture | Shift up or down **and** change the radius; write the new equation | K31 |
+
+Scorecard: [`TEST-6-REPORT.md`](TEST-6-REPORT.md).
 
 ---
 
@@ -457,4 +557,4 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22**. **Set 04** is the 10-item drill on those four misses (plus sum-of-roots, the Set 03 leftover). Suite Hard module is fine the same day — do not restack these families there unless they reappear. Next unused official sit: Bluebook **6, 7, 8, or 10** (not 4 / 5 / 9 / 11). Set 03 leftovers still open if they miss Set 04 #9: K16 / K22 / K23 / K24.
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. **Set 05** is the 12-item drill on those new leaks plus Module 01. Suite Hard **Module 02** is volume the same night — do not restack Set 05 families there unless they reappear. Next unused official sit: Bluebook **7, 8, or 10** (not 4 / 5 / 6 / 9 / 11). Still open from earlier: K16 frequency column, K22 scatter word, K23 sign of \(-b/a\), K24 triangular lateral, K3 hide-\(k\) reciprocal.
