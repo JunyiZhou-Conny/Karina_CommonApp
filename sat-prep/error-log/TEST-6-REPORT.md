@@ -44,4 +44,4 @@ Instructor walkthrough after the sitting. Bluebook will show the official keys; 
 **Circle translate + new radius (K31).** Center moves with the shift. The right-hand side is the **new** \(r^2\).
 
 Living log: [`NOTEBOOK.md`](NOTEBOOK.md).  
-Set 05 (12 originals): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · key [`targeted-set-05-key.md`](targeted-set-05-key.md).
+Set 05 (13 originals): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · key [`targeted-set-05-key.md`](targeted-set-05-key.md). #13 is the two-radii-plus-two-tangents kite (let \(x\), then \(d^2=r^2+x^2\)). #11 stays as the inscribed-quad version.

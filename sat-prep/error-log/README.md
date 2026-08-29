@@ -3,7 +3,7 @@
 | File | Who |
 |---|---|
 | [`NOTEBOOK.md`](NOTEBOOK.md) | You — misses, knowledge gaps, what to say |
-| [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) | **Print for Karina** — notes + 12 questions (no key in the file) |
+| [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) | **Print for Karina** — notes + 13 questions (no key in the file) |
 | [`targeted-set-05-key.md`](targeted-set-05-key.md) | You — answers + traps |
 | [`TEST-6-REPORT.md`](TEST-6-REPORT.md) | Bluebook 6 scorecard (710) |
 | [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) | Set 04 (done, 9/10) |

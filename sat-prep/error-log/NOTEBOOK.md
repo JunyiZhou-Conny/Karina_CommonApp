@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) — 12 items covering Bluebook 6 + Module 01 misses (no key). Then Suite Hard **Module 02**. Next unused official sit is Bluebook **7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 6 / 9 / 11.
+**Print for her:** [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) — 13 items covering Bluebook 6 + Module 01 misses (no key). Then Suite Hard **Module 02**. Next unused official sit is Bluebook **7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 6 / 9 / 11.
 
 Set 05 (ready): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · [`targeted-set-05-key.md`](targeted-set-05-key.md)  
 Set 04 (done, 9/10): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
@@ -471,7 +471,7 @@ Instructor-written originals. Do not mine Tests 1–11. Covers **all four Bluebo
 
 ---
 
-## Targeted Set 05 — written (12 items)
+## Targeted Set 05 — written (13 items)
 
 Homework file: [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf). Instructor key: [`targeted-set-05-key.md`](targeted-set-05-key.md).
 
@@ -490,8 +490,9 @@ Instructor-written originals. Do not mine Tests 1–11.
 - **#8** grove-style fruit clone of Bluebook 6 maple-given-taller: rows \(\times\) per-row counts, then condition (K28).
 - **#9** circle down-shift **and** new radius (K31).
 - **#10** factored / zeros form \(\to a+2b+3c\) (K32).
-- **#11** tangent quadrilateral, perimeter, monstrous numbers, Pythagorean (K33).
+- **#11** inscribed tangent quadrilateral, perimeter, monstrous numbers, Pythagorean (K33).
 - **#12** no solution / infinitely many, value of \(p\) (K11).
+- **#13** Test 6 kite clone: two radii + two tangents, let tangent \(=x\), then \(d^2=r^2+x^2\) (K33).
 
 ---
 
@@ -559,4 +560,4 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. **Set 05** is the 12-item drill on those new leaks plus Module 01. Suite Hard **Module 02** is volume the same night — do not restack Set 05 families there unless they reappear. Next unused official sit: Bluebook **7, 8, or 10** (not 4 / 5 / 6 / 9 / 11). Still open from earlier: K16 frequency column, K22 scatter word, K23 sign of \(-b/a\), K24 triangular lateral, K3 hide-\(k\) reciprocal.
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. **Set 05** is the 13-item drill on those new leaks plus Module 01. Suite Hard **Module 02** is volume the same night — do not restack Set 05 families there unless they reappear. Next unused official sit: Bluebook **7, 8, or 10** (not 4 / 5 / 6 / 9 / 11). Still open from earlier: K16 frequency column, K22 scatter word, K23 sign of \(-b/a\), K24 triangular lateral, K3 hide-\(k\) reciprocal.

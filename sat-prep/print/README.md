@@ -4,7 +4,7 @@ Math notes and exam-style questions only — no Saturday 2:00–2:30 lesson cloc
 
 **Print the full desk packet:** [`SAT-MATH-DESK-PACKET.pdf`](SAT-MATH-DESK-PACKET.pdf)
 
-**Print the current homework (12 items):** [`TARGETED-SET-05.pdf`](TARGETED-SET-05.pdf) — notes + questions for Karina; **no key in this file.**  
+**Print the current homework (13 items):** [`TARGETED-SET-05.pdf`](TARGETED-SET-05.pdf) — notes + questions for Karina; **no key in this file.**  
 Instructor key: [`../error-log/targeted-set-05-key.md`](../error-log/targeted-set-05-key.md)
 
 Set 04 (done, 9/10): [`TARGETED-SET-04.pdf`](TARGETED-SET-04.pdf)  

@@ -102,6 +102,7 @@ Zeros at \(r\) and \(s\) means \(f(x)=a(x-r)(x-s)\). One extra point finds \(a\)
 - Two tangent segments from the **same exterior point** are congruent.
 - The radius to a point of tangency is **perpendicular** to that tangent. That is a right triangle: radius, tangent segment, line from the center to the exterior point.
 - A huge number is not a reason to abandon Pythagorean. Write \(r^2+t^2=d^2\) and compute.
+- One SAT kite is **two radii plus two tangents**. Let each tangent be \(x\). Perimeter is \(2r+2x\). Solve for \(x\). If the asked length is the line from the center to the exterior point, that length \(d\) satisfies the quadratic \(d^2=r^2+x^2\).
 
 ---
 
@@ -167,3 +168,9 @@ The radius to a point of tangency is perpendicular to the tangent line. What is 
 2x+y&=4
 \end{align*}
 \]
+
+<div class="page-break"></div>
+
+**13.** (SPR) A circle has center \(C\), and points \(A\) and \(B\) lie on the circle. Segments \(\overline{AD}\) and \(\overline{BD}\) are tangent to the circle at \(A\) and \(B\), respectively. The radius of the circle is \(324\). The perimeter of quadrilateral \(CADB\) is \(3{,}528\). What is the distance \(CD\)?
+
+Let the unknown first. The two tangent segments are equal. The two radii are equal. Radius to a point of tangency is perpendicular to the tangent.
