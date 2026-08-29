@@ -16,7 +16,7 @@ Twelve instructor originals. Six from Suite Hard Module 01 leaks, six from Blueb
 | 8 | **\(\dfrac{9}{13}\)** | K28 | Same checklist, new table | \(A\): senior. \(B\): enrolled in calculus. \(A\cap B\): senior and calculus. \(P(A\mid B)=18/26=9/13\). Trap \(18/60\), \(18/30\). |
 | 9 | **14** | K31 | Translate down **and** change \(r\) | Old center \((-4,1)\), \(r=7\). Down 6 \(\Rightarrow\) \((-4,-5)\). New \(r=3\Rightarrow r^2=9\). \(r^2-k=9-(-5)=14\). Trap \(49-(-5)\) (kept old radius) or \(9-1\) (forgot the shift). |
 | 10 | **96** | K32 | Factored form, then \(a+2b+3c\) | \(f(x)=a(x+3)(x-5)\), \(f(0)=-15a=30\Rightarrow a=-2\). \(f(x)=-2x^2+4x+30\). \(a+2b+3c=-2+8+90=96\). Trap \(f(1)=32\), or \(a+b+c=32\). |
-| 11 | **2,275** | K33 | Equal sides from perimeter, then Pythagorean | Kite: \(HX=HZ=(7280-1820)/2=2730\). \(HP=2730-910=1820\). Radius \(\perp\) tangent: \(CH=\sqrt{1365^2+1820^2}\). Hidden 3-4-5 \(\times 455\): \(1365=3\cdot455\), \(1820=4\cdot455\), \(CH=5\cdot455=2275\). The size is the bait. Pythagorean is still the job. |
+| 11 | **2,275** | K33 | Equal sides from perimeter, then Pythagorean | Kite: \(HX=HZ=(13312-8112)/2=2600\). \(HP=2600-780=1820\). Radius \(\perp\) tangent: \(CH=\sqrt{1365^2+1820^2}\). Hidden 3-4-5 \(\times 455\): \(1365=3\cdot455\), \(1820=4\cdot455\), \(CH=5\cdot455=2275\). The size is the bait. Pythagorean is still the job. |
 | 12 | **12** | K11 | Same line \(\Leftrightarrow\) infinitely many | \(6x+3y=3(2x+y)=p\). Match the constant: \(p=12\). Any other \(p\) is parallel \(\Rightarrow\) none. |
 
 **Interpretations they must write on #7**

@@ -164,9 +164,9 @@ Write a one-sentence interpretation for each event. Then write the formula, then
 
 **11.** (SPR) A circle with center \(C\) has radius \(1{,}365\). Four lines, each tangent to the circle, form quadrilateral \(HXYZ\). The circle lies inside the quadrilateral and is tangent to all four sides. Point \(H\) is a vertex of the quadrilateral — it is the intersection of the two tangent lines that contain sides \(\overline{HX}\) and \(\overline{HZ}\).
 
-The perimeter of \(HXYZ\) is \(7{,}280\). Side \(\overline{XY}\) has length \(910\), side \(\overline{YZ}\) has length \(910\), and \(\overline{HX}=\overline{HZ}\).
+The perimeter of \(HXYZ\) is \(13{,}312\). Side \(\overline{XY}\) has length \(4{,}056\), side \(\overline{YZ}\) has length \(4{,}056\), and \(\overline{HX}=\overline{HZ}\).
 
-The circle is tangent to \(\overline{HX}\) at point \(P\), and \(PX=910\).
+The circle is tangent to \(\overline{HX}\) at point \(P\), and \(PX=780\).
 
 The radius to a point of tangency is perpendicular to the tangent line. What is the distance \(CH\)?
 
