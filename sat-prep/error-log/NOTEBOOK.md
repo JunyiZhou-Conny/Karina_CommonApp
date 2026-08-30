@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**In progress (8/30):** Bluebook **Practice Test 8**. Locked once started. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover official Bluebook sits: **7** and **10**. Suite Hard **Module 02** waits until this sit is logged. Set 05 is done (**9/13**).
+**Print for her:** Suite Hard **Module 02** next. Bluebook 8 is done: **36/44**, in-app **690**, eight naive misses. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only. Paper-only leftovers: Tests 1–3. Set 05 is done (**9/13**).
 
 Set 05 (done, 9/13): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · [`targeted-set-05-key.md`](targeted-set-05-key.md)  
 Set 04 (done, 9/10): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
@@ -14,7 +14,7 @@ Set 01 (done): [`../print/TARGETED-SET-01.pdf`](../print/TARGETED-SET-01.pdf) ·
 
 Do **not** assign more easy Algebra, isolated center/radius circle lookups, or one-step linear slope items. Test 5 Module 1 was 24/27; Test 11 Module 1 was 23/27. That band is already warm.
 
-**Today’s scorecard:** [`TEST-8-REPORT.md`](TEST-8-REPORT.md) (Bluebook 8, 8/30, **in progress**). Prior adaptive: [`TEST-6-REPORT.md`](TEST-6-REPORT.md) (8/28–29, **710**), [`TEST-4-REPORT.md`](TEST-4-REPORT.md) (8/26, **770**). Paper sits: [`TEST-11-REPORT.md`](TEST-11-REPORT.md).
+**Today’s scorecard:** [`TEST-8-REPORT.md`](TEST-8-REPORT.md) (Bluebook 8, 8/30, **36/44 → 690**). Prior adaptive: [`TEST-6-REPORT.md`](TEST-6-REPORT.md) (8/28–29, **710**), [`TEST-4-REPORT.md`](TEST-4-REPORT.md) (8/26, **770**). Paper sits: [`TEST-11-REPORT.md`](TEST-11-REPORT.md).
 
 ---
 
@@ -381,7 +381,7 @@ She **cannot** bring her own highlighter, colored pencils, or paper. The center 
 
 ## Official hard #24–#27 (search result)
 
-There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5, 9, and 11 (paper 27+27) and Bluebook **4**, **6**, and **8** (22+22; 8 in progress 8/30). **Still unused:** Bluebook **7** and **10**. Paper-only leftovers: Tests 1–3. Paper Test 4 / 8 booklets exist; their 27+27 numbering is **not** the Bluebook review. Do not re-sit 4 / 5 / 6 / 8 / 9 / 11.
+There is no trustworthy public dump of “every past SAT, Module 2 questions 24–27.” Real Bluebook modules are **22** questions, so test-day numbering is not 24–27. The paper practice tests in this repo *do* use 27, and those last four are the score-splitters. **Used:** Tests 5, 9, and 11 (paper 27+27) and Bluebook **4**, **6**, and **8** (22+22). **Still unused full Bluebook simulations:** **7** and **10** only. Paper-only leftovers: Tests 1–3 (retired from Bluebook; 27+27, not adaptive). Paper Test 4 / 8 booklets exist; their 27+27 numbering is **not** the Bluebook review. Do not re-sit 4 / 5 / 6 / 8 / 9 / 11. Suite Hard leftover: Modules **02–16** (14×22 + one 10-item). Those are volume sits, not full tests.
 
 Robust extra supply: SAT Suite Question Bank → Math → Hard (https://satsuitequestionbank.collegeboard.org/). Third-party “real SAT leak” PDFs are not a source we will copy. Details: [`../resources.md`](../resources.md).
 
@@ -550,9 +550,9 @@ Scorecard: [`TEST-6-REPORT.md`](TEST-6-REPORT.md).
 
 ---
 
-### 2026-08-30 — Bluebook Practice Test 8 Math (in progress)
+### 2026-08-30 — Bluebook Practice Test 8 Math
 
-Third real 44-question adaptive sit. Scores and named misses TBD. Do **not** re-sit. Paper Test 8 numbering is **not** the Bluebook review.
+**Score:** raw **36/44** (8 wrong) → in-app Math **690**. Third real 44-question adaptive sit. Module 1 / Module 2 split not yet recorded. Instructor: all eight misses were **naive** (wrong job / transfer), not new hard content. Do **not** re-sit. Paper Test 8 numbering is **not** the Bluebook review.
 
 Scorecard: [`TEST-8-REPORT.md`](TEST-8-REPORT.md).
 
@@ -581,4 +581,4 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. **Bluebook 8 is in progress (8/30)** — third adaptive sit. **Set 05 is done: 9/13.** Suite Hard **Module 02** waits until Test 8 is scored. Leftover from Set 05: cubic \(c\), printed infinite-solutions constant, factored-form \(a\). Leftover official Bluebook sits: **7** and **10** (not 4 / 5 / 6 / 8 / 9 / 11). Still open from earlier: K16 frequency column, K22 scatter word, K23 sign of \(-b/a\), K24 triangular lateral, K3 hide-\(k\) reciprocal.
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**, eight naive misses. **Set 05 is done: 9/13.** Next volume sit: Suite Hard **Module 02**. Leftover from Set 05: cubic \(c\), printed infinite-solutions constant, factored-form \(a\). Leftover **full** official Bluebook simulations: **7** and **10** only. Paper 1–3 are leftover forms, not adaptive. Suite Hard leftover: **02–16**. Still open from earlier: K16 frequency column, K22 scatter word, K23 sign of \(-b/a\), K24 triangular lateral, K3 hide-\(k\) reciprocal. Do not restack hard families from the Test 8 690 until the eight items are named.
