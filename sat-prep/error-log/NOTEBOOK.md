@@ -573,4 +573,4 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. **Set 05** is the 13-item drill on those new leaks plus Module 01. Suite Hard **Module 02** is volume the same night — do not restack Set 05 families there unless they reappear. Next unused official sit: Bluebook **7, 8, or 10** (not 4 / 5 / 6 / 9 / 11). Still open from earlier: K16 frequency column, K22 scatter word, K23 sign of \(-b/a\), K24 triangular lateral, K3 hide-\(k\) reciprocal.
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. **Set 05 is done: 9/13.** Suite Hard **Module 02** is the next volume sit — do not restack Pythagorean / tangents / grove-table / circle-shift unless they reappear. Leftover from Set 05: cubic \(c\), printed infinite-solutions constant, factored-form \(a\). Next unused official sit: Bluebook **7, 8, or 10** (not 4 / 5 / 6 / 9 / 11). Still open from earlier: K16 frequency column, K22 scatter word, K23 sign of \(-b/a\), K24 triangular lateral, K3 hide-\(k\) reciprocal.
