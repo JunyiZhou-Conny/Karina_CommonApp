@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** Suite Hard **Module 02** next. Bluebook 8 is done: **36/44**, in-app **690**, eight naive misses. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only. Paper-only leftovers: Tests 1–3. Set 05 is done (**9/13**).
+**Print for her:** Suite Hard **Module 03** next. Module 02 is done: **13/22**. Bluebook 8 is done: **36/44**, in-app **690**. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only. Paper-only leftovers: Tests 1–3. Set 05 is done (**9/13**).
 
 Set 05 (done, 9/13): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · [`targeted-set-05-key.md`](targeted-set-05-key.md)  
 Set 04 (done, 9/10): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
@@ -56,6 +56,10 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K32** | Quadratic in **factor / zeros** form. Find \(a\) from a point, expand, then \(a+b\) / \(a+b+c\) / \(a+2b+3c\). \(-15a=30\Rightarrow a=-2\), not \(-\frac{15}{2}\). | Bluebook 6 late M2 \(a+b\); **Set 05 #10 wrote 145.5** | 🟨 new |
 | **K33** | Several tangents form a quadrilateral. Equal tangents from a point; radius \(\perp\) tangent; then Pythagorean. A monstrous length is bait. | Bluebook 6 tangent-quad; **Set 05 #11 \(2275\) and #13 \(1476\) both clean** | 🟩 Set 05 clean |
 | **K34** | Minimum (or maximum) of \(ax^2+bx+c\) is at \(x=-b/(2a)\). Do not complete the square if they asked for that \(x\). | Module 01 #20 completed the square; **Set 05 #6 wrote \(11/4\)** (still completed the square in the margin) | 🟩 answer clean |
+| **K35** | In \(F(x)=A+m(x-h)\), the printed constant \(A\) is \(F(h)\), not \(F(0)\). Set \(x=h\). | Module 02 **#13 wrote C** (start date) | 🟨 point-slope constant |
+| **K36** | Average rate of change is \(\Delta y/\Delta x\). The rise alone is not the answer. | Module 02 **#8 wrote 9** | 🟨 |
+| **K37** | Volunteer website poll is not random. A random sample generalizes to the **sampling frame**, not the table subset and not “percents must add to 100.” | Module 02 **#12 A**, **#16 C** | 🟨 |
+| **K38** | “Maximum sold at this price” is a **quadratic** (vertex form). Two price points do not make a line. | Module 02 **#7 wrote 10** | 🟨 |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -532,6 +536,24 @@ These are **all Hard** and not adaptive. They do **not** replace unused Bluebook
 
 #2, #4–#11, #14–#19, #21 landed. #16 “could NOT” four-angle sums was long (tested extra identities) but correct — do not restack K13. #18 solved both intersection points to add \(y\)s; Vieta + \(y=-x-1\) is faster, but she scored it.
 
+### 2026-08-30 — Suite Hard Module 02
+
+**13/22** on an all-Hard mix. Nine misses. This is **not** the shirt regular / sale / cost item (that is paper Test 3 M1 #21 / paper Test 8). Module 02 **#13** is “regular **gasoline**” — different job.
+
+| # | She wrote | Official | One-line why | Gaps |
+|---|---|---|---|---|
+| **1** | −13 | **−12** | \(f+g\). Constants summed to 13, not 12. Intercept off by 1. | arithmetic |
+| **4** | C | **D** | Nuclear scatterplot opens **down**, intercept ~740–760. C opens up. | opening |
+| **7** | 10 | **5** | Bowls vs price is a **quadratic** (vertex = max sold). She ran a line through two points. | K38 |
+| **8** | 9 | **4.5** | Average rate: had \(\Delta y=9\), did not divide by days. | K36 |
+| **12** | A | **B** | Website poll. A is the 28%+70%=98% bait. Not a random sample. | K37 |
+| **13** | C | **D** | \(F(x)=2.74-0.19(x-3)\). Constant 2.74 is \(F(3)\) = Dec 1, not Sept 1. | K35 |
+| **16** | C | **D** | Random from **all** teams. Table is a subset. Generalize to the frame. | K37 |
+| **19** | C | **D** | Factor the coefficient, then difference of squares, then \(k\). | rewrite |
+| **20** | A | **D** | Exponential: decrease from \(f(n)\) to \(f(n+k)\) is \(f(n)\bigl(1-r^{k}\bigr)\), not choice A. | exponential step |
+
+#2 (44), #3 (A), #5 (−22), #6 (D), #9 (515), #10 (594), #11 (C), #14 (8), #15 (D), #17 (\(3/2\)), #18 (5800), #21 (3.44), #22 (A, no solution) landed.
+
 ### 2026-08-28 / 08-29 — Bluebook Practice Test 6 Math
 
 **Score:** Module 1 **21/22**, Module 2 **17/22** → raw **38/44**. In-app Math **710**. Second real 44-question adaptive sit. Do **not** convert with paper tables.
@@ -581,4 +603,4 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**, eight naive misses. **Set 05 is done: 9/13.** Next volume sit: Suite Hard **Module 02**. Leftover from Set 05: cubic \(c\), printed infinite-solutions constant, factored-form \(a\). Leftover **full** official Bluebook simulations: **7** and **10** only. Paper 1–3 are leftover forms, not adaptive. Suite Hard leftover: **02–16**. Still open from earlier: K16 frequency column, K22 scatter word, K23 sign of \(-b/a\), K24 triangular lateral, K3 hide-\(k\) reciprocal. Do not restack hard families from the Test 8 690 until the eight items are named.
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Module 01 **17/22**. Module 02 **13/22**. **Set 05 is done: 9/13.** Next volume sit: Suite Hard **Module 03**. Leftover from Set 05: cubic \(c\), printed infinite-solutions constant, factored-form \(a\). New from Module 02: K35 point-slope constant, K36 rate \(\Delta y/\Delta x\), K37 sampling frame, K38 quadratic vs line. Leftover **full** official Bluebook simulations: **7** and **10** only. Paper 1–3 leftover. Suite Hard leftover: **03–16**. Still open: K16, K22, K23, K24, K3 hide-\(k\). The shirt regular / sale / cost item is **not** on Module 02.
