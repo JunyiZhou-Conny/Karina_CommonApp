@@ -8,14 +8,16 @@
 **PSDA** = **Problem-Solving and Data Analysis** — College Board’s name for ratios, percents, data, probability, and statistical claims (~15% of Math).
 
 **Print for the desk:** [`print/SAT-MATH-DESK-PACKET.pdf`](print/SAT-MATH-DESK-PACKET.pdf) — full notes + mixed questions  
-**Print the current gap set:** [`print/TARGETED-SET-04.pdf`](print/TARGETED-SET-04.pdf) — 10 items after Bluebook 4 (no key in the file)
+**Print the current gap set:** [`print/TARGETED-SET-05.pdf`](print/TARGETED-SET-05.pdf) — 13 items after Bluebook 6 + Module 01 (no key in the file)
 
 **Official College Board files:** [`official/`](official/) — Tests 1–11 booklets, answer explanations, scoring worksheets  
 **Math pages only:** [`official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf`](official-math/SAT-MATH-OFFICIAL-PRACTICE-PAGES.pdf)  
 **Test 5 Math check sheet:** [`official/keys/test-05-math.md`](official/keys/test-05-math.md)  
 **Test 11 Math check sheet:** [`official/keys/test-11-math.md`](official/keys/test-11-math.md)  
 **Miss notebook (use after every sitting):** [`error-log/NOTEBOOK.md`](error-log/NOTEBOOK.md)  
-**Bluebook Test 4 scorecard (8/26):** [`error-log/TEST-4-REPORT.md`](error-log/TEST-4-REPORT.md) — 22/22 + 18/22; do not re-sit  
+**Bluebook Test 8 scorecard (8/30):** [`error-log/TEST-8-REPORT.md`](error-log/TEST-8-REPORT.md) — in progress; do not re-sit  
+**Bluebook Test 6 scorecard (8/28–29):** [`error-log/TEST-6-REPORT.md`](error-log/TEST-6-REPORT.md) — 21/22 + 17/22, in-app 710; do not re-sit  
+**Bluebook Test 4 scorecard (8/26):** [`error-log/TEST-4-REPORT.md`](error-log/TEST-4-REPORT.md) — 22/22 + 18/22, in-app 770; do not re-sit  
 **Question Bank export (Hard, by domain):** [`official/question-bank-export.md`](official/question-bank-export.md)  
 **Suite Bank Hard pack (340 items):** [`official/suitebank/SAT-Math-Hard-exclude-active/`](official/suitebank/SAT-Math-Hard-exclude-active/)
 
