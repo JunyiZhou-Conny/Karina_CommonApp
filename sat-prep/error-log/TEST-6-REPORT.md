@@ -13,7 +13,7 @@ Instructor scorecard. Official stems stay in Bluebook / My Practice. Do **not** 
 
 Second real 44-question adaptive sit. Module 1 was **21/22**, so she still routed to a hard Module 2. Paper 640–700 tables do not apply.
 
-**Do not re-sit Bluebook 6.** Unused official Bluebook sits are now **7, 8, 10**.
+**Do not re-sit Bluebook 6.** Unused official Bluebook sits are now **7** and **10** (8 is in progress 8/30).
 
 ---
 
