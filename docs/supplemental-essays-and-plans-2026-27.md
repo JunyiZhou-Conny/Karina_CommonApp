@@ -2,8 +2,8 @@
 
 **Student:** Karina (Newton North High School)  
 **Cycle:** Fall 2027 entry / Common App 2026–27  
-**Compiled:** 2026-08-19  
-**GPA (reported):** 3.27  
+**Compiled:** 2026-08-19 · **NNHS guide ingested:** 2026-08-26  
+**GPA (reported):** 3.27 · **NNHS CEEB:** 221555  
 
 This packet documents **supplemental essay / short-answer prompts** and **ED1 / ED2 / EA / RD** plan information for the current school list, plus suggested additional schools that may improve admit odds.
 
@@ -32,6 +32,7 @@ This packet documents **supplemental essay / short-answer prompts** and **ED1 / 
 ### Table of contents
 
 1. [Application plan snapshot](#1-application-plan-snapshot)
+1a. [Newton North process (Scoir / EA / ED / RD)](#1a-newton-north-process-scoir--ea--ed--rd)
 2. [Common App personal statement](#2-common-app-personal-statement-all-common-app-schools)
 3. [School-by-school supplements & notes](#3-school-by-school-supplements--notes)
    - [Boston University](#boston-university--ed1-target)
@@ -80,7 +81,74 @@ Source audit trail: [`SOURCES.md`](SOURCES.md)
 
 **Sources for this matrix:** each school section below cites the deadline page used; full URL audit is in [`SOURCES.md`](SOURCES.md) (verified 2026-08-19). Binding vs non-binding is noted in the Decision/notes column and school sections.
 
+**NNHS send rule:** Newton North only ships the official packet (transcript, teacher evals, counselor statement, school profile) for colleges sitting in Scoir **Applying**, and only if that move happens before the **NNHS transcript deadline**. Putting a school on Common App is not enough.
+
 **Empty ED2 slot — recommendation:** If BU ED1 is a soft deny/defer, strong ED2 options on this list that offer ED2 and fit the Northeast profile are **University of Rochester (Jan 5)** and **Boston College / Tufts / Northeastern / Syracuse / Brandeis** (dates above). Given GPA ~3.27, **Rochester ED2** or **Syracuse ED2** is typically more realistic than Tufts/BC ED2 — finalize after major/fit conversation.
+
+---
+
+## 1a. Newton North process (Scoir / EA / ED / RD)
+
+**Source:** *Newton North High School College Planning Guide* (111 pp.; uploaded 2026-08-26). Official school handbook. The PDF is **not** copied into this repo (copyright). This section is the operational digest for Karina’s list. College dates in §1 stay on each school’s own site — the guide’s Appendix 10 UMass / state-university language is older statewide text and **does not** override UMass Amherst **EA Nov 5**.
+
+### What NNHS sends
+
+After the student requests it, Newton North sends:
+
+- Official transcript — **unweighted 4.0**; sophomore + junior years, plus senior grades on file at send time (transfer transcripts too, if any)
+- Teacher evaluation(s)
+- Counselor statement
+- Newton North school profile + histogram
+
+**CEEB / SAT–ACT school code:** `221555`
+
+First-term senior grades go out **automatically in November** to every college that already has a transcript request. Second-term grades and the updated GPA go out **automatically in January**. May 1 is one deposit. The June senior exit survey tells NNHS where to send the **final** transcript.
+
+### Scoir is the send trigger (not Naviance)
+
+My Colleges columns: **Suggested → Following → Not Interested → Applying → Applied**.
+
+- Counselors or parents can add a school to **Suggested**. Only the student can move it to Following or Not Interested.
+- **Applying** is the only column that tells NNHS to send the packet. Deadline in the guide is named the **Newton North Transcript Deadline** — the calendar date is **not** printed in the PDF. Get it from Senior Seminars / the counselor, then beat it for BU ED1 and UMass EA.
+- After the student submits, move the school to **Applied**. After she picks a college, mark enrollment in Scoir so the final transcript ships.
+
+Teacher recommendations are requested and submitted **in Scoir, not Common App**. Guide norm: **two teachers + one counselor statement**. Ask junior-year teachers in **March–April** if applying early. If those asks are not already locked, do it now — senior year has started.
+
+### Common App account rules (NNHS)
+
+- Register with a **personal** email. **Do not** use the NPS-issued address.
+- **Never** open a second Common App account.
+- Draft the personal statement outside the portal, then paste. Do not personalize that essay per college.
+- Common App self-reported scores are usually **not** a substitute for official College Board / ACT sends. Omit scores only for true test-optional schools.
+
+### Counselors
+
+- The **school counselor** stays with the student all four years and writes the counselor statement. ED / EA / rolling seniors should meet that counselor **early fall**.
+- The **College and Career Center** (specialized college counselors) takes appointments from **January of junior year**. Notes go back to the school counselor.
+
+### How NNHS defines the plans on this list
+
+| Plan | NNHS language | Karina use |
+|---|---|---|
+| **Early Decision** | Binding. Student + parent/guardian + counselor sign (Scoir ED contract). If admitted, withdraw other apps and tell the counselor. **NNHS will not send transcript materials to any other college.** Only walk away if the aid package is insufficient — and that leaves little time to file elsewhere. Have other apps ready for defer / deny / weak aid. Apply ED only after a visit or an information session. ED2 is the same rule with a January deadline. | **BU ED1 (Nov 2)** |
+| **Early Action** | Non-binding. Typical deadline early Nov–early Dec. Hear back ~4–6 weeks. Reply still **May 1**. **Unrestricted** EA: other early apps OK. **Restricted** EA: usually no other early apps; some schools allow a public at the same time — check that school. | **UMass Amherst EA (Nov 5)** is the non-binding early on this list. Nothing on the current list is labeled Restricted EA. |
+| **Regular Decision** | Early-winter deadline; hear March–April; reply **May 1**. Multiple RD apps are fine. | Default for the rest of the Common App list |
+| **Rolling** | Reviewed as received; apply as soon as the file is ready. Reply still usually May 1. | Suffolk after the priority date |
+| **Open admission** | Almost all applicants with a diploma / GED; often no deadline. | Not in play on this list |
+
+### Senior calendar that touches this packet
+
+- **September:** Senior Seminars (how to request materials) + Senior Family Night.
+- **September–January:** SAT / ACT window — the **September 12, 2026** SAT sit is inside the guide’s senior testing window.
+- **October:** College Night (~150 colleges) + start MEFA financial-aid education.
+- **January:** Newton local scholarship common app; second-term grades / GPA auto-send.
+- **May 1:** one deposit. **June:** exit survey → final transcript.
+
+Appendix 2 (application timeline worksheet) did not extract as readable text from the PDF. Use Senior Seminars / Scoir NNHS instruction sheets for the dated checklist.
+
+### Left in the PDF (not copied here)
+
+Essay workshop and dos/don’ts; NCAA recruiting; financial-aid lecture and MEFA walkthrough; first-generation / ELL / CAPS / IEP–504 chapters; college-visit clusters; letter of continued interest sample; SAT vs ACT appendix; printing instructions. Read those in the original guide if they become relevant. Do not treat this digest as a reprint of the handbook.
 
 ---
 
@@ -115,6 +183,7 @@ Schools are ordered to match the user’s list.
 ### Boston University — ED1 target
 
 **Plans:** ED1 (binding), ED2 (binding), RD  
+**NNHS:** Scoir ED contract (student + parent + counselor). If admitted, NNHS will not send materials to other colleges — other apps must already be ready.  
 **Deadlines (Official — bu.edu/admissions/apply/deadlines):**
 
 | Plan | Application | Notify | Deposit |
@@ -145,6 +214,7 @@ Public 2026–27 sources disagree on the exact portal wording:
 ### UMass Amherst — EA target
 
 **Plans:** Early Action (non-binding), Regular Decision  
+**NNHS:** Unrestricted-style EA (non-binding; May 1 reply). Still move UMass into Scoir **Applying** before the NNHS transcript deadline so the official packet ships.  
 **Deadlines (Official):**
 
 | Plan | Deadline |
@@ -526,6 +596,14 @@ For each college on My Colleges → Writing / Questions:
 4. Check honors / scholarship / major-specific unlocks (Kilachand, Schreyer, MLK, Nursing, HCE, etc.).
 5. Especially confirm: **BU**, **UMass**, **Syracuse**, **Rutgers**, **URI nursing/pharmacy**, **Brandeis**, **Suffolk**.
 
+Newton North / Scoir (from the school guide — do these in parallel with Common App):
+
+6. Common App is on a **personal** email (not NPS) and there is only **one** account.
+7. Every school that needs an official NNHS packet is in Scoir **Applying** before the **NNHS transcript deadline** (get the date from the counselor / Senior Seminars).
+8. Two teacher recs are requested **in Scoir** (not Common App). If March–April junior-year asks are not done, ask now.
+9. BU ED1: student + parent + counselor **Scoir ED contract** signed; other apps drafted and ready if deferred, denied, or aid is insufficient.
+10. Early-fall meeting on the calendar with the **school counselor** (and CCC if not already used).
+
 ---
 
 ## 7. Open questions for a sharper list
@@ -535,7 +613,9 @@ For each college on My Colleges → Writing / Questions:
 3. Budget / need for aid / OK with private tuition?  
 4. Which SUNY campuses?  
 5. Is BU ED1 firm even if counselors call it a reach?  
-6. Preferred ED2 school if deferred/denied from BU?
+6. Preferred ED2 school if deferred/denied from BU?  
+7. What is this cycle’s **NNHS transcript deadline**?  
+8. Are the two Scoir teacher recommendations already accepted?
 
 ---
 
