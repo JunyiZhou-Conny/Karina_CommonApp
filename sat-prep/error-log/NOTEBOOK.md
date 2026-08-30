@@ -4,8 +4,9 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** Suite Hard **Module 03** next. Module 02 is done: **13/22**. Bluebook 8 is done: **36/44**, in-app **690**. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only. Paper-only leftovers: Tests 1–3. Set 05 is done (**9/13**).
+**Print for her:** [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf) — 20 items after Bluebook 8 + Module 02 (no key). Suite Hard **Module 03** is the next volume sit. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only. Paper-only leftovers: Tests 1–3. Set 05 is done (**9/13**). Module 02 is done (**13/22**).
 
+Set 06 (ready): [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf) · [`targeted-set-06-key.md`](targeted-set-06-key.md)  
 Set 05 (done, 9/13): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · [`targeted-set-05-key.md`](targeted-set-05-key.md)  
 Set 04 (done, 9/10): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
 Set 03 (done): [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) · [`targeted-set-03-key.md`](targeted-set-03-key.md)  
@@ -59,7 +60,16 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K35** | In \(F(x)=A+m(x-h)\), the printed constant \(A\) is \(F(h)\), not \(F(0)\). Set \(x=h\). | Module 02 **#13 wrote C** (start date) | 🟨 point-slope constant |
 | **K36** | Average rate of change is \(\Delta y/\Delta x\). The rise alone is not the answer. | Module 02 **#8 wrote 9** | 🟨 |
 | **K37** | Volunteer website poll is not random. A random sample generalizes to the **sampling frame**, not the table subset and not “percents must add to 100.” | Module 02 **#12 A**, **#16 C** | 🟨 |
-| **K38** | “Maximum sold at this price” is a **quadratic** (vertex form). Two price points do not make a line. | Module 02 **#7 wrote 10** | 🟨 |
+| **K38** | “Maximum sold at this price” is a **quadratic** (vertex form). Two price points do not make a line. **Minimum** is the same job with \(a>0\). | Module 02 **#7 wrote 10**; Set 06 #5 / #17 | 🟨 Set 06 |
+| **K39** | “\(p\%\) less than \(R\)” is \(R(1-p/100)\). Then “\(q\%\) greater than cost” is a second job. | Paper Test 8 shirt; Set 06 #1 | 🟨 Set 06 |
+| **K40** | Same histogram bins: smallest \(\lvert\text{mean }A-\text{mean }B\rvert\) is \(0\). Largest is \(9\) (integers inside a width-\(10\) half-open bin). | Unused Test 10 / 2 job; Set 06 #8 / #19 | 🟨 Set 06 |
+| **K41** | Equilateral side \(s=P/3\), height \(\frac{s\sqrt{3}}{2}=k\sqrt{3}\Rightarrow k=s/2\). | Set 06 #4 | 🟨 Set 06 |
+| **K42** | Isosceles right: altitude to the hypotenuse is \(s/\sqrt{2}\). Do not name \(45^\circ\). | Set 06 #13 | 🟨 Set 06 |
+| **K43** | \((x+2b)\) is a factor iff \(x=-2b\) makes the quadratic \(0\). \(b\) must be a positive integer. | Set 06 #12 | 🟨 Set 06 |
+| **K44** | Sphere \(V=\frac{4}{3}\pi r^3\). Use the reference page. | Paper Test 8 cube-minus-sphere style; Set 06 #9 | 🟨 Set 06 |
+| **K45** | \(p\%\) of **last year** \(\Rightarrow\) exponential. \(p\%\) of the **initial** amount \(\Rightarrow\) linear. | Set 06 #6 / #16 | 🟨 Set 06 |
+| **K46** | Scatter \(ax^2+bx+c\): sign of \(a\) from opening, \(c\) from the intercept, \(b\) from \(x=-\frac{b}{2a}\). Write the three signs first. | Module 02 #4; Set 06 #2 / #11 | 🟨 Set 06 |
+| **K47** | \(f(x)=A(r)^x\) with \(0<r<1\): \(p\%\) less than the previous value is \(100(1-r)\), not \(100r\). | Module 02 #20 wrote 19; Set 06 #15 | 🟨 Set 06 |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -513,6 +523,27 @@ Instructor-written originals. Do not mine Tests 1–11.
 
 ---
 
+## Targeted Set 06 — written (20 items)
+
+Homework file: [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf). Instructor key: [`targeted-set-06-key.md`](targeted-set-06-key.md).
+
+Instructor-written originals. Do not mine Tests 1–11. The histogram **job** is the unused Test 10 / Test 2 item (not Bluebook 8). Frequencies \(3,4,7,9\) on #19; bins start at \(20\) so the picture is not a photocopy.
+
+- **#1** shirt: \(75\%\) less, then \(25\%\) greater than cost (K39). Bluebook 8 / paper Test 8 style.
+- **#2 / #11** scatter \(a,b,c\) signs; #11 writes the three signs first (K46). Module 02 #4.
+- **#3 / #10 / #14 / #20** evaluating statistical claims (K37). Module 02 #12 / #16 plus experiment vs observational.
+- **#4** equilateral height \(k\sqrt{3}\) (K41). Official unused forms use \(624\); this is \(468\).
+- **#5 / #17** bowls quadratic **minimum** (K38). Module 02 #7 with max flipped.
+- **#6 / #16** last-year percent vs initial-amount percent (K45).
+- **#7 / #18** point-slope constant is \(F(h)\) (K35). Not fuel.
+- **#8 / #19** histogram smallest / largest mean difference (K40).
+- **#9** sphere \(V/\pi\) (K44).
+- **#12** factor \(x+2b\) (K43).
+- **#13** isosceles right, altitude to hypotenuse (K42). Does not say \(45^\circ\).
+- **#15** \(p\%\) less than \(f(n-1)\) (K47). Module 02 #20.
+
+---
+
 ## Suite Hard simulation modules (340)
 
 Official exclude-active Hard items, shuffled into **15 × 22** (35 min) plus a 10-item remainder. Mixed domains in every module. Student PDFs have no answers.
@@ -603,4 +634,4 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Module 01 **17/22**. Module 02 **13/22**. **Set 05 is done: 9/13.** Next volume sit: Suite Hard **Module 03**. Leftover from Set 05: cubic \(c\), printed infinite-solutions constant, factored-form \(a\). New from Module 02: K35 point-slope constant, K36 rate \(\Delta y/\Delta x\), K37 sampling frame, K38 quadratic vs line. Leftover **full** official Bluebook simulations: **7** and **10** only. Paper 1–3 leftover. Suite Hard leftover: **03–16**. Still open: K16, K22, K23, K24, K3 hide-\(k\). The shirt regular / sale / cost item is **not** on Module 02.
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Module 01 **17/22**. Module 02 **13/22**. **Set 05 is done: 9/13.** **Set 06 is the current homework (20 originals).** Next volume sit: Suite Hard **Module 03**. Leftover **full** official Bluebook simulations: **7** and **10** only — #19 uses the Test 10 histogram **counts**, so Test 10 is weaker if she sits it later. Paper 1–3 leftover. Suite Hard leftover: **03–16**. Still open from earlier: K16, K22, K23, K24, K3 hide-\(k\), Set 05 cubic \(c\) / printed constant / factored \(a\).
