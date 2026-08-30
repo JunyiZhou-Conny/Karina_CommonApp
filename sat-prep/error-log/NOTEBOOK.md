@@ -4,9 +4,9 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) — 13 items covering Bluebook 6 + Module 01 misses (no key). Then Suite Hard **Module 02**. Next unused official sit is Bluebook **7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 6 / 9 / 11.
+**Print for her:** Suite Hard **Module 02** next. Set 05 is done (**9/13**). Next unused official sit is Bluebook **7, 8, or 10**. Do **not** re-sit Bluebook 4 / 5 / 6 / 9 / 11.
 
-Set 05 (ready): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · [`targeted-set-05-key.md`](targeted-set-05-key.md)  
+Set 05 (done, 9/13): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · [`targeted-set-05-key.md`](targeted-set-05-key.md)  
 Set 04 (done, 9/10): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
 Set 03 (done): [`../print/TARGETED-SET-03.pdf`](../print/TARGETED-SET-03.pdf) · [`targeted-set-03-key.md`](targeted-set-03-key.md)  
 Set 02 (done): [`../print/TARGETED-SET-02.pdf`](../print/TARGETED-SET-02.pdf) · [`targeted-set-02-key.md`](targeted-set-02-key.md)  
@@ -32,7 +32,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K8** | Right-triangle trig: from the **named angle**, mark opposite / adjacent / hypotenuse, then isolate the side they asked for. sin vs cos is a side-label, not a guess. | Test 11 M1 #19; Set 02 #8, #9, #24 clean | 🟩 Set 02 clean |
 | **K9** | Altitude-to-hypotenuse / similar right triangles: tan (or sin/cos) is a **ratio of the two given lengths**. Ugly numbers cancel. Do **not** Pythagorean a giant hypotenuse. | Test 11 M2 #26; Set 02 #10, #18, #30 clean | 🟩 Set 02 clean |
 | **K10** | Messy-data estimate: read a graph intercept approximately, compute, pick **closest**. Tolerate ambiguity. Trap = the other variable’s value. | Test 11 M2 #19; Set 02 #11, #19 clean | 🟩 Set 02 clean |
-| **K11** | Linear systems: 0 / 1 / infinitely many / find \(p\) or \(s\). Same line \(\Rightarrow\) infinitely many (matching constants). Parallel \(\Rightarrow\) none. | Test 11 M1 #25; Set 02 #12 miss, #20 / #26 clean; **Module 01 #13 blank**; **Bluebook 6 same-line / find \(p\)** | 🟨 reopened |
+| **K11** | Linear systems: 0 / 1 / infinitely many / find \(p\) or \(s\). Same line \(\Rightarrow\) infinitely many (matching constants). Parallel \(\Rightarrow\) none. If they ask for the left-hand constant, that constant **is** the printed \(K\). | Test 11 M1 #25; Module 01 #13 blank; **Set 05 #12 \(p=12\) clean; #5 wrote −2564** | 🟨 printed-constant job |
 | **K12** | Unit conversion for **area** (and volume): square (or cube) the linear factor. | Test 11 M2 #27; Set 02 #13, #21 clean | 🟩 Set 02 clean |
 | **K13** | Two lines, four angles: verticals equal, adjacents = 180°. List every pairwise sum, then kill the choice that is not on the list. Read “could NOT.” | Test 11 M1 #24; Set 02 #14, #25 clean | 🟩 Set 02 clean |
 | **K14** | Graph of \(y=f(x)+k\) is \(f\) shifted by \(k\). Recover \(f\) by undoing the shift. | Test 11 M1 #23; Set 02 #15 clean | 🟩 Set 02 clean |
@@ -49,13 +49,13 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K25** | Add a constant to every data value: **center moves** (mean, median, quartiles), **spread stays** (range, IQR, SD). | Bluebook 4 M2 **#17**; **Set 04 #2 clean** | 🟩 Set 04 clean |
 | **K26** | Rational \(f(x)=\frac{a}{x+b}\): asymptote gives \(b\), one point gives \(a\). Then \(g(x)=f(x+h)\) **replaces** \(x\). Stopping at recovered \(f\) is the trap. | Bluebook 4 M2 **#18**; **Set 04 #5, #8 clean** | 🟩 Set 04 clean |
 | **K27** | \(a+b+c=f(1)\). Write vertex form, plug \(x=1\). Two \(x\)-intercepts + vertex below the axis \(\Rightarrow a>0\), so \(f(1)\) is on the correct side of the vertex \(y\). | Bluebook 4 M2 **#22**; **Set 04 #3 clean** | 🟩 Set 04 clean |
-| **K28** | Conditional probability. Write \(P(A\mid B)=P(A\cap B)/P(B)\). If the stem already names \(A\) and \(B\), interpret \(A\mid B\) and \(A\cap B\) only. Grove-style items: multiply rows \(\times\) per-row counts first, then condition. \(P(B)\) is the \(B\) slice, not the grand total. | **Bluebook 6** maple / taller (rows, not a finished table) | 🟨 new |
-| **K29** | Polynomial constant \(c\) from the zeros: write the factors, multiply the constant pieces. If the leading coefficient is not 1, multiply that through. Do not rebuild \(a\) and \(b\) first. | **Module 01 #3** wrote 1410 (key 210) | 🟨 new |
-| **K30** | Rectangle + diagonal: write Pythagorean and **finish**. Ugly \(d^2\) is not a trick. | **Module 01 #12** left \(8+\sqrt{2344}/2\) (key 38) | 🟨 new |
-| **K31** | Circle equation: translate changes the center; a new radius changes \(r^2\). Do both. | **Bluebook 6 M1 last item** | 🟨 new |
-| **K32** | Quadratic in **factor / zeros** form. Find \(a\) from a point, expand, then \(a+b\) / \(a+b+c\) / \(a+2b+3c\). Not the vertex-form \(f(1)\) item. | **Bluebook 6** late M2 \(a+b\) | 🟨 new |
-| **K33** | Several tangents form a quadrilateral. Equal tangents from a point; \(H\) is where two tangents meet; radius \(\perp\) tangent; then Pythagorean. A monstrous length is bait. | **Bluebook 6** tangent-quad + perimeter | 🟨 new |
-| **K34** | Minimum (or maximum) of \(ax^2+bx+c\) is at \(x=-b/(2a)\). Do not complete the square if they asked for that \(x\). | **Module 01 #20** completed the square, including unused \(-\frac{121}{4}\) | 🟨 new |
+| **K28** | Conditional probability. Write \(P(A\mid B)=P(A\cap B)/P(B)\). If the stem already names \(A\) and \(B\), interpret \(A\mid B\) and \(A\cap B\) only. Grove-style items: multiply rows \(\times\) per-row counts first, then condition. \(P(B)\) is the \(B\) slice, not the grand total. | Bluebook 6 maple / taller; **Set 05 #7 \(14/23\) and #8 B both clean** | 🟩 Set 05 clean |
+| **K29** | Polynomial constant \(c\) from the zeros: write the factors, multiply the constant pieces. If the leading coefficient is not 1, multiply that through. Do not multiply the zeros raw, and do not sum them. | Module 01 #3 wrote 1410; **Set 05 #2 clean; #1 wrote −210; #3 wrote −36** | 🟨 sign / leading 2 |
+| **K30** | Rectangle + diagonal: write Pythagorean and **finish**. Ugly \(d^2\) is not a trick. | Module 01 #12 left a radical; **Set 05 #4 wrote 52** | 🟩 Set 05 clean |
+| **K31** | Circle equation: translate changes the center; a new radius changes \(r^2\). Do both. | Bluebook 6 M1 last item; **Set 05 #9 wrote 14** | 🟩 Set 05 clean |
+| **K32** | Quadratic in **factor / zeros** form. Find \(a\) from a point, expand, then \(a+b\) / \(a+b+c\) / \(a+2b+3c\). \(-15a=30\Rightarrow a=-2\), not \(-\frac{15}{2}\). | Bluebook 6 late M2 \(a+b\); **Set 05 #10 wrote 145.5** | 🟨 new |
+| **K33** | Several tangents form a quadrilateral. Equal tangents from a point; radius \(\perp\) tangent; then Pythagorean. A monstrous length is bait. | Bluebook 6 tangent-quad; **Set 05 #11 \(2275\) and #13 \(1476\) both clean** | 🟩 Set 05 clean |
+| **K34** | Minimum (or maximum) of \(ax^2+bx+c\) is at \(x=-b/(2a)\). Do not complete the square if they asked for that \(x\). | Module 01 #20 completed the square; **Set 05 #6 wrote \(11/4\)** (still completed the square in the margin) | 🟩 answer clean |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -493,6 +493,19 @@ Instructor-written originals. Do not mine Tests 1–11.
 - **#11** inscribed tangent quadrilateral, perimeter, monstrous numbers, Pythagorean (K33).
 - **#12** no solution / infinitely many, value of \(p\) (K11).
 - **#13** Test 6 kite clone: two radii + two tangents, let tangent \(=x\), then \(d^2=r^2+x^2\) (K33).
+
+### 2026-08-30 — Targeted Set 05 result
+
+**9/13.** Missed **#1, #3, #5, #10**.
+
+| Item | Her answer | Key | One-line why |
+|---|---|---|---|
+| **#1** | **−210** | **210** | Multiplied the zeros \((-5)(-6)(-7)\). Constant is the factor pieces \(5\cdot6\cdot7\). |
+| **#3** | **−36** | **420** | Wrote \(2(-5)+2(-6)+2(-7)\). That is \(2\times\)(sum of zeros), not \(2\times5\times6\times7\). Saw the 2, used it on the wrong combination. |
+| **#5** | **−2564** | **214** | Expanded, set \(21-55p=-214\), got \(p=47\), then evaluated. Infinitely many already says that expression **equals 214**. |
+| **#10** | **145.5** | **96** | \(f(0)=-15a=30\Rightarrow a=-2\). She wrote \(a=-\frac{15}{2}\), then forced \((5,0)\) to invent \(b\). |
+
+#2 (degree-6 \(c\)), #4 (rectangle 52), #6 (\(11/4\)), #7–#8 (conditional), #9 (circle 14), #11 (2275), #12 (\(p=12\)), #13 (1476) all landed. Do **not** restack Pythagorean / tangents / grove-table / circle-shift. Leftover: cubic \(c\) (sign + leading 2), infinite-solutions “the constant is already printed,” factored-form \(a\) from \(f(0)\).
 
 ---
 
