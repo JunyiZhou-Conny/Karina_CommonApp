@@ -5,7 +5,7 @@
 | [`NOTEBOOK.md`](NOTEBOOK.md) | You — misses, knowledge gaps, what to say |
 | [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) | **Print for Karina** — notes + 13 questions (no key in the file) |
 | [`targeted-set-05-key.md`](targeted-set-05-key.md) | You — answers + traps |
-| [`TEST-8-REPORT.md`](TEST-8-REPORT.md) | Bluebook 8 scorecard (8/30, in progress) |
+| [`TEST-8-REPORT.md`](TEST-8-REPORT.md) | Bluebook 8 scorecard (8/30, 36/44 → 690) |
 | [`TEST-6-REPORT.md`](TEST-6-REPORT.md) | Bluebook 6 scorecard (710) |
 | [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) | Set 04 (done, 9/10) |
 | [`targeted-set-04-key.md`](targeted-set-04-key.md) | Set 04 key |
