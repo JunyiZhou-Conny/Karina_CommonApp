@@ -4,8 +4,9 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** Suite Hard **Module 04** (`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-04.pdf`). Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (10 is weaker after Set 06 #19). Paper-only leftovers: Tests 1–3. Module 03 is done (**15/22**). Set 06 is done (**17/20**). Set 05 is done (**9/13**). Module 02 is done (**13/22**).
+**Print for her:** [`../print/TARGETED-SET-07.pdf`](../print/TARGETED-SET-07.pdf) — 5 items (K7 vertical/horizontal + K48 margin of error). Then Suite Hard **Module 04**. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (10 is weaker after Set 06 #19). Paper-only leftovers: Tests 1–3. Module 03 is done (**15/22**). Set 06 is done (**17/20**). Set 05 is done (**9/13**). Module 02 is done (**13/22**).
 
+Set 07 (ready): [`../print/TARGETED-SET-07.pdf`](../print/TARGETED-SET-07.pdf) · [`targeted-set-07-key.md`](targeted-set-07-key.md)  
 Set 06 (done, 17/20): [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf) · [`targeted-set-06-key.md`](targeted-set-06-key.md)  
 Set 05 (done, 9/13): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · [`targeted-set-05-key.md`](targeted-set-05-key.md)  
 Set 04 (done, 9/10): [`../print/TARGETED-SET-04.pdf`](../print/TARGETED-SET-04.pdf) · [`targeted-set-04-key.md`](targeted-set-04-key.md)  
@@ -564,6 +565,17 @@ Walk before Module 03: **#2** sign of \(b\) from \(x=-b/(2a)\); **#7 and #18** p
 
 ---
 
+## Targeted Set 07 — written (5 items)
+
+Homework file: [`../print/TARGETED-SET-07.pdf`](../print/TARGETED-SET-07.pdf). Instructor key: [`targeted-set-07-key.md`](targeted-set-07-key.md). Student stats note: [`../print/PSDA-INFERENCE-NOTES.txt`](../print/PSDA-INFERENCE-NOTES.txt).
+
+Short packet after Module 03. Instructor originals only. Do not mine Tests 1–11. Do not restack Set 06 clean families.
+
+- **#1 / #2** vertical vs horizontal (K7). #1 is ⊥ to \(x=-5\) (slope 0), same job as Module 03 #16. #2 is the slope of \(x=9\) itself (undefined).
+- **#3 / #4 / #5** margin of error (K48). #3 is the two-sample “why is A’s MoE larger” table (smaller \(n\)). #4 reads \(38\%\pm 3\%\). #5 asks which sample size is smaller MoE.
+
+---
+
 ## Suite Hard simulation modules (340)
 
 Official exclude-active Hard items, shuffled into **15 × 22** (35 min) plus a 10-item remainder. Mixed domains in every module. Student PDFs have no answers.
@@ -674,7 +686,9 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Module 01 **17/22**. Module 02 **13/22**. **Module 03 is done: 15/22.** **Set 05 is done: 9/13.** **Set 06 is done: 17/20.**
 
-Walk Module 03 **#16** (⊥ to \(x=2\) is slope 0), **#18** (double root is one pair), **#19** (asked \(x+6=0\), not \(x=-6\)), **#9** (arc over \(2\pi r\)), **#15** (larger MoE = smaller \(n\)). Still walk Set 06 **#2** (sign of \(b\)) and **#7 / #18** (\(F(h)\), not \(F(0)\)). Then print Suite Hard **Module 04**.
+**Set 07 is the current homework (5 originals):** two 0-vs-undefined slope items, three margin-of-error items. Print that first. Then Suite Hard **Module 04**.
+
+Still open to walk later, not in this packet: Module 03 **#18** (double root), **#19** (asked \(x+6\)), **#9** (arc over \(2\pi r\)); Set 06 **#2** (sign of \(b\)) and **#7 / #18** (\(F(h)\), not \(F(0)\)).
 
 Do **not** restack Set 06 clean families, or Module 03 similar-triangle / \(k^2\) / weighted-mean / adding-rationals hits.
 

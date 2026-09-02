@@ -6,7 +6,10 @@ Math notes and exam-style questions only — no Saturday 2:00–2:30 lesson cloc
 
 **Student stats handout (copy-paste):** [`PSDA-INFERENCE-NOTES.txt`](PSDA-INFERENCE-NOTES.txt) — population / sample / inference / margin of error / experiment vs observational. Markdown twin: [`PSDA-INFERENCE-NOTES.md`](PSDA-INFERENCE-NOTES.md).
 
-**Print the current homework (20 items):** [`TARGETED-SET-06.pdf`](TARGETED-SET-06.pdf) — notes + questions for Karina; **no key in this file.**  
+**Print the current homework (5 items):** [`TARGETED-SET-07.pdf`](TARGETED-SET-07.pdf) — vertical/horizontal slope + margin of error; **no key in this file.**  
+Instructor key: [`../error-log/targeted-set-07-key.md`](../error-log/targeted-set-07-key.md)
+
+Set 06 (done, 17/20): [`TARGETED-SET-06.pdf`](TARGETED-SET-06.pdf)  
 Instructor key: [`../error-log/targeted-set-06-key.md`](../error-log/targeted-set-06-key.md)
 
 Set 05 (done, 9/13): [`TARGETED-SET-05.pdf`](TARGETED-SET-05.pdf)  
@@ -41,6 +44,7 @@ python3 sat-prep/print/build_packet.py TARGETED-SET-03.md
 python3 sat-prep/print/build_packet.py TARGETED-SET-04.md
 python3 sat-prep/print/build_packet.py TARGETED-SET-05.md
 python3 sat-prep/print/build_packet.py TARGETED-SET-06.md
+python3 sat-prep/print/build_packet.py TARGETED-SET-07.md
 # then print HTML to PDF, or:
 timeout 45 google-chrome --headless --disable-gpu --no-sandbox --no-pdf-header-footer \
   --user-data-dir=/tmp/chrome-sat-pdf \
