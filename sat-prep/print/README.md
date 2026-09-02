@@ -4,6 +4,8 @@ Math notes and exam-style questions only — no Saturday 2:00–2:30 lesson cloc
 
 **Print the full desk packet:** [`SAT-MATH-DESK-PACKET.pdf`](SAT-MATH-DESK-PACKET.pdf)
 
+**Student stats handout (copy-paste):** [`PSDA-INFERENCE-NOTES.txt`](PSDA-INFERENCE-NOTES.txt) — population / sample / inference / margin of error / experiment vs observational. Markdown twin: [`PSDA-INFERENCE-NOTES.md`](PSDA-INFERENCE-NOTES.md).
+
 **Print the current homework (20 items):** [`TARGETED-SET-06.pdf`](TARGETED-SET-06.pdf) — notes + questions for Karina; **no key in this file.**  
 Instructor key: [`../error-log/targeted-set-06-key.md`](../error-log/targeted-set-06-key.md)
 

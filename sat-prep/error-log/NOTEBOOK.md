@@ -70,7 +70,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K45** | \(p\%\) of **last year** \(\Rightarrow\) exponential. \(p\%\) of the **initial** amount \(\Rightarrow\) linear. | **Set 06 #6 C and #16 D both clean** | 🟩 Set 06 clean |
 | **K46** | Scatter \(ax^2+bx+c\): sign of \(a\) from opening, \(c\) from the intercept, \(b\) from \(x=-\frac{b}{2a}\). Write the three signs first. | Module 02 #4; **Set 06 #2 wrote B**; #11 letter B (written \(a\) said opens up) | 🟨 sign of \(b\) |
 | **K47** | \(f(x)=A(r)^x\) with \(0<r<1\): \(p\%\) less than the previous value is \(100(1-r)\), not \(100r\). | Module 02 #20 wrote 19; **Set 06 #15 wrote D** (\(1-0.28=0.72\)) | 🟩 Set 06 clean |
-| **K48** | Larger margin of error \(\Leftrightarrow\) **smaller** sample. Not the percent in favor, not the larger sample. | **Module 03 #15 wrote C** | 🟨 MoE vs \(n\) |
+| **K48** | Larger margin of error \(\Leftrightarrow\) **smaller** sample. Not the percent in favor, not the larger sample. | **Module 03 #15 wrote C**. Student handout: [`../print/PSDA-INFERENCE-NOTES.txt`](../print/PSDA-INFERENCE-NOTES.txt) | 🟨 MoE vs \(n\) |
 | **K49** | Arc as a fraction of the circumference is \(\text{arc}/(2\pi r)\). Do not divide by the disk area \(\pi r^2\). | **Module 03 #9 wrote \(1/3\)** (key \(1/6\)) | 🟨 arc vs area |
 | **K50** | A double root / tangent line is **one** solution, not two. \((x-1)^2=0\) still gives one ordered pair. | **Module 03 #18 wrote B** | 🟨 multiplicity |
 | **K51** | Read the asked expression. If \(\frac{x+6}{3}=\frac{x+6}{13}\), then \(x+6=0\), not the interval around \(x=-6\). | **Module 03 #19 wrote A** | 🟨 asked \(x+6\) |
