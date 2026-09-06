@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** Suite Hard **Module 03** (`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-03.pdf`). Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (10 is weaker after Set 06 #19). Paper-only leftovers: Tests 1–3. Set 06 is done (**17/20**). Set 05 is done (**9/13**). Module 02 is done (**13/22**).
+**Print for her:** Suite Hard **Module 07** (next unused volume sit). Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (10 is weaker after Set 06 #19). Paper-only leftovers: Tests 1–3. Module 04 **15/22**. Module 05 **15/22**. Module 06 **16/22**. Module 02 is done (**13/22**). Set 06 is done (**17/20**).
 
 Set 06 (done, 17/20): [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf) · [`targeted-set-06-key.md`](targeted-set-06-key.md)  
 Set 05 (done, 9/13): [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) · [`targeted-set-05-key.md`](targeted-set-05-key.md)  
@@ -59,7 +59,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K34** | Minimum (or maximum) of \(ax^2+bx+c\) is at \(x=-b/(2a)\). Do not complete the square if they asked for that \(x\). | Module 01 #20 completed the square; **Set 05 #6 wrote \(11/4\)** (still completed the square in the margin) | 🟩 answer clean |
 | **K35** | In \(F(x)=A+m(x-h)\), the printed constant \(A\) is \(F(h)\), not \(F(0)\). Set \(x=h\). | Module 02 **#13 wrote C**; **Set 06 #7 and #18 both wrote C** | 🟨 point-slope constant |
 | **K36** | Average rate of change is \(\Delta y/\Delta x\). The rise alone is not the answer. | Module 02 **#8 wrote 9** | 🟨 |
-| **K37** | Volunteer website poll is not random. A random sample generalizes to the **sampling frame**, not the table subset and not “percents must add to 100.” | Module 02 **#12 A**, **#16 C**; **Set 06 #3 / #10 / #14 / #20 all clean** | 🟩 Set 06 clean |
+| **K37** | Volunteer website poll is not random. A random sample generalizes to the **sampling frame**, not the table subset and not “percents must add to 100.” Do not go **wider** than the frame. | Module 02 **#12 A**, **#16 C**; Set 06 #3 / #14 clean; **Module 05 #1 wrote B** (all students in the region) | 🟨 frame too wide |
 | **K38** | “Maximum sold at this price” is a **quadratic** (vertex form). Two price points do not make a line. **Minimum** is the same job with \(a>0\). | Module 02 **#7 wrote 10**; **Set 06 #5 and #17 both vertex + symmetry** | 🟩 Set 06 clean |
 | **K39** | “\(p\%\) less than \(R\)” is \(R(1-p/100)\). Then “\(q\%\) greater than cost” is a second job. | Paper Test 8 shirt; **Set 06 #1 wrote 3.6** (full chain) | 🟩 Set 06 clean |
 | **K40** | Same histogram bins: smallest \(\lvert\text{mean }A-\text{mean }B\rvert\) is \(0\). Largest is \(9\) (integers inside a width-\(10\) half-open bin). | Unused Test 10 / 2 job; **Set 06 #8 wrote 0; #19 wrote 9** | 🟩 Set 06 clean |
@@ -70,6 +70,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K45** | \(p\%\) of **last year** \(\Rightarrow\) exponential. \(p\%\) of the **initial** amount \(\Rightarrow\) linear. | **Set 06 #6 C and #16 D both clean** | 🟩 Set 06 clean |
 | **K46** | Scatter \(ax^2+bx+c\): sign of \(a\) from opening, \(c\) from the intercept, \(b\) from \(x=-\frac{b}{2a}\). Write the three signs first. | Module 02 #4; **Set 06 #2 wrote B**; #11 letter B (written \(a\) said opens up) | 🟨 sign of \(b\) |
 | **K47** | \(f(x)=A(r)^x\) with \(0<r<1\): \(p\%\) less than the previous value is \(100(1-r)\), not \(100r\). | Module 02 #20 wrote 19; **Set 06 #15 wrote D** (\(1-0.28=0.72\)) | 🟩 Set 06 clean |
+| **K48** | Larger sample \(\Rightarrow\) **smaller** margin of error. Sample \(\%\pm\) MoE is a range; a value outside that range is doubtful. | **Module 06 #11 wrote A**; **#15 wrote B** | 🟨 MoE |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
 
@@ -601,6 +602,53 @@ These are **all Hard** and not adaptive. They do **not** replace unused Bluebook
 
 #2 (44), #3 (A), #5 (−22), #6 (D), #9 (515), #10 (594), #11 (C), #14 (8), #15 (D), #17 (\(3/2\)), #18 (5800), #21 (3.44), #22 (A, no solution) landed.
 
+### 2026-09-05 — Suite Hard Module 04
+
+**15/22.** Seven misses. Sheets titled “Suite Hard Module - 04.”
+
+| # | She wrote | Official | One-line why | Gaps |
+|---|---|---|---|---|
+| **3** | C | **B** | Two frequency tables. Mean of R is greater, not equal. | K16 |
+| **4** | D | **A** | Square pyramid: total SA minus lateral SA is the base, then height. | pyramid SA |
+| **9** | D | **C** | Equivalent forms: both I and II work. D is neither. | rewrite |
+| **14** | D | **A** | First-day price + extra per additional day. D prices the first day wrong. | first+extra |
+| **20** | 29 | **8** | Exponential table. \(k\) such that \(f(k)=a\). 29 is a leftover from the table. | leftover |
+| **21** | C | **B** | Isolate the asked expression from the given equation. | isolate |
+| **22** | \(-\frac{81}{4}\) | **\(\frac{81}{4}\)** | Tangent line: discriminant 0. Work had \(+81/4\); boxed the minus. | sign |
+
+#1 (C), #2 (300), #5 (B), #6 (C), #7 (C), #8 (16), #10 (D), #11 (C), #12 (16), #13 (−1), #15 (47.25), #16 (D), #17 (16), #18 (A), #19 (A) landed.
+
+### 2026-09-05 — Suite Hard Module 05
+
+**15/22.** Seven misses. #3 blank.
+
+| # | She wrote | Official | One-line why | Gaps |
+|---|---|---|---|---|
+| **1** | B | **C** | Random from second-year students in the region. B is the whole region (too wide). Table is a subset — do not shrink **or** expand the frame. | K37 |
+| **2** | 650 | **500** | Graph: distance in the first stretch is \(\Delta y\), not a later \(y\). | graph read |
+| **3** | blank | **15.5** | Rewrite the expression; \(m+n=15.5\). Did not finish. | blank |
+| **5** | C | **D** | mm per months \(\to\) mm per years. C is the wrong unit scale. | K36 |
+| **7** | 9 | **\(9/100\)** | Rewrite as \((x+a)^2\). \(a=0.09\), not 9. | leftover |
+| **13** | C | **B** | Each serving is \(5\%\) of the daily allowance. \(p=5x\), not a decimal conversion. | percent |
+| **16** | A | **B** | Parallel lines / similar triangles: only II must be true. | similar |
+
+#4 (C), #6 (D), #8 (C), #9 (2.31), #10 (\(16/17\)), #11 (C), #12 (28), #14 (11), #15 (D), #17 (B), #18 (20), #19 (\(7/50\)), #20 (A), #21 (D), #22 (D) landed.
+
+### 2026-09-05 — Suite Hard Module 06
+
+**16/22.** Six misses. #18 blank. Sheet dated 9/5.
+
+| # | She wrote | Official | One-line why | Gaps |
+|---|---|---|---|---|
+| **4** | B | **D** | Congruence: neither I nor II is enough by itself. | congruence |
+| **11** | A | **D** | \(30\%\pm 3\%\) is 27 to 33. 35% is outside, so doubtful. A treats MoE as misclassification. | K48 |
+| **12** | C | **D** | Unit circle, points on opposite sides of the \(x\)-axis. Positive angle is an odd multiple of \(\pi\). | radians |
+| **15** | B | **D** | Double the sample \(\Rightarrow\) MoE **smaller** than the original. B keeps it in a band around the old MoE. | K48 |
+| **18** | blank | **\(-\frac{49}{150}\)** | Linear, one variable. Started \(8t-4.6=80(t-0.001)+1.9\) and stopped. | blank |
+| **20** | 18 | **13** | Rectangle, length is 5 more than width, area 104. Width 8, **length 13**. 18 is \(13+5\). | leftover |
+
+#1 (B), #2 (A), #3 (2.6), #5 (B), #6 (40), #7 (1), #8 (B), #9 (5), #10 (A), #13 (C), #14 (D), #16 (50.5), #17 (B), #19 (B), #21 (3), #22 (A) landed.
+
 ### 2026-08-28 / 08-29 — Bluebook Practice Test 6 Math
 
 **Score:** Module 1 **21/22**, Module 2 **17/22** → raw **38/44**. In-app Math **710**. Second real 44-question adaptive sit. Do **not** convert with paper tables.
@@ -650,8 +698,10 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Module 01 **17/22**. Module 02 **13/22**. **Set 05 is done: 9/13.** **Set 06 is done: 17/20.**
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Module 01 **17/22**. Module 02 **13/22**. **Module 04 15/22. Module 05 15/22. Module 06 16/22.** Set 05 **9/13.** Set 06 **17/20.**
 
-Walk **Set 06 #2** (sign of \(b\)) and **#7 / #18** (printed constant is \(F(h)\), not \(F(0)\)). Then print Suite Hard **Module 03**. Do **not** restack Set 06 clean families (shirt chain, volunteer poll / experiment / observational / sampling frame, equilateral \(k\sqrt{3}\), bowls min/symmetry, last-year vs initial, histogram 0 and 9, sphere, factor \(x+2b\), isosceles-right altitude, decay \(p\%=72\)).
+If she sits a full Bluebook today: **Practice Test 7**. Next volume sit: Suite Hard **Module 07**.
 
-Leftover **full** official Bluebook simulations: **7** and **10** only — Set 06 #19 uses the Test 10 histogram **counts**, so Test 10 is weaker if she sits it later. Paper 1–3 leftover. Suite Hard leftover: **03–16**. Still open from earlier: K16, K22, K23, K24, K3 hide-\(k\), Set 05 cubic \(c\) / printed constant / factored \(a\), **K35** (now three C’s in a row), **K36** rate, **K46** sign of \(b\).
+Walk before Test 7: **MoE** (Module 06 #11 interval, #15 larger \(n\) ⇒ smaller MoE), **sampling frame** (Module 05 #1 too wide), **don’t box the leftover** (Module 05 #7 wrote 9 not \(0.09\); Module 06 #20 wrote 18 not 13), **\(F(h)\) not \(F(0)\)** (Set 06 #7 / #18), **sign of \(b\)** (Set 06 #2).
+
+Leftover **full** official Bluebook simulations: **7** and **10** only. Paper 1–3 leftover. Suite Hard leftover: **07–16**.
