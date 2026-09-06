@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** [`../print/TARGETED-SET-07.pdf`](../print/TARGETED-SET-07.pdf) — 5 items (K7 vertical/horizontal + K48 margin of error). Then Suite Hard **Module 04**. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (10 is weaker after Set 06 #19). Paper-only leftovers: Tests 1–3. Module 03 is done (**15/22**). Set 06 is done (**17/20**). Set 05 is done (**9/13**). Module 02 is done (**13/22**).
+**Print for her:** miss review [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf) (41 items she missed in Modules 01–06) and unseen Hard PSDA [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf) (34 items not in Modules 01–08). Next volume sit: **Module 08**. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (10 is weaker after Set 06 #19). Paper-only leftovers: Tests 1–3. Modules 01–06 scored. Module 07 sheet not in the log — send it if she sat it. Set 07 still unused if she has not sat it.
 
 Set 07 (ready): [`../print/TARGETED-SET-07.pdf`](../print/TARGETED-SET-07.pdf) · [`targeted-set-07-key.md`](targeted-set-07-key.md)  
 Set 06 (done, 17/20): [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf) · [`targeted-set-06-key.md`](targeted-set-06-key.md)  
@@ -59,8 +59,8 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K33** | Several tangents form a quadrilateral. Equal tangents from a point; radius \(\perp\) tangent; then Pythagorean. A monstrous length is bait. | Bluebook 6 tangent-quad; **Set 05 #11 \(2275\) and #13 \(1476\) both clean** | 🟩 Set 05 clean |
 | **K34** | Minimum (or maximum) of \(ax^2+bx+c\) is at \(x=-b/(2a)\). Do not complete the square if they asked for that \(x\). | Module 01 #20 completed the square; **Set 05 #6 wrote \(11/4\)** (still completed the square in the margin) | 🟩 answer clean |
 | **K35** | In \(F(x)=A+m(x-h)\), the printed constant \(A\) is \(F(h)\), not \(F(0)\). Set \(x=h\). | Module 02 **#13 wrote C**; **Set 06 #7 and #18 both wrote C** | 🟨 point-slope constant |
-| **K36** | Average rate of change is \(\Delta y/\Delta x\). The rise alone is not the answer. Density is mass/volume — do not box the volume leftover. | Module 02 **#8 wrote 9**; **Module 03 #7 wrote 8** (volume, not \(2.56/8=8/25\)) | 🟨 leftover quotient |
-| **K37** | Volunteer website poll is not random. A random sample generalizes to the **sampling frame**, not the table subset and not “percents must add to 100.” | Module 02 **#12 A**, **#16 C**; **Set 06 #3 / #10 / #14 / #20 all clean** | 🟩 Set 06 clean |
+| **K36** | Average rate of change is \(\Delta y/\Delta x\). The rise alone is not the answer. Density is mass/volume — do not box the volume leftover. | Module 02 **#8 wrote 9**; **Module 03 #7 wrote 8** (volume, not \(2.56/8=8/25\)); Module 05 **#5 wrote C** (wrong unit scale) | 🟨 leftover quotient |
+| **K37** | Volunteer website poll is not random. A random sample generalizes to the **sampling frame**, not the table subset and not “percents must add to 100.” Do not go **wider** than the frame. | Module 02 **#12 A**, **#16 C**; Set 06 #3 / #10 / #14 / #20 clean; **Module 05 #1 wrote B** (all students in the region) | 🟨 frame too wide |
 | **K38** | “Maximum sold at this price” is a **quadratic** (vertex form). Two price points do not make a line. **Minimum** is the same job with \(a>0\). | Module 02 **#7 wrote 10**; **Set 06 #5 and #17 both vertex + symmetry** | 🟩 Set 06 clean |
 | **K39** | “\(p\%\) less than \(R\)” is \(R(1-p/100)\). Then “\(q\%\) greater than cost” is a second job. | Paper Test 8 shirt; **Set 06 #1 wrote 3.6** (full chain) | 🟩 Set 06 clean |
 | **K40** | Same histogram bins: smallest \(\lvert\text{mean }A-\text{mean }B\rvert\) is \(0\). Largest is \(9\) (integers inside a width-\(10\) half-open bin). | Unused Test 10 / 2 job; **Set 06 #8 wrote 0; #19 wrote 9** | 🟩 Set 06 clean |
@@ -71,7 +71,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K45** | \(p\%\) of **last year** \(\Rightarrow\) exponential. \(p\%\) of the **initial** amount \(\Rightarrow\) linear. | **Set 06 #6 C and #16 D both clean** | 🟩 Set 06 clean |
 | **K46** | Scatter \(ax^2+bx+c\): sign of \(a\) from opening, \(c\) from the intercept, \(b\) from \(x=-\frac{b}{2a}\). Write the three signs first. | Module 02 #4; **Set 06 #2 wrote B**; #11 letter B (written \(a\) said opens up) | 🟨 sign of \(b\) |
 | **K47** | \(f(x)=A(r)^x\) with \(0<r<1\): \(p\%\) less than the previous value is \(100(1-r)\), not \(100r\). | Module 02 #20 wrote 19; **Set 06 #15 wrote D** (\(1-0.28=0.72\)) | 🟩 Set 06 clean |
-| **K48** | Larger margin of error \(\Leftrightarrow\) **smaller** sample. Not the percent in favor, not the larger sample. | **Module 03 #15 wrote C**. Student handout: [`../print/PSDA-INFERENCE-NOTES.txt`](../print/PSDA-INFERENCE-NOTES.txt) | 🟨 MoE vs \(n\) |
+| **K48** | Larger sample \(\Rightarrow\) **smaller** margin of error. Sample \(\%\pm\) MoE is a range; a value outside that range is doubtful. Not the percent in favor. | **Module 03 #15 wrote C**; **Module 06 #11 wrote A**; **#15 wrote B**. Student handout: [`../print/PSDA-INFERENCE-NOTES.txt`](../print/PSDA-INFERENCE-NOTES.txt) | 🟨 MoE |
 | **K49** | Arc as a fraction of the circumference is \(\text{arc}/(2\pi r)\). Do not divide by the disk area \(\pi r^2\). | **Module 03 #9 wrote \(1/3\)** (key \(1/6\)) | 🟨 arc vs area |
 | **K50** | A double root / tangent line is **one** solution, not two. \((x-1)^2=0\) still gives one ordered pair. | **Module 03 #18 wrote B** | 🟨 multiplicity |
 | **K51** | Read the asked expression. If \(\frac{x+6}{3}=\frac{x+6}{13}\), then \(x+6=0\), not the interval around \(x=-6\). | **Module 03 #19 wrote A** | 🟨 asked \(x+6\) |
@@ -633,7 +633,52 @@ These are **all Hard** and not adaptive. They do **not** replace unused Bluebook
 
 #1 (similar triangles, \(CE=30\)), #2 (B), #3 (\(7/10\)), #4 (\(b=33\)), #5 (B), #6 (B), #8 (D), #10 (D), #11 (weighted mean 41), #12 (A), #13 (\(41^2=1681\)), #14 (A), #17 (C), #20 (D), #21 (D) landed. Do **not** restack similar-triangle proportions, similar-figure \(k^2\), weighted mean, or adding rationals from this module.
 
-Walk before Module 04: **#16** (⊥ to vertical = 0), **#18** (double root is one pair), **#19** (they asked for \(x+6\)), **#9** (arc over \(2\pi r\)), **#15** (MoE vs \(n\)).
+### 2026-09-05 — Suite Hard Module 04
+
+**15/22.** Seven misses. Sheets titled “Suite Hard Module - 04.”
+
+| # | She wrote | Official | One-line why | Gaps |
+|---|---|---|---|---|
+| **3** | C | **B** | Two frequency tables. Mean of R is greater, not equal. | K16 |
+| **4** | D | **A** | Square pyramid: total SA minus lateral SA is the base, then height. | pyramid SA |
+| **9** | D | **C** | Equivalent forms: both I and II work. D is neither. | rewrite |
+| **14** | D | **A** | First-day price + extra per additional day. D prices the first day wrong. | first+extra |
+| **20** | 29 | **8** | Exponential table. \(k\) such that \(f(k)=a\). 29 is a leftover from the table. | leftover |
+| **21** | C | **B** | Isolate the asked expression from the given equation. | isolate |
+| **22** | \(-\frac{81}{4}\) | **\(\frac{81}{4}\)** | Tangent line: discriminant 0. Work had \(+81/4\); boxed the minus. | sign |
+
+#1 (C), #2 (300), #5 (B), #6 (C), #7 (C), #8 (16), #10 (D), #11 (C), #12 (16), #13 (−1), #15 (47.25), #16 (D), #17 (16), #18 (A), #19 (A) landed.
+
+### 2026-09-05 — Suite Hard Module 05
+
+**15/22.** Seven misses. #3 blank.
+
+| # | She wrote | Official | One-line why | Gaps |
+|---|---|---|---|---|
+| **1** | B | **C** | Random from second-year students in the region. B is the whole region (too wide). Table is a subset — do not shrink **or** expand the frame. | K37 |
+| **2** | 650 | **500** | Graph: distance in the first stretch is \(\Delta y\), not a later \(y\). | graph read |
+| **3** | blank | **15.5** | Rewrite the expression; \(m+n=15.5\). Did not finish. | blank |
+| **5** | C | **D** | mm per months \(\to\) mm per years. C is the wrong unit scale. | K36 |
+| **7** | 9 | **\(9/100\)** | Rewrite as \((x+a)^2\). \(a=0.09\), not 9. | leftover |
+| **13** | C | **B** | Each serving is \(5\%\) of the daily allowance. \(p=5x\), not a decimal conversion. | percent |
+| **16** | A | **B** | Parallel lines / similar triangles: only II must be true. | similar |
+
+#4 (C), #6 (D), #8 (C), #9 (2.31), #10 (\(16/17\)), #11 (C), #12 (28), #14 (11), #15 (D), #17 (B), #18 (20), #19 (\(7/50\)), #20 (A), #21 (D), #22 (D) landed.
+
+### 2026-09-05 — Suite Hard Module 06
+
+**16/22.** Six misses. #18 blank. Sheet dated 9/5.
+
+| # | She wrote | Official | One-line why | Gaps |
+|---|---|---|---|---|
+| **4** | B | **D** | Congruence: neither I nor II is enough by itself. | congruence |
+| **11** | A | **D** | \(30\%\pm 3\%\) is 27 to 33. 35% is outside, so doubtful. A treats MoE as misclassification. | K48 |
+| **12** | C | **D** | Unit circle, points on opposite sides of the \(x\)-axis. Positive angle is an odd multiple of \(\pi\). | radians |
+| **15** | B | **D** | Double the sample \(\Rightarrow\) MoE **smaller** than the original. B keeps it in a band around the old MoE. | K48 |
+| **18** | blank | **\(-\frac{49}{150}\)** | Linear, one variable. Started \(8t-4.6=80(t-0.001)+1.9\) and stopped. | blank |
+| **20** | 18 | **13** | Rectangle, length is 5 more than width, area 104. Width 8, **length 13**. 18 is \(13+5\). | leftover |
+
+#1 (B), #2 (A), #3 (2.6), #5 (B), #6 (40), #7 (1), #8 (B), #9 (5), #10 (A), #13 (C), #14 (D), #16 (50.5), #17 (B), #19 (B), #21 (3), #22 (A) landed.
 
 ### 2026-08-28 / 08-29 — Bluebook Practice Test 6 Math
 
@@ -684,12 +729,12 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Module 01 **17/22**. Module 02 **13/22**. **Module 03 is done: 15/22.** **Set 05 is done: 9/13.** **Set 06 is done: 17/20.**
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Suite Hard: Module 01 **17/22**, 02 **13/22**, 03 **15/22**, 04 **15/22**, 05 **15/22**, 06 **16/22**. Set 05 **9/13.** Set 06 **17/20.** Set 07 built, not scored.
 
-**Set 07 is the current homework (5 originals):** two 0-vs-undefined slope items, three margin-of-error items. Print that first. Then Suite Hard **Module 04**.
+This week: reprint the **41 misses** from Modules 01–06, then the **34 unseen Hard PSDA** (Modules 01–08 stripped out). Next volume sit: **Module 08**. If she sits a full Bluebook: **Practice Test 7**. Module 07 is not in the miss packet — no sheet logged. Send it if she already sat it.
 
-Still open to walk later, not in this packet: Module 03 **#18** (double root), **#19** (asked \(x+6\)), **#9** (arc over \(2\pi r\)); Set 06 **#2** (sign of \(b\)) and **#7 / #18** (\(F(h)\), not \(F(0)\)).
+Walk on the miss packet, not a new mixed grind: **MoE** (Module 03 #15, Module 06 #11 / #15), **sampling frame** (Module 05 #1 too wide), **don’t box the leftover** (Module 03 #7 wrote 8 not \(8/25\); Module 05 #7 wrote 9 not \(0.09\); Module 06 #20 wrote 18 not 13), **\(F(h)\) not \(F(0)\)** (Set 06 #7 / #18), **sign of \(b\)** (Set 06 #2), **⊥ to vertical is slope 0** (Module 03 #16), **double root is one pair** (Module 03 #18), **asked \(x+6\)** (Module 03 #19).
 
-Do **not** restack Set 06 clean families, or Module 03 similar-triangle / \(k^2\) / weighted-mean / adding-rationals hits.
+Do **not** restack Set 06 clean families, or Module 03 similar-triangle / \(k^2\) / weighted-mean / adding-rationals hits. Do **not** start Modules 09–16 as a full grind.
 
-Leftover **full** official Bluebook simulations: **7** and **10** only — Set 06 #19 uses the Test 10 histogram **counts**, so Test 10 is weaker if she sits it later. Paper 1–3 leftover. Suite Hard leftover: **04–16**. Still open: K16, K22, K23, K24, K3 hide-\(k\), Set 05 cubic \(c\) / printed constant / factored \(a\), **K7** inverted, **K35**, **K36** leftover quotient, **K46** sign of \(b\), **K48–K51**.
+Leftover **full** official Bluebook simulations: **7** and **10** only — Set 06 #19 uses the Test 10 histogram **counts**, so Test 10 is weaker if she sits it later. Paper 1–3 leftover. Suite Hard leftover after Module 08: **09–16**. Still open: K16, K22, K23, K24, K3 hide-\(k\), Set 05 cubic \(c\) / printed constant / factored \(a\), **K7** inverted, **K35**, **K36** leftover quotient, **K46** sign of \(b\), **K48–K51**.
