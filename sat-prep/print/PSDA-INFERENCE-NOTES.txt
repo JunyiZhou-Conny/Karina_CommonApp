@@ -1,0 +1,136 @@
+SAT Math Notes — Statistical Inference
+Copy this whole note to students. Digital SAT Math tests this on almost every exam.
+
+1. Population vs. sample
+
+Population = the entire group you want to learn about.
+Example: all students in the United States.
+
+Sample = the smaller part you actually survey or test.
+Example: 500 students you surveyed.
+
+Soup analogy:
+You are cooking a huge pot of soup and want to know if it needs salt.
+You do not drink the whole pot (population).
+You take one spoonful (sample).
+If that spoonful is salty, you assume the whole pot is salty.
+
+2. When can we trust the sample?
+
+Only if it was randomly selected.
+That means every person in the population had an equal chance of being picked.
+
+If you only ask your friends, the sample is biased (unfair).
+A website poll, a call-in, or “whoever showed up” is not random.
+
+Key takeaway:
+Random sampling is the requirement.
+If the sample is not random, you cannot make a reliable claim about the whole population.
+
+3. Making an inference (the smart guess)
+
+An inference is a conclusion from the data.
+SAT often asks you to estimate a total from a sample percent.
+
+How:
+1) Find the sample proportion (the fraction that meets the condition).
+2) Multiply that proportion by the population size.
+
+Example:
+A school has 2,000 students.
+You survey 200 randomly selected students.
+40 of them say blue is their favorite color.
+How many students in the whole school likely prefer blue?
+
+Step 1: 40/200 = 0.20 (20%)
+Step 2: 0.20 × 2,000 = 400
+
+Inference: about 400 students in the school prefer blue.
+
+Trap:
+If the survey only asked seniors, you can only talk about seniors — not the whole school.
+The conclusion can only be about the group the sample was pulled from (the sampling frame).
+A table that later shows only a subset does not shrink that frame.
+
+Another trap:
+Percents that add to 97 or 98 (instead of 100) do NOT kill the poll.
+“Not a random sample” is the real problem.
+
+4. Margin of error
+
+Even a good random sample can be a little off from the whole population.
+That wiggle room is the margin of error.
+
+45% ± 3% means the true population value is likely between
+42% (45 − 3) and 48% (45 + 3).
+
+SAT will not ask you to compute the formula.
+They ask you to read what the interval means,
+or how to make the margin of error smaller.
+
+Golden rule of sample size:
+Larger sample → smaller margin of error (more precise).
+Smaller sample → larger margin of error (less precise).
+
+Soup again:
+A tiny sip might miss a noodle.
+A bigger bowl is a better picture of the pot.
+More data → more confidence → smaller wiggle room.
+
+If two random samples come from the same population
+and one has a larger margin of error,
+that sample was almost certainly the smaller one.
+Not because it had a higher percent “in favor.”
+Not because it was the larger sample. That is the opposite.
+
+5. Evaluating statistical claims
+
+The SAT asks whether a conclusion is appropriate. Check two things.
+
+1) Was the sample random?
+If yes, you may generalize to the population it was drawn from.
+If no, stop. The claim about “everyone” is not justified.
+
+2) Was there random assignment?
+This is for experiments.
+Researchers randomly put people into groups
+(for example, fertilizer A vs fertilizer B, or medicine vs sugar pill).
+Then they may claim the treatment caused the change.
+
+No random assignment → you may say there is a connection.
+You may NOT say “this caused that.”
+
+Watching who already eats breakfast, already exercises, or already uses a product
+is an observational study. No cause.
+
+Trick example:
+100 volunteers who chose to exercise every day had lower stress.
+Can we say exercise causes lower stress for everyone?
+
+No.
+They were volunteers (not a random sample of everyone),
+and they chose to exercise (not randomly assigned).
+You cannot prove cause, and you cannot apply it to everyone.
+
+Key takeaway:
+Cause-and-effect needs an experiment with random assignment.
+
+6. SAT checklist (run this on every stats item)
+
+1. Is the sample random?
+   If no, the study is biased. You cannot talk about the whole population.
+2. Who is the population?
+   The conclusion can only be about the group the sample was pulled from.
+3. Is there a margin of error?
+   That makes a range: sample value ± error.
+   “Exactly 52% of all voters” is never justified.
+4. How do I make the error smaller?
+   Get a bigger random sample.
+   A larger margin of error means a smaller sample, not a larger one.
+5. Is it an experiment?
+   Only random assignment lets you say “this caused that.”
+   A survey that just watches is observational.
+
+Pro tip:
+“Most likely” value → usually the sample percent or sample mean.
+“Range of likely values” → that value plus and minus the margin of error.

@@ -2,9 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>SAT Math Desk Packet — Karina</title>
+<title>SAT Math Desk Packet</title>
 <link rel="stylesheet" href="vendor/katex/katex.min.css">
 <style>
+  h2 { font-size: 16pt; margin-top: 1.5rem; page-break-after: avoid; page-break-before: always; }
+  h1 + p + p + p + p + hr + h2 { page-break-before: avoid; }
+
   body {
     font-family: Georgia, "Times New Roman", serif;
     font-size: 12.5pt;
@@ -15,8 +18,6 @@
     color: #111;
   }
   h1 { font-size: 22pt; margin-top: 1.6rem; page-break-after: avoid; }
-  h2 { font-size: 16pt; margin-top: 1.5rem; page-break-after: avoid; page-break-before: always; }
-  h1 + p + p + p + p + hr + h2 { page-break-before: avoid; }
   h3 { font-size: 13.5pt; page-break-after: avoid; }
   table { border-collapse: collapse; width: 100%; margin: 0.8rem 0; font-size: 11pt; }
   th, td { border: 1px solid #444; padding: 5px 7px; text-align: left; vertical-align: top; }
@@ -24,11 +25,31 @@
   p { margin: 0.45rem 0; }
   li { margin: 0.25rem 0; }
   .katex { font-size: 1.05em; }
+  .page-break { break-before: page; page-break-before: always; }
+  .circ-lead {
+    color: #b00000;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 1.2em;
+    border: 2.5px solid #b00000;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.45em;
+    height: 1.45em;
+    line-height: 1;
+    margin: 0 0.12em;
+    vertical-align: -0.15em;
+    font-family: Georgia, "Times New Roman", serif;
+  }
+  .blank-line { border-bottom: 1px solid #333; display: inline-block; min-width: 22em; height: 1.15em; }
   @media print {
     body { margin: 0; max-width: none; padding: 0; }
     a { color: inherit; text-decoration: none; }
   }
   @page { size: letter; margin: 0.75in; }
+
 </style>
 </head>
 <body>
@@ -141,6 +162,10 @@
 <li>Mean follows outliers; median often does not. Mean of <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.4306em;"></span><span class="mord mathnormal">n</span></span></span></span> values <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span> sum <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.3669em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.4445em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">⋅</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.4306em;"></span><span class="mord text"><span class="mord">mean</span></span></span></span></span>.</li>
 <li>Two-way table: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.1389em;">P</span><span class="mopen">(</span><span class="mord mathnormal">A</span><span class="mclose">)</span></span></span></span> uses the grand total; <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.1389em;">P</span><span class="mopen">(</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">∣</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.0502em;">B</span><span class="mclose">)</span></span></span></span> first restrict to the <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.0502em;">B</span></span></span></span> row or column.</li>
 <li>Margin of error: 52% <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">±</span></span></span></span> 4% means the true value is <strong>likely between 48% and 56%</strong>, not “exactly 52%.”</li>
+<li>Larger random sample <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span> <strong>smaller</strong> margin of error. Smaller sample <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span> larger margin of error. SAT will flip this.</li>
+<li>Volunteer / website poll is <strong>not</strong> random. You may generalize only to the group the sample was pulled from (the sampling frame).</li>
+<li>Random <strong>assignment</strong> (an experiment) can support cause. Watching who already does something is observational — no cause.</li>
+<li>Full student handout: <a href="PSDA-INFERENCE-NOTES.md"><code>PSDA-INFERENCE-NOTES.md</code></a> · WeChat copy-paste: <a href="PSDA-INFERENCE-NOTES.txt"><code>PSDA-INFERENCE-NOTES.txt</code></a>.</li>
 </ul>
 <h3>Geometry and trigonometry</h3>
 <ul>

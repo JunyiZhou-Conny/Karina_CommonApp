@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Targeted SAT Math — Set 07</title>
+<link rel="stylesheet" href="vendor/katex/katex.min.css">
+<style>
+  h2 { font-size: 16pt; margin-top: 1.5rem; page-break-after: avoid; }
+
+  body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 12.5pt;
+    line-height: 1.5;
+    max-width: 800px;
+    margin: 1.5rem auto;
+    padding: 0 1.2rem 3rem;
+    color: #111;
+  }
+  h1 { font-size: 22pt; margin-top: 1.6rem; page-break-after: avoid; }
+  h3 { font-size: 13.5pt; page-break-after: avoid; }
+  table { border-collapse: collapse; width: 100%; margin: 0.8rem 0; font-size: 11pt; }
+  th, td { border: 1px solid #444; padding: 5px 7px; text-align: left; vertical-align: top; }
+  th { background: #eee; }
+  p { margin: 0.45rem 0; }
+  li { margin: 0.25rem 0; }
+  .katex { font-size: 1.05em; }
+  .page-break { break-before: page; page-break-before: always; }
+  .circ-lead {
+    color: #b00000;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 1.2em;
+    border: 2.5px solid #b00000;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.45em;
+    height: 1.45em;
+    line-height: 1;
+    margin: 0 0.12em;
+    vertical-align: -0.15em;
+    font-family: Georgia, "Times New Roman", serif;
+  }
+  .blank-line { border-bottom: 1px solid #333; display: inline-block; min-width: 22em; height: 1.15em; }
+  @media print {
+    body { margin: 0; max-width: none; padding: 0; }
+    a { color: inherit; text-decoration: none; }
+  }
+  @page { size: letter; margin: 0.75in; }
+
+  p { margin: 0.5rem 0 0.85rem; }
+  li { margin: 0.32rem 0; }
+  table { margin: 0.55rem 0 1rem; }
+  .q-gap { height: 0.7em; }
+
+</style>
+</head>
+<body>
+<h1>Targeted SAT Math — Set 07</h1>
+<p><strong>Student:</strong> Karina<br />
+<strong>Homework after Suite Hard Module 03.</strong> Five questions. Work on paper. Calculator / Desmos is fine.</p>
+<p>These are <strong>new</strong> questions on two leftover jobs — not those official questions, and not copies from Sets 01–06.</p>
+<p><strong>SPR</strong> = student-produced response. Write a number (integer, decimal, or fraction).</p>
+<p><strong><em>Write the job first.</em></strong></p>
+<hr />
+<h2>1. Notes for this set only</h2>
+<h3>Vertical line vs horizontal line</h3>
+<p>A line whose equation is <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span></span></span></span> (for example <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">5</span></span></span></span>) is <strong>vertical</strong>. Its slope is <strong>undefined</strong>. It is parallel to the <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">y</span></span></span></span>-axis.</p>
+<p>A line whose equation is <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">y</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span></span></span></span> is <strong>horizontal</strong>. Its slope is <strong>0</strong>. It is parallel to the <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span></span></span></span>-axis.</p>
+<p>Perpendicular to a vertical line is horizontal, so that slope is <strong>0</strong>.<br />
+Perpendicular to a horizontal line is vertical, so that slope is <strong>undefined</strong>.</p>
+<p>Undefined belongs to the <strong>vertical line itself</strong>. Do not give “undefined” to the line that is perpendicular to it.</p>
+<h3>Margin of error</h3>
+<p>A poll result like <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8333em;vertical-align:-0.0833em;"></span><span class="mord">45%</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">±</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">4%</span></span></span></span> means the true percent in the <strong>whole population</strong> is likely between <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">41%</span></span></span></span> and <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">49%</span></span></span></span>. It does <strong>not</strong> mean “exactly <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">45%</span></span></span></span>.”</p>
+<p>SAT will not ask you to compute a formula. They ask you to read the interval, or to say what makes the margin of error bigger or smaller.</p>
+<ul>
+<li>Larger random sample <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span> <strong>smaller</strong> margin of error.</li>
+<li>Smaller random sample <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span> <strong>larger</strong> margin of error.</li>
+</ul>
+<p>If two random samples come from the <strong>same</strong> population and sample A has the larger margin of error, sample A was the <strong>smaller</strong> sample. Not because it had a higher percent “in favor.” Not because it was the larger sample.</p>
+<hr />
+<h2>2. Questions</h2>
+<div class="q-gap"></div>
+
+<p><strong>1.</strong> Line <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6944em;"></span><span class="mord">ℓ</span></span></span></span> in the <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">x</span><span class="mord mathnormal" style="margin-right:0.0359em;">y</span></span></span></span>-plane is perpendicular to the line with equation <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">5</span></span></span></span>. What is the slope of line <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6944em;"></span><span class="mord">ℓ</span></span></span></span>?</p>
+<p>A) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">5</span></span></span></span><br />
+B) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:2.0074em;vertical-align:-0.686em;"></span><span class="mord">−</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3214em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">5</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span><br />
+C) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">0</span></span></span></span><br />
+D) The slope of line <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6944em;"></span><span class="mord">ℓ</span></span></span></span> is undefined.</p>
+<div class="q-gap"></div>
+
+<p><strong>2.</strong> What is the slope of the line with equation <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">9</span></span></span></span>?</p>
+<p>A) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">0</span></span></span></span><br />
+B) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:2.0074em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3214em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">9</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span><br />
+C) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">9</span></span></span></span><br />
+D) The slope is undefined.</p>
+<div class="q-gap"></div>
+
+<p><strong>3.</strong> Two random samples of votes on the same city measure were selected from the same population of voters. The margins of error were calculated the same way.</p>
+<table>
+<thead>
+<tr>
+<th>Sample</th>
+<th style="text-align: right;">Percent in favor</th>
+<th style="text-align: right;">Margin of error</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td style="text-align: right;"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">54%</span></span></span></span></td>
+<td style="text-align: right;"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">4.8%</span></span></span></span></td>
+</tr>
+<tr>
+<td>B</td>
+<td style="text-align: right;"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">50%</span></span></span></span></td>
+<td style="text-align: right;"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">1.5%</span></span></span></span></td>
+</tr>
+</tbody>
+</table>
+<p>Which of the following is the most appropriate reason that the margin of error for sample A is greater than the margin of error for sample B?</p>
+<p>A) Sample A had a higher percent of favorable responses.<br />
+B) Sample A had a larger sample size.<br />
+C) Sample A had a smaller sample size.<br />
+D) Sample A had fewer ballots that could not be recorded.</p>
+<div class="q-gap"></div>
+
+<p><strong>4.</strong> A random sample of residents in a town shows that <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">38%</span></span></span></span> support a new park, with a margin of error of <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">3%</span></span></span></span>. Which conclusion is most appropriate?</p>
+<p>A) Exactly <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">38%</span></span></span></span> of all residents in the town support the park.<br />
+B) The true percent of all residents who support the park is likely between <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">35%</span></span></span></span> and <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">41%</span></span></span></span>.<br />
+C) The park will be approved.<br />
+D) The sample is biased because the result is not <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">50%</span></span></span></span> to <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8056em;vertical-align:-0.0556em;"></span><span class="mord">50%</span></span></span></span>.</p>
+<div class="q-gap"></div>
+
+<p><strong>5.</strong> Two random samples are taken from the same city. Sample P has <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">80</span></span></span></span> people. Sample Q has <span class="katex"><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">800</span></span></span></span> people. The same method is used to compute each margin of error. Which sample is likely to have the <strong>smaller</strong> margin of error?</p>
+<p>A) Sample P<br />
+B) Sample Q<br />
+C) The two margins of error must be equal.<br />
+D) It cannot be determined without the sample percents.</p>
+</body>
+</html>

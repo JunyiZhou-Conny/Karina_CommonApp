@@ -66,6 +66,10 @@ SPR: type a number (integer, decimal, or fraction). Blank SPR is a free miss.
 - Mean follows outliers; median often does not. Mean of \(n\) values \(\Rightarrow\) sum \(=n\cdot\text{mean}\).
 - Two-way table: \(P(A)\) uses the grand total; \(P(A\mid B)\) first restrict to the \(B\) row or column.
 - Margin of error: 52% \(\pm\) 4% means the true value is **likely between 48% and 56%**, not “exactly 52%.”
+- Larger random sample \(\Rightarrow\) **smaller** margin of error. Smaller sample \(\Rightarrow\) larger margin of error. SAT will flip this.
+- Volunteer / website poll is **not** random. You may generalize only to the group the sample was pulled from (the sampling frame).
+- Random **assignment** (an experiment) can support cause. Watching who already does something is observational — no cause.
+- Full student handout: [`PSDA-INFERENCE-NOTES.md`](PSDA-INFERENCE-NOTES.md) · WeChat copy-paste: [`PSDA-INFERENCE-NOTES.txt`](PSDA-INFERENCE-NOTES.txt).
 
 ### Geometry and trigonometry
 
