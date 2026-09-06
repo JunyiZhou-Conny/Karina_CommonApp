@@ -680,6 +680,16 @@ These are **all Hard** and not adaptive. They do **not** replace unused Bluebook
 
 #1 (B), #2 (A), #3 (2.6), #5 (B), #6 (40), #7 (1), #8 (B), #9 (5), #10 (A), #13 (C), #14 (D), #16 (50.5), #17 (B), #19 (B), #21 (3), #22 (A) landed.
 
+### 2026-09-06 — last-week packs
+
+No new sit. Reprint only.
+
+- **Miss review:** [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf) — **41** official items she missed in Modules 01–06. Module 01 #20 omitted (landed). Module 07 omitted (no sheet). Mix: Algebra 9, Advanced Math 14, PSDA 12, Geometry 6. Instructor key: [`module-miss-review-key.md`](module-miss-review-key.md).
+- **Unseen Hard PSDA:** [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf) — **34** of the 66-item Hard PSDA bank. The other 32 already appear in Modules 01–08 (24 in the scored 01–06 sits, 4 in Module 07, 4 in Module 08). Instructor key: [`psda-unseen-key.md`](psda-unseen-key.md).
+- **Next volume:** Module 08. Do not grind 09–16.
+
+Rebuild both packs: `python3 sat-prep/official/suitebank/SAT-Math-Hard-exclude-active/modules/build_review_packs.py`.
+
 ### 2026-08-28 / 08-29 — Bluebook Practice Test 6 Math
 
 **Score:** Module 1 **21/22**, Module 2 **17/22** → raw **38/44**. In-app Math **710**. Second real 44-question adaptive sit. Do **not** convert with paper tables.

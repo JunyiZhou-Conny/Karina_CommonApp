@@ -26,10 +26,22 @@ A 5/5/6/6 split is not possible: PSDA only has **66** Hard items (that split wou
 | 15 | 22 | 35 | 5 | 6 | 5 | 6 | [module-15.pdf](student/module-15.pdf) | [key](keys/module-15-key.md) |
 | 16 | 10 | 16 | 2 | 3 | 2 | 3 | [module-16.pdf](student/module-16.pdf) | [key](keys/module-16-key.md) |
 
+## Last-week packs (not extra modules)
+
+Rebuild: `python3 build_review_packs.py`
+
+| Pack | Items | Student PDF | Key |
+|---|---|---|---|
+| Miss review (Modules 01–06 wrongs only) | 41 | [miss-review-01-06.pdf](student/miss-review-01-06.pdf) | [key](keys/miss-review-01-06-key.md) |
+| Unseen Hard PSDA (not in Modules 01–08) | 34 | [psda-unseen.pdf](student/psda-unseen.pdf) | [key](keys/psda-unseen-key.md) |
+
+Module 01 #20 is omitted (she landed). Module 07 is omitted from the miss pack (no score sheet). The PSDA pack drops the 32 Hard PSDA items already used in Modules 01–08 so she does not redo a sit or the next assigned volume.
+
 ## How to sit
 
 1. Print [`student/module-01.pdf`](student/module-01.pdf). Pages 1–2 are the official SAT Math directions + reference. Question 1 starts on page 3; each item has **Question N of 22** above the official page.
 2. 35 minutes, no pausing. Score from the matching key in [`keys/`](keys/) — do not put answers in the student PDF.
 3. Log misses by **module # + item #** (and domain). Do not restack a clean domain.
 4. Next unused official Bluebook sit is **7 or 10** (4, 6, and 8 are used; 8 sat 8/30) — these modules do not replace that.
+5. Next volume sit after the last-week packs: [`student/module-08.pdf`](student/module-08.pdf).
 

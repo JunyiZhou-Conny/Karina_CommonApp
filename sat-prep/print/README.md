@@ -6,7 +6,12 @@ Math notes and exam-style questions only — no Saturday 2:00–2:30 lesson cloc
 
 **Student stats handout (copy-paste):** [`PSDA-INFERENCE-NOTES.txt`](PSDA-INFERENCE-NOTES.txt) — population / sample / inference / margin of error / experiment vs observational. Markdown twin: [`PSDA-INFERENCE-NOTES.md`](PSDA-INFERENCE-NOTES.md).
 
-**Print the current homework (5 items):** [`TARGETED-SET-07.pdf`](TARGETED-SET-07.pdf) — vertical/horizontal slope + margin of error; **no key in this file.**  
+**This week (print these, no keys in the student files):**
+- Miss review (41 official items she missed in Modules 01–06): [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf) · instructor key [`../error-log/module-miss-review-key.md`](../error-log/module-miss-review-key.md)
+- Unseen Hard PSDA (34 items not in Modules 01–08): [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf) · instructor key [`../error-log/psda-unseen-key.md`](../error-log/psda-unseen-key.md)
+- Next volume sit: Suite Hard [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-08.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/module-08.pdf)
+
+Set 07 (built, not scored): [`TARGETED-SET-07.pdf`](TARGETED-SET-07.pdf) — vertical/horizontal slope + margin of error; **no key in this file.**  
 Instructor key: [`../error-log/targeted-set-07-key.md`](../error-log/targeted-set-07-key.md)
 
 Set 06 (done, 17/20): [`TARGETED-SET-06.pdf`](TARGETED-SET-06.pdf)  
