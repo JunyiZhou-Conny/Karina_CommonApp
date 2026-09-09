@@ -3,6 +3,9 @@
 | File | Who |
 |---|---|
 | [`NOTEBOOK.md`](NOTEBOOK.md) | You — misses, knowledge gaps, what to say |
+| [`../print/SAT-MATH-MISTAKE-QUESTIONS.pdf`](../print/SAT-MATH-MISTAKE-QUESTIONS.pdf) | **Print for Karina** — 35 Bluebook miss screenshots (no key) |
+| [`SAT-MATH-MISTAKE-ANSWERS.pdf`](SAT-MATH-MISTAKE-ANSWERS.pdf) | You — answers + write-ups |
+| [`mistake-collection.md`](mistake-collection.md) | You — 35-item check sheet |
 | [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf) | **Print for Karina** — notes + 20 questions (no key in the file) |
 | [`targeted-set-06-key.md`](targeted-set-06-key.md) | You — answers + traps |
 | [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) | Set 05 (done, 9/13) |

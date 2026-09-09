@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** miss review [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf) (41 items she missed in Modules 01–06) and unseen Hard PSDA [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf) (34 items not in Modules 01–08). Next volume sit: **Module 08**. Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (10 is weaker after Set 06 #19). Paper-only leftovers: Tests 1–3. Modules 01–06 scored. Module 07 sheet not in the log — send it if she sat it. Set 07 still unused if she has not sat it.
+**Print for her:** walk the six miss-collection misses, then **Bluebook 7** (now weaker: 6 of its items are in this packet). Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (both weaker after this packet). Paper-only leftovers: Tests 1–3. Miss collection **29/35** (9/9). Miss review and unseen PSDA packs still on the desk if she has not finished them. Set 07 still unused if she has not sat it.
 
 Set 07 (ready): [`../print/TARGETED-SET-07.pdf`](../print/TARGETED-SET-07.pdf) · [`targeted-set-07-key.md`](targeted-set-07-key.md)  
 Set 06 (done, 17/20): [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf) · [`targeted-set-06-key.md`](targeted-set-06-key.md)  
@@ -59,12 +59,12 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K33** | Several tangents form a quadrilateral. Equal tangents from a point; radius \(\perp\) tangent; then Pythagorean. A monstrous length is bait. | Bluebook 6 tangent-quad; **Set 05 #11 \(2275\) and #13 \(1476\) both clean** | 🟩 Set 05 clean |
 | **K34** | Minimum (or maximum) of \(ax^2+bx+c\) is at \(x=-b/(2a)\). Do not complete the square if they asked for that \(x\). | Module 01 #20 completed the square; **Set 05 #6 wrote \(11/4\)** (still completed the square in the margin) | 🟩 answer clean |
 | **K35** | In \(F(x)=A+m(x-h)\), the printed constant \(A\) is \(F(h)\), not \(F(0)\). Set \(x=h\). | Module 02 **#13 wrote C**; **Set 06 #7 and #18 both wrote C** | 🟨 point-slope constant |
-| **K36** | Average rate of change is \(\Delta y/\Delta x\). The rise alone is not the answer. Density is mass/volume — do not box the volume leftover. | Module 02 **#8 wrote 9**; **Module 03 #7 wrote 8** (volume, not \(2.56/8=8/25\)); Module 05 **#5 wrote C** (wrong unit scale) | 🟨 leftover quotient |
+| **K36** | Average rate of change is \(\Delta y/\Delta x\). The rise alone is not the answer. Density is mass/volume — do not box the volume leftover. Finish the asked length, then **stop**. | Module 02 #8 wrote 9; Module 03 #7 wrote 8; Module 05 #5 wrote C. **Miss collection #11 wrote 19** (averaged the two \(y\)s, not \(\Delta y/\Delta x=5\)); **#23 wrote \(104\sqrt{3}\)** (asked \(k=104\)). | 🟨 leftover / wrong quotient |
 | **K37** | Volunteer website poll is not random. A random sample generalizes to the **sampling frame**, not the table subset and not “percents must add to 100.” Do not go **wider** than the frame. | Module 02 **#12 A**, **#16 C**; Set 06 #3 / #10 / #14 / #20 clean; **Module 05 #1 wrote B** (all students in the region) | 🟨 frame too wide |
 | **K38** | “Maximum sold at this price” is a **quadratic** (vertex form). Two price points do not make a line. **Minimum** is the same job with \(a>0\). | Module 02 **#7 wrote 10**; **Set 06 #5 and #17 both vertex + symmetry** | 🟩 Set 06 clean |
-| **K39** | “\(p\%\) less than \(R\)” is \(R(1-p/100)\). Then “\(q\%\) greater than cost” is a second job. | Paper Test 8 shirt; **Set 06 #1 wrote 3.6** (full chain) | 🟩 Set 06 clean |
-| **K40** | Same histogram bins: smallest \(\lvert\text{mean }A-\text{mean }B\rvert\) is \(0\). Largest is \(9\) (integers inside a width-\(10\) half-open bin). | Unused Test 10 / 2 job; **Set 06 #8 wrote 0; #19 wrote 9** | 🟩 Set 06 clean |
-| **K41** | Equilateral side \(s=P/3\), height \(\frac{s\sqrt{3}}{2}=k\sqrt{3}\Rightarrow k=s/2\). | **Set 06 #4 wrote 78** | 🟩 Set 06 clean |
+| **K39** | “\(p\%\) less than \(R\)” is \(R(1-p/100)\). Then “\(q\%\) greater than cost” is a second job. Do not invert which number is the sale. | Paper Test 8 shirt; Set 06 #1 wrote 3.6; **miss collection #21 wrote 45** (inverted the 80% off, leftover 58.5 then 45) | 🟨 chain / which number |
+| **K40** | Same histogram bins: smallest \(\lvert\text{mean }A-\text{mean }B\rvert\) can be \(0\) or \(1\) depending on the counts. Largest is \(9\) (integers inside a width-\(10\) half-open bin). | Set 06 #8 wrote 0; #19 wrote 9; **miss collection #24 wrote A** (Test 8: smallest mean gap is **1**) | 🟨 Test 8 “smallest = 1” |
+| **K41** | Equilateral side \(s=P/3\), height \(\frac{s\sqrt{3}}{2}=k\sqrt{3}\Rightarrow k=s/2\). Do not box the leftover \(\sqrt{3}\). | Set 06 #4 wrote 78; **miss collection #23 wrote \(104\sqrt{3}\)** (asked 104) | 🟨 \(k\) leftover |
 | **K42** | Isosceles right: altitude to the hypotenuse is \(s/\sqrt{2}\). Do not name \(45^\circ\). | **Set 06 #13 wrote 10** | 🟩 Set 06 clean |
 | **K43** | \((x+2b)\) is a factor iff \(x=-2b\) makes the quadratic \(0\). \(b\) must be a positive integer. | **Set 06 #12 wrote D** (\(10+6b\)) | 🟩 Set 06 clean |
 | **K44** | Sphere \(V=\frac{4}{3}\pi r^3\). Use the reference page. | Paper Test 8 cube-minus-sphere style; **Set 06 #9 wrote 288** | 🟩 Set 06 clean |
@@ -690,6 +690,27 @@ No new sit. Reprint only.
 
 Rebuild both packs: `python3 sat-prep/official/suitebank/SAT-Math-Hard-exclude-active/modules/build_review_packs.py`.
 
+### 2026-09-09 — Bluebook miss collection
+
+Sheets titled “SAT MATH Mistake Collection.” Packet: [`../print/SAT-MATH-MISTAKE-QUESTIONS.pdf`](../print/SAT-MATH-MISTAKE-QUESTIONS.pdf). Key: [`mistake-collection.md`](mistake-collection.md).
+
+**29/35.** Six still wrong. Tests **4 / 6 / 9 / 10** in this packet are all clean. Test **8** still 5/8. Extra #35 blank.
+
+| # | Source | She wrote | Official | One-line why | Gaps |
+|---|---|---|---|---|---|
+| **11** | T7 Q15 | 19 | **5** | Averaged the two \(y\)s: \((14+24)/2=19\). Rate is \(\Delta y/\Delta x=10/2=5\). | K36 |
+| **14** | T7 Q20 | D | **B** | Same line (infinitely many). B is a point on that line. | K11 |
+| **21** | T8 Q16 | 45 | **1.80** | Inverted the 80% off: treated 11.70 as the sale, got 58.5 then 45. Sale \(=11.70\times 0.20=2.34\), cost \(=2.34/1.30=1.80\). | K39 |
+| **23** | T8 Q20 | \(104\sqrt{3}\) | **104** | Height is \(104\sqrt{3}\). They asked \(k\). | K41 |
+| **24** | T8 Q21 | A ★ | **B** (1) | Same-bin histograms; smallest \(\lvert\text{mean }A-\text{mean }B\rvert\) is **1**. Circled. | K40 |
+| **35** | Extra | blank | **59** | Last page; sum of the three roots is the printed \(k\). | blank |
+
+By test: T4 **4/4**, T6 **6/6**, T7 **4/6**, T8 **5/8**, T9 **6/6**, T10 **4/4**, Extra **0/1**.
+
+Landed (do not restack): the other 29, including all four original Bluebook 4 misses and all six Bluebook 6 misses.
+
+She has now seen the six Test 7 items and four Test 10 items in this packet. A later full Bluebook 7 / 10 sit is weaker on those numbers.
+
 ### 2026-08-28 / 08-29 — Bluebook Practice Test 6 Math
 
 **Score:** Module 1 **21/22**, Module 2 **17/22** → raw **38/44**. In-app Math **710**. Second real 44-question adaptive sit. Do **not** convert with paper tables.
@@ -739,12 +760,10 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Suite Hard: Module 01 **17/22**, 02 **13/22**, 03 **15/22**, 04 **15/22**, 05 **15/22**, 06 **16/22**. Set 05 **9/13.** Set 06 **17/20.** Set 07 built, not scored.
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Suite Hard: Module 01 **17/22**, 02 **13/22**, 03 **15/22**, 04 **15/22**, 05 **15/22**, 06 **16/22**. Set 05 **9/13.** Set 06 **17/20.** Set 07 built, not scored. Miss collection **29/35**.
 
-This week: reprint the **41 misses** from Modules 01–06, then the **34 unseen Hard PSDA** (Modules 01–08 stripped out). Next volume sit: **Module 08**. If she sits a full Bluebook: **Practice Test 7**. Module 07 is not in the miss packet — no sheet logged. Send it if she already sat it.
+Walk only the six misses: **rate not average of \(y\)s** (#11), **same-line point** (#14), **percent chain / which number** (#21), **\(k\) not \(k\sqrt{3}\)** (#23), **histogram smallest gap = 1** (#24), **extra blank 59** (#35). Then **Bluebook 7** (six of its items already in this packet).
 
-Walk on the miss packet, not a new mixed grind: **MoE** (Module 03 #15, Module 06 #11 / #15), **sampling frame** (Module 05 #1 too wide), **don’t box the leftover** (Module 03 #7 wrote 8 not \(8/25\); Module 05 #7 wrote 9 not \(0.09\); Module 06 #20 wrote 18 not 13), **\(F(h)\) not \(F(0)\)** (Set 06 #7 / #18), **sign of \(b\)** (Set 06 #2), **⊥ to vertical is slope 0** (Module 03 #16), **double root is one pair** (Module 03 #18), **asked \(x+6\)** (Module 03 #19).
+Do **not** restack the 29 she landed, including all of Tests 4 / 6 / 9 / 10 in this packet. Do **not** start Modules 09–16 as a full grind.
 
-Do **not** restack Set 06 clean families, or Module 03 similar-triangle / \(k^2\) / weighted-mean / adding-rationals hits. Do **not** start Modules 09–16 as a full grind.
-
-Leftover **full** official Bluebook simulations: **7** and **10** only — Set 06 #19 uses the Test 10 histogram **counts**, so Test 10 is weaker if she sits it later. Paper 1–3 leftover. Suite Hard leftover after Module 08: **09–16**. Still open: K16, K22, K23, K24, K3 hide-\(k\), Set 05 cubic \(c\) / printed constant / factored \(a\), **K7** inverted, **K35**, **K36** leftover quotient, **K46** sign of \(b\), **K48–K51**.
+Leftover **full** official Bluebook simulations: **7** and **10** only — both weaker after this packet. Paper 1–3 leftover. Still open: K11 same-line point, **K36** leftover, **K39** percent chain, **K40** Test 8 histogram 1, **K41** \(k\) leftover, K16, K22, K23, K24, K3 hide-\(k\), Set 05 cubic \(c\) / printed constant / factored \(a\), K35, K46, K48–K51.
