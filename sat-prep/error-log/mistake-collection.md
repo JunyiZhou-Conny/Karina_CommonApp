@@ -54,3 +54,20 @@ Cover + 35 questions (36 pages). Grouped by Practice Test. Same item number on t
 | 35 | Extra | — | Advanced Math | **59** |
 
 Test 4 / 6 / 8 counts match the logged Bluebook sits (4 + 6 + 8 wrong). Test 8 item numbers were previously TBD on [`TEST-8-REPORT.md`](TEST-8-REPORT.md).
+
+---
+
+## 2026-09-09 sit — **29/35**
+
+Sheets titled “SAT MATH Mistake Collection.”
+
+| # | She wrote | Official | Count |
+|---|---|---|---|
+| 11 | 19 | **5** | wrong |
+| 14 | D | **B** | wrong |
+| 21 | 45 | **1.80** | wrong |
+| 23 | \(104\sqrt{3}\) | **104** | wrong |
+| 24 | A | **B** | wrong |
+| 35 | blank | **59** | wrong |
+
+The other 29 landed. By test: T4 4/4, T6 6/6, T7 4/6, T8 5/8, T9 6/6, T10 4/4, Extra 0/1.
