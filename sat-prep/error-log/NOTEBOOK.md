@@ -4,7 +4,7 @@ Living instructor log. After each session, add what she actually missed. Next pr
 
 **Why this exists:** The desk-packet Math Notes list skills one at a time (circle formula, percent change, perpendicular = negative reciprocal). The items she is falling on **stitch those skills together**. Isolated notes are not enough.
 
-**Print for her:** walk the six miss-review misses and the two unseen-PSDA misses, then **Bluebook 7**. Optional extra volume: Module 09 (or 07 if she never sat it). Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (10 is weaker after Set 06 #19). Paper-only leftovers: Tests 1–3. Miss review **35/41** (9/8). Unseen PSDA **#17–#34 = 16/18** (1–16 not on the sheet). Module 08 **17/22**. Module 07 sheet not in the log. Set 07 still unused if she has not sat it.
+**Print for her:** walk the two still-wrong miss-review items (**#35** similar only II, **#38** odd multiple of \(\pi\)) plus the blue “还不懂” confidence items, then **Bluebook 7**. Optional extra volume: Module 09 (or 07 if she never sat it). Do **not** re-sit 4 / 5 / 6 / 8 / 9 / 11. Leftover **full** official Bluebook simulations: **7** and **10** only (10 is weaker after Set 06 #19). Paper-only leftovers: Tests 1–3. Miss review **39/41** after the 9/9 blue corrections (first sit 35/41 on 9/8). Unseen PSDA **#17–#34 = 16/18** (1–16 not on the sheet). Module 08 **17/22**. Module 07 sheet not in the log. Set 07 still unused if she has not sat it.
 
 Set 07 (ready): [`../print/TARGETED-SET-07.pdf`](../print/TARGETED-SET-07.pdf) · [`targeted-set-07-key.md`](targeted-set-07-key.md)  
 Set 06 (done, 17/20): [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf) · [`targeted-set-06-key.md`](targeted-set-06-key.md)  
@@ -59,7 +59,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K33** | Several tangents form a quadrilateral. Equal tangents from a point; radius \(\perp\) tangent; then Pythagorean. A monstrous length is bait. | Bluebook 6 tangent-quad; **Set 05 #11 \(2275\) and #13 \(1476\) both clean** | 🟩 Set 05 clean |
 | **K34** | Minimum (or maximum) of \(ax^2+bx+c\) is at \(x=-b/(2a)\). Do not complete the square if they asked for that \(x\). | Module 01 #20 completed the square; **Set 05 #6 wrote \(11/4\)** (still completed the square in the margin) | 🟩 answer clean |
 | **K35** | In \(F(x)=A+m(x-h)\), the printed constant \(A\) is \(F(h)\), not \(F(0)\). Set \(x=h\). | Module 02 **#13 wrote C**; Set 06 #7 and #18 both wrote C; **miss review #11 wrote D** | 🟩 redo clean |
-| **K36** | Average rate of change is \(\Delta y/\Delta x\). The rise alone is not the answer. Density is mass/volume — do not box the volume leftover. Finish the asked length, then **stop**. | Module 02 #8 wrote 9; Module 03 #7 wrote 8; Module 05 #5 wrote C; Module 08 #2 boxed \(12/23\); **miss review #3 wrote 46** (asked 38), **#9 wrote \(21/3\)** (asked \(9/2\)), **#33 wrote 0.9** (asked 0.09). Review #15 \(0.32\) and #41 13 landed. | 🟨 leftover / extra step |
+| **K36** | Average rate of change is \(\Delta y/\Delta x\). The rise alone is not the answer. Density is mass/volume — do not box the volume leftover. Finish the asked length, then **stop**. | Module 02 #8 wrote 9; Module 03 #7 wrote 8; Module 05 #5 wrote C; Module 08 #2 boxed \(12/23\). Miss review first sit: #3 46, #9 \(21/3\), #33 0.9. **9/9 blue redo: #3 → 38, #9 → \(9/2\), #33 → 0.09** (all three still circled — walk why, do not restack). Review #15 \(0.32\) and #41 13 landed. | 🟨 leftover habit; review items now correct |
 | **K37** | Volunteer website poll is not random. A random sample generalizes to the **sampling frame**, not the table subset and not “percents must add to 100.” Do not go **wider** than the frame. | Module 02 #12 / #16; Module 05 #1; Module 08 #11. Miss review #10 / #12 / #29 landed (29 still circled). **Unseen PSDA #21 wrote C** (whole city, not that school) | 🟨 frame too wide |
 | **K38** | “Maximum sold at this price” is a **quadratic** (vertex form). Two price points do not make a line. **Minimum** is the same job with \(a>0\). | Module 02 **#7 wrote 10**; **Set 06 #5 and #17 both vertex + symmetry** | 🟩 Set 06 clean |
 | **K39** | “\(p\%\) less than \(R\)” is \(R(1-p/100)\). Then “\(q\%\) greater than cost” is a second job. | Paper Test 8 shirt; **Set 06 #1 wrote 3.6** (full chain) | 🟩 Set 06 clean |
@@ -73,7 +73,7 @@ Do **not** assign more easy Algebra, isolated center/radius circle lookups, or o
 | **K47** | \(f(x)=A(r)^x\) with \(0<r<1\): \(p\%\) less than the previous value is \(100(1-r)\), not \(100r\). | Module 02 #20 wrote 19; **Set 06 #15 wrote D** (\(1-0.28=0.72\)) | 🟩 Set 06 clean |
 | **K48** | Larger sample \(\Rightarrow\) **smaller** margin of error. Sample \(\%\pm\) MoE is a range; a value outside that range is doubtful. Not the percent in favor. | Module 03 #15 / Module 06 #11 / #15 missed. **Miss review #17 / #37 / #39 all D.** Student handout: [`../print/PSDA-INFERENCE-NOTES.txt`](../print/PSDA-INFERENCE-NOTES.txt) | 🟩 redo clean |
 | **K49** | Arc as a fraction of the circumference is \(\text{arc}/(2\pi r)\). Do not divide by the disk area \(\pi r^2\). | Module 03 #9 wrote \(1/3\); **miss review #16 wrote \(1/6\)** (circled) | 🟩 redo clean |
-| **K50** | A double root / tangent line is **one** solution, not two. \((x-1)^2=0\) still gives one ordered pair. | Module 03 #18 wrote B; **miss review #19 wrote B again** | 🟨 multiplicity |
+| **K50** | A double root / tangent line is **one** solution, not two. \((x-1)^2=0\) still gives one ordered pair. | Module 03 #18 wrote B; miss review first sit wrote B again; **9/9 blue → C** (still circled — she can factor, not yet why one pair) | 🟨 multiplicity (letter now right) |
 | **K51** | Read the asked expression. If \(\frac{x+6}{3}=\frac{x+6}{13}\), then \(x+6=0\), not the interval around \(x=-6\). | Module 03 #19 wrote A; **miss review #20 wrote B** | 🟩 redo clean |
 
 When a gap is clean in a later session, change 🟨 to ✅ and **stop drilling it**. 🟩 = landed on Targeted Set 01; confirm once on an official sit, then retire.
@@ -708,7 +708,7 @@ Rebuild both packs: `python3 sat-prep/official/suitebank/SAT-Math-Hard-exclude-a
 
 Sheets titled “Miss-Review -01-06 9/8” (review #1–#41) and a second page numbered 17–34 (unseen PSDA). Circled = she did not feel comfortable, even when the letter landed.
 
-**Miss review: 35/41.** Six still wrong. Original sits on these 41 were 0/41; this is a real recovery.
+**Miss review first sit: 35/41.** Six still wrong. Original sits on these 41 were 0/41. She corrected four of the six in blue on 9/9 — see the next block. First-sit wrongs:
 
 | Review # | Source | She wrote | Official | One-line why | Gaps |
 |---|---|---|---|---|---|
@@ -719,9 +719,9 @@ Sheets titled “Miss-Review -01-06 9/8” (review #1–#41) and a second page n
 | **35** | M05 #16 | blank ★ | **B** | Similar / parallel: only II. Starred, no letter. | similar |
 | **38** | M06 #12 | C | **D** | Same unit-circle / opposite-sides item. Circled. | radians |
 
-Landed (do not restack): the other 35, including MoE #17 / #37 / #39, frame #10 / #12 / #29, \(F(h)\) #11, ⊥-to-vertical #18, arc \(1/6\) #16, density \(0.32\) #15, \(k=8\) #26, \(81/4\) #28 (sign fixed), \(31/2\) #31, \(-49/150\) #40, length 13 #41.
+Landed on the first sit (do not restack): the other 35, including MoE #17 / #37 / #39, frame #10 / #12 / #29, \(F(h)\) #11, ⊥-to-vertical #18, arc \(1/6\) #16, density \(0.32\) #15, \(k=8\) #26, \(81/4\) #28 (sign fixed), \(31/2\) #31, \(-49/150\) #40, length 13 #41.
 
-Circled but **correct** (walk confidence, not a new packet): **#10, #13, #14, #15, #16, #29, #32**.
+First-sit circled but **correct** (walk confidence, not a new packet): **#10, #13, #14, #15, #16, #29, #32**.
 
 **Unseen PSDA #17–#34: 16/18.** Items 1–16 were not on these pages.
 
@@ -731,6 +731,27 @@ Circled but **correct** (walk confidence, not a new packet): **#10, #13, #14, #1
 | **22** | \(2/3\) | **\(2/5\)** | Conditional: thin crust **given** pepperoni. \(2/3\) is the wrong slice. | given |
 
 #17 B, #18 0.54, #19 42, #20 D, #23 A, #24 C, #25 9.87, #26 C, #27 B, #28 B, #29 C, #30 B, #31 0.0014, #32 D, #33 C, #34 A landed. Circled on this page: **#26, #32** (both correct).
+
+### 2026-09-09 — Miss review blue corrections
+
+Same 9/8 sheets, blue ink. WeChat: 「我蓝色圈出来的还是不太懂的」.
+
+**After corrections: 39/41.** Four first-sit misses are now right. Only **#35** (still blank ★) and **#38** (still C) are wrong.
+
+| Review # | Mark | After blue | Official | Count as | Notes |
+|---|---|---|---|---|---|
+| **3** | blue circle | **38** (was 46) | **38** | correct | Work: \(x=30\), asked length \(x+8=38\). |
+| **9** | blue circle | **\(9/2\)** (was \(21/3\)) | **\(9/2\)** | correct | Wrote \(\frac{15-6}{2}\). |
+| **19** | blue circle | **C** (was B) | **C** | correct | Has \((x-1)^2=0\); still circled. |
+| **21** | blue box | \(b=-419\) | **−419** | correct | FOIL linear term; wants the why. |
+| **22** | blue box | B | **B** | correct | Two frequency tables; mean of R greater. |
+| **29** | pencil circle | C | **C** | correct | Frame; confidence only. |
+| **32** | pencil circle | D | **D** | correct | mm/month → years; confidence only. |
+| **33** | blue circle | **0.09** (was 0.9) | **0.09** | correct | \((x+a)^2\); decimal still shaky. |
+| **35** | blue circle ★ | blank | **B** | **still wrong** | Similar / parallel: only II. |
+| **38** | blue circle | C | **D** | **still wrong** | Odd multiple of \(\pi\). C is the wrong multiple. |
+
+Do **not** restack the 39 she now has right, including the four she just fixed. Walk the blue “还不懂” items at the desk. Next full simulation is still **Bluebook 7**.
 
 ### 2026-08-28 / 08-29 — Bluebook Practice Test 6 Math
 
@@ -781,10 +802,10 @@ Her selected choices were not in the screenshots. Official stems stay in Blueboo
 
 ## Next sitting
 
-Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Suite Hard: 01 **17/22**, 02 **13/22**, 03 **15/22**, 04 **15/22**, 05 **15/22**, 06 **16/22**, 08 **17/22**. Miss review **35/41**. Unseen PSDA 17–34 **16/18**. Set 05 **9/13.** Set 06 **17/20.** Set 07 built, not scored.
+Bluebook 4 is locked: **22/22 + 18/22 → 770**. Bluebook 6 is locked: **21/22 + 17/22 → 710**. Bluebook 8 is locked: **36/44 → 690**. Suite Hard: 01 **17/22**, 02 **13/22**, 03 **15/22**, 04 **15/22**, 05 **15/22**, 06 **16/22**, 08 **17/22**. Miss review **39/41** (9/8 first sit 35/41; 9/9 blue redo). Unseen PSDA 17–34 **16/18**. Set 05 **9/13.** Set 06 **17/20.** Set 07 built, not scored.
 
-Walk only what is still wrong: **leftover / extra step** (review #3 46 not 38, #9 \(21/3\) not \(9/2\), #33 0.9 not 0.09), **double root is one pair** (review #19), **similar blank** (review #35), **radians / opposite sides** (review #38), **frame too wide** (PSDA #21), **conditional given** (PSDA #22). Then **Bluebook 7**. Send unseen PSDA 1–16 if she sat them.
+Walk only what is still wrong or still circled: **similar only II** (review #35 blank), **odd multiple of \(\pi\)** (review #38 still C), then the blue confidence items (#3 / #9 leftover stop, #19 one pair, #21 FOIL \(b\), #22 frequency mean, #33 \(a=0.09\)). Unseen leftovers: **frame too wide** (PSDA #21), **conditional given** (PSDA #22). Then **Bluebook 7**. Send unseen PSDA 1–16 if she sat them.
 
-Do **not** restack MoE, \(F(h)\), ⊥-to-vertical, arc/\(2\pi r\), or the 35 review items and 16 PSDA items she landed. Do **not** start Modules 09–16 as a full grind.
+Do **not** restack MoE, \(F(h)\), ⊥-to-vertical, arc/\(2\pi r\), or the 39 review items and 16 PSDA items she landed. Do **not** start Modules 09–16 as a full grind.
 
-Leftover **full** official Bluebook simulations: **7** and **10** only. Paper 1–3 leftover. Suite Hard leftover: **07** (no sheet), **09–16**. Still open: K16, K22, K23, K24, K3 hide-\(k\), Set 05 cubic \(c\) / printed constant / factored \(a\), **K36** leftover, **K37** frame, **K46** sign of \(b\), **K50** multiplicity.
+Leftover **full** official Bluebook simulations: **7** and **10** only. Paper 1–3 leftover. Suite Hard leftover: **07** (no sheet), **09–16**. Still open: K16, K22, K23, K24, K3 hide-\(k\), Set 05 cubic \(c\) / printed constant / factored \(a\), **K36** leftover habit, **K37** frame, **K46** sign of \(b\), **K50** multiplicity, **#35** similar I/II/III, **#38** radians.
