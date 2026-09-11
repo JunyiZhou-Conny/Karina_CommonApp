@@ -2,4 +2,5 @@
 .sheet-*.pdf
 .cover-*.pdf
 .stamp-*.pdf
+.originals-*.pdf
 __pycache__/

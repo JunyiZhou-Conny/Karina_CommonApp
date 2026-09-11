@@ -28,12 +28,14 @@ A 5/5/6/6 split is not possible: PSDA only has **66** Hard items (that split wou
 
 ## Last-week packs (not extra modules)
 
-Rebuild: `python3 build_review_packs.py`
+Rebuild: `python3 build_review_packs.py`  
+Frame + one-variable pack: `python3 build_psda_frame_data.py`
 
 | Pack | Items | Student PDF | Key |
 |---|---|---|---|
 | Miss review (Modules 01–06 wrongs only) | 41 | [miss-review-01-06.pdf](student/miss-review-01-06.pdf) | [key](keys/miss-review-01-06-key.md) |
 | Unseen Hard PSDA (not in Modules 01–08) | 34 | [psda-unseen.pdf](student/psda-unseen.pdf) | [key](keys/psda-unseen-key.md) |
+| Frame + one-variable data (skill filter + originals) | 41 | [../../../print/PSDA-FRAME-DATA-QUESTIONS.pdf](../../../print/PSDA-FRAME-DATA-QUESTIONS.pdf) | [key](keys/psda-frame-data-key.md) |
 
 Module 01 #20 is omitted (she landed). Module 07 is omitted from the miss pack (no score sheet). The PSDA pack drops the 32 Hard PSDA items already used in Modules 01–08 so she does not redo a sit or the next assigned volume.
 

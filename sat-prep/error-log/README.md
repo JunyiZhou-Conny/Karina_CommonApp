@@ -3,6 +3,9 @@
 | File | Who |
 |---|---|
 | [`NOTEBOOK.md`](NOTEBOOK.md) | You — misses, knowledge gaps, what to say |
+| [`../print/PSDA-FRAME-DATA-QUESTIONS.pdf`](../print/PSDA-FRAME-DATA-QUESTIONS.pdf) | **Print for Karina** — 41 frame + frequency/two-set items (no key) |
+| [`PSDA-FRAME-DATA-ANSWERS.pdf`](PSDA-FRAME-DATA-ANSWERS.pdf) | You — answers + official rationales |
+| [`psda-frame-data-key.md`](psda-frame-data-key.md) | You — 41-row check sheet |
 | [`../print/TARGETED-SET-06.pdf`](../print/TARGETED-SET-06.pdf) | **Print for Karina** — notes + 20 questions (no key in the file) |
 | [`targeted-set-06-key.md`](targeted-set-06-key.md) | You — answers + traps |
 | [`../print/TARGETED-SET-05.pdf`](../print/TARGETED-SET-05.pdf) | Set 05 (done, 9/13) |

@@ -6,6 +6,8 @@ Math notes and exam-style questions only — no Saturday 2:00–2:30 lesson cloc
 
 **Student stats handout (copy-paste):** [`PSDA-INFERENCE-NOTES.txt`](PSDA-INFERENCE-NOTES.txt) — population / sample / inference / margin of error / experiment vs observational. Markdown twin: [`PSDA-INFERENCE-NOTES.md`](PSDA-INFERENCE-NOTES.md).
 
+**PSDA frame + one-variable drill (41 items, no key):** [`PSDA-FRAME-DATA-QUESTIONS.pdf`](PSDA-FRAME-DATA-QUESTIONS.pdf) — official Hard “generalize / MoE / experiment” + frequency / box plot / two data sets, plus repo originals. Instructor answers [`../error-log/PSDA-FRAME-DATA-ANSWERS.pdf`](../error-log/PSDA-FRAME-DATA-ANSWERS.pdf) · check sheet [`../error-log/psda-frame-data-key.md`](../error-log/psda-frame-data-key.md).
+
 **This week (print these, no keys in the student files):**
 - Miss review (41 official items she missed in Modules 01–06): [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/miss-review-01-06.pdf) · instructor key [`../error-log/module-miss-review-key.md`](../error-log/module-miss-review-key.md)
 - Unseen Hard PSDA (34 items not in Modules 01–08): [`../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf`](../official/suitebank/SAT-Math-Hard-exclude-active/modules/student/psda-unseen.pdf) · instructor key [`../error-log/psda-unseen-key.md`](../error-log/psda-unseen-key.md)
