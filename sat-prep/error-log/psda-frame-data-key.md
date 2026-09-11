@@ -66,3 +66,13 @@ Official items are the Hard exclude-active PSDA bank, skill-tagged
 The leftover Hard PSDA skills (percent, ratio, probability, two-variable
 scatter, units) are **not** in this pack. Full 66-item bank is still
 [`../student/SAT-Math-Hard-PSDA-66.pdf`](../student/SAT-Math-Hard-PSDA-66.pdf).
+
+---
+
+## 2026-09-11 sit — **40/41**
+
+| # | She wrote | Official | Count |
+|---|---|---|---|
+| 37 | B | **A** | wrong |
+
+The other 40 landed. Family A 21/21. Family B 19/20. #29 marked “?” but B is right.
